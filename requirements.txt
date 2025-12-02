@@ -1,1 +1,3 @@
-langchain_text_splitters
+numpy
+sentence-transformers
+langchain-text-splitters
