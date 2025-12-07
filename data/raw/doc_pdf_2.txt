@@ -1,0 +1,1205 @@
+FRAUNHOFER INSTITUTE FOR SYSTEMS AND INNOVATION RESEARCH ISI
+Technology sovereignty 
+From demand to concept 
+MF  |  1
+
+ 
+Technology sovereignty 
+From demand to concept
+Authors  
+Jakob Edler, Knut Blind, Rainer Frietsch, Simone Kimpeler, Henning Kroll,  
+Christian Lerch, Thomas Reiss, Florian Roth, Torben Schubert, Johanna Schuler,  
+Rainer Walz
+Karlsruhe, Germany, July 2020 
+ 
+www.isi.fraunhofer.deEXECUTIVE SUMMARY
+Background and motivation
+Calls for technology sovereignty in Europe were becoming louder even before the 
+current Corona crisis. Growing geopolitical uncertainties and the threat of global 
+trade conflicts are questioning the optimism of recent decades concerning the 
+interdependence of our economies. In Germany, this is triggering a discussion 
+about how independent a state or a federation of states must and can be with 
+regard to critical technologies. It becomes clear that there is an increasing conflict 
+between the call for technology sovereignty on the one hand, and the dominant 
+economic model on the other, in which global specialization and the division of 
+labor combined with open trade increases the welfare of all. Germany, in particu -
+lar, as an export nation, and the EU as an economic area must consider the ques -
+tion of technology sovereignty carefully and in a differentiated manner.   
+We present one conception of technology sovereignty in this position paper.    
+Our intention is to enrich the current debate and improve differentiation. We 
+develop the criteria and key analytical steps needed to determine the criticality 
+of technologies and the degree of technology sovereignty. Building on this, we 
+develop modified strategies to safeguard or to produce technology sovereignty.
+ 
+2  |  3What is technology sovereignty?
+We define technology sovereignty as the ability of a state or a federation of  
+states to provide the technologies it deems critical for its welfare, competitive -
+ness, and ability to act, and to be able to develop these or source them from 
+other eco nomic areas without one-sided structural dependency.
+Our definition of technology sovereignty therefore does not imply comprehensive 
+technology autarky that questions the international division of labor and global -
+ization and aims at providing every technology classified as critical. Primarily, it 
+describes preserving options by developing and maintaining own capabilities and 
+avoiding one-sided dependencies. Technology sovereignty is therefore a neces -
+sary, but by no means sufficient condition for the self-determined creation and 
+diffusion of critical innovations (innovation sovereignty) and therefore for self-  
+determined economic trade (economic sovereignty). It is insufficient to focus on 
+technology sovereignty alone. 
+ 
+www.isi.fraunhofer.de
+How do we determine whether  
+technology sovereignty exists and 
+whether we should pursue it?
+Analytical steps
+While from the viewpoint of the state, the aim is often to 
+achieve technological competitiveness  in as many areas as 
+possible, we propose a more differentiated and selective 
+approach to determining whether sovereignty exists or is 
+indeed required for a specific technology:
+ The first step is to analyze whether a technology is 
+currently critical , meaning indispensable (or will be critical 
+in future) and why, and to what extent access to it could 
+be threatened by external shocks. 
+ The second step is to differentiate precisely in which 
+functional  context  a technology is critical. Here, we 
+distinguish between a technology’s contribution to 
+economic competitiveness , its contribution to meeting key 
+societal needs  such as healthcare, for example, or energy 
+supply, and to sovereign tasks . This distinction is import -
+ant because it determines whether and for what precisely 
+a particular technology is absolutely indispensable, and 
+whether there may be functional substitutes that elimi -
+nate dependence on a specific technology.  The third step is to define the appropriate spatial-political 
+system boundaries  within which technology sovereignty 
+should be achieved. The degree of economic and political 
+interdependence determines the security of supply  as 
+well as the degree of dependency on actors outside the 
+system. For Germany, this frame of reference should in 
+principle  be the EU in view of the manifold existing 
+economic, institutional, and political interdependencies. 
+ In the final step, we consider the factors needed to 
+produce technology sovereignty . We distinguish here 
+between:
+ already existing own  competencies and resources or 
+the possibility to develop  the necessary competencies 
+and resources ourselves if needed, and 
+ access  to resources, competencies, and upstream 
+services of third parties ( security of supply ). 
+Constraints on technology sovereignty are to be feared if 
+there is no security of supply from third parties for those 
+ 
+4  |  5critical resources or competencies that a state or a federation 
+of states cannot provide or develop itself.
+The joint analysis of these dimensions can determine the 
+current and the desirable degree of technology sovereignty in a given situation and, where needed, strategies can be 
+developed to preserve or to generate technology sovereignty. 
+A systemic perspective must always be taken here in order to 
+comprehensively assess and develop both resilience to shocks 
+and adaptability in a dynamic global environment.
+Methods and data sources
+A series of analytical steps are needed to develop strategies 
+to preserve or produce technology sovereignty. Our position 
+paper presents various methods and data sources for these 
+steps. To gain a better understanding of our own compe -
+tencies and resources , the methods range from patent and 
+publication analyses through analyses of standardization 
+activities to trade statistics grouped and analyzed by tech -
+nology. Concerning the  dependence on other countries  or 
+access to the resources and competencies of other countries, 
+the analyses include data sources such as technology-specific trade statistics, complexity indices to identify value chains, 
+and information about the governance behavior of countries 
+based, for instance, on WTO compliance analyses or the 
+World Governance index. 
+We use two case examples in our position paper – 5G tech -
+nologies, and Industry 4.0 / robotics – to illustrate how the 
+concept can be applied and used to define modified strate -
+gies that go beyond the current debate.
+ 
+www.isi.fraunhofer.de
+How can technology sovereignty be 
+produced and preserved?
+Strategic recommendations
+The position paper’s first general recommended strategy is to 
+provide the competencies  for the complex analysis to deter -
+mine the necessity of technology sovereignty and to develop 
+the necessary methods . This is a prerequisite to developing 
+modified strategies to produce and preserve technology 
+sovereignty. It must remain clear at all times that technology 
+sovereignty is a necessary, but not sufficient condition for 
+innovations  which ensure economic competitiveness and 
+that society’s needs are met. The consideration of technology 
+sovereignty must supplement and cannot replace what is 
+required of a future-oriented innovation policy.
+The concrete recommended strategies comprise a number of 
+actions:
+ Sufficiently broad investments in research and develop -
+ment  are the basic prerequisite for establishing sover -
+eignty in critical technologies now and in the future. Any 
+reduction of existing R&D competencies that are currently 
+used or could easily be mobilized in areas where there is a 
+threat of dependence on third parties should be avoided.  International research cooperation and technology 
+partnerships  are an important instrument for mobilizing 
+complementary competencies and achieving technology 
+interdependence with other selected countries by means 
+of knowledge interdependencies, thus reducing one-sided 
+dependency on third parties.  
+ Actively  influencing standards  to direct international 
+markets towards our own technologies as well as patent 
+pools or Open Source software and hardware which pre -
+vent monopolization and thus structural dependencies. 
+ Creating  regulatory framework conditions  in critical tech -
+nology fields that  foster innovation and production . 
+ Promoting  innovation-oriented procurement that pro -
+vides our own companies with the necessary incentives to 
+invest in critical technologies. 
+ Strengthening international organizations such as the 
+WTO to ensure compliance with agreed multilateral  
+ 
+6  |  7regulations as much as possible despite global trade 
+conflicts. This is important since, in addition to the single 
+European market, free world trade with its strong compe -
+tition incentives remains an important boundary condition 
+for technology sovereignty.
+The concept of technology sovereignty is also congruent with 
+increased investment in the resilience of the EU’s economic 
+and social systems so that these can recover rapidly from 
+shocks and disruptions, and adapt quickly to changing con -
+texts. This is an important cornerstone of any consideration 
+of future-proof technology sovereignty. The EU states already 
+have the right prerequisites for this as their economies are strongly oriented towards open competition, and their societ -
+ies are influenced by subsidiarity and, above all, are demo -
+cratically organized. All this means the EU’s ability to adapt 
+is fed by a diverse pool of economic, political, scientific, and 
+civil society resources. Fostering the broadest possible basis 
+of competencies and capacities in critical technology fields is 
+an important element in lowering the vulnerability of the EU 
+to potential disruptions and shocks – especially in times of 
+increasing global uncertainty. In line with a systemic approach 
+to resilience, key technological abilities should therefore be 
+promoted, innovation networks built, and experimental learn -
+ing enabled, for example, in regulatory sandboxes.
+ 
+
+ 
+8  |  9Introduction  
+During the course of the coronavirus crisis, it has been increasingly pointed out 
+that a country needs to be able to provide its population with essential supplies 
+using its own domestic capacities in order to avoid dependencies on other coun -
+tries. It is argued that, in the event of a crisis, states or federations of states must 
+be able to provide or produce in their own countries the infrastructures, services 
+and products, e.g. medicines, needed for society and the economy and for carry -
+ing out their own public tasks, and must have the appropriate technologies and 
+sufficient research capacities for innovative solutions.  
+This aspiration is linked to a demand that was already 
+experiencing a renaissance in the EU and in Germany even before the corona crisis, namely to actively expand one’s own 
+technology sovereignty. 
+We define technology sovereignty as the ability of a state or a federation of  
+states to provide the technologies it deems critical for welfare, competitiveness, 
+and its ability to act, and to be able to develop these or source them from other 
+economic areas without one-sided structural dependency.
+The discussion about technology sovereignty at European lev -
+el is determining the debate both in terms of the priorities in 
+the new Framework Programme, as well as European industry 
+and digital strategies. In addition, it forms a key component 
+of the discussion on how to overcome the corona crisis in  
+Europe.1 Federal Minister for Economic Affairs and Energy 
+Peter Altmaier and industry associations2 have put technology 
+sovereignty (back) on the agenda in the context of Germany’s 
+industrial strategy as well. At present, the most intensive dis -
+cussions about sovereignty are taking place in the technology 
+fields of vaccine development, 5G technology infrastructure, 
+and artificial intelligence.3 These are considered critical tech -
+nologies that not only generate huge markets for themselves 
+worldwide, but also act as key technologies for almost all 
+industrial and service sectors. They are pivotal to fulfilling sov -
+ereign tasks in terms of providing public services such as civil 
+security, healthcare, energy, and transport infrastructures. In 
+view of the current coronavirus pandemic, this also concerns 
+mobilizing sufficient research capacities and generating tech -
+nologies at home, in order to be able to contain the spread and impacts of the virus using protective measures, innova -
+tive treatments, and medication. Here, it is essential to have 
+technologies available to maintain important economic and 
+social activities that are restricted by the virus. 
+However, the concepts and interpretations of technology sov -
+ereignty vary depending on economic and political interests. 
+In order to support (innovation) policy, a more differentiated 
+analysis is required of the area of potential conflict between 
+global trade, integrated value chains and technology and 
+knowledge transfer on the one hand, and the need for state 
+sovereignty on the other. 
+With this position paper, we would like to provide a con -
+ceptual basis for the debate and offer an invitation to an 
+informed dialogue. We argue that, in view of global chal -
+lenges such as climate change or pandemics, closely inter -
+connected value chains, and geopolitical uncertainties, only a 
+consistently European perspective of technology sovereignty 
+is future-proof. The integration of value added in the Euro -
+ 
+www.isi.fraunhofer.depean single market and the positioning vis-à-vis the increas -
+ingly protectionist USA and China makes the national level 
+within the EU appear insufficient, even counterproductive for 
+producing technology sovereignty, if only because of the size 
+differences. 
+Our concept of technology sovereignty is characterized by a 
+degree of differentiation that goes beyond the current often 
+politically driven discussion. We place technology sovereignty 
+in the wider context of economic and innovation sovereign -
+ty. In addition, we distinguish the various functions that technologies fulfill in government, society, and the economy 
+and, based on this, propose criteria and methods able to 
+determine the need for and degree of European sovereignty 
+in terms of key technologies. We formulate recommended 
+strategies to avoid one-sided dependencies in technologies 
+classified as critical and to strengthen the resilience of EU 
+member states to external shocks. We illustrate our concept 
+using two case examples – 5G technologies and Industry 4.0 /  
+robotics – before we close the paper by summarizing several 
+core statements.
+Economic sovereignty
+Sovereignty in the performance  
+of public duties
+Innovation  
+sovereignty 
+Technology 
+sovereignty 
+10  |  11What is technology sovereignty?
+At its core, the term technology sovereignty describes the ability to generate  
+scientific-technological knowledge either autonomously or to be able to access 
+such in stable partnerships without constraints. Technology sovereignty does not 
+imply comprehensive technology autarky that calls into question the international 
+division of labor or globalization and strives to provide every technology classified 
+as critical. Primarily, it describes preserving options by developing and maintain -
+ing own capabilities and avoiding one-sided dependencies.
+To start with, the concept of technology sovereignty must be 
+distinguished from the broader concepts of innovation sover -
+eignty and economic sovereignty (see Figure 1): 
+We can describe economic sovereignty as the ability to 
+generate value added and prosperity through independent 
+activities or through a mutual exchange with other economic 
+regions without becoming unilaterally dependent on external 
+actors. In a similar way, this applies to the original sovereign 
+tasks and to the independent provision of public services 
+by both private and state actors. Economic sovereignty and 
+sovereignty in performing public tasks are traditionally based 
+on the need for unimpeded access to natural resources and 
+capital by relevant actors and unimpeded access to technolo -
+gies, innovations, competencies, and data.In the efforts made by economic, innovation and technology 
+policies to establish economic sovereignty, there is a growing 
+interest in technology sovereignty alongside the exploitation 
+of raw materials and the advantageous positioning of eco -
+nomic actors in global production and value chains.4
+Technology sovereignty plays a special role in the bigger 
+picture of state sovereignty, because it enables economic sov -
+ereignty and autonomous state actions over and over again, 
+and because it is in itself renewable, in contrast to resource 
+stocks, for example. 
+In modern, globally networked economies, value creation and 
+welfare as well as guaranteeing public services are based on 
+innovations being generated and widely applied. Innovations, 
+Figure 1: Technology sovereignty as part of innovation and economic sovereignty
+ 
+www.isi.fraunhofer.dein turn, depend on being able to generate the technolog -
+ical basis for current and future economic activities locally 
+(scientific- technological competencies and qualifications) or 
+to obtain these from reliable partners (application compe -
+tence). 
+However, scientific-technological competencies on their own 
+have no effect and are without relevance for the innovation 
+sovereignty of Germany and the EU unless the abilities need -
+ed to exploit technological insights are also available, and 
+the necessary system prerequisites exist, such as the required 
+infrastructures, production capacities, regulatory framework 
+conditions etc. 
+Technology sovereignty is therefore a necessary, but by no 
+means sufficient basis for achieving innovation sovereignty. In turn, such innovation sovereignty is indispensable, but not 
+sufficient for achieving wider-ranging economic sovereignty. 
+This applies equally to the sovereignty in guaranteeing public 
+services that also depends on other criteria such as access to 
+competencies, capital and resources (see Figure 1).
+The concept of technology sovereignty introduced here does 
+not aim at a general expansion of technological activities 
+in fields in which our own international competitiveness is 
+perceived as too low or as capable of being developed. While, 
+from a state’s perspective, efforts are often made to achieve 
+technological competitiveness  in as many fields as possible, 
+the search for technology sovereignty  is usually in selected 
+fields that are considered particularly important according to 
+criteria that will be defined in the following subsection.5
+Technology functions and rationales
+Three functions of technologies can be differentiated to de -
+termine when a technology is classified as critical for a state 
+or a federation of states (see Table 1):
+ Safeguarding the original sovereign tasks  that govern -
+ment bodies perform by using the available technologies 
+(e.g. civil security, defense, administration).
+ Meeting the needs of society  (e.g. food, shelter, energy 
+and water, mobility, communications, health): on the one 
+hand, satisfying basic social needs through public services 
+such as healthcare or supplying – partially critical – infra -
+structures. On the other hand, in regard to changes that 
+are mainly initiated and controlled by government, such 
+as targeted socio-technical transformations (e.g. the ener -
+gy transition, transformation of mobility). 
+ Ensuring the medium and long-term success of a national 
+economy and its technological competitiveness , which is 
+mainly supported by private actors, although this can be 
+substantially shaped by state support and financing. Legitimate reasons to pursue technology sovereignty result 
+from all three functions. While the state’s ability to act in the 
+domain of original sovereign tasks constitutes the most direct 
+representation of the necessity for technology sovereignty, 
+meeting the needs of society and technological competitive -
+ness are also dependent on the unimpeded access of the 
+actors of a state of a federation of states to a broad portfolio 
+of technologies and development competencies.
+The transition between these three bundles of functions and 
+rationales is fluid and often not sharply delineated. Techno -
+logical competencies that represent options today and are 
+therefore more relevant for technological competitiveness can 
+become fundamental for the fulfillment of social needs and 
+sovereign tasks in the short term. Nevertheless, separating 
+these rationales is useful – if not essential – to establish a 
+convincing context for political justification.
+ 
+12  |  13Table 1:  Typology of the dimensions of need for technology sovereigntyTechnology sovereignty
+Original
+sovereign tasksMeeting needs of 
+societyEconomic  
+competitiveness
+Preserve and protect 
+(static)Economic positioning 
+and state functionsDefense, public security, 
+administrationPublic services,  
+critical infrastructures,
+public healthcare
+(water supply,
+transport links,  
+health system)Creating jobs and  
+value in existing  
+industries  
+(mechanical and  
+automotive engineering)
+Being crisis-proof 
+againstMilitary conflicts
+Terror attacksPandemics,
+climate-based crises, 
+terror attacksEuro crisis,
+structural breaks caused 
+by transformation
+Dynamic developmentinformational
+self-determination,  
+geopolitical positioning
+(5G debate and 
+EU cloud)System transformation 
+(sustainable mobility /
+logistics,  
+energy transition)Creation and renewal  
+of paths, 
+transform and develop 
+new sectors
+(e-mobility,
+Industry 4.0)
+Static, dynamic, and reactive technology sovereignty
+Different goals for producing or preserving technology sover -
+eignty can therefore be distinguished in addition to the above 
+described differentiation of the rationales (see Table 1):
+ Preserving or protecting current technology sovereignty , 
+with the goal:
+ of obtaining an advantageous position  in global in -
+novation and value creation chains and guaranteeing 
+state sovereign functions and public services  based on 
+existing competencies and resources, 
+ of managing crises using own resources and thus 
+ensuring that the European economic and innovation 
+system is crisis-proof  (resilient). This resilience and 
+adaptability to foreseeable and unforeseen disruptions 
+and crises is becoming increasingly important for European societies in view of developments that are 
+perceived as dangerous. The risk of system failures is 
+also becoming more and more relevant with the grow -
+ing dependency on increasingly complex technical 
+systems, for example, power supply or IT networks. In 
+addition, natural catastrophes such as earthquakes, 
+the increasing prevalence of floods and droughts due 
+to climate change, pandemics, or protectionist and ag -
+gressive trade policy developments in the international 
+political environment pose increasing threats to the 
+economy and society.  
+ Dynamic development of technology sovereignty , with 
+the goal of assuming an active, formative role in evolving 
+processes and development pathways to proactively shape 
+future developments.
+ 
+
+ 
+14  |  15Criteria to determine the importance 
+of technologies and access to them
+Importance and types of criteria 
+Empirically determining to what extent technology sovereign -
+ty exists for a specific state or federation of states and a spe -
+cific technology (country-technology combination) requires 
+the analysis of two interconnected questions:  
+1) Within which system boundaries is technology sover -
+eignty aspired to?
+2) What are the factors influencing technology sov -
+ereignty and how are they expressed in a concrete 
+case?Analyzing the system boundaries (question 1) is an important 
+step to understanding whether a certain technology requires 
+more detailed consideration and perhaps political measures 
+to ensure technology sovereignty.  It is necessary to define cri -
+teria to assess the technological, economic, legal, institution -
+al, and political framework conditions. An in-depth analysis 
+of the degree of technological sovereignty is only necessary 
+for those technologies classified as critical after analyzing the 
+system boundaries (question 2). 
+Criteria for system boundaries
+Three different dimensions  can be distinguished in the discus -
+sion of system boundaries:
+ the spatial-political  dimension, i.e. the geographical and 
+political frame of reference for technology sovereignty,
+ the functional  dimension of the analyzed services or 
+goods for which technology sovereignty is to be aimed at 
+in principle, and which we differentiated into sovereign 
+tasks, social needs, and economic competitiveness in the 
+first step above, 
+ the time dimension, which distinguishes short-term supply 
+bottlenecks from structural dependencies.
+Three additional sub-criteria are applied when determining 
+the spatial-political area  to which technology sovereignty 
+should apply:  The degree of political integration: As a rule, the more 
+advanced this is, the more institutionalized coordination 
+mechanisms are that aim at a free exchange of technolo -
+gies. 
+ The degree of economic integration: The more advanced 
+this is, for instance, with regard to value chains or corpo -
+rate ownership / control, the less likely and even impossible 
+it becomes to decouple individual political-geographical 
+areas. 
+ Shared culture and value set: If, for example, an economic 
+region shares the model of an open society or has social 
+and political common ground such as a democratic state 
+constitution with the separation of powers, the likelihood 
+tends to be low that individual actors will deliberately use 
+dependencies to reduce the technology sovereignty of 
+other actors.
+ 
+www.isi.fraunhofer.deWhereas the temporal and functional dimensions should 
+be analyzed and decided on a case by case basis, a general 
+estimation can be made for the spatial-geographic dimension 
+of Germany: its spatial-political integration within the EU is 
+particularly strong. There are clear rules with the single mar -
+ket. In addition, there are numerous competencies regarding 
+foreign trade issues at EU level. This degree of political inte -
+gration makes politically induced disruptions to value chains 
+and knowledge flows seem very unlikely. Mutual economic 
+interdependencies and the European countries’ common 
+sociopolitical model also favor the “EU” political level. This 
+is all the more valid since a national frame of reference for 
+technology sovereignty would create its own necessity, as 
+corresponding national efforts would undermine confidence 
+in the interdependencies and mutual obligations within the 
+EU. This would contribute to a dynamic of renationalization 
+that cannot be in the interests of the technology sovereignty 
+of the member states as a whole. However, such an approach 
+could and should be adaptable to any changes in the level of 
+interdependencies within the EU over time. 
+Starting from the EU as the region of analysis, the criticality 
+of access to technologies outside the EU is assessed. This is 
+indicated by the frequency and intensity of trade conflicts and 
+violations of WTO rules by individual countries. Another indi -
+cation is the existence of trade agreements, as these guaran -
+tee a certain degree of stability in economic and knowledge 
+relations. Especially the existence of bilateral trade agree -
+ments with countries that have similar cultural, socio-political, 
+or economic models (e.g. Canada or Japan) could result in 
+otherwise essential technologies being classified as less prob -lematic. Access here would be ensured with a certain degree 
+of reliability. 
+We refer to the categories introduced in the chapter “Tech -
+nology functions and rationales” for technology sovereignty 
+aimed at supplying the following functional areas :
+ technologies for maintaining the original sovereign  
+functions of a state,  
+ ensuring public services , 
+ ensuring the medium and long-term success of a national 
+economy and its technological competitiveness .
+Criteria along the time dimension are needed to distinguish 
+short-term supply and delivery bottlenecks from those related 
+to structural technology sovereignty. For example, in the con -
+text of the corona crisis, short-term delivery problems for cer -
+tain goods like face masks or toilet paper were also addressed 
+as dependency problems. We believe a demarcation is needed 
+here. In terms of our concept, technology sovereignty refers 
+to at least a medium time horizon (e.g. six months to ten 
+years). Shorter-term dependencies can be counteracted, e.g. 
+by improved stock-keeping. In a very long-term perspective, 
+numerous new technological competencies can be devel -
+oped; on the other hand, there is the risk of medium-term 
+dependencies becoming locked in if path dependencies exist, 
+which can then only be addressed by accepting extremely 
+high conversion costs.
+Criteria to determine the degree of technology sovereignty
+For the criteria to determine the degree of technology sover -
+eignty , a distinction must be made between various sub-crite -
+ria that influence technology sovereignty in different ways:
+ Technology sovereignty is high if the technology is 
+produced within a country’s own political-geographical 
+domain, or the ability to produce it exists. 
+ In cases where technologies are not produced in a 
+country’s own political-geographical domain, but can 
+be obtained without restriction from outside it, factors 
+should be considered that increase the risk of access to the technologies being limited or refused. Corresponding 
+factors are required that describe these supply risks.
+ Supply risks are reduced if technological alternatives (sub -
+stitutes) are available. These also have a disciplinary effect 
+on the exertion of market power by a supply concentra -
+tion. The existence of mutual dependencies has a similar 
+effect.
+ 
+16  |  17Ability to produce the technology in the 
+home country
+If a technology is already produced in the home country, it 
+can usually be assumed that it will also be available locally in 
+the future. However, even in this case, the condition must be 
+satisfied that the required components remain available and 
+that access to critical input factors continues to be given. This 
+makes it clear that assessing technology sovereignty may not 
+be limited to the final product alone, but must consider the 
+entire associated value chain.
+A high degree of technology sovereignty exists even if initially 
+only the abilities to start production in the short to medium 
+term are available. The ability to produce a certain technolo -
+gy presupposes knowledge and access to other critical input 
+factors. 
+Technological know-how can be mapped using, e.g. technol -
+ogy-specific patent indicators that show technological perfor -
+mance (see Infobox). However, this also requires the existence 
+of economic actors who can apply this knowledge. Ultimate -
+ly, any assessment of ability also necessitates assessing the 
+performance of the corresponding technological innovation 
+system. 
+Criteria for supply risks for technologies  
+obtained from abroad 
+For cases in which the relevant technologies are only available 
+outside the analyzed geographical-political area, factors must 
+be considered that increase the risk that the technology can 
+no longer be accessed for economic, political, or other reasons 
+(e.g. climate events, political instability, pandemics). 
+This risk of access restrictions increases with increasing sup -
+plier concentration, because this raises their market power on 
+the one hand, and reduces the scope for switching to other 
+supplier countries should access be restricted. To estimate 
+the risk of losing access to resources and technologies, it is 
+important to regularly analyze indicators such as, e.g. the 
+Herfindahl Hirschman index, which can be used to measure 
+this kind of supplier concentration.
+In addition to supply concentration, the reliability of the sup -
+plier countries also plays an important role. Important factors 
+here include political and social stability, compliance with legal 
+regulations, and the absence of corruption. For example, the EU assesses countries supplying critical raw materials with the 
+help of the World Governance Indicator and the underlying 
+database of the World Bank.6 The degree of mutual depen -
+dency must also be examined. Mutual dependency exists 
+to the extent to which a supplier is itself dependent on the 
+country it refuses to supply. This reduces the risk of one-sided, 
+deliberate supply restrictions. Trade statistics on the flow of 
+goods, an analysis of the compliance of individual countries 
+with WTO regulations or the Economic Complexity Index7 on 
+production capacities can provide important information here.
+Existence of possible substitutes 
+Supply risks are reduced and technology sovereignty increas -
+es if technological alternatives (substitutes) to the analyzed 
+technology are available or foreseeable.   
+Technological feasibility is one criterion for the existence of a 
+substitution alternative. In this context, the first thing is to as -
+sess whether there are any relevant approaches in the home 
+country in the medium term. Patent analyses and periodical, 
+systematic expert surveys can provide indications of this. This 
+includes assessing whether the relevant possibilities make 
+economic sense. Finally, it is essential that substitutes are 
+also potentially available or must be created within the home 
+country.  Ultimately, this means that the above listed criteria 
+must then also be applied to the substitution options.
+Criteria to assess technology sovereignty
+Overall, it becomes clear that several criteria need to be 
+combined to assess the degree of technology sovereignty. 
+These include quantitative indicators and evaluations based 
+on qualitative estimates. The assessment generally follows 
+a continuum of a stronger or weaker degree of technology 
+sovereignty rather than a simple yes-no decision. At the same 
+time, the different sub-aspects make it clear that assessments 
+may change over time. In this respect, technology sovereignty 
+is not a static construct, but a dynamic one.  The fact that the 
+granularity of analysis and the indicators used to implement 
+the criteria can vary is shown by the discussion of two differ -
+ent example applications (see page 25 ff.).
+ 
+www.isi.fraunhofer.deInfobox: Analytical tools for assessing technology sovereigntySummary of several important methods for analyzing technology  
+sovereignty
+Analyzing to what degree technology sovereignty exists requires a mix of methods. Quantitative indicators based 
+on technology-specific search algorithms aid these kinds of analyses. They should be supported by systematic 
+expert surveys to provide context and validation so that the specificity of each individual technology can be con-
+sidered.
+Own competencies and resources
+ Patent analyses  and derived indicators such as patent shares and specialization map the extent of a state’s or a 
+federation of states’ own technology competencies. 
+ Bibliometric analyses  and derived indicators such as publication shares and specialization provide information 
+about the scientific resources and competencies of a state or a federation of states.
+ Analyses of the contribution of individual countries to global or – leading – national standards , possibly in 
+the context of their own patent portfolio, enable an estimation of the autonomy of a state or a federation of 
+states in shaping future technology development.
+ Analyses of technology- and resource-specific production statistics  enable the identification of the regional 
+availability of relevant resources and production capacities.
+ Analyses of technology-specific export shares  provide information about the international competitiveness of 
+the production of a state or a federation of states. 
+Dependence and access to competencies and resources
+ Analyses of international standards, patent pools and Open Source repositories provide information about 
+internationally available technologies that can be used. 
+ Analyses of trade balances grouped and analyzed by technology  provide information about the dependence 
+of a state or a federation of states on technology-specific imports (resources and components), and their 
+distribution. 
+ Complexity indices  make it possible to estimate the dependence of relevant geographical areas on specific 
+technologies and how these technologies are integrated into local or regional innovation and value chains.
+ Analyses, e.g. of WTO compliance , enable a concrete assessment of the reliability of potential partner nations 
+in specific issues.  
+ Analyses of the World Bank’s World Governance Index, various corruption indices and indices on the form of 
+governance make it possible to assess the basic reliability of potential partner nations.
+Finally, the results of the individual analyses must be carefully weighed against each other in order to arrive at an 
+overall assessment. 
+ 
+18  |  19Strategies for dealing with challenges 
+related to technology sovereignty
+The above remarks show the numerous perspectives and differentiations that 
+must be applied to determine the degree of technology sovereignty and to draw 
+up counter strategies. These conceptual considerations lead to a series of poten -
+tial strategic measures suitable for countering the challenges of technology sover -
+eignty.
+Analytical capability to determine the need for technology 
+sovereignty
+Analytical capabilities in the system form the basis for ad -
+dressing the question of which technologies are critical and 
+how to secure access to them. Methodological and analytical 
+competencies must be available in order to be able to process 
+the main dimensions with regard to technology sovereignty in 
+a technology-specific manner and with the necessary granu -
+larity. Sufficient competencies and databases are required to 
+perform the following three-dimensional analysis: 
+ determine the criticality of technologies, 
+ develop a clear picture of which fundamental economic 
+and social functions this technology helps to fulfill and 
+how it does so, 
+ ensure access and provide own competencies.
+Possible strategic approaches 
+The following strategic approaches can be derived from the 
+three determining factors of technology sovereignty:
+ For a country to maintain its own ability to produce the 
+relevant technologies and products in a dynamically 
+developing environment, it is first necessary to generate technology-specific knowledge using the classic instru -
+ments of research and innovation policy. This requires a 
+critical mass of knowledge carriers – persons possessing 
+the relevant knowledge – which is only formed by actually 
+teaching the corresponding content at universities (e.g. 
+the gap in professorships in battery technology).
+ In addition, public procurement can provide strategic 
+impulses so that ultimately production capacities for tech -
+nologies and the corresponding products can be created 
+or ensured.
+ However, the potential portfolio of technologies is much 
+too large for the majority of national economies to 
+provide the necessary research capacities in all the fields 
+relevant for technology sovereignty. Further, these tech -
+nologies or products often require access to certain raw 
+materials. Therefore, a division of labor is necessary, not 
+only in the European context, but in an international one, 
+which can be initiated, for example, through long-term 
+research cooperation. In such cooperation, bilateral, but 
+above all multilateral research is conducted with partners 
+who have the relevant complementary competencies in 
+technologies identified as critical, which ensures joint 
+access to these technologies and avoids one-sided depen -
+dencies. 
+ 
+www.isi.fraunhofer.de The development of open standards (potentially com -
+bined with patent pools) supported by many international 
+companies, but also by Open Source software and hard -
+ware, can be regarded as a special form of access. These 
+prevent a proprietary monopolization of technologies 
+and therefore dependencies. These standards also reduce 
+dependencies on single suppliers within complex value 
+chains and therefore also reduce risks (e.g. standards in 
+the automotive industry increase competition among 
+suppliers). 
+ If this is combined with public procurement, it allows 
+access a larger number of suppliers of the relevant 
+technologies. This enhances competition which prevents 
+the dominating companies exerting market power and 
+ensures sustainable competition. 
+ In the long term, in addition to supporting research and 
+demand-oriented strategies such as public procurement, 
+it makes sense to design the regulatory framework in a 
+way that gives domestic or European industries the right 
+conditions and incentives to develop the corresponding 
+research and therefore also production capacities in fields 
+prospectively at risk of technology dependencies. This 
+includes an appropriately designed competition policy, 
+which includes the acquisition of European companies by 
+non-European concerns.
+ If technology sovereignty is limited or no longer present 
+due to already existing dependencies on individual suppli -
+ers, attempts can be made over the long term to build up 
+a country’s own research competencies in order to develop 
+substitutes. However, this is often not possible, even in 
+the long term, due to resource restrictions. Furthermore, 
+such dependencies usually affect not just one country’s economy but the majority of national economies. This is 
+why joint solutions are an option here, coordinated by the 
+European Union, but also by larger international consortia. 
+ Finally, in addition to the single European market, free 
+world trade with its strong incentives for competition 
+remains an important boundary condition to ensure 
+technology sovereignty. Compliance with agreed multi-
+lateral regulations should be ensured by strengthening 
+key international organizations such as the WTO.
+Increasing the resilience of the EU
+The EU should increase its investments in the resilience of its 
+economic and social systems so that these can recover rapidly 
+from shocks and disruptions, and adapt quickly to changing 
+contexts. This is an important cornerstone of any consider -
+ation of future-proof technology sovereignty. The EU states 
+already have the right prerequisites for this because their 
+economies are strongly oriented towards open competition. 
+In addition, their societies are influenced by subsidiarity and, 
+above all, are organized democratically. This means the EU’s 
+adaptability is fed by a diverse pool of common economic, 
+political, scientific, and civil society features.
+Fostering a broad basis of competencies and capacities in 
+critical technology fields is an important element in lowering 
+the EU’s vulnerability to potential disruptions and shocks – 
+especially in times of increasing global uncertainty. In the 
+sense of a systemic approach to resilience, technological key 
+capabilities should be promoted, innovation networks formed 
+as well as experimental learning encouraged, for example, in 
+the context of regulatory sandboxes.
+ 
+20  |  21Examples of determining and ensuring technology sovereignty
+How can we analyze whether technology sovereignty exists in concrete terms  
+and what measures can be taken to ensure it? The following two case studies 
+illustrate what such an analysis should look like.
+Example 1: 5G technologies
+System boundaries for technology sovereignty
+The geographical and political frame of reference for 5G 
+technologies is defined by the European area, based on the 
+joint European decision for GSM in the early 1990s. It is 
+therefore necessary to consider technology sovereignty for 5G 
+within the context of a highly integrated system in political 
+and economic terms. 5G is very important for both private 
+sector and public sector functions; its economic and societal 
+integration and environmental interdependence are high. 
+When considering the shared European culture and set of 
+values, which attach great importance to the free exchange 
+of information, 5G technologies are very important as a 
+necessary communication infrastructure. 5G technologies 
+are therefore highly relevant for public services, safeguarding 
+sovereign tasks and ensuring economic success in almost 
+every industrial sector. Finally, the time dimension must be 
+considered when analyzing 5G technologies. Providing the 
+associated functions in the European area in the short term 
+and long-term resilience are both essential conditions for the 
+technology sovereignty of 5G.
+Degree of technology sovereignty  
+The analysis must begin by determining whether the Europe -
+an area has the capability to supply these technologies, or at 
+least the knowledge required for technology development. 
+Patent applications are suitable indicators for identifying 
+technology competence (see Infobox on page 20). A current 
+analysis, conducted with the support of Fraunhofer ISI,8 
+shows that the patents for 5G technologies are indeed 
+strongly influenced by Chinese companies, but that Euro-
+pean enterprises also feature among the internationally most 
+active technology developers. At present, Chinese companies, 
+especially Huawei and ZTE, account for 33 percent of total 
+5G patents worldwide, South Korean enterprises for 27 per -
+cent, European companies for 17 percent, and US-American 
+companies for 14 percent.Nokia and Ericsson are two of the internationally leading 
+manufacturers of 5G network components from Europe. 
+Compared to 4G technologies, both companies have 
+increased their patent shares in 5G technologies (Nokia by 
+2.39, Ericsson by 1.14 percentage points).9 In addition, small 
+and medium-sized enterprises that do not receive much 
+attention, such as Adva Optical Networking from Germany, 
+continue to be active as 5G network equipment providers.10 
+Intensive efforts are being made in Europe to expand the 
+knowledge base for 5G. The European Graphene Flagship11 
+is one example of this. Optoelectronic components are being 
+developed here that enable the extremely high switching 
+speeds needed for 5G.12
+In principle, therefore, there are at least two important ele -
+ments for achieving technology sovereignty in EU countries: 
+the technological production base with internationally lead -
+ing technology companies, and a dynamic knowledge base. 
+It cannot be stated in principle, therefore, that a one-sided 
+dependency exists on technologies and know-how developed 
+in China.
+What is the supply risk? 
+The discussion usually focuses on Huawei as the world market 
+leader for 5G components. As already pointed out, however, 
+there are at least several potential suppliers in Europe, who 
+are among the world’s leading 5G suppliers. But other global 
+regions also offer possibilities, especially South Korea and 
+the US. With 13 percent and 11 percent of all 5G patents, 
+Samsung, and LG Electronics (South Korea) are among the 
+top five companies worldwide. Samsung is ranked second13 
+after Huawei (15 percent). Major companies in the US include 
+Qualcomm (6 percent patent share) and Intel (4 percent);  
+CISCO is also expected to become a major player in future.14 
+A differentiated view of the supply risk is therefore required.  
+ 
+www.isi.fraunhofer.deIn the short term and also from a cost perspective, Huawei is 
+the most important 5G supplier. However, alternatives already 
+exist in Europe with Ericsson and Nokia. This is also shown 
+by the example of the British Vodafone concern, which 
+announced at the beginning of 2020 that it would swap 
+Huawei hardware for Nokia components in security-relevant 
+areas of its 5G network.15 However, Vodafone expects addi -
+tional costs of around 200 million euros and a possible delay 
+of two to five years for the switch. Furthermore, both South 
+Korea and the US reduce the supply risk with several potential 
+suppliers. Both regions are ranked higher in the World Gover -
+nance Index than China; the US is ahead of South Korea (but 
+somewhat behind Germany).16 At the same time, the EU has 
+struck a trade deal with South Korea, which has a positive 
+effect on assessing its reliability as a supplier country. 
+Are there possible substitutes? 
+Intensive work on technological alternatives for individual 
+components of 5G technologies is already ongoing within 
+the EU. This concerns the required materials and switching 
+elements in particular.17 Europe is one of the leading innova -
+tion regions in the field of materials. Optimized materials can, 
+among other things, help to improve the energy efficiency 
+of 5G technologies and thus address an important technolo-
+gical challenge. Ericsson and Nokia are part of the relevant 
+research networks, especially the Graphene Flagship, and 
+therefore have direct access to these globally leading tech-
+nology developments in contrast to competing 5G suppliers 
+from China, South Korea, and the US.
+Overall, the analysis shows:  
+ Focusing the discussion about technology sovereignty for 
+5G on the role of Huawei and the dependency on China 
+is too narrow. 
+ In fact, applying the criteria to determine technology 
+sovereignty reveals that several aspects already speak for technology sovereignty for 5G in the European area, or 
+that at least the potentials for this already exist. 
+ This differentiated view of technology sovereignty for 
+5G puts the discussion for the development of suitable 
+strategies for dealing with technology sovereignty on a 
+wider footing.  
+What are the possible strategies for dealing with  
+technology sovereignty?
+With regard to 5G in Europe, our analysis reveals that tech -
+nology sovereignty has multiple layers, can be described ana -
+lytically from different perspectives, and which issues should 
+be subject to closer examination. This results in a more com -
+prehensive picture that can stimulate the discussion of further 
+strategic options for dealing with technology sovereignty.  
+In the short term, it makes sense to expand supply relation -
+ships with the European 5G suppliers, and explore setting 
+up further supply relationships with leading companies from 
+South Korea and the US in order to reduce the overall con -
+centration in supply chains. 
+Developing a European innovation eco-system would be 
+one way to provide reliable and configurable 5G technolo -
+gies within the EU in the medium term. This means that the 
+individual competencies, potentials, and technologies that 
+already exist today, together with the required framework 
+conditions such as European standardization, would have to 
+be combined into an overall system. This would be supported 
+by different stakeholders from industry, research, politics, and 
+society, who perform different functions in the systems. Key 
+actors at company level would be the network equipment 
+suppliers Ericsson and Nokia. They could form the crystal -
+lization points of this innovation network. Close relations 
+and dependencies within this network would simultaneously 
+make it more robust.
+ 
+22  |  23Example 2: Industry 4.0 and robotics
+System boundaries for technology sovereignty 
+The EU forms the geographical and political frame of refer -
+ence for Industry 4.0 and robotics, since these technology 
+fields represent key unique selling points of leading Europe -
+an countries in a global comparison. However, since not all 
+European countries have the relevant competencies, discus -
+sions here also always have a national component. Some 
+member states have only low competencies in this field, and 
+the density of industrial robots in Europe as a whole is below 
+that of China.18 Still, there are relevant competencies within 
+the scope of European institutions and thus at the core of 
+Europe’s innovation and industry policy.
+In addition, it can be stated that the contribution of tech-
+nology sovereignty to prosperity and value creation in Indus -
+try 4.0 and robotics is mainly realized in the context of global 
+markets. Although Germany was the country with the third 
+highest density of industrial robots after Singapore and South 
+Korea in 2018, the German market is only about one sixth 
+the size of the Chinese one and approximately half the size of 
+the Japanese market. With Germany, Denmark, Italy, France, 
+Austria, Sweden, the Netherlands, Luxembourg and Finland, 
+numerous member states are net exporters of robotics, whose 
+technological design capability can be implemented globally, 
+especially compared to countries that (still) have to import 
+complete robots or their core components to a large extent, 
+and source these partially from Europe, and partially from 
+suppliers outside Europe.19 
+Degree of technology sovereignty  
+Almost without exception, Europe’s major industrial nations 
+have a significantly above-average technology sovereignty in 
+this field, which can be documented along various analytical 
+dimensions – from patents through to exports. Nevertheless, 
+there is still a considerable dependence on non-European 
+producers with regard to key intermediate inputs in the field 
+of microelectronics. However, since both the final product and 
+the direct upstream components are still designed and manu -
+factured in Europe, the main objective of the innovation and 
+industry policy debates in this context is the question of how 
+to preserve or use existing competencies.
+The success of many European nations in the field of advanced 
+manufacturing and especially robotics is based on systemically 
+combining strengths in mechanical and plant engineering with software and hardware for integrated systems. Europe’s key 
+challenges and its major contributions to solutions are current -
+ly in managing complex industrial application scenarios while 
+guaranteeing the security of networked systems. In terms of 
+IT, various European companies are developing successful ref -
+erence architectures and making major contributions to global 
+standardization and thus to achieving interoperability.
+What is the supply risk?
+There is a supply risk in particular with regard to key hard -
+ware components required in the production of Industry 4.0 
+and robotic devices. The corresponding chips and micro -
+electronic elements are not only no longer manufactured in 
+Europe, but are also only partially designed here. As a result, 
+Europe is already clearly dependent today on external supply 
+chains for major components and partially also on specific 
+manufacturing skills. For example, there are only two relevant 
+production sites for microchips left in Europe, so that a mul -
+titude of basic components now have to be imported, mainly 
+from Asian countries.
+In the medium term, as the technology evolves, it is conceiv -
+able that larger shares of value creation will shift to software 
+or hardware components that have not been produced in 
+Europe for some time, which could lead to increased depen-
+dency on a few large technology companies in the United 
+States or Asia. Although there is not (yet) any isolated de -
+pendency on individual non-European states or companies at 
+present, greater concentration is conceivable in the future.
+Are there possible substitutes? 
+Technologies from the field of robotics represent a pivotal 
+component of modern manufacturing systems and cannot be 
+substituted by other technologies from a systemic perspec -
+tive. 
+However, European companies have already positioned 
+themselves in specific, higher-value areas of robotics (complex 
+application scenarios, guaranteeing security), where they 
+are confident and profitable actors thanks to the strength of 
+their existing competencies. To a certain extent, therefore, it 
+should be possible to resubstitute simpler, currently imported 
+technologies with corresponding European products should 
+such a switch be required for geopolitical reasons.
+ 
+www.isi.fraunhofer.deOverall, the analysis shows:  
+ The economic advantage of existing technology sover -
+eignty is usually only (fully) realizable in a global context; 
+it would be a drawback if development perspectives were 
+restricted to certain markets; interoperability remains a 
+major goal. 
+ An already existing dependency in the field of major com -
+ponents could become more significant in future if these 
+components (microelectronics) themselves become more 
+relevant; stronger and more one-sided dependencies are 
+possible. 
+ If core competencies are drained, e.g. due to company ac -
+quisitions, there is a danger that key unique selling points 
+will be lost to those demanding specifically European 
+competencies.  
+ Ongoing technology development means that even lead -
+ing companies with high integration competence face the 
+challenge of learning new skills in fields that will become 
+more important.
+ A crucial point in this context is to consider to what extent 
+technology sovereignty must be regained in important 
+complementary areas such as cloud and data infrastruc -
+tures.
+What are the possible strategies for dealing with  
+technology sovereignty?
+Substantial investments in retaining and updating current 
+and future key competencies in the field of Industry 4.0 
+and robotics can be observed in many European countries. 
+Increasingly, other countries that want to overcome their 
+current dependency on imports are also making efforts to 
+master these skills (and will do so in the medium term).
+Government support here often takes place nationally and at 
+European level through the Research Framework Programmes and initiatives for “Advanced industrial technologies”. These 
+include the targeted funding of technological developments 
+on the one hand, but also preventing the strategic acqui -
+sition of existing expertise by non-European companies or 
+nations on the other hand. In addition, funding (research) 
+cluster initiatives and other alliances is intended to increase 
+cooperation between science and industry and therefore the 
+efficiency and speed of technology transfer – and by using 
+test beds – to not forfeit technological leadership in complex 
+application contexts. Finally, individual member states and 
+numerous European institutions are supporting the participa -
+tion in international standards. This is intended to ensure that 
+existing competencies and those still to be developed can be 
+productively integrated into the global value networks of the 
+future, and to guarantee the highest possible interoperability 
+for European system solutions. There are additional activities 
+to create new basic data infrastructures such as GAIA-X, 
+in which European solutions can be integrated securely, 
+efficiently and without being directly dependent on external 
+providers, where this is necessary to guarantee data security.
+A multi-level strategy is therefore suitable for the future:
+ Anticipate technology developments and develop the 
+associated required capacities,
+ strengthen and update existing key competencies,
+ create a systemic framework (cloud and data infrastruc -
+ture), within which specifically European competencies 
+can be further developed,
+ avoid that key competencies that set European companies 
+apart from international competitors are drained through 
+external acquisitions,
+ deliberately spread the supply risk in upstream areas 
+where it does not make sense to develop own competen -
+cies.
+ 
+24  |  25Conclusions
+Global prosperity is built on an international division of labor in terms of indus -
+tries and technologies, globally-oriented open trade policies, and science net -
+works that span national borders. 
+At the same time, there is an understandable need for coun -
+tries to preserve or to create a politically autonomous scope 
+of action with the lowest possible structural dependency on 
+competitors with regard to critical technologies, in order to 
+keep their own economies competitive in the long term and 
+to be able to meet society’s essential needs. The calls for 
+technology sovereignty, which are becoming louder and loud -
+er, intensified by the current crises and geopolitical shifts, are 
+therefore in conflict with a globally networked economy as a 
+guarantor of prosperity, especially for Europe and Germany.   
+Against this background, our concept provides added value 
+through its differentiated view of technology sovereignty 
+and concrete proposals for its analysis. This differentiation is 
+based on the current and future criticality of technologies, 
+the motivation for technology sovereignty, and the basis for 
+producing it, i.e. essentially the access to current and poten -
+tial resources and competencies (see Figure 2). The interplay 
+of these dimensions can determine the current and desirable 
+degree of technology sovereignty in a specific situation and, 
+where required, strategies can be developed to preserve or 
+produce it.Comprehensive analytical system capacities are required to 
+decide which technologies are critical or will be in future, 
+what the key factors are that make technology sovereignty 
+in our defined sense possible, and what measures should be 
+taken at which level to achieve this. At the same time, this 
+must also consider the system conditions that determine how 
+technologies are transformed into functioning innovations 
+on markets, such as production capacities, infrastructures, or 
+demand-side conditions. Finally, it requires strategic creativity 
+and foresight to avoid throwing out the baby of Germany’s 
+and the EU’s internationally oriented competitiveness with 
+the bathwater of technology sovereignty. For Germany, given 
+the extent of economic and political interdependence and 
+the added value this provides through specialization gains 
+and political stability, the frame of reference for technology 
+sovereignty is definitely the EU. A renationalization reflex in 
+the face of striving for technology sovereignty would not only 
+be inefficient, but even counterproductive in the long run, 
+as it would trigger a spiral of protectionism. A system that 
+differentiates the challenge posed by technology sovereignty, 
+analyzes and processes this in a forward-looking manner, will 
+not only be more adaptable in future, and therefore more 
+competitive, but also more resilient to external shocks.
+ 
+www.isi.fraunhofer.de
+Figure 2: Dimensions used to determine technology sovereigntyOriginal sovereign tasks
+Current criticality  
+of technologyMeeting society’s needs
+Future criticality of 
+technologyEconomic  
+competitiveness
+Vulnerability of the  
+associated socio­
+technical system to 
+shocksGoals of technology sovereignty
+Technologies relevant for sovereigntyAccess to resources
+Current own  
+competenciesCurrent access  
+to competencies
+Basis of technology sovereignty
+ 
+26  |  27Endnotes
+1  See, for example, the call made by the Commissioner for the Internal Market, Thierry Breton, for “strategic autonomy” as 
+part of Europe’s industrial strategy (https://ec.europa.eu/commission/presscorner/detail/en/IP_20_416 , 10.03.2020), the Joint 
+Statement of the European Council, April 21 2020: Road to Recovery; Brussels; and European Parliament P9_TA(2020)0054. 
+European Parliament resolution of 17 April 2020 on EU coordinated action to combat the COVID-19 pandemic and its conse -
+quences (2020/2616(RSP). 
+2 See BMWi (2020): Made in Germany. Industriestrategie 2030; https://www.bmwi.de/Redaktion/DE/Dossier/industriestrat -
+egie-2030.html, and the justification for founding the Cyber Agency in Germany (see the report by the Commission of Experts 
+for Research and Innovation 2020, p. 143), press release by ZVEI on 19.02.2020 (https://www.zvei.org/presse-medien/presse -
+bereich/technologische-souveraenitaet-fuer-europa-sichern/ ) or the “Technological Sovereignty” Position Paper by the German 
+Association for Electrical, Electronic & Information Technologies VDE (2020): Technologische Souveränität. Vorschlag einer 
+Methodik und Handlungsbedarf, Frankfurt am Main. 
+3  In the context of the corona crisis, the focus is on companies researching vaccines, such as CureVac in Tübingen or BioN -
+Tech in Mainz. Historically, the discussion about (technology) sovereignty mainly revolved around the security of food supply.
+4 see BMBF 2020, https://www.wirtschaftsdienst.eu/inhalt/jahr/2020/heft/13/beitrag/digitale-innovationen-und-technologie -
+souveraenitaet.html 
+5 ibid.
+6 http://info.worldbank.org/governance/wgi/
+7 https://oec.world/en/rankings/country/eci/
+8 https://www.iplytics.com/de/report-de/5g-patentstudie-2020/
+9 ibid.
+10 https://www.capital.de/wirtschaft-politik/5g-ausbau-diese-firmen-machen-huawei-konkurrenz
+11 https://graphene-flagship.eu/ultra-fast-graphene-photonics,https://graphene-flagship.eu/project/spearhead/Pages/5G.aspx
+12 ibid. 
+13 https://www.iplytics.com/de/report-de/5g-patentstudie-2020/
+14 https://www.capital.de/wirtschaft-politik/5g-ausbau-diese-firmen-machen-huawei-konkurrenz
+15 https://www.heise.de/newsticker/meldung/Vodafone-Austausch-von-Huawei-kostet-Millionen-4655846.html
+16 https://info.worldbank.org/governance/wgi/Home/Reports
+17 https://graphene-flagship.eu/project/spearhead/Pages/5G.aspx
+18 IFR World Robotics Report 2019
+19 http://www.worldstopexports.com/top-industrial-robots-exporters/
+ 
+Impressum
+Contact
+Fraunhofer Institute for Systems  
+and Innovation Research ISI  
+Breslauer Strasse 48  
+76139 Karlsruhe  
+Germany
+Prof. Jakob Edler  
+Phone +49 721 6809-205  
+E- Mail jakob.edler@isi.fraunhofer.de
+Authors   
+Jakob Edler, Knut Blind, Rainer Frietsch,  
+Simone Kimpeler, Henning Kroll,  
+Christian Lerch, Thomas Reiss, Florian Roth, 
+Torben Schubert, Johanna Schuler,  
+Rainer Walz
+Editor  
+Dr. Johanna Schuler
+Translation  
+Gillian Bowman-Köhler
+Graphic design  
+Sabine Wurst
+www.isi.fraunhofer.dePhoto credits
+Cover  
+5G network  
+shutterstock.com/metamorworks  
+Pages 4–5  
+Pharmaceutical research  
+shutterstock.com/Africa Studio  
+Pages 6–7  
+Smart factory  
+shutterstock.com/Alexander Kirch  
+Page 8  
+Medical laboratory  
+shutterstock.com/angellodeco  
+Page 14  
+Robotics  
+shutterstock.com/asharkyu  
+
+ 
+www.isi.fraunhofer.de
