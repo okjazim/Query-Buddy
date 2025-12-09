@@ -42,6 +42,29 @@ def store_in_chroma(text_chunks, embedding_vectors, ids, metadata):
 
     print(f"Stored {len(text_chunks)} documents into ChromaDB.")
 
+def search_top_k(query_embedding, top_k=3):
+    """
+    Searches the Chroma vector database for the top-k most similar chunks.
+    Returns matching metadata entries.
+    """
+
+    client = chromadb.PersistentClient(
+        path=CHROMA_DIR,
+        settings=Settings(anonymized_telemetry=False)
+    )
+
+    collection = client.get_or_create_collection(name="documents_index")
+
+    results = collection.query(
+        query_embeddings=[query_embedding],
+        n_results=top_k
+    )
+
+    # Chroma returns nested lists → flatten them
+    matched_metadata = results["metadatas"][0]
+    return matched_metadata
+
+
 if __name__ == "__main__":
     texts, embeddings, ids, metadata = load_data()
     store_in_chroma(texts, embeddings, ids, metadata)

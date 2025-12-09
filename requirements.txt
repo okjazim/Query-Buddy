@@ -7,3 +7,4 @@ bs4
 streamlit
 openai>=1.0
 tiktoken
+ollama
