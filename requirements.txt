@@ -2,3 +2,5 @@ numpy
 sentence-transformers
 langchain-text-splitters
 chromadb
+PyPDF2
+bs4
