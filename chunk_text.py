@@ -1,7 +1,9 @@
 import os, json
-from clean_text import RAW_DIR
 from typing import List, Dict
 from langchain_text_splitters import RecursiveCharacterTextSplitter
+
+RAW_DIR = "data/raw"
+os.makedirs(RAW_DIR, exist_ok=True)
 
 CHUNKS_OUTPUT = "data/chunks.json"
 
