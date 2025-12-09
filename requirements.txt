@@ -4,4 +4,7 @@ langchain-text-splitters
 chromadb
 PyPDF2
 bs4
+streamlit
+openai>=1.0
+tiktoken
 ollama
