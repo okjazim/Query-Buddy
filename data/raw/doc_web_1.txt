@@ -2174,21 +2174,14 @@ Specification
 
 HTML
 # 
-the-title-attribute
+attr-spellcheck
 
 
 
 
 HTML
 # 
-attr-translate
-
-
-
-
-HTML
-# 
-attr-data-*
+writing-suggestions
 
 
 
@@ -2196,13 +2189,6 @@ attr-data-*
 HTML
 # 
 attr-popover-hint
-
-
-
-
-HTML
-# 
-attr-autocorrect
 
 
 
@@ -2223,35 +2209,21 @@ attr-tabindex
 
 HTML
 # 
-nonce-does-not-update-dom
+attr-translate
 
 
 
 
 HTML
 # 
-the-id-attribute
+the-title-attribute
 
 
 
 
 HTML
 # 
-dom-fe-autofocus
-
-
-
-
-HTML
-# 
-attr-inputmode
-
-
-
-
-HTML
-# 
-classes
+attr-autocorrect
 
 
 
@@ -2265,7 +2237,7 @@ the-dir-attribute
 
 HTML
 # 
-attr-contenteditable
+dom-fe-autofocus
 
 
 
@@ -2279,56 +2251,7 @@ attr-slot
 
 HTML
 # 
-writing-suggestions
-
-
-
-
-HTML
-# 
-the-popover-attribute
-
-
-
-
-HTML
-# 
-the-inert-attribute
-
-
-
-
-HTML
-# 
-attr-lang
-
-
-
-
-HTML
-# 
-the-draggable-attribute
-
-
-
-
-HTML
-# 
-attr-is
-
-
-
-
-HTML
-# 
-the-accesskey-attribute
-
-
-
-
-HTML
-# 
-attr-autocapitalize
+attr-enterkeyhint
 
 
 
@@ -2342,13 +2265,6 @@ the-hidden-attribute
 
 HTML
 # 
-attr-enterkeyhint
-
-
-
-
-HTML
-# 
 attr-nonce
 
 
@@ -2356,7 +2272,63 @@ attr-nonce
 
 HTML
 # 
-attr-spellcheck
+the-id-attribute
+
+
+
+
+HTML
+# 
+attr-autocapitalize
+
+
+
+
+HTML
+# 
+attr-is
+
+
+
+
+HTML
+# 
+classes
+
+
+
+
+HTML
+# 
+the-inert-attribute
+
+
+
+
+HTML
+# 
+the-accesskey-attribute
+
+
+
+
+HTML
+# 
+attr-lang
+
+
+
+
+HTML
+# 
+nonce-does-not-update-dom
+
+
+
+
+HTML
+# 
+the-popover-attribute
 
 
 
@@ -2364,6 +2336,34 @@ attr-spellcheck
 HTML
 # 
 inert-subtrees
+
+
+
+
+HTML
+# 
+attr-contenteditable
+
+
+
+
+HTML
+# 
+attr-data-*
+
+
+
+
+HTML
+# 
+attr-inputmode
+
+
+
+
+HTML
+# 
+the-draggable-attribute
 
 
 
@@ -2377,14 +2377,14 @@ style-attribute
 
 CSS Shadow Parts
 # 
-part-attr
+element-attrdef-html-global-exportparts
 
 
 
 
 CSS Shadow Parts
 # 
-element-attrdef-html-global-exportparts
+part-attr
 
 
 

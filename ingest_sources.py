@@ -9,6 +9,7 @@ os.makedirs(RAW_DIR, exist_ok=True)
 PDF_PATHS = [
     "data/raw_sources/doc1.pdf",
     "data/raw_sources/doc2.pdf",
+    "data/raw_sources/doc_srh.pdf"
 ]
 
 WEB_URLS = [
