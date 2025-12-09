@@ -4,3 +4,4 @@ langchain-text-splitters
 chromadb
 PyPDF2
 bs4
+ollama
