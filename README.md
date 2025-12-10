@@ -8,7 +8,7 @@ A simple Retrieval-Augmented Generation (RAG) pipeline made for domain-specific 
 pip install -r requirements.txt
 ollama pull llama3
 python main.py
-(in vs-code you can run python line by line by calling it first then calling the following indented)
+# (in vs-code you can run python line by line by calling it first then calling the following indented)
 python
     from rag_core import answer_plain_llm, answer_rag
     answer_plain_llm("when was The Project Gutenberg eBook of Pride and Prejudice released?")
