@@ -45,7 +45,7 @@ def main():
         with open(out_path, "w", encoding="utf-8") as f:
             f.write(txt)
 
-    # Web pages → txt
+    # Web pages → txt (in data/raw_sources also)
     for i, url in enumerate(WEB_URLS, 1):
         txt = web_to_text(url)
         out_path = os.path.join(RAW_DIR, f"doc_web_{i}.txt")
