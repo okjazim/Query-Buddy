@@ -9,7 +9,7 @@ st.caption("Compare LLM answers with and without RAG.")
 with st.sidebar:
     st.header("Search Settings")
     top_k_slider = st.slider(
-        "Number of documents for RAG (top_k)",
+        "Number of top-k Chunks",
         min_value=1, max_value=20, value=5, step=1
     )
 

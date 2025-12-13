@@ -1,4 +1,3 @@
-# rag_core.py
 import os
 from typing import List
 import ollama
