@@ -70,7 +70,7 @@ def save_embeddings_and_metadata(
     np.save(embeddings_path, embeddings)
     print(f"Saved embeddings to {embeddings_path}")
 
-    # metadata 
+    # metadata with multimodal support
     metadata = []
     for c in chunks:
         metadata.append(
@@ -80,6 +80,8 @@ def save_embeddings_and_metadata(
                 "chunk_index": c["chunk_index"],
                 "char_count": c["char_count"],
                 "text": c["text"],  # emergency blakcbox thingy
+                "modality": c.get("modality", "text"),  # multimodal support
+                "file_metadata": c.get("file_metadata", {}),  # modality-specific metadata
             }
         )
 
