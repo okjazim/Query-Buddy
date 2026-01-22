@@ -13,6 +13,7 @@ RAW_SOURCES_DIR = "data/raw_sources"
 AUDIO_DIR = "data/audio"
 IMAGE_DIR = "data/image"
 
+
 # Ensure directories exist
 for dir_path in [RAW_DIR, RAW_SOURCES_DIR, AUDIO_DIR, IMAGE_DIR]:
     os.makedirs(dir_path, exist_ok=True)
@@ -74,6 +75,7 @@ def validate_common_schema(data: Dict[str, Any]) -> bool:
         print(f"Warning: Unknown modality '{data['modality']}'")
 
     return True
+
 
 def load_pdf(pdf_path: str) -> Dict[str, Any]:
     """Load PDF and return text content with metadata."""

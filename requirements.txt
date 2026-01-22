@@ -8,3 +8,8 @@ streamlit
 openai>=1.0
 tiktoken
 ollama
+pillow
+pytesseract
+
+# SYSTEM DEPENDENCIES (not installable via pip)
+# - Tesseract OCR (required for image ingestion)
