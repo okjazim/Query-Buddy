@@ -1,0 +1,1084 @@
+<!-- MODALITY: IMAGE
+METADATA: {
+  "path": "data\\image\\013_Box-jellyfish.png",
+  "file_size": 3867239,
+  "image_width": 1280,
+  "image_height": 8698,
+  "ocr_engine": "tesseract",
+  "ocr_lang": "eng",
+  "tesseract_cmd": "C:\\Program Files\\Tesseract-OCR\\tesseract.exe",
+  "config": "--oem 3 --psm 6",
+  "min_line_conf": 30.0,
+  "line_count": 387,
+  "overall_bbox": [
+    27,
+    14,
+    1263,
+    8631
+  ],
+  "regions": [
+    {
+      "bbox": [
+        53,
+        14,
+        1263,
+        31
+      ],
+      "avg_conf": 65.5
+    },
+    {
+      "bbox": [
+        41,
+        49,
+        1256,
+        77
+      ],
+      "avg_conf": 67.08333333333333
+    },
+    {
+      "bbox": [
+        53,
+        94,
+        322,
+        113
+      ],
+      "avg_conf": 35.0
+    },
+    {
+      "bbox": [
+        29,
+        108,
+        350,
+        136
+      ],
+      "avg_conf": 31.666666666666668
+    },
+    {
+      "bbox": [
+        202,
+        153,
+        418,
+        165
+      ],
+      "avg_conf": 95.8
+    },
+    {
+      "bbox": [
+        28,
+        187,
+        1147,
+        206
+      ],
+      "avg_conf": 83.72222222222223
+    },
+    {
+      "bbox": [
+        28,
+        200,
+        1170,
+        239
+      ],
+      "avg_conf": 59.72727272727273
+    },
+    {
+      "bbox": [
+        28,
+        228,
+        1237,
+        256
+      ],
+      "avg_conf": 79.21739130434783
+    },
+    {
+      "bbox": [
+        27,
+        257,
+        750,
+        279
+      ],
+      "avg_conf": 84.47058823529412
+    },
+    {
+      "bbox": [
+        28,
+        286,
+        427,
+        307
+      ],
+      "avg_conf": 65.66666666666667
+    },
+    {
+      "bbox": [
+        210,
+        321,
+        1124,
+        333
+      ],
+      "avg_conf": 78.8
+    },
+    {
+      "bbox": [
+        28,
+        331,
+        1122,
+        362
+      ],
+      "avg_conf": 57.8
+    },
+    {
+      "bbox": [
+        28,
+        359,
+        1125,
+        381
+      ],
+      "avg_conf": 87.2
+    },
+    {
+      "bbox": [
+        28,
+        373,
+        1134,
+        397
+      ],
+      "avg_conf": 45.4
+    },
+    {
+      "bbox": [
+        95,
+        415,
+        1128,
+        448
+      ],
+      "avg_conf": 63.57142857142857
+    },
+    {
+      "bbox": [
+        28,
+        435,
+        1133,
+        464
+      ],
+      "avg_conf": 61.4
+    },
+    {
+      "bbox": [
+        28,
+        450,
+        1135,
+        474
+      ],
+      "avg_conf": 72.57142857142857
+    },
+    {
+      "bbox": [
+        236,
+        472,
+        1137,
+        495
+      ],
+      "avg_conf": 84.25
+    },
+    {
+      "bbox": [
+        1071,
+        488,
+        1139,
+        500
+      ],
+      "avg_conf": 70.0
+    },
+    {
+      "bbox": [
+        28,
+        492,
+        1143,
+        517
+      ],
+      "avg_conf": 55.0
+    },
+    {
+      "bbox": [
+        27,
+        508,
+        1147,
+        539
+      ],
+      "avg_conf": 67.88888888888889
+    },
+    {
+      "bbox": [
+        28,
+        539,
+        1132,
+        553
+      ],
+      "avg_conf": 58.8
+    },
+    {
+      "bbox": [
+        28,
+        559,
+        437,
+        578
+      ],
+      "avg_conf": 59.285714285714285
+    },
+    {
+      "bbox": [
+        28,
+        574,
+        528,
+        606
+      ],
+      "avg_conf": 71.33333333333333
+    },
+    {
+      "bbox": [
+        28,
+        591,
+        1148,
+        610
+      ],
+      "avg_conf": 70.125
+    },
+    {
+      "bbox": [
+        28,
+        612,
+        369,
+        626
+      ],
+      "avg_conf": 76.2
+    },
+    {
+      "bbox": [
+        28,
+        633,
+        369,
+        649
+      ],
+      "avg_conf": 76.5
+    },
+    {
+      "bbox": [
+        28,
+        643,
+        1144,
+        674
+      ],
+      "avg_conf": 77.5
+    },
+    {
+      "bbox": [
+        236,
+        672,
+        1110,
+        691
+      ],
+      "avg_conf": 88.0
+    },
+    {
+      "bbox": [
+        28,
+        682,
+        1114,
+        707
+      ],
+      "avg_conf": 49.0
+    },
+    {
+      "bbox": [
+        210,
+        692,
+        1068,
+        713
+      ],
+      "avg_conf": 61.333333333333336
+    },
+    {
+      "bbox": [
+        28,
+        711,
+        1129,
+        732
+      ],
+      "avg_conf": 77.42857142857143
+    },
+    {
+      "bbox": [
+        28,
+        729,
+        1142,
+        756
+      ],
+      "avg_conf": 69.33333333333333
+    },
+    {
+      "bbox": [
+        28,
+        762,
+        1140,
+        781
+      ],
+      "avg_conf": 57.2
+    },
+    {
+      "bbox": [
+        201,
+        778,
+        475,
+        797
+      ],
+      "avg_conf": 69.75
+    },
+    {
+      "bbox": [
+        27,
+        792,
+        1181,
+        808
+      ],
+      "avg_conf": 54.333333333333336
+    },
+    {
+      "bbox": [
+        27,
+        813,
+        1243,
+        840
+      ],
+      "avg_conf": 84.32
+    },
+    {
+      "bbox": [
+        39,
+        833,
+        616,
+        850
+      ],
+      "avg_conf": 79.45454545454545
+    },
+    {
+      "bbox": [
+        995,
+        840,
+        1173,
+        865
+      ],
+      "avg_conf": 96.0
+    },
+    {
+      "bbox": [
+        28,
+        859,
+        1172,
+        891
+      ],
+      "avg_conf": 84.48148148148148
+    },
+    {
+      "bbox": [
+        28,
+        881,
+        849,
+        906
+      ],
+      "avg_conf": 89.5
+    },
+    {
+      "bbox": [
+        28,
+        899,
+        1192,
+        918
+      ],
+      "avg_conf": 58.75
+    },
+    {
+      "bbox": [
+        701,
+        914,
+        830,
+        924
+      ],
+      "avg_conf": 78.66666666666667
+    },
+    {
+      "bbox": [
+        28,
+        917,
+        1179,
+        941
+      ],
+      "avg_conf": 73.23076923076923
+    },
+    {
+      "bbox": [
+        28,
+        939,
+        1201,
+        964
+      ],
+      "avg_conf": 66.8
+    },
+    {
+      "bbox": [
+        29,
+        968,
+        1146,
+        990
+      ],
+      "avg_conf": 60.2
+    },
+    {
+      "bbox": [
+        28,
+        992,
+        1092,
+        1023
+      ],
+      "avg_conf": 53.166666666666664
+    },
+    {
+      "bbox": [
+        27,
+        1024,
+        1101,
+        1040
+      ],
+      "avg_conf": 72.0
+    },
+    {
+      "bbox": [
+        28,
+        1045,
+        370,
+        1064
+      ],
+      "avg_conf": 67.0
+    },
+    {
+      "bbox": [
+        32,
+        1074,
+        358,
+        1088
+      ],
+      "avg_conf": 70.83333333333333
+    },
+    {
+      "bbox": [
+        92,
+        1097,
+        370,
+        1115
+      ],
+      "avg_conf": 54.5
+    },
+    {
+      "bbox": [
+        211,
+        1121,
+        343,
+        1135
+      ],
+      "avg_conf": 61.666666666666664
+    },
+    {
+      "bbox": [
+        234,
+        1148,
+        378,
+        1162
+      ],
+      "avg_conf": 61.333333333333336
+    },
+    {
+      "bbox": [
+        234,
+        1172,
+        388,
+        1186
+      ],
+      "avg_conf": 75.0
+    },
+    {
+      "bbox": [
+        234,
+        1195,
+        379,
+        1209
+      ],
+      "avg_conf": 61.0
+    },
+    {
+      "bbox": [
+        202,
+        1241,
+        346,
+        1260
+      ],
+      "avg_conf": 47.0
+    },
+    {
+      "bbox": [
+        201,
+        1276,
+        1226,
+        1294
+      ],
+      "avg_conf": 89.53571428571429
+    },
+    {
+      "bbox": [
+        202,
+        1288,
+        1230,
+        1324
+      ],
+      "avg_conf": 86.37931034482759
+    },
+    {
+      "bbox": [
+        202,
+        1316,
+        1232,
+        1336
+      ],
+      "avg_conf": 83.92307692307692
+    },
+    {
+      "bbox": [
+        202,
+        1320,
+        1227,
+        1365
+      ],
+      "avg_conf": 81.1
+    },
+    {
+      "bbox": [
+        202,
+        1367,
+        1219,
+        1386
+      ],
+      "avg_conf": 88.92
+    },
+    {
+      "bbox": [
+        202,
+        1288,
+        1230,
+        1319
+      ],
+      "avg_conf": 84.76666666666667
+    },
+    {
+      "bbox": [
+        202,
+        1308,
+        1232,
+        1338
+      ],
+      "avg_conf": 79.64285714285714
+    },
+    {
+      "bbox": [
+        202,
+        1324,
+        1227,
+        1364
+      ],
+      "avg_conf": 79.4
+    },
+    {
+      "bbox": [
+        202,
+        1363,
+        1219,
+        1410
+      ],
+      "avg_conf": 89.23076923076923
+    },
+    {
+      "bbox": [
+        201,
+        1389,
+        1223,
+        1430
+      ],
+      "avg_conf": 86.36666666666666
+    },
+    {
+      "bbox": [
+        201,
+        1407,
+        1238,
+        1438
+      ],
+      "avg_conf": 90.07142857142857
+    },
+    {
+      "bbox": [
+        202,
+        1439,
+        1216,
+        1457
+      ],
+      "avg_conf": 86.0
+    },
+    {
+      "bbox": [
+        202,
+        1456,
+        1224,
+        1479
+      ],
+      "avg_conf": 81.95238095238095
+    },
+    {
+      "bbox": [
+        201,
+        1491,
+        1247,
+        1510
+      ],
+      "avg_conf": 83.06896551724138
+    },
+    {
+      "bbox": [
+        202,
+        1513,
+        1188,
+        1527
+      ],
+      "avg_conf": 93.57142857142857
+    },
+    {
+      "bbox": [
+        202,
+        1533,
+        1230,
+        1550
+      ],
+      "avg_conf": 88.5
+    },
+    {
+      "bbox": [
+        202,
+        1552,
+        1130,
+        1572
+      ],
+      "avg_conf": 91.13636363636364
+    },
+    {
+      "bbox": [
+        202,
+        1581,
+        795,
+        1595
+      ],
+      "avg_conf": 95.4
+    },
+    {
+      "bbox": [
+        202,
+        1603,
+        810,
+        1617
+      ],
+      "avg_conf": 93.47058823529412
+    },
+    {
+      "bbox": [
+        201,
+        1614,
+        1214,
+        1645
+      ],
+      "avg_conf": 77.65
+    },
+    {
+      "bbox": [
+        202,
+        1628,
+        1068,
+        1681
+      ],
+      "avg_conf": 75.85
+    },
+    {
+      "bbox": [
+        202,
+        1663,
+        1157,
+        1688
+      ],
+      "avg_conf": 79.94736842105263
+    },
+    {
+      "bbox": [
+        202,
+        1683,
+        1137,
+        1711
+      ],
+      "avg_conf": 83.6
+    },
+    {
+      "bbox": [
+        202,
+        1711,
+        1164,
+        1729
+      ],
+      "avg_conf": 88.82608695652173
+    }
+  ],
+  "slicing": {
+    "enabled": true,
+    "slice_height": 1400,
+    "slice_overlap": 120,
+    "num_slices": 7
+  },
+  "note": "OCR text extracted from screenshot; regions include bbox + confidence.",
+  "skipped_ocr": false,
+  "cache_path": ".ocr_cache\\013_Box-jellyfish.18451648d3034e3f.ocr.json"
+}
+-->
+
+jellyfish ~—_—=#&Box WixipepiA
+body.”! Main jellyfish (class Cubozoa) cnidarian invertebrates distinguished by their box-like (ie., cube-shaped) page Box some are ——
+nn Car ee eee humans.“ Chironex fleckeri, Carukia barnesi, Malo kingi, and few others, extremely painful and often fatal Some to a are
+like the Carybdea produce painful but fatal humans. sting not to species murrayana a are ‘About Wikpedia
+1 Taxonomy and systematics "ey
+Contribute Ya 2 Description i
+Help é 3 Distribution }
+A Learn ect to Ouse
+i 5.1 growth MN i Age and
+| Upload fie (AN IN
+\) | 5.2 Behavior Special \ pages
+\ 1 5.3 Reproduction
+Tools Wy \\Y 6 Genetics NY
+What \\\ a links here 7 Danger humans to
+(Emme ICTs 7.2 Hawaii: research and dangers
+Cappliiemr ED Phili Ji and 7.3 Mal ‘Thailand, Te
+falaysia, Philippines, Japan, Thailand, and Texas eats Chironew
+8 Protection and treatment Gaia.
+First 8.2 aid for Expand all stings =
+Le 8.3 Possible antidotes humans in
+Print/export ad
+t 9 References
+Ww Download POF as 10 External links
+- In other projects .
+Taxonomy and systematics [eait]
+Historically, cubozoans classified order of Scyphozoa until when they their class due ispei 1973, put to were as an were in own Scientific classification yf
+‘kidata item morphology.! their biological cycle (lack of strobilation) and unique
+Kingdom: Animalia
+Subphylum: Medusozoa bine besa
+[10][better needed] source
+Cubozoa the smallest cnidarian class with approximately 50 represents species. Gas eteam i
+Dede Orders Order Carybdeida «
+Family Alatinidae Carybdeida + Band *
+Tiéng Chirodropida Viet Family Carukiidae * +
+Px Family Carybdeidae *
+Family Tamoyidae 3% 40 + more
+Family Tripedaliidae « 7B
+Order Chirodropida *
+Family Chirodropidae «
+Family Chiropsalmidae +
+Family Chiropsellidae «
+Description [eit]
+‘The medusa form of box jellyfish has squarish, box-like bell, from which derived. each of the four lower of this From its a a name is comers ee
+more of to il <= hangs short pedalium stalk which bears long, slender, hollow tentacles. The the bell folded inwards form shelf a or one or rim is a
+5 pulsates.'") known velarium which the bell's and powerful when the bell result, box jellyfish as restricts aperture creates jet as a a a can on
+fi Sy, ‘ recorded."12) rapidly than other jellyfish; speeds of second have been 1.5 to metres move more up per
+Ye the of the underside of the bell mobile appendage called the manubrium which somewhat resembles elephant’s trunk. In At center its is a an
+Rs; the mouth. The of the bell known the gastrovascular divided by four equidistant central stomach and It tip interior cavity. septa into is is as is a ) i
+either of the UD ANS four pockets. The eight gonads located side four The of the bear bundles of small gastric septa. septa are in pairs on margins
+filaments which house and digestive glands and help subdue Each extended septal funnel that gastric nematocysts to septum into prey. is a 5 =
+3 x animal.) ay the oral surface and facilitates the flow of fluid and of the | onto into out opens
+The box jellyfish’s developed than that of other jellyfish. They the base of the bell that system at nervous is more many possess a ring nerve © "“cunomedusae", from
+coordinates their pulsing feature found elsewhere only the jellyfish. Whereas other jellyfish have simple movements, a in crown some Emst Haeckel's
+lenses."5I Kunstformen der Natur, ocelli, box jellyfish the of complete with and Their pigment-cup true retinas, set are unique in possession eyes, corneas eyes are in
+194 clusters the ends of called rhopalia which connected their Each rhopalium image-forming at structures to contains two sensory are ring nerve.
+lens The lens looks straight of the with field of that matches out water eyes. upper eye up a view
+Snell's window. such Tripedalia cystophora, the lens used In to navigate to species as upper eye is
+tS B their preferred habitats the edges of lagoons by observing the direction of the at tree mangrove <— |
+Ve \. that the i canopy.!4l The lower lens primarily used for object avoidance. Research has shown eye is _
+GY =— visual angle for obstacles avoided by their lower lens matches the half-widths of their minimum eyes re
+bs , fields.!"5] Each rhopalium also has either side of the lens which receptive two pit eyes on upper eye
+a —_ likely light and slit either side of the lower lens which likely act meters, two as mere eyes on eye are
+movement.!*5! used detect vertical total, the box jellyfish have each of their four in to six eyes on Ay _A —
+Ta rhopalia, total of The rhopalia also feature heavy crystal-lke called 24 creating structure a eyes. a a ll
+ta om statolith, which, due the flexibility of the rhopalia, keep the oriented vertically regardless of to eyes
+a ‘The complex rhopalial ocelli of Tripedalia cystophora bell.{!41 the of the orientation
+jellyfish also display complex, probably visually-guided behaviors such obstacle avoidance Box as
+swimming.“7! and fast directional Research indicates that, the number of rhopalial cells and their overall visual and to arrangement, integration at owing nerve processing
+jellyfish.” least partly happen within the rhopalia of box The complex relatively advanced compared other jellyfish, and box system supports system to nervous a sensory
+behavior.“#) jellyfish have been described having fish-like active, as an
+Depending fully box jellyfish (8 in) along each box side (30 diameter), and the tentacles 20 12 3 to to on species, a grown can measure up cm cm or in in can grow up m
+(4%, Ib).°! (10 ft) length. weight reach kg the thumbnail-sized Irukandji box jellyfish, and lethal despite small There about Its 2 However, 15 its in can is a size. are
+tentacles each Each tentacle has about cnidocytes, harpoon-shaped mechanism that the 500,000 containing nematocysts, injects into on corer. a microscopic venom
+victim.2° cubozoans.24) different kinds of found Many nematocysts are in
+Distribution [eait}
+Although the notoriously dangerous of box jellyfish largely restricted the tropical Indo-Pacific to species are region, various
+°S),!1 of box jellyfish be found widely tropical and subtropical (between and including the 42° N 42 species can in oceans
+Atlantic and the Pacific with far north California (Carybdea confusa), the Mediterranean Ocean Ocean, east species as as soo
+marsupialis)”! yamaguchii),'"! (Carybdea and (such Chironex and far south South Africa (such ‘Sea Japan as as as as
+a branchi)!l sivickisi).8! Carybdea and Zealand (such Copula Though box jellies known inhabit the Indo-Pacific New to as are “
+‘ there little collected data studies this. only that the first box jelly sightings It 2014, region, is very or proving was in ever
+Ocean.4! (Tripedalia cystophora) officially published Australia, Thailand and the Indian There three known ~ 2 were in are
+sivickisi.7°! all from the Carybdea: alata, and Within these tropical and Hawaiian C. C. rastoni, C. waters, species in genus a ‘The Indo-Pacific ocean region
+subtropical box jellyfish tend reside closer shore. They have been spotted near-shore habitats such environments, to to in as
+beaches.26) coral reefs, kelp forests, and sandy mangroves,
+Recently, and of box jellyfish discovered the Indo-Pacific specifically the Gulf of Thailand. Discovered and named after 2023, in a new genus species was in region,
+Gershwin, this of box jellyfish, Gershwinia thailandensis, member of the Carukiidae family. Gershwinia thailandensis described Lisa-ann scientist its new species is a is as
+phaecellae.?7! has with specialized horns and lacks digestive box jelly, the stomach Due it structures system gastric to own new species as sensory a common among
+jellyfish.75) this and other observations, structural and biological, Gershwinia thailandensis accepted of box was as a new species
+Detection [eait
+Cubozoans widely distributed throughout tropical and subtropical the detection of these be yet are regions, organisms can Zen
+‘ae Ga py | y) difficult and costly due high of their and abundance, their translucent body, quite to amount variation two a in occurrence
+4 p W different life (medusa and polyp), and of variability within the different the class ° stages vast amounts size species in .
+SN 231 Cubozoa 4
+\ oe Understanding the ecological distribution of cubozoans be difficult work, and of the costly methods like visual can some .
+Yh ‘ observations, of different light techniques, and recently the of drones have had variety nets, attraction most a use some
+©? * levels of locating and tracking different of cubozoa, but limited by both anthropogenic and WS ‘ success in species are 4,
+oe ow factors. environmental
+rs form of detection, environmental (eDNA), has been developed and employed help aid the analysis of the ‘Anew DNA to in
+der tha nffante that hny ialhifich beara pmactal amthrnamnmerin inte am
+ee nn nee EE EE a
+observations, of different light techniques, and recently the of drones have had attraction variety nets, most a use some
+factors.8% environmental
+populations of box jellyfish which be implemented the effects that box jellyfish have coastal anthropogenic to mitigate can on q
+4 A activities. 79154] This relatively and cost-effective method utilizes extra-organismal material that be found genetic easy can in
+organism.!201i341 the column shedding throughout the lifespan of water via an a”
+technique Vy; A This for identifying box jellyfish the involves collecting sample and filtering the sample eDNA water process using a
+a sample. through cellulose membrane filter material from the the nitrate extract genetic once DNAis to water 4 any
+etracted, analyzed for species-specific matches ifthe sampled correlate with itis eDNA DNA o existing see sequences TEE
+jellyfish.!°°! for box the results, the absence of the box jellyfish be indicated through the Given ‘sequences presence or can eDNA from the column water using a
+material.2°) area.°4) matching of if match found, then the box jellyfish the The utilization of _cellulose membrane filter. genetic DNA nitrate present a is was in
+provide cost-effective and efficient populations of box jellyfish both medusa and polyp life stages, to to monitor can a way in
+activities.!9) then the data help understand about their ecology and limit the effects coastal anthropogenic to use more on
+Ecology [eait)
+Age and growth [eait)
+thas been found that the statoliths, which composed of calcium sulfate hemihydrate, exhibit clear sequential incremental layers, thought be laid down daily to are on a
+basis. This has enabled researchers growth and Chironex fleckeri, for example, inter-pedalia distance (IPD) by to maturity. 3 estimate rates, to its ages, age increases mm
+(% in) day, reaching of (2 in) when days old. The of individual examined days by which had IPD 50 45 to 50 88 time IPD it to per an mm maximum age any was grown an
+in).2! tank.) of (6 the wild, the box jellyfish will live months, but eight months lab 155 in to 3 to mm up can survive up seven or in a science
+Behavior [eait)
+The box jellyfish actively hunts (small fish), rather than drifting do jellyfish. They capable of achieving speeds of strong to 1.5 to 2 metres its true prey as are swimmers, up
+mph)."*! contractions.“4! obstacles.) second about knots (7.4 km/h; and rapidly few bell capable of avoiding 4 4.6 turning to 180° Some per or up in a species are
+The of box jellyfishes feed by extending their tentacles and accelerating for short upwards, then upside-down and pulsating. Then the jellyfish time turn majority stop a
+opening." slowly sinks, until finds itself entangled by tentacles. this the pedalia fold and bring the the oral At point to prey prey
+The of cubozoans distinct from that of scyphozoans, and used catch (small fish and invertebrates, including and bait fish) and for defence from to venom is is prey prawns
+predators, which include the butterfish, batfish, rabbifish, crabs (blue crab) and of turtle including the hawksbill turtle and flatback turtle. swimmer various species sea sea
+jellyfish29) that turtles unaffected by the because they relish box It stings to seems sea are seem
+Reproduction [ecit)
+Cubozoans usually have annual life cycle. jellyfish reach sexual when their bell diameter reaches Box maturity 5 eT Rel = an regis ores
+by | se millimeters. Chirodropida reproduces by external fertilization. Carybdeida instead reproduces internal fertilization and is
+spermatophore.©*! ante transferred by of after the fertilization, the spermatozeugmata, type Hours ovoviviparous; sperm is a
+| isorhizas."! female releases embryo strand that both euryteles and Cubozoas the only contains its nematocytes; an own are ae ak
+AY RE: class of cnidarian that that perform the "wedding dance" transfer the spermatophores from the male contains to into species
+ri species.!°41 A) the females, including the Carybdea sivickisi 4 bk oe
+} Ps | 4 rae previously believed that medusa only reproduce their life before dying few weeks later, semelparity Itis species once in a a
+bs a lifestyle.©4! es Alternatively, July the box jelly Chiropsalmus quadrumanus, found potentially have 2023, a to in species were ‘
+Cy 4 Pe reproduction, they reproduce multiple their life. happen times Oogenesis to iteroparous times meaning in appears numerous
+ok vitellogenic.°71 discovered four pre-vitellogenic, early vitellogenic, mid vitellogenic, and late oocytes stages; % as are in wh
+ei 43 research needs be conducted determine if box jellyfish semelparity if Continuous to iteroparous, itis to are or or species
+dependent. ee ee
+Genetics a oe Ee [eait)
+eS "8! chromosomes. ~ jellyfish have mitochondrial that arranged eight linear of only Cubozoan Box into As 2022, two a genome is
+a Box jellyfish Chiropsalmus species
+fully sequenced, Alatina alata and Morbakka virulenta. alata has the largest for A. 66,156 count species were genes, gene ‘quadrumanus contradicts the belief that
+Medusozoan.*! The mitochondrial of box jellyfish uniquely structured multiple linear fragments. Each into ‘Cubozoans semelparous. any genome is are
+of the eight linear chromosomes have between and four including These extra extra two two one one genes genes. genes
+proteins.*! (mt-polB and orf314) encode There only few studies that have been completed involving the research of are a
+jellyfish. mitochondrial box gene expression in
+Danger humans to [eit
+jellyfish have been long known for their powerful The lethality of the Cubozoan humans the Box sting. to venom is primary me Be
+rans research.*! Wr for Although unspecified of box jellyfish have been called "the world's ws most 7 » its reason species in newspapers
+af ay aa creature""! sea,'* and the deadliest the only few the class have been confirmed be creature to > venomous in a species in 3
+- rw ee hh, dal that than, on ctinn arinn « ice pn mare
+research.8! oy ns for although unspecified of box jellyfish have been called "the world's ~ most 0. %% its reason species in newspapers
+A creature") sea,!*4] and the deadliest the only few the class have been confirmed be 4 > creature to ANY venomous in a species in
+Bee tg) involved human deaths; harmful humans, possibly delivering that than not to sting in some species are a is no more
+\@ ay painful.! identified.'°%! when the of the box jellyfish analyzed, than The high 170 toxic proteins venom was more were
+of that the box jellyfish the they known be dangerous. from the box toxin to Stings quantity proteins < possess is reason are so
+fatal.!28) Ne jellyfish lead skin cardiotoxicity, and be to irritation, can can even ‘s
+a y ‘Australia [ecit)
+fA ae Flecker, who worked animal and plants, concerned the unexplained Hugo at on various venomous species poisonous was
+SR aa deaths of identified the the of box jellyfish later named Chironex fleckeri. he He In 1945, eA swimmers. cause as species \
+pe ee = described another jellyfish which he named the “Irukandji Syndrome’, later identified caused by the box envenoming as
+ee barnesi.!421 pata jellyfish Carukia species |
+Res E
+nS Australia, fatalities often caused by the largest of this class of jellyfish, Chironex fleckeri, of the In most are species one ESE W
+IF creatures."*2] } world's After Chironex fleckeri cardiac quickly, within E most arrest two stings, just venomous severe can occur 03
+| SUMMER, minutes.'*5] 1883,41!45 Mot fleckeri has caused least deaths the first but this c. 79 report at most since in even in species §|
+envenoming.“ result only mild while deaths Australia have been children, to encounters most recent appear in in in
+2022,7! mass,"“4! including old who died February which linked their smaller body February 14-year 2021, 17- to a in is in a aI
+(48) Box jellyfish signpost at Cape waming a ,
+year-old boy died about days after being while beach Queensland's York® The 10 Cape stung at western swimming a on Foy InN AR Mn aS OS
+2007.49) fatality previous was in
+jellyfish.=°4 least deaths Australia have been attributed the thumbnail-sized Irukandji box people by At two stung to in
+| syndrome.{©2I these suffer physical and psychological known Irukandji Nevertheless, victims symptoms, most may severe as
+; do and of people treated for Irukangji Australia almost half could be discharged out 62 1996, envenomation survive, in in
+home with few after hours, and only remained hospitalized approximately day after they symptoms 6 two or no a were x
+stung: ———
+= QE Australia include deployed beaches keep jellyfish and of placed along Preventative nets to out, measures in on jugs vinegar
+for rapid ae| aid.!48) beaches be used first one to swimming Se es
+eg BOE Hawaii: research and dangers OES [ecit)
+Sa a Elis Researchers the of of Tropical Medicine found the cells become University Hawai''s Department to at venom causes porous
+enough allow leakage, hyperkalemia, which lead cardiovascular collapse and death quickly to potassium to causing can as
+within 2 5 minutes. to as
+a ais box jellyfish numbers peak approximately days after full when they the shore VINEGAR_| In Hawaii, to ten to seven moon, come near
+Ls the influx that lifeguards have closed infested beaches, such until the Sometimes, Hanauma Bay, spawn. is so severe as z
+‘ealles) FOR USE ON MARINE STING:
+numbers subside. POUR ON DO NOT RUB -
+SEEK MEDICAL ATTENTION
+Malaysia, Philippines, Japan, Thailand, and Texas [ecit)
+) of the Malay Archipelago, the number of lethal far higher than Australia. the Philippines, estimated In parts n amy cases is in an ~
+eo) antivenom.©51 people die annually from Chirodropid probably limited medical facilities and 20-40 stings, to to owing access
+The discovered and similar Chironex yamaguchii be equally dangerous, has been implicated 2009 it in very species may as
+‘A © vinegar post Queensland, Australia in m
+several deaths unclear which of these the usually involved fatalities the Malay Japan. itis in in species is one in in
+Ngan," 2015.!51 being off Pha and another Beach October Ko at Lamai at Ko Samui 6 stung on
+4-year-old child died after being by Chiropsalmus quadrumanus Galveston Island, the Gulf of Either this Chiropsoides In 1990, at Texas, Mexico. stung a on species or
+Malaysia.©5) buitendijki considered the likely of deaths perpetrator two West is in
+Protection and treatment [ecit}
+Protective clothing [ecit]
+{1luetable source?] pantyhose, full body lycra dive skins, effective box jellyfish The pantyhose formerly Wearing suits, protection wetsuits against stings or is an were
+thought work because of the length of the box jellyfish's (nematocysts), but known be related the the cells work. The cells to to stinger stinging stingers it to is now way on
+box jellyfish's tentacles triggered by touch, but by chemicals found skin, which the hose's surface, the jellyfish's do not nematocysts not present outer a are on are on so
+fire.291 not
+First aid for stings [ecit]
+also: Jellyfish § See Stings
+tentacle of the box jellyfish adheres skin, with the skin, the and Flushing with used Once to nematocysts into sting it to a pumps venom causing agonizing pain. vinegar is
+deactivate undischarged the release of additional study reported that also increased the of released from nematocysts prevent A 2014 to amount venom. vinegar venom
+!©2) grounds. already-discharged however, this study has been criticized methodological nematocysts; on
+jellyfish.©) made available Australian beaches and other places with Vinegar is on in venomous
+Removal of additional tentacles usually done with towel gloved hand, secondary Tentacles still if separated from the bell, after the to prevent sting stinging. is a or can or
+dead. Removal of tentacles unfired with the skin and fire, resulting degree of nematocysts to greater creature into contact envenomation. is may cause come in a
+[citation needed),
+treatment,©"! Although commonly recommended folklore and there scientific evidence that tenderizer, sodium sting meat in even some papers on is no urine, ammonia,
+bicarbonate, boric acid, lemon fresh steroid alcohol, cold packs, hydrogen peroxide will disable further and these substances water, stinging, juice, cream, papaya, or may
+venom.'*4! relief.'°°! hasten the release of packs have been for moderate The of immobilization bandages, methylated Heat spirits, even proven pain use pressure or
+/©S167116811691 vodka generally recommended for jelly not stings, is use on
+researchers the of announced that they had developed effective the of box jellyfish by In 2011, University Hawai'i at Manoa stings Hawaiian at treatment against an
+tentacles.” “deconstructing” the contained their effectiveness demonstrated the episode Killer’, originally shown Its PBS Nova "Venom: Nature's venom in was in on
+2012.'74] North television February Their research found that injected gluconate prevented the disruption of red blood cells and reduced the effects American toxic in zinc
+mice.'”21I75] the cardiac of research later found that gluconate effective. gluconate has been produced, activity |t A containing on was copper was even more cream copper
+anecdotal.!74) be applied inhibit the injected although used by military divers, evidence that effective humans only U.S. it to to it venom; is is in is
+April of researchers the of Sydney announced that they had found possible antidote Chironex fleckeri that would and In 2019, at University to team stop a a venom pain
+skin if administered within of being The research the result of work done with whole editing which the researchers 15 stung. CRISPR minutes necrosis was genome in
+selectively deactivated skin-cell until they able identify calcium host factor The research ATP2B1, ATPase, to transporting supporting cytotoxicity. genes were a as a
+humans.!751 showed the therapeutic of drugs cholesterol although the efficacy of the approach had been demonstrated existing targeting not use in mice, in
+References [eait)
+a ‘Scyphozoa and the phylum Cnidaria’ (PDF). Publications of the Seto Marine Cubozoa’. Institute of Biosciences of the University of Sao Paulo. Sao Paulo.
+Biological Laboratory. 3. doi:10.5134/175791 20: 35-61. 37. Garcia-Rodriguez, Jimena; Ames, Cheryl Lewis; Jaimes-Becerra, Adrian; Tiseo,
+@ (Subscription membership required.) ‘Antonio Carlos (July 2023). "Histological Investigation of the Female Gonads of participating institution or
+et. Waikiki Aquarium, Chiropsalmus quadrumanus (Cubozoa: Cnidaria) Suggests Iteroparous 3. 4 "Box Jelly’ 2013-11-20. Retrieved 2021-12-06.
+3. doi:10.33901015070816 ISSN 1424-2818. classes Seyphozoa, Cubzoa and Staurozoa". In Schierwater, Bernd; DeSalle, Rob
+38,0406 Kayal, Ehsan; Bentalge, Bastian; Collins, Allen G (June 6, 2016), "Insights (eds.). Invertebrate Zoology: A Tree of Life Approach. CRC Press. ISBN 978-1-4822-
+3582-1. the transcriptional and translational mechanisms of linear organellar Into
+- chromosomes the box jellyfish Alatina alata (Cnidaria: Medusozoa: Cubozoa)', RNA 5, A "WoRMS World Register of Marine Species Cubozoa":2. in marinespecies.org. -
+Library of Biology, U.S. National Medicine, vol. 13, 9, 792-809, no. pp. Retrieved 2018-03-19.
+3, 2 5013998 doi:10.1080/15476286.2016,1194161.:2, PMC PMID 27267414 6. Bentlage B, Cartwright P, Yanagihara AA, Lewis C, Richards GS, Collins AG
+39, A Santander, Mylena D.; Maronna, Maximiliano M.; Ryan, Joseph F;; Andrade, Sonia (February 2010). "Evolution of box jellyfish (Cnidaria: Cubzoa), of highly toxic a group
+C'S. (2022). "The of Medusozoa Current evidence and future state invertebrates cz. Proceedings. Biological Sciences. 277 (1680): 493-501. genomics:
+g. 9112765 7.94264 PMC PMID 35579552. Lewis C, Bentlage B (2009). "Clarifying the identity of the Japanese Habu-
+Q. jellyfish” fa 40, 4 *Girl by world's deadliest Daily Telegraph. London. 27 sting survives kurage, Chironex yamaguchi, (Cnidaria: Cubozoa: Chirodropida)’ (PDF). sp nov
+‘April 2010, Archived from the original 2022-01-12. Retrieved 11 December 2010. z on Zootaxa, 2030: 59-65. doi:10.11646/z00taxa.2030.1.5 2
+8.*# 41. 4 Hunt, lle (8 July 2021). "It looked lke alien, with all tentacies wrapped around ts Gershwin L, Gibbons M (2009). "Carybdea branchi, box jellyfish an sp. nov., a new
+f 2. Africa’ her: jellyfish here holiday?" The Guardian. to are ruin your summer (Cnidaria: Cubozoa) trom South (PDF). Zootaxa. 2088: 41-60.
+Gershwin, Biography. Vol. 14. National Centre of Biography, Australian National University 9.82 L. A.;Aldersiade, P (2006). "Chiropsella bart box jellyfish n. sp., a new
+2 182-184, ISBN 978-0-522-84459-7. ISSN 1833-7538 2. OCLC 70677943 2. (Cnidaria: Cubozoa: Chirodropida) from the Northern Territory, Australia” (PDF). Pp.
+and Art 43, 4 "Beach shock after dies from box jellyfish ABC The Beagle, Records of the Museums Galleries of the Northern Territory. 22 community teenager sting’ cz. in
+i original 2009-09-27. 44, © Centre for Disease Control (November 2012). "Chironex flecker! (PDF) on
+(Press release). Northern Territory Government Department of Health, Archived from 10. 4 Holland, Brenden; Khramoy, Marat; Crites, Jennifer. Box Jellyfish (Cubozoa:
+fa) original tne (PDF) 2016-07-09. Retrieved 2018-11-10. Carybdeida) Hawaiian Waters, and the First Record of Tripedalia cystophora on in in
+Hawal'ica (Report). 45, 4 "Teenage boy dies trom box jellyfish Cape York the first death from the sting in —
+2. *4 animal 15 www.abe.net.au. 2021-03-04, Retrieved 2021-03-08. 11. Ruppert, Edward E.; Fox, Richard S.; Bares, Robert D. (2004). Invertebrate in years"
+:. °# Zoology, 7th edition. Cengage Learning. 153-154. ISBN 978-81-315-0104-7. 46. Daubert, G. P. (2008). “Cnidaria Envenomation" eMedicine. pp.
+12. 4 Bames, Robert D. (1982). Invertebrate Zoology. Philadelphia, PA: Holt-Saunders 47. Maddison, Melissa (26 February 2022). "Teenager dies from box jellyfish sting at
+International. 139-149. ISBN 0-03-056747-5. Elmeo Beach Mackay" ABC News. ct. pp. near
+13. Nilsson, Dan-€.; Gislén, Lars; Coates, Melissa M.; Skogh, Charlotta; Garm, Anders 48, "Queensland dies from box jellyfish first fatality rom the animal teenager sting in in
+@. eye" (May 2005). "Advanced jellyfish Nature. 435 (7039): 201-205. 15 years". The Guardian. 2021-03-04. Retrieved 2021-03-08. optics in a
+2. Bibcode:2005Natur.435,.201N doi10.1038/natureda4e4 ISSN 1476-4687 c2. ct. 49. * *Queensiand boy dies after being by box jellyfish wile stung 2. swimming’
+Anders; Hadok Garm, 14.2 Oskarsson, Magnus; Nilsson, Dan-Eric (2011-05-10). "Box 50. 4 Fenner PJ, JC (October 2002). "Fatal by jellyfish envenomation causing
+Q. of syndrome" Jellyfish Use Terrestrial Visual Cues for Navigation” 2. Current Biology. 21 (9): 798~ Irukandji The Medical Journal Australia. 177 (7): 362-3.
+9822.2. PMID 21530262 2. 51. 4 Gershwin, L (2007). "Malo kingi: A of Irukandjjeliyish (Cnidaria new species
+415. * Garm, A; O'Connor, M; Parkefelt,L; Nilsson, D (October 15, 2007). "Visually guided Cuboz0a: Carybdeida), possibly lethal humans, from Queensland, Australia’ to
+obstacle avoidance the box jellyfish Tripedalia cystophora and Chiropsella Zootaxa, 1659: 55-68. do:10.11646/z0otaxa.1659.1.2¢2. in
+Bibcode:2007JExpB.210.361662. doi:10.1242/jeb.004044 2. PMID 1792116342. far north Queensland”. The Medical Journal of Australia. 169 (11-12): 638-41.
+lesser eyes jellyfish 2. of the ofthe box Tipedalia cystophora’ Vision Research. 48 2. 53. 4"VJelyfish: A Dangerous Ocean Organism of Hawai Archived from the originale?
+Bay cz. PMID 1830836412. 54, 8 “Hanauma closed for second day due box jellyfish" Archived from the to
+Garm A, c2 17.44 Skogh C, Nilsson DE, Ekstrém P (December 2006). "Bilaterally original 2021-01-02. Retrieved 2010-10-06. on
+symmetrical rhopalial of the box jellyfish Tripedalia cystophora”. system nervous 55. 4 Fenner PJ, Williamson JA (1996). "Worldwide deaths and envenomation severe
+2. of Journal of Morphology. 267 (12): 1391-405. Bibcode:2006JMorp.267.1391S from jellyfish stings". The Medical Journal Australia. 165 (11-12): 658-61.
+418, 4 Nilsson DE, Gislén L, Coates MM, Skogh C, Garm A (May 2005). "Advanced a8 optics. ¢ 56, Fenner P3 (1997), The Global Problem of Cidarian (Jellyfish) Stinging (PhD
+7 jellyfish eye", Nature. 435 (7039): 201-5. Bibcode:2005Natur.435..201N [pave needed] ch in a Thesis). London: London University. OCLC 225812293
+:2, (2. doi:10.1038/nature03484 PMID 15889091 S2CID 4418085 12. 57. 4 "Box jellyfish Ko Phangan" Bangkok Post. 25 August 2014. cx. warning in
+ct. Authority 8454 19, »Box Jellyfish, Box Jellyfish Pictures, Box Jellyfish Facts’ 58, A "Jellyfish for travellers Thailand” Tourism of c2. warning swimming in
+NationalGeographic.com. 10 September 2010. Archived from the original on Thailand Newsroom. TAT. Retieved 24 May 2015.
+January 24, 2010. Retrieved 2012-08-27. 59. 4 "Box jellyfish kills Koh Phangan Phuket Gazette” sting ct. woman in -
+20. 8 Williamson JA, Fenner P3, Bumett JW, Rifkin J, eds. (1996). Venomous and phuketgazette.net. 3 August 2015, Retrieved 15 March 2018.
+2. : animals: medical and biological handbook. Surf Life Saving Poisonous marine a 60. 4 “Jellyfish Kill German Tourist Koh Samui Archived from the original on on
+Australia and University of New North Wales Press Ltd. ISBN 0-86840-279-6 2016-03-04, Retrieved 2015-10-07.
+tnage needed 61. 4 Fitzpatrick, Jason (June 10, 2010). "Use Pantyhose Protect Yourself from Jellyfish to
+Cuboz0a"G 21. * Gershwin, L (2006). "Nematocysts of the (PDF). Zootaxa (1232): 1-87. stings’ Lifehacker, Retrieved November 8, 2018, cd
+22. ® Straehler-Ponl, |. G.1. Matsumoto; M.J. Acevedo (2017). "Recognition of the 62. 4 Wilcox, Christie (9 April 2014). "Should box jelly stop to treat we using vinegar
+Californian cubozoan population Carybdea confusa (Cnidaria, as a new species n. sp. stings? Not yet_-Venom weigh study, Science Sushi Discover experts recent in on
+Cubozoa, Carybdelda)’ 2. Plankton Benthos Res. 12 (2): 129-138. Magazine Blogs. Archived from the original 21 June 2020. Retrieved 26 April on
+23. * Gershwin L (2009). "Staurozoa, Cubozoa, Scyphozoa (Cnidaria). In Gordon D 63, 4 Zoltan TB, Taylor KS, Achar SA (June 2005). "Health for surfers". American issues
+Animalia 32° needed] (0,). New Zealand inventory of Biodiversity, Vol. 1: Kingdom Family Physician. 71 (12) 2318-7, PMib 158098682,
+24, ® Pongsakchat, Vanida; Kidpholjaroen, Pattaraporn (2020-06-28). "The Statistical 64. Fenner P (2000). "Marine An update ~A presentation the current envenomation: on
+Distributions of PM2.5 Rayong and Chonburi Provinces, Thailand’, Asian Journal in status of envenomation fist ad and medical treatments". Emergency Medicine marine
+- *. 25. © "Box Jelly". University of Hawaii Waikiki Aquarium. 20 November 2013. 65. A Taylor, G. (2000). "Are jellyfish heat labile?" South Pacific toxins some
+7. Retrieved 28 June 2020. Underwater Medicine Society Journal. 30 (2). ISSN 0813-1988 OCLC 169868017.
+26. Coates, Melissa M. (2003-08-01). "Visual Ecology and Functional Morphology of Archived from the original 2009-01-23. Retieved 2013-11-15. on
+Cubozoa (Cnidaria) Integrative and Comparative Biology. 43 (4): 542-548, 2. 66, 4 Hartwick R, Callanan V, Williamson J (January 1980). "Disarming the box-ellyfish:
+g. doi:10.1098/cb/43.4.542 ISSN 1540-70632. PMID 21680462. rnematocyst inhibition Chironex flecker'. The Medical Journal of Australia. 1 (1): 15~ in
+Mechanism of Toxin Production the Box Jellyfish Alatina alata’. Integrative and in S2CID 20405416802,
+Comparative Biology. 56 (5): 973-988, do:10.1093/icbficw113%2. ISSN 1540-70637. 67, » seymour J, CarretteT, Cullen P, Lite M, Mulcahy RF, Pereira PL (October 2002),
+(2. JSTOR 26370052 PMID 27880678 2. “The of immobilization bandages the first aid of management use pressure in
+28. * Aungtonya, Charatsee; Xiao, Jie; Zhang, Xuelei; Wutthituntisil, Nattanon (October cubozoan envenomings". Toxicon. 40 (10): 1503-5. Bibcode:2002Txcn...40.1503S c2
+2018). “The Chiropsoides (Chirodropida: Chiropsalmidae) from the Andaman genus ¢loi:10.1016'80041-0101(02)00152-6¢2, PMID 122681222.
+4 waters". Sea, Thal Acta Oceanologica Sinica. 37 (LO): 119-126. 68, Little M (June 2002). "Is there role for the of immobilization a use pressure
+Bibcode:2018AcOSn..37..119A¢2. doit10.1007/s13131-018-1311-4¢2. ISSN 0253- bandages the treatment o jellyfish Australia. Emergency envenomation in in
+RF Michael (2021), "Validation of eDNA viable method of detection for dangerous as a 69, 4 Pereira PL, CarreteT. Cullen P, Mulcahy Lite M, Seymour 3 (2000), "Pressure
+3. do-10.1002/edn3.181 cubozoan jellyfish &. Environmental DNA. 3 (4): 769-779, immobilisation bandages fst-aid of eliyfish treatment envenomation: current in
+@. 30.*° 4 Morrissey, Scott J.; Jerry, Dean R.; Kingsford, Michael J. (2022-12-19). reconsidered" recommendations The Medical Journal of Australia. 173 (11-12):
+"Genetic Detection and Method Study the Ecology of Deadly Cubozoan to a (650-2, doi:10.5604/,1926-5877.2000 tb139373.xc2, PMID 11379519¢2.
+3. “Angel dot-10.3390/d14121139 ISSN 1424-281812. 70. § UHMedNow, Yanaginara's box jellyfish research leads to sting venom
+°# © 31, Minamoto, Toshifumi; Fukuda, Miho; Katsuhara, Koki R.; Fujiwara, Ayaka; treatment" Archived 2012-10-22 at the Wayback Machine, March 4, 2011
+idaka. Shunsuke: Yamamoto. Satoshi: Takahashi, Kohii: Masuda, Rell (2017-02-28). ......... 0
+30. J.; Dean R.; J. @. Morrissey, Scott Jerry, Kingsford, Michael (2022-12-19). reconsidered recommendations The Medical Journal of Australia, 173 (11-12):
+"Genetic Detection and Method Study the Ecology of Deadly Cubozoan to a (650-2, doi:10.5694V, 1326-5377.2000.b139973.xe2, PMID 11379519¢7
+"Ange! seeots121209, soto 150 2s 28182 70." Uke Yanagi bos hh esearch ast sig venom
+Hidaka, Shunsuke; Yamamoto, Satoshi; Takahashi, Kohji; Masuda, Reij (2017-02-28). 74. n pag Nova, Venom: Nature's Killer (transcript)
+Environmental DNA reflects spatial and temporal elyishcistibution"e2. PLOS ONE. 79» Vanaginara AA, Shohet RV (12 December 2012). "Cubozoan venominduced
+42 (2) €0173073, Bibcode:2017PLOSO..1273073M 12 cardiovascular collapse caused by hyperkalemia and prevented by gluconate is zinc
+As 92. * Pit, Kylie A.; Lucas, Cathy H. (2013), Jellyish Blooms. Springer Science & 73, Wilcox, Christie (12 December 2012). "Don't Pee On It: Zinc Emerges New
+Business Media. 280. ISBN 978-94-007-7015-7. p. Jellyfish Sting Treatment’. sclentificamerican.com, Retrieved 31 August 2018.
+* 38. “Australian Box Jellyfish: 15 Fascinating Facts" Travel NQ. 2014-12-14. (2. 74, * Law, Yao-Hua (8 November 2018). "Jellyfish almost killed this Now, she scientist.
+Rewleved 2021-12-06 others from their fatal venom” Science AAAS. wants to cz. save -
+A. B.; Thang M.; 34.29 Lewis, Cheryl; Long, Tristan F. (2005-06-01). "Courtship and reproduction in 75, « Lay, Man-Tat; Manion, John; Litleboy, Jamie Oyston, Lisa; Khuong,
+David T.; Caryodiea sivickisi (Chidaria: Cubozoa)". Marine Biology. 147 (2): 477483. Wang, Qiao-Ping; Nguyen, Hesselson, Daniel; Seymour, Jamie E.; Neely, G.
+Bibcode:2005MarBi.147..4771. dol:20.20071500227-005-1602-012. ISSN 1432+ «2. Gregory (April 30, 2019). "Molecular dissection of box jellyfish cytotoxicity venom
+1798.2. 7. highlights effective antidote" Nature Communications. 10 (1): 1655. an venom
+x2, 2 35. Avian, Massimo; RamSak, Andreja (2021). "Chapter 10: Phylum Cnidaria: classes Bibcode:2019NaiCo.-10 16851 doi:10.1038/s41467-019-09681-1
+7. ‘Seyphozoa, Cubozoa and Staurozoa”. In Schierwater, Bernd; DeSalle, Rob (eds.). 9. PMC 6491561 PMID 21040274 1655.
+Invertebrate Zoology: A Tree of Life Approach. CRC Press. ISBN 978-1-4822-3582-1.
+External links [eait)
+Cubozoa classification *
+Cnidaria classes Extant {hide} were
+- - Lo Medusozoa Cubozoa Hydirozoa Scyphozoa Staurozoa Polypodiozoa (box jellyfish) (nydrozoans) (true jelfish) (stalked jellyfish) (Polypodium) - -
+- Myxozoa_Malacosporea Myxosporea «
+identifiers Taxon
+Paleobiology Database: 9203.2 WoRMS: 135219: -
+| | | | Cubozoa Medusozoa animals Cnidarians of the Pacific Cnidarians of the Indian Categories: Venomous Ocean Ocean
+This last edited 16 January 2026, 18:38 (UTC). at page was on

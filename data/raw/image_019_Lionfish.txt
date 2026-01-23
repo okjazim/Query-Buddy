@@ -1,0 +1,1141 @@
+<!-- MODALITY: IMAGE
+METADATA: {
+  "path": "data\\image\\019_Lionfish.png",
+  "file_size": 4631610,
+  "image_width": 1280,
+  "image_height": 10679,
+  "ocr_engine": "tesseract",
+  "ocr_lang": "eng",
+  "tesseract_cmd": "C:\\Program Files\\Tesseract-OCR\\tesseract.exe",
+  "config": "--oem 3 --psm 6",
+  "min_line_conf": 30.0,
+  "line_count": 464,
+  "overall_bbox": [
+    23,
+    14,
+    1264,
+    10612
+  ],
+  "regions": [
+    {
+      "bbox": [
+        53,
+        14,
+        1263,
+        29
+      ],
+      "avg_conf": 65.6
+    },
+    {
+      "bbox": [
+        41,
+        33,
+        1264,
+        79
+      ],
+      "avg_conf": 56.27272727272727
+    },
+    {
+      "bbox": [
+        37,
+        140,
+        1256,
+        153
+      ],
+      "avg_conf": 60.0
+    },
+    {
+      "bbox": [
+        202,
+        153,
+        419,
+        165
+      ],
+      "avg_conf": 95.0
+    },
+    {
+      "bbox": [
+        28,
+        189,
+        506,
+        204
+      ],
+      "avg_conf": 90.5
+    },
+    {
+      "bbox": [
+        28,
+        219,
+        1133,
+        237
+      ],
+      "avg_conf": 90.15789473684211
+    },
+    {
+      "bbox": [
+        28,
+        233,
+        1150,
+        256
+      ],
+      "avg_conf": 80.6842105263158
+    },
+    {
+      "bbox": [
+        27,
+        264,
+        1120,
+        281
+      ],
+      "avg_conf": 85.47619047619048
+    },
+    {
+      "bbox": [
+        28,
+        283,
+        1127,
+        306
+      ],
+      "avg_conf": 83.79166666666667
+    },
+    {
+      "bbox": [
+        28,
+        328,
+        1146,
+        369
+      ],
+      "avg_conf": 33.0
+    },
+    {
+      "bbox": [
+        28,
+        372,
+        1246,
+        403
+      ],
+      "avg_conf": 65.75
+    },
+    {
+      "bbox": [
+        28,
+        395,
+        1246,
+        418
+      ],
+      "avg_conf": 62.666666666666664
+    },
+    {
+      "bbox": [
+        28,
+        417,
+        1230,
+        435
+      ],
+      "avg_conf": 77.8
+    },
+    {
+      "bbox": [
+        28,
+        437,
+        1150,
+        454
+      ],
+      "avg_conf": 82.0
+    },
+    {
+      "bbox": [
+        1082,
+        453,
+        1165,
+        462
+      ],
+      "avg_conf": 74.5
+    },
+    {
+      "bbox": [
+        28,
+        461,
+        288,
+        474
+      ],
+      "avg_conf": 90.25
+    },
+    {
+      "bbox": [
+        27,
+        478,
+        1243,
+        505
+      ],
+      "avg_conf": 75.625
+    },
+    {
+      "bbox": [
+        236,
+        494,
+        1163,
+        525
+      ],
+      "avg_conf": 86.66666666666667
+    },
+    {
+      "bbox": [
+        27,
+        520,
+        1048,
+        538
+      ],
+      "avg_conf": 71.44444444444444
+    },
+    {
+      "bbox": [
+        28,
+        526,
+        1167,
+        551
+      ],
+      "avg_conf": 69.2
+    },
+    {
+      "bbox": [
+        28,
+        540,
+        1192,
+        571
+      ],
+      "avg_conf": 79.88888888888889
+    },
+    {
+      "bbox": [
+        236,
+        573,
+        403,
+        582
+      ],
+      "avg_conf": 78.5
+    },
+    {
+      "bbox": [
+        28,
+        575,
+        1183,
+        601
+      ],
+      "avg_conf": 47.2
+    },
+    {
+      "bbox": [
+        28,
+        596,
+        346,
+        610
+      ],
+      "avg_conf": 81.4
+    },
+    {
+      "bbox": [
+        28,
+        604,
+        1195,
+        630
+      ],
+      "avg_conf": 91.1
+    },
+    {
+      "bbox": [
+        28,
+        634,
+        1168,
+        653
+      ],
+      "avg_conf": 60.375
+    },
+    {
+      "bbox": [
+        28,
+        656,
+        1156,
+        679
+      ],
+      "avg_conf": 88.25
+    },
+    {
+      "bbox": [
+        28,
+        675,
+        1180,
+        707
+      ],
+      "avg_conf": 68.875
+    },
+    {
+      "bbox": [
+        28,
+        707,
+        1166,
+        724
+      ],
+      "avg_conf": 87.625
+    },
+    {
+      "bbox": [
+        28,
+        730,
+        1182,
+        748
+      ],
+      "avg_conf": 86.83333333333333
+    },
+    {
+      "bbox": [
+        1087,
+        753,
+        1159,
+        766
+      ],
+      "avg_conf": 71.0
+    },
+    {
+      "bbox": [
+        28,
+        769,
+        1164,
+        788
+      ],
+      "avg_conf": 74.75
+    },
+    {
+      "bbox": [
+        27,
+        782,
+        1152,
+        804
+      ],
+      "avg_conf": 75.6
+    },
+    {
+      "bbox": [
+        23,
+        800,
+        1014,
+        831
+      ],
+      "avg_conf": 57.5
+    },
+    {
+      "bbox": [
+        39,
+        807,
+        1185,
+        838
+      ],
+      "avg_conf": 79.73913043478261
+    },
+    {
+      "bbox": [
+        27,
+        831,
+        1218,
+        848
+      ],
+      "avg_conf": 40.44444444444444
+    },
+    {
+      "bbox": [
+        202,
+        842,
+        954,
+        856
+      ],
+      "avg_conf": 91.66666666666667
+    },
+    {
+      "bbox": [
+        24,
+        855,
+        1179,
+        883
+      ],
+      "avg_conf": 80.51851851851852
+    },
+    {
+      "bbox": [
+        29,
+        882,
+        1181,
+        901
+      ],
+      "avg_conf": 85.65217391304348
+    },
+    {
+      "bbox": [
+        28,
+        905,
+        974,
+        929
+      ],
+      "avg_conf": 93.22727272727273
+    },
+    {
+      "bbox": [
+        28,
+        924,
+        398,
+        949
+      ],
+      "avg_conf": 77.0
+    },
+    {
+      "bbox": [
+        24,
+        974,
+        346,
+        1001
+      ],
+      "avg_conf": 56.333333333333336
+    },
+    {
+      "bbox": [
+        23,
+        1002,
+        1225,
+        1039
+      ],
+      "avg_conf": 82.6842105263158
+    },
+    {
+      "bbox": [
+        24,
+        1026,
+        1222,
+        1060
+      ],
+      "avg_conf": 78.66666666666667
+    },
+    {
+      "bbox": [
+        282,
+        1051,
+        1225,
+        1079
+      ],
+      "avg_conf": 83.47826086956522
+    },
+    {
+      "bbox": [
+        272,
+        1069,
+        893,
+        1116
+      ],
+      "avg_conf": 66.47368421052632
+    },
+    {
+      "bbox": [
+        92,
+        1100,
+        1235,
+        1132
+      ],
+      "avg_conf": 71.43478260869566
+    },
+    {
+      "bbox": [
+        246,
+        1125,
+        1235,
+        1154
+      ],
+      "avg_conf": 86.48
+    },
+    {
+      "bbox": [
+        209,
+        1199,
+        591,
+        1224
+      ],
+      "avg_conf": 60.22222222222222
+    },
+    {
+      "bbox": [
+        208,
+        1230,
+        793,
+        1248
+      ],
+      "avg_conf": 88.4375
+    },
+    {
+      "bbox": [
+        551,
+        1303,
+        614,
+        1325
+      ],
+      "avg_conf": 46.0
+    },
+    {
+      "bbox": [
+        533,
+        1324,
+        766,
+        1341
+      ],
+      "avg_conf": 50.333333333333336
+    },
+    {
+      "bbox": [
+        956,
+        1342,
+        1242,
+        1356
+      ],
+      "avg_conf": 95.57142857142857
+    },
+    {
+      "bbox": [
+        700,
+        1353,
+        933,
+        1367
+      ],
+      "avg_conf": 67.75
+    },
+    {
+      "bbox": [
+        955,
+        1364,
+        1242,
+        1378
+      ],
+      "avg_conf": 93.875
+    },
+    {
+      "bbox": [
+        506,
+        1378,
+        784,
+        1390
+      ],
+      "avg_conf": 84.66666666666667
+    },
+    {
+      "bbox": [
+        553,
+        1310,
+        610,
+        1320
+      ],
+      "avg_conf": 36.5
+    },
+    {
+      "bbox": [
+        533,
+        1314,
+        766,
+        1345
+      ],
+      "avg_conf": 54.333333333333336
+    },
+    {
+      "bbox": [
+        535,
+        1342,
+        1242,
+        1356
+      ],
+      "avg_conf": 86.55555555555556
+    },
+    {
+      "bbox": [
+        639,
+        1343,
+        933,
+        1374
+      ],
+      "avg_conf": 51.857142857142854
+    },
+    {
+      "bbox": [
+        955,
+        1354,
+        1242,
+        1385
+      ],
+      "avg_conf": 93.875
+    },
+    {
+      "bbox": [
+        513,
+        1378,
+        784,
+        1392
+      ],
+      "avg_conf": 65.75
+    },
+    {
+      "bbox": [
+        502,
+        1467,
+        777,
+        1489
+      ],
+      "avg_conf": 41.25
+    },
+    {
+      "bbox": [
+        518,
+        1467,
+        1226,
+        1507
+      ],
+      "avg_conf": 82.6
+    },
+    {
+      "bbox": [
+        493,
+        1501,
+        770,
+        1513
+      ],
+      "avg_conf": 54.5
+    },
+    {
+      "bbox": [
+        490,
+        1542,
+        518,
+        1559
+      ],
+      "avg_conf": 35.0
+    },
+    {
+      "bbox": [
+        517,
+        1596,
+        804,
+        1616
+      ],
+      "avg_conf": 42.8
+    },
+    {
+      "bbox": [
+        494,
+        1601,
+        1093,
+        1648
+      ],
+      "avg_conf": 51.6
+    },
+    {
+      "bbox": [
+        648,
+        1725,
+        751,
+        1738
+      ],
+      "avg_conf": 51.0
+    },
+    {
+      "bbox": [
+        578,
+        1734,
+        889,
+        1746
+      ],
+      "avg_conf": 89.0
+    },
+    {
+      "bbox": [
+        578,
+        1745,
+        1150,
+        1763
+      ],
+      "avg_conf": 72.85714285714286
+    },
+    {
+      "bbox": [
+        556,
+        1756,
+        877,
+        1780
+      ],
+      "avg_conf": 30.75
+    },
+    {
+      "bbox": [
+        540,
+        1849,
+        763,
+        1869
+      ],
+      "avg_conf": 45.25
+    },
+    {
+      "bbox": [
+        537,
+        1874,
+        1096,
+        1909
+      ],
+      "avg_conf": 74.8
+    },
+    {
+      "bbox": [
+        585,
+        1975,
+        657,
+        1989
+      ],
+      "avg_conf": 35.0
+    },
+    {
+      "bbox": [
+        540,
+        2009,
+        890,
+        2028
+      ],
+      "avg_conf": 45.666666666666664
+    },
+    {
+      "bbox": [
+        500,
+        2017,
+        1215,
+        2057
+      ],
+      "avg_conf": 73.61538461538461
+    },
+    {
+      "bbox": [
+        491,
+        2038,
+        1102,
+        2063
+      ],
+      "avg_conf": 41.27272727272727
+    },
+    {
+      "bbox": [
+        552,
+        2049,
+        993,
+        2082
+      ],
+      "avg_conf": 33.0
+    },
+    {
+      "bbox": [
+        552,
+        2135,
+        676,
+        2152
+      ],
+      "avg_conf": 30.0
+    }
+  ],
+  "slicing": {
+    "enabled": true,
+    "slice_height": 1400,
+    "slice_overlap": 120,
+    "num_slices": 9
+  },
+  "note": "OCR text extracted from screenshot; regions include bbox + confidence.",
+  "skipped_ocr": false,
+  "cache_path": ".ocr_cache\\019_Lionfish.bb7d2cb771735cc1.ocr.json"
+}
+-->
+
+ee Celebrating 25 years
+Main other Lionfish (disambiguation). page For uses, see
+wear spines.®4! coloration with red black bands and dorsal fins tipped with radiata, ostentatious pterois warning or venomous es
+fish. Contact volitans and miles and significant the Atlantic, Caribbean and p. P. Sea, us recent west aquarium are invasive species in 4 at
+Contribute Weg mrss
+2 Description Community porta ed 1
+3 Species Recent changes Sa
+5 4 Ecology and behavior Upload fle
+Prerois voltans
+Scientific classification gf 4.2 Predators and parasites “ot
+Kingdom: Animalia 423 Interaction with humans
+Class: 6 Invasive introduction and range Actinopterygii permanent ink
+G Peyetiicue Order: im Perciformes
+Family: ‘Scorpaenidae Get shortened URL 6.3 Predatorial and behavior invasive
+Sr Genus: Pterois 6.5 Control and eradication efforts
+Prnvexport 181711 ken, 6.5.1 "Lionfish Food" as campaign
+7 See also species Type Download PDF as
+8 References Printable volitans Scorpaena version
+In other projects a
+wiki .
+SSE GReTL EINES ees described by naturalist, botanist, biologist, and ornithologist Oken. Pterois 1817 German Lorenz In 1856, was as a genus in
+‘Wikiata item Pseudomonopterus Bleeker, 1863 + . ; :
+French naturalist Anselme Sébastien designated volitans, which had been named by Eugéne Léon Desmarest Scorpaena
+Pteropterus Swainson, 1839 Scorpaenidae.! * This classified within the tribe of the subfamily within the family The Pteroini Scorpaeninae genus is genus ee
+Espafiol fins.) dorsal and long pectoral
+eed According the National and Atmospheric Administration, “lionfish have distinctive brown and white to Oceanic or maroon, Ts ra
+es 4 bands the head and body. They have fleshy tentacles above their and below the mouth; fan-like stripes or covering eyes Ba ‘
+Sey da Pai pectoral fins; long, separated dorsal dorsal dorsal soft three anal and 13 10-111 spines; spines; rays; spines; six or seven
+bet 54 —_ inches." * anal soft adult lionfish large * An 18 rays. can grow as as 4
+2 CEACES species."7! in Juvenile lionfish have tentacle located above their sockets that phenotype between The Sj) a unique eye varies in 9
+ta evolution of this tentacle suggested continually studies also plays role sexual attract suggest it to to is serve new prey; a in a y
+SPECIES [ett] ©? Lionfish have 18 ota venomous spines
+two pelvic, three anal, and 13 dorsal spines Currently, recognized this 12 species are in genus:
+andover ng P.
+Indonesia and and Papua New Guinea ranges
+Andover lionfish (R.Allen a
+far Sabah, Malaysia, and the Philippines as as
+eh ie,
+P. tHh*yYy andover
+| Andover lionfish (G. R.Allen & see,
+Erdmann, 2008) a ORE:
+me ee P. antennata
+ee | Spot-fin lionfish Tropical indian and Pacific Western Oceans
+oe (loch, 1787) Wie
+Wik brevipectoralis P. sae ess.
+Ss; indian Western Ocean ee
+‘ P.cincta
+Red Sea 4
+Jeddah, Saudi Arabia, Red Sea Faipic: im
+«ays, lionfish! Ee) Se
+eee | lunulata P.
+Ae & | lionfish Pacific Luna Westem Ocean (Temminck Schlegel,
+SON (t/t Common
+Cl Te a Indian from the Red South Ocean, Sea, to — F
+TOMS POV ee re atrica, and Indonesia 6. semett, 1028) to
+firefish es a : 7
+EN 5
+—_— upon’ Aftican lionfish, :
+3 tropical Indian and the Pacific wD Ocean Western
+| fril-fn turkeyfish (.L.B. Smith, 1957)
+northern Australia ag paucispinula P India (Timor Sea); north to to
+& (i SM Satan southern eastward Wallis and Japan; Futuna (Matsunuma to
+Motomura, 2014)!"4) ee Islands
+QY, Red Sodwana South Africa and Sea Bay, to to radiata P Cleat-in
+Sw the Islands, north the Ryukyu Society to 5
+Islands, south Caledonia New to Li}
+7 WUT
+¢ & we Plaintal
+pot turkeyfish, Gulf and East Africa lisse Persian New Guinea, to
+| | | DS Si soldier lionfish, south Australia Wester (6.1. Bennet, 1831) to
+Russell's lionfish ae Mies
+¢ See Plaintail |
+SR rat turkeyfish, lisse East Gulf and Africa Persian New Guinea, to
+| i). Re soldier lionfish, south Australia Western Bennett, 1831) to
+ye "oe Russells lionfish
+am ©
+(ie sphex P. j
+Hawaiian % —
+wr Hawaii ) (©. S. Jordan &
+turkeyfish ee 452
+| f ME Evermann, 1903) TG
+Re 17 NS
+WAY’
+SS Aris Ips Indo-Pacific Atlantic Western Ocean, region,
+We Red lionfish a
+wi Caribbean Sea (Linnaeus, 1758) mn
+Molecular studies and morphological data have indicated that lunulata of russelii, and that volitans be hybrid between miles and P, P. P. P. P. is a junior synonym may a
+lato] russelii sensu
+Ecology and behavior [eait)
+behaviors."® live from and have complex courtship and Females frequently release mucus-filled clusters, which Pterois 5 15 to mating two species can years egg can
+year."4171 total, they lay about million 15,000 In 2 contain as many as eggs. can up eggs per
+All they have coloration with boldly and wide fans of advertising their ability defend aposematic; contrasting stripes projecting to species are conspicuous spines,
+themselves.
+mostly small fish, invertebrates, and mollusks, with different of found the Pterois to species prey on up six species prey in ay
+morning;"*) Rese gastrointestinal of Lionfish feed actively the they skilled hunters, Wy tracts most some specimens. in are using
+to of Sa Seana specialized bladder muscles provide control their location the column, allowing them alter their water to swim precise in
+prey.'"°] NS Ge \\ of the better attack They blow of while approaching which confuse center gravity to jets water to prey, serves
+\\ nN Set them!2°l and alter the of the that the smaller fish facing the lionfish. This results higher degree of orientation prey so is in a \3
+Sa lionfish."! predatory efficiency, head-first for the The lionfish then spreads large pectoral fins and capture its as is easier sal 3
+motion.!251 swallows single its : prey in a oe
+a Pterois miles hunting glassfish
+eels,?2II25] groupers'“! bluespotted cornetfish, barracuda, and large have been observed Moray preying on
+lionfish.7517SI27I28] 81I291 Sharks also believed be capable of lionfish with ill effects from their to are preying on no spines.
+Caribbean." Park officials of the Park Honduras have attempted sharks feed lionfish control the populations the The bobbit Roatan Marine to train to to in on invasive in
+Indonesia." ambush predator, has been filmed lionfish Predators of larvae and juvenile lionfish unknown, but be the to worm, an preying upon in remain may prove
+range.2°! limiting factor of lionfish populations their and Florida, where lionfish regarded scuba divers and breath- In Texas native primary in are as an invasive species,
+food.(28821 hold divers encouraged lionfish for and to capture sport are
+leeches./23) of lionfish have rarely been observed, and assumed be infrequent. They include isopods and Parasites to are
+Interaction with humans _[ecit]
+humans."! Lionfish known for their fin which make them hazardous other animals, well produced Pterois to negative inotropic are venomous rays, marine as as venom
+hearts‘) pressure.©5! and chronotropic effects when tested both frog and clam and has depressive effect rabbit blood These results thought be due to to nitric in a on are
+release.5! oxide humans, effects such fever, headache, numbness, paresthesia, diarrhea, in Pterois systemic vomiting, sweating, venom can cause as pain, nausea,
+paralysis of the limbs, insufficiency, heart failure, and convulsions, and be fatal. Fatalities children, the elderly, temporary respiratory can are more common in very young
+those who allergic the The rarely fatal healthy adults, but have enough produce discomfort for period of to to to extreme or are venom. venom is some species venom a
+several days. danger allergic they anaphylaxis, and often life-threatening condition that Moreover, Pterois to victims venom poses a as may experience a serious requires
+immediate medical allergic include chest breathing difficulties, drop blood swelling of Severe Pterois treatment. reactions to emergency venom pain, severe a in pressure,
+the slurred speech. Such be fatal if not treated. tongue, sweating, reactions or can
+5211371881 Lionfish edible if prepared correctly. are
+| Native and habitat range eait)
+immediate medical allergic include chest breathing difficulties, drop blood swelling of treatment. Severe reactions to Pterois emergency venom pain, severe a in pressure,
+the slurred speech. Such be fatal if treated sweating, tongue, reactions not or can
+correctly. 5211371881 Lionfish edible if prepared are
+Lionfish tothe Indian and Pacific They be found around the seaward edge of shallow native Ocean western Ocean. are can pena Rinse ea
+eae] SNe & Sate coral reefs, lagoons, rocky substrates, and mesophotic reefs, and live of salinity, and temperature, yee on can in areas varying
+ee depth.©"! harbors,“°! Bets ieee ae They also frequently found turbid inshore and and have generally hostile attitude and are in areas a are
+Mies ag nek fish.!*" depth,!*2) SEN territorial toward other reef They commonly found from shallow down (330 ft) and to 100 waters past are m
+oe AagER depth.“3) have several locations been recorded the Indo-Pacific have documented of to 300 Many universities reports in m in ‘8
+Wy, EN researchers.'*"! toward divers and volitans and miles subtropical and tropical Pterois p, P. to native — oo aggression are regions
+IN SS ie from southern and southern the of Australia, Indonesia, French Polynesia, and the 5 Japan Korea east Micronesia, to coast
+o3 Sa) 7 “9! Sea.!4] : South Pacific miles also found the Indian from Lanka and the Red ® Ocean. p, Ocean, Sumatra to Sri is in
+auerumenpesianinencnidian also: volitans and miles See Pterois Pterois
+© Pterois radiata endemic to the Indian is
+‘Ocean and Western Paci - -
+eran anwvesen Pace Western tropical Atlantic. [ecit]
+of the of the red lionfish (P. volitans) and the lionfish (P. miles), have established ‘Two 12 Pterois, species common =
+ee themselves significant off the of the United and the Caribbean. About of the East Coast States 93% as invasive species in Bp
+MAA, volitans.!45] population the Atlantic Western P. invasive in is
+he WP.
+he Sd UZ ‘The red lionfish found off the and Gulf of the United and the Caribbean and likely first East Coast Coast States Sea, is in was pe,
+mid-1980s."*5! introduced off the Florida by the early This introduction have occurred when 1992 Hurricane coast to me fi" may in 4
+AG “ Bay.'7! Andrew destroyed southern Florida, releasing lionfish lionfish Biscayne However, into an aquarium in six a was -
+mer Andrew.!*91/481491 discovered off the of Beach, south Florida, early before coast Dania 1985, Hurricane as as
+%g trade," These captured lionfish resemble those of the Philippines, implicating the and that the fish Rad suggesting aquarium
+enthusiasts." be descendants of individuals discarded by dissatisfied Lionfish to maintain may aquarium require experience
+a P. volitans displayed Lisbon at
+but often sold who find their difficult. to too in an aquarium, are novices care a
+the National and Atmospheric Administration (NOAA) documented several sightings of ionfish off the In 2001, Oceanic coast
+of Florida, South Carolina, North Carolina, Bermuda, and Delaware. when the Gulf discharging the mouth of the Delaware Georgia, In August 2014, Stream into Bay, was
+4, lionfish caught by surf fisherman off the side shore of Henlopen Park: red lionfish that weighed pound (580 g) and Cape State 1 two were a ocean a ounces a
+lionfish that weighed pound (510 g). Three days later, 1-pound-3-ounce (540 g) red lionfish caught off the shore of Broadkill Beach which 1 2 common ounces a was is in
+the Delaware approximately miles (24 km) north of Henlopen Park. Bay 15 Cape State
+The timeline of observations the of Florida the initial of the Atlantic though has been suggested that the Bahamas points east western it to coast as source invasion, may
+source." 2004.21 also have been independent Lionfish first detected the Bahamas an were in in
+Louisiana.) July lionfish reported for the first the Flower Garden Banks National off the of In 2011, Marine Sanctuary coast time were in
+Barbados, beaches.©5) lionfish discovered far and far south the Archipelago and Venezuelan continental In June 2013 east Los Roques were as as as as many
+2014.59) Lionfish first sighted Brazilian late waters were in in
+single captured individual revealed that related the populations found the Caribbean, that the spread of the occurred Genetic it to suggesting testing on a was in species
+release.°"=tor "©e¢e0] by larval dispersal rather than by intentional pelagic larval dispersion assumed through including the Gulf and Stream to currents, is occur oceanic
+dispersal. the Caribbean Ballast discharged from ships also contribute the Current. to water can
+Adult lionfish found along the United from North Carolina, Florida, and along States East Coast Cape Hatteras, to are now =
+Texas.£7! the Gulf They also found off Bermuda, the Bahamas, and throughout the Caribbean, including the Coast to are Y
+eb Turks and Cuba, the Republic, the Islands, Aruba, Trinidad and Tobago, Caicos, Haiti, Dominican Cayman Curacao, Bonaire, 4
+() O Mexico.!! Belize, Honduras, Colombia and Population densities the invaded Puerto Rico, St. Croix, continue to gee increase in
+iar WY 881 resulting population boom of between and to 700% 2004 2008 areas, in a up in some areas
+WEE F| z: Mediterranean - [cait)
+depth.!42! ce Lionfish have also established themselves of the Mediterranean with records down Lionfish parts to 110 — in m -
+AO waters'®*l!42I Croatia.!©°! have been found Maltese and of other Mediterranean well waters countries, warming in as as sea
+be allowing lionfish further expand their the Mediterranean. temperatures to may range in CER CRASS is ETRE Reet
+ofthe lonfish population the invasive in - a -
+Predatorial and behavior invasive [ecit] ‘Alfaniie and Caribbean,
+fishes,®°! Lionfish known for devouring other and they the few fish species are many aquarium are among aquarium species
+systems.'*"1 799.!°4) successfully establish populations single lionfish, located reef, reduced the population of juvenile reef fish by A to in open marine on a
+Lionfish have successfully invaded the coastal of the Atlantic less than decade, and threat reef these study A waters to ecosystems in a pose a major in areas. comparing
+Carolina their abundance from Florida North with several of found they second only the and equally abundant the to to to native species groupers were scamp grouper
+4! (65) ravehyv and rock hind Thic cauid he recult of overfiching predators like the recilting curmlus of availahility for the lionfich oan a qrouner in a resource
+hind.) lionfish!°5) graysby, and rock This could be result of overfishing predators like the resulting surplus of availability for the gag, a grouper, in a resource
+ecosystems.!5] The lionfish considered be of the threats Caribbean and Florida coral reef most recent to to invasion is one serious
+species.°7] Normally, the of the the distribution of This that tolerance play role the lionfish’s temperature water temperature constrains aquatic suggests may a in
+spread.41 recent enormous
+Pterois.!°" The abrupt differences north and south of directly correlate with the abundance and distribution of expanded water temperatures Cape Hatteras Pterois in
+years.'°7! along the southeastern of the United and occupied thermal-appropriate within This thermally habitat expected expand States 10 appropriate coast to zones is in
+change.!©8) the direction of the shore decades, climate temperatures winter water to in coming as warm in response
+rivers.) Lionfish tolerate salinity of (0.5%) and withstand pulses of fresh which they also be found of freshwater 5 estuaries ppt water, can a minimum even means can in
+Although the lionfish population has expanded currently ecological problems, their the United coastal could lead not to States waters to a size causing major invasion in
+problems the future. likely ecological caused by lionfish would be their food web relationships and population numbers. This could One impact impact serious in on prey
+chain.'®! ultimately lead reef deterioration and could negatively influence the Atlantic food Lionfish have already been shown overpopulate reef and display to to areas
+favorable.!*1 tendencies, forcing where conditions might be less than native to waters to aggressive species move
+80%.!41) Lionfish could reduce Atlantic reef diversity by to up
+and repeated catching and removal of lionfish from invaded could potentially control the exponential Rigorous waters z
+1} waters.) of the lionfish invaded study showed effective would the monthly i} But 2010 maintenance expansion in a require i
+WY harvest of least of the adult population. lionfish able reproduce monthly, this effort be maintained 2796 Because at to must are
+[70] atin x
+year.7°l throughout the entire INOS tl :
+23S 7 accomplish these numbers unlikely, but populations of lionfish throughout the Caribbean To continue to aaa even seems as grow
+SS and Atlantic, being taken control the quickly numbers. November for the Western actions to attempt to In 2010, a are growing
+RSS first the Florida National began licensing divers kil lionfish inside the ime Keys Marine Sanctuary sanctuary attempt to in an
+fish!) é Rae eradicate the to
+Sad and the United have organized hunting expeditions for Brake Conservation organizations Eastern States community groups in
+upabout | as derby’ held in = P miles makes TWolthe Florida." lionfish, such the Education Foundation’s ‘ionfish annually fi Ei i Divemasters
+annually jonfish, such as the Environment Education Foundation's ‘ionfish derby’ held in Florida.*! Divemasters from Caer EA AaATETTD
+Cozumel the Honduran Islands and Reef Intemational which the Sapodilla Bay at Conservation operates Cayes Marine to in and Caribbean
+dives.{*ttion reece] off Gorda, Belize, routinely them during while such culling efforts Reserve Punta But now spear remove
+densities,” lionfish from shallow reefs, reducing their lionfish have widely been reported mesophotic coral ecosystems on
+Atlantic!”*) depth).'*3] (reefs from deep) the and deep-sea habitats (greater than studies have suggested that the effects of 30 150 200 Recent to western m in even in m
+populations.'4! culling likely be depth-specific, and have limited these deeper reef Therefore, other approaches such advocated for to impacts trapping are so on as are
+habitats.{451(731(7411751 lionfish from deeper reef removing
+a help address the effect of lionfish the partnered with the Gulf and Caribbean Fisheries lionfish portal To ecosystems, 2015, NOAA Institute set to existing to on in up
+impacts.” portal!””! provide scientifically information the and The lionfish web aimed all those involved and affected, including coastal accurate its at on invasion is
+educators, and the public, and the portal designed of videos, fact sheets, examples of plans, and guidelines for management training managers, was as a source
+The web portal draws the of well that of other and policy makers from academia and expertise NOAA's scientists NGOs, monitoring. scientists, on own as as or managers.
+[citation needed),
+Officials from the Flower Garden Banks National off the of have said said they believe that lionfish fixture of the Marine Sanctuary Louisiana coast permanent are now a
+their presence.!7®) but hope and possibly limit ‘sanctuary, to monitor
+Red lionfish relatively litle known about them. The biotechnological solutions control the population. This involves, NOAA investigating to yet are an invasive species, is is
+dispersed.'7°! understanding how the larvae Another of study what controls the population Researchers hope discover what important native its to are area is in area.
+'*#aton needea) controls lionfish populations the Indo-Pacific and apply this information control the populations, without introducing additional to in invasive invasive species.
+designs have been introduced help with control of lionfish deep The low and vertical and the of deployment. ‘Two to entire time trap waters. traps new in are remain open
+a The verticality of the lionfish, which makes catching them These have bait that only appealing lionfish, they catch, and they attracts traps trap to guarantee easier. is are
+result, they enable lionfish be caught without affecting that ecologically, recreationally, and commercially the to transport. As important to to native easy a species are
+areas.°1 ‘surrounding
+Remotely Operated Vehicles (ROVs) being developed help hunt the lionfish. example, the Reefsweeper harpoon This to For ROV to its target. are uses a gun snag
+hunters.) vehicle able catch fish that otherwise be caught by human to not is may
+and kiling lionfish, referred "culling", by and volunteer divers element of control efforts, development of market- Hunting to protection important as marine agencies is an
+based approaches, which commercial for removals, has been control efforts. The foremost of these market approaches incentives to create sustain seen as a means is
+item.°2I831 the of lionfish food another the of lionfish fins, and tails for jewelry and other decorative Lionfish jewelry production items. promotion as a is use spines,
+Bahamas,®4! underway Belize, the and the Grenadines. initiatives st. vincent, are in
+Vvenicie able to caten isn that not otnerwise De caugnt Dy numan Nunters.”"* Is may
+Jardines de la National Park Cuba, diver experimented with and feeding lionfish sharks effort teach them seek the In 2014 at Reina Marine out to to to in a spearing in an
+prey.®°! food.®° fish Cuba finding effective fish for lionfish By 2016, it to as was more as
+culling has also been known adaptive behavioral changes lionfish populations. example, the Bahamas, lionfish heavily culled reefs have However, For to cause in in on
+occurs.°7! become of divers and hide within the reef during the day when culling similar lionfish divers have been observed when structure to more wary more responses
+culled and without culling Honduras, including altered lionfish behaviour reefs deep for regular culling, but adjacent heavily culled sites sites too to sites ‘comparing in on
+depths.!74) potentially implying of individuals between movement
+dispersal)'*! (which also people lionfish sightings, help track lionfish population began the In 2010, NOAA report to to to consumption encourages a campaign encourage
+fish." of the The *Lionfish Food" human hunting of the fish the only form of control known date. the catch of lionfish could to Increasing not as campaign encourages as
+only help reasonable population density, but also provide alternative fishing overfished populations, such and The taste maintain to a an source as grouper snapper. is
+tender”.®9I°°l described "buttery and the the Catholic Church Colombia agreed have their clergy’s their To Roman to promote suggest to as campaign, in sermons
+problem. parishioners (84% of the population) lionfish Fridays, and which proved highly successful decreasing the fish eating Lent, Easter, on in invasive
+When properly filleted, the naturally fish safe about the risk of fish (CFP) from the of lionfish, to Some exists eat. ciguatera consumption venomous is concer poisoning
+and the included lionfish the list of risk for when lionfish harvested tested for of from the FDA at CFP No CFP positive ciguatera. on species are in some areas cases
+of lionfish have been verified, and published research has found that the lionfish be false for the of ‘consumption positives tests toxins in venom may causing in presence
+ciguatera.©21°3] The Reef Environmental Education Foundation provides advice chefs how they the fish their The calls to restaurant incorporate NOAA into on can menus.
+grouper.!°8) the lionfish "delicious, delicately flavored fish" similar texture to a in
+Another centered around the production of leather from lionfish hides. seeks establish production chain and market for high-quality leather produced from initiative It to is a
+communities.°4) the hides. The goal control lionfish populations while providing benefits local fishing to to is invasive economic
+See also [eait)
+Dendrochirus, the dwarf lionfishes *
+Whe Fish portal
+« of animals List venomous
+« ne ca of Florida List invasive species in
+EE ccot0gy porta
+References [eait)
+shoals". © Fricke, 1.48 Ron; Eschmeyer, William N. & van der Laan, Richard (eds.). "Genera 47. 4 Goddard, J. (2008). "Lionfish devastate Florida's The Times. native in
+the family Scorpaenidae” c. Catalog of Fishes. California Academy of Sciences. London.
+Hurricane 2. Retrieved 3 March 2022. 48, 4 "Mystery of the Lionfish: Don't Blame Andrew" Science. 29 April 2010.
+1874 Australian Zoologist. 9 (3): 222-226. e.. 49, 4 Schofield, P. J. (2009). "Geographic and chronology of the of extent invasion non-
+*@ 3. National Geographic (11 April 2010). "Lionfish” c2. Archived from the original 2 lionfish (Pterois volitans and P. miles) the Western North Atlantic and native on in
+wnitield, A. © 4,nabede tah *# P. E.; Hare, J. A.; David, W.; Harter, S. L.; Mufioz, R. C, 50. Us Department of Commerce, National Oceanic and Atmospheric
+‘Addison, C. M. (2007). "Abundance estimates of the Indo-Pacific ionfish Pterois Administration. "Is the Aquarium Trade Blame?" to 2. oceanservice.noaa.gov.
+A.; Volitans/miles complex the Wester North Atlantic”, Biological Invasions. 9(1):53- 81. 4 Freshwater, D. W.; Hines, Parham, S.; Wilbur, A; Sabaoun, M.; Woodhead, J.; in
+5. 4 Merrington, Andrew (28 June 2016). "Lionfish invading the Mediterranean Sea" analyses indicate dispersal from the US East Coast the of the 2. sequence as source
+Plymouth University Indo-Pacific lionfish Pterois volitans the Bahamas". Marine Biology. 156 invasive in
+¢2. (6): 1213-1221. Bibcode:2009MarBi.156.1213W doi:10.1007/s00227-009-1163- 6. 4 "Invasive Lionfish Arrive the Mediterranean” (2. Scientific American. 28 June in
+°@ 52. Whitfield, P. E.; Gardner, T.; Vives, S. P.; Gilligan, M. R.; Courtenay Jr., W. R.: 7.4 Kletou, Demetris; Hall-Spencer, Jason M.; Kleitou, Periklis (2016). "A lionfish
+J. Ray, G. C.; Hare, A. (2002). "Biological of the Indo-Pacific lionfish Pterois (Pterois miles) has begun the Mediterranean Sea’ Marine Biodiversity c2. invasion invasion in
+2. volitans along the Atlantic of North America’ Marine Ecology Progress Records. 9 (1) 46, Bibcode:2016MBAR....9.46K dok:10.1186/s41200-016-0085- coast c2.
+3. doi:10.3354/meps235289 8. 4 Fricke, Ron; Eschmeyer, William N. & der Laan, Richard (eds.). "Species the van in
+53, 4 'Lionfish Invasion Reaches Gulf Marine Sanctuary’. 2011. Archived from the Pterois" Catalog of Fishes. California Academy of Sciences. Retrieved 2. genus
+original 28 September 2011. 3 March 2022. on
+T. et 554, 4 Lionfish found here Archived 8 January 2012 at the Wayback Machine 9.43. §, Nelson; C. Grande; M. V. H. Wilson (2016), Fishes of the World (Sth ed).
+NationNews Wiley. 468-475, ISBN 978-1-118-34233-6, Archived from the original 8 April pp. on
+2019, Retrieved 3 March 2022. 55. 4 Lasso-Alcala, Oscar; Posada, Juan (2010). "Presence of the red lionfish, invasive
+Pterois volitans (Linnaeus, 1758), the of Venezuela, southeastem Caribbean 410. * Christopher Scharpf & Kenneth J. Lazara, eds. (2 October 2021). "Order coast on
+8. doi:10.3391/ai.2010.5.S1.013 Sea" Aquatic Invasions. 5: $53-S59, Perciformes (Part 9): Suborder Scorpaenoidel: Family Scorpaenidae” ct. The ETYFish 2.
+Project Fish Name Etymology Database. Christopher Scharpf and Kenneth J. Lazara. 6, Ferreira, Carlos €. L.; Luiz, Osmar J.; Floeter, Sergio R.; Lucena, Marcos B.
+Retrieved 2 March 2022. Barbosa, Moysés C.; Rocha, Claudia R.; Rocha, Luiz A. (22 April 2016). "First Record
+-What ct. Oceanic of Invasive Lionfish (Pterois volitans) for the Brazilian Coast" 2. PLOS ONE. 10 (4) 11.4 lionfish?" National Ocean Service, US National and is a
+1. 2. doi:10.1371/journal.pone.0123002 0123002. Bibcode:2015PL0SO..1023002F ‘Atmospheric Administration. 16 June 2024. Retrieved 2 October 2024.
+& J. October 2021). volitans (Linnaeus, coast Pterois 1758), the of Venezuela, southeastern Caribbean 10. 4 Christopher Scharpf Kenneth Lazara, eds. (2 "Order on
+§: 2. doi:10.3391/ai.2010.5.51.013g. Sea". Aquatic Invasions. S53-S59. Perciformes (Part 9): Suborder Scorpaenoidei: Family Scorpaenidae" The ETYFish
+Project Etymology Database. and J. Fish Name Christopher Scharpf Kenneth Lazara. 56. 8 Ferreira, Carlos E, L; Luiz, Osmar Floeter, Sergio R.; Lucena, Marcos B.; J,;
+11,64 of Invasive Lionfish (Pteroisvoltans) for the Brazilian Coast” c2, PLOS ONE. 10 (4) wnat aliontsh?"c2. National Ocean Service, US National Oceanic and is
+Morris . (2. 4406615 PMC PMID 25901361 12.4 Jr, J. Freshwater, D. W. (2007). "Phenotypic of lonfish variation A.
+57. A “invasive Liontish Causing Problems Gutfl| TPW magazine|December 2013". supraocular tentacles’. Environmental Biology of Fishes. 83 (2): 237-241. in
+*4 4 13.4 58, witiiams, Nigel (2010). "Major lionfish hunt launched” Current Biology. 20 Matsunuma, M.; Motomura, H. (2015). "Redescriptions of Pterois radiata and cz.
+2. (23): R1005-R1006. Bibcode:2010CBio...20R1005W Prerois (Scorpaenidae: Pteroinae) with notes geographic morphological cincta on
+2. Alien doi:10.1007/510228-015-0483-6:2. S2CID 12191361 59. 4 "University Research Discovers New Species Maltese Waters". Malta in
+Today. 2016. 114. Matsunuma, Mizuki; Motomura, Hiroyuki (2015). "Pterois paueispinula, a new
+i of lionfish (Scorpaenidae: Pteroinae) from the western Pactic Ocean" 60. 4 “Otrovna stetna, Najave obistinile, kod Komize snimljena riba paun! Ovo species su se je
+Ichthyological Research. (3): s u moru' (3. 62 327-346. Bibcode:2015IchtR..62..227M zabiljezeni vrstom Jadranskom e vjerojatno susret prvi ovom invazivnom
+15. Christie L Wilcox; Hiroyuki Motomura: Mizuki Matsunuma: Brian W Bowen (2018), 61. 4 Weisberger, Mindy (28 June 2016). “Aliens Attack! Invasive Lionfish Arrive in
+“phylogeography of Lionfishes (Pterois) Indicate Taxonomic Over Spitting and Hybrid Mediterranean’ 2, livescience.com. Retrieved 13 February 2020
+- Has 8 — Origin ofthe invasive Pterois voitans” Joumal of Heredity. 109 (2): 162-178. 2. 62. 4 "Daily Scuba News Cyprus A Massive Lionfish Problem’ 2. July 2019 via
+g. doi:10.1093/hered/esx056 PMID 28637254:2. wwwyoutube.com.
+16.*# © Ruiz-Carus, R.; Matheson Jr., R.; Roberts Jr., D.; Whitfield, P. (2006). "The 63. 4 Baltz, D. M. (1991). "Introduced fishes systems and inland seas”. in marine
+western Pacific red lionfish, Pterois voltans (Scorpaenidae), Florida: Evidence for Biological Conservation. 6 (2): 151-177. Bibcode:19918Cons..56..1518c2 in
+reproduction and parasitism inthe first fish established state waters’. exotic do:10.1016/0006-3207(91)90015-2.2. marine in
+Biological Conservation. 128 (3): 2. Life OSU. 384-390, Bibcode:20068Cons.128..284R 64. 4 “Lionfish expand"t2. at 14 April 2010 continuing to invasion
+ol:10,10164, blacon,2005,10.012¢2 65. Davis, M.A; Grime, J. 2; Thompson, K. (2000). "Fluctuating plant resources in
+of 88 (3): 417.“ Fishelson, L. (1997). "Experiments and observations food growth consumption, on general theary invasibility" Journal of Ecology. 528-553. communities: ct. a
+and starvation Dendrochirus brachypterus and Pterois volitans (Pteroinae, doi:10.1046/}.1365-2745.2000.00473.x3 in Bibcode:2000JEcol..88..528D e2.
+Scorpaenidae)’. Environmental Biology of Fishes. 50 (4): 391403. 66. "NOAA, Gulf and Caribbean Fisheries Institute launch lionfish web portal. new
+to 2 67.89 418.4 Karleskint, G.; Turner, R. L; Small, 2 W. (2008). Introduction Marine Biology Kimball M.E. Miler, J. Ms Whitfield, P. E.; Hare, J.. (2004). "Thermal
+Cengage Learning. 276, ISBN 978-0-495-56197-2, p. Tolerance and Potential Distribution of Invasive Lionfish (Pterois voltans/miles
+© Akins, of Ecology 19.64 Morris Jr, J.A.; JL. (2008), "Feeding ecology lonfish invasive Complex) the East Coast of the United States" 2, Marine Progress Series. on
+Biology of Fishes. L2, 9. (Pterois voltans) the Bahamian archipelago". Environmental 86 dot:10.3954imeps283269 in 283: 269-78. Bibcode:2004MEPS..283..269K
+D.; E. R. 10.1.1.541.5480, (2): 289-398, Bibcode:2009EnvBF..86..289M(2. CiteSeerX 68. Grieve, B. Curchitser, N.; Rykaczewski, R. (2016). "Range of expansion
+Northwest Atlantic dof:10.1007/s10641-009-9538-8:2. S2CID 207117437 2. the lionfish the with climate change’. Marine Ecology invasive in
+J. Series, 546: 20. Lee, Jane (2012), "Video: Hurting and Pusting For Dinner" 2. ScienceNOW, Progress 225-237. Bibcode:2016MEPS..546..225G 12.
+21. A Albins, Mark A.; Lyons, Patrick J. (2012). “Invasive red lionfish Pterois volitans blow doi:10.3354'meps11638 2.
+directed of fish” Marine Ecology Progress Series. 448: 1-5. jets water at 2. prey 69. “ Shammas, B. (2014). "Palm Beach County girl credited for breakthrough lionfish in
+3. 22 dol:10.3354/meps09580 Bibcode:2012MEPS. 448...1AC2. research’ Sun Sentinel. Archived from the original June 2014 2. on
+A. A, spp. "A 22. 6 Bos, Ri; Sanad, M.: Elsayed, K, (2017) "Gymnothorax (Muraenidae) as 70, 8 Mortis Jr, J. A; Shertzer, K.A.; Rice, JA. (2011). stage-based matrix population
+natural predators ofthe lionfsh Pterois mies biogeographical range" its native c2. in ‘model of liontish with implications for control. Biological Invasions. 13 (2): 7 invasive
+S2cID 250455472. 71.4 Olsen, Erik (22 November 2010), "Florida Keys Declare Open Season the on
+*4 23. Donaldson, T. J.; Benavente, D.; Diaz, R. (2010). "Why lionfishes (Pterois, are Invasive Lionfish" 2. The New York Times. ISSN 0362-43312. Retrieved 17 June
+fA ranges?" Scorpaenidae) their (PDF). Proceedings of the 63rd Gulf native so rare in 2021,
+and z.Archived Charles C.; Caribbean Fisheries Insitute. 1-5: 352-359, S2CID 54025471 from 79. » Frazer, Thomas K.; Jacoby, A; Edwards, Morgan A.; Bary, Savanna
+f original the (PDF) 21 October 2019. on Mantrino, Carrie M. (1 October 2012). "Coping with the Lionfish Invasion: Can
+A: Van 24, 6 Maljkovie, Leeuwen, T.E.; Cove, S. N. (2008). "Predation the on invasive Targeted Removals Yield Beneficial Etfects?", Reviews Fisheries Science. 20 (4): in
+c. ¢7. by native Fed lionfish, Pterois voitans (Pisces: Scorpaenidae), the groupers in 185-191. Bibcode:2012RVFS...20..185F doi:10.1080/10641262.2012. 700855
+°42 A.; A. dot:10.1007/s00338-008-0372-9:2. S2CID 29564920 Andradi-Brown, 2. 73. Dominic Vermeij, Mark J. Slattery, Mare; Lesser, Michael;
+& A. Ivonne; Apeldoorn, 25. Albins, M.A. Hixon, M. (2008). “invasive Indo-Pacific liontish Pterois volitans Bejarano, Richard; Goodbody-Gringley, Gretchen; Chequer, Alex
+2) reduce of Atlantic coral-reef fishes” (PDF). Marine Ecology Progress recruitment D.; Pitt, Joanna M. (1 March 2017). "Large-scale of Atlantic western invasion
+. Series. 367: 233-8. Bibcode:2008MEPS..367..233A doi:10.3354/meps07620 2. mesophotic reefs by lionfish potentially undermines culling-based management" 2.
+2, on 2. original h:1884/5350 Archived from the (PDF) 26 April 2012 Biological Invasions. 19 (2): 999-954. Bibcode:2017Bilnv. 19.9394
+*48© from the originale? 25 April 2012. Retrieved 21 December 2011. on 74, andradi-Brown, Dominic A; Grey, Rachel; Hendrix, Alicia; Hitchner, Drew; Hunt,
+27. Moris, J.A. J; Whitfield, PE. (2009), “Biology, Ecology, Control and Management Cristina L; Gress, Erika; Made), Konrad; Parry, Rachel L.; Régnier-McKellar,
+3. of the Invasive Indo-Pacific Lionfish: An Updated Integrated Assessment" NOS Catriona (1 May 2017). "Depth-dependent effects of culing—do mesophotic lionfish
+NCCOS 99. National Oceanic and Atmospheric Administration populations undermine management”. Royal Society Open Science. 4 (5) current
+g. 28,44 © doi:10.1098/rsos.170027 »The jionfish” c2, Texas Lionfish Control Unit. 2025. Retrieved 23 February 170027. Bibcode:2017RSOS.....470027A ¢2. ISSN 2054-
+Q.; N. 29. Smith, N.S. & Sealey, K. S. (2007). "The Lionfish Invasion the Bahamas: What 75. Harris, Holden E.; Fogg, Alexander Gittings, Stephen R.; Ahrens, Robert M.: in
+do We Know and What do About It?" (PDF). Proceedings ofthe 60th Gulf and Allen, Micheal S; li, Willam F. Patterson (26 August 2020). "Testing the efficacy of to
+on et. 15 original Caribbean Fisheries Institute. 5-9: 419-423, Archived trom the (PDF) lionfish the northern Gulf of Mexico" PLOS ONE. (8) e0230985. traps in
+66,8 Ene tontisn’ G. Texas Lontisn Controt Unit. 2020. Retrieved <3 February: 270027, BIDCODEe:20LTRSOS....4(QUE TALS. GOLLO. LOIITSOS. 270021 @. ISSN 2094-
+74494633, 62032, PMC PMID 328458792 30. 4 Handwerk, B. (2011). "Shark’s Lionfish Lunch’ c Archived from the original 5 on
+April 2011. 76. \"NOAA, Gulf and Caribbean Fisheries Institute launch lionfish web portal” c2 new
+31. 4 "Who Named the Bobbit Worm (Eunice sp.)? And WHAT truly??"c2. 13 it. www.noaanews.noaa.gov. species is
+ct ‘August 2014. 77. “Invasive Lionfish Portal" Invasive Lionfish Portal. Archived from the original on
+8@Lionfish” 5 September 2015. 32, Florida Fish and Wildlife Conservation Commission. 2025. &,
+Retrieved 23 February 2026. 78, 4Lionfish Invasion Reaches Guif Marine Sanctuary"c2. 2011. Archived from the
+2 original 28 September 2011. 33. 4 Poole, T. (2011). "The of the lionfish, Pterois volitans, sensitivity to on invasive
+9: {@) Bonaire, Dutch Caribbean" (PDF). Physis. 44-9. Archived from the 79, A“Impacts of Invasive Lionfish’ e2. NOAA Fisheries, US National Oceanic and parasitism in
+f) original (PDF) 16 February 2013, Retrieved 31 December 2011. ‘Atmospheric Administration. 29 July 2022. Retrieved 4 October 2024, on
+acetylcholine and toxin that affects neuromuscular transmission”. Toxicon. Fortner, R.L. (2017). "Going Deep For Lionfish: designs for for contains two traps a new
+27 (12): 1367-1376. Bibcode:1989Txcn...27.1367C doi:10.1016/0041- lionfish deep water" NOAA.gov. Marine Sanctuaries Conservation «2. capturing 2. in
+35. 4 Sauners, P. R.; Taylor, P. B. (1959). "Venom of the lionfish Pterois voltans”. 81. 4 Watson, Sara Kiley (17 January 2020). "This harpoon-throwing robot designed to is
+‘American Journal of Physiology. 197 (2): 437-440. hunt destructive lionfish” Popular Science. Retrieved 11 January 2024. &,
+2. doi:10.1152/ajplegacy.1959.197.2.437 PMID 14441961 c2, 82, 4 “Inventive Colombians fish problem dinnertime delicacy"e2. Fox tum into invasive
+“Adrenergic 36. Church, J. E.; Hodgson, W. C. (2002). and cholinergic activity News Latino. 2015.
+contributes the cardiovascular effects of lionfish (Pterois voltans) venom”. Toxicon. to 83, A"Eradicating Invasive Species One Sushi Roll Time"t2. The New York Times. at a
+| 912. PMID 12175616 22. 84, A "Successful lonfish jewelry workshop Deep Creek CEI Blog" 2, 29 December in
+37." Aleccia, JoNel (27 June 2012). "Eat lionfish? Sure, but beware of the nasty 2014,
+et. toxins’ NBC News. Retrieved 15 March 2021. 85, 4 Fears, Darryl (19 October 2014). "Divers feeding lionfish sharks, try to spoon a
+38. \ Hector Velasco, “To fight lionfish Cuba leams cook them’ to 2, method that could back bite them" Washington Post. Retrieved 25 July invasion, on to 2. come
+39. Dahl, Kristen A.; Patterson, William F. (4 July 2020). "Movement, home and 86. 4 "Poisonous tropical lionfish could be spreading through Mediterranean’ c2. The range,
+depredation of lionfish revealed by fine-scale acoustic telemetry the Guardian. Agence France-Presse, 21 June 2016. Retrieved 25 July 2017. invasive in
+northern Gulf of Mexico". Marine Biology. 167 (8): 111. 87. 9 Coté, Isabelle M.; Darling, Emily S.; Malpica-Cruz, Luis; Smith, Nicola S.; Green,
+Bibcode:2020MarBii.167..111D doi:10.1007/s00227-020-03728-4 e. ‘Stephanie J.; Curtis-Quick, Jocelyn; Layman, Craig (4 April 2014). "What Doesn't Kill
+S2CID 220509765 22. You Makes You Wary? Effect of Repeated Culling the Behaviour of Invasive on an
+c3. 9 40.*# Schultz, E. T. (1986). "Pterois volitans and Pterois miles: Two valid species”. Predator’ PLOS ONE. (4) e94248. Bibcode:2014PLOSO. .994248C:2.
+41,4 Myers, RLF, (1991): Micronesian Reef Fishes, Second Edition. Coral Graphics, PMID 24705447 «2.
+4" f An me?" Barrigada, Guam. 298, 88, "Have (PDF). Integrated Assessment of the Introduction of p. you seen
+42,980 andradi-Brown, Dominic A. (2019), Loya, Yossi; Puglise, Kimberly A.; Bridge, Lionfish (Pterois volitans/miles complex) the Western Atiantic Ocean. National to
+‘Tom C.L. (eds,), “Invasive Lionfish (Pterois volitans and P. miles): Distribution, Impact, Centers for Coastal Ocean Science (Report). National Oceanic and Atmospheric
+and Management", Mesophotic Coral Ecosystems, Coral Reefs of the World, vol. 12, Administration. 3 April 2003. 22." p.
+Cham: Springer international Publishing, 931-941, dof:10.1007/978-3-319-92735- 89, A"Can lionfish?" Lionfish Information. 2016. Archived from the original pp. eat cz. 2 you
+64 © 43, Gress, Erika; Andradi-Brown, Dominic Woodall, Lucy; Schofield, Pamela J.; 90, 4 Serwer, Jesse (4 March 2016). "Venomous, lionfish and only tastes great invasive is A.;
+Stanley, Karl; Rogers, Alex D. (17 August 2017). "Lionfish (Pterois spp.) invade the served NYC restaurant". New York Daily News. Afchived from the original at one
+a Uupper-bathyal the Atlantic". PeerJ. 5 €3683, western 8 March 2018. "It's sweet, white flaky fish with taste similar to parrotfish zone in on a a a or
+3. 3683 5563435. doi:10.7717/peer) ISSN 2167-8359 :2, PMC PMID 2882827577 snapper’, John It's healthy, delicate and tender, and it's to says. super very easy
+44,9 Bos, A. R.: Grubich, J. R.; Sanad, A. M. (2018). "Growth, fidelity and Cook it just about think of.” site grouper any way you can
+interactions of the Red Sea Lionfish, Pterois miles (Scorpaenidae) native its in 91. OReilly, Terry (16 February 2017). "Small Move, Big Gain’ &. CBC Radio One.
+habitat". Marine Biology. 165 (10): 175. Bibcode:2018Mar8i.165..17582 Pirate Radio. Retrieved 18 February 2017.
+doi:10.1007/300227-018-3436-612. S2CID 922444022. 92, 4 “Invasive lionfish likely safe after all". Phys.org. 1 August 2014, Retrieved to eat
+45. Hamner, R. M.; Freshwater, D. W.; Whitfield, P. E, (2007). "Mitochondrial 45 March 2021.
+cytochrome b analysis reveals lionfish with strong founder two invasive species 93, A Wilcox, Christie L.; Hixon, Mark A. (2015). "False positive tests for ciguatera may
+effects the Atlantic”, Journal of Fish Biology. 71: 214-222. westem in derail efforts control lionfish”. Environmental Biology of Fishes. 98 (3) to invasive
+48. 4 Whitfield, P.; Gardner, T; Vives, S. P.; Gillan, M. R.; Courtney Jr, W. R.; Ray, G. S2CID 14724182.
+.; Hare, J. A. (2003). "The Introduction and Dispersal of the Indo-Pacific Lionfish 94, 8 Luscombe, Richard (12 June 2022). "Fish leather here, i's sustainable and it's is —
+Atiantic 2. (Pterois volitans) Along the Coast of North America". Proceedings of the made from boot" The Observer. to invasive species
+‘American Academy of Underwater Sciences (22nd Annual Scientific Diving
+‘Symposium). Archived from the original 2 December 2008. on
+media related Prerois, to
+identifiers Taxon
+* Authority control databases [hide]
+Other Yale LUX
+Venomous | | | | | fish fish named by Oken the Mediterranean Categories: Pterois Pteroini Marine Taxa Lorenz Invasive Sea genera species in
+This last edited 19 January 2026, 16:34 (UTC). at page was on

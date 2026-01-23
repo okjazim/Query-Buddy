@@ -1,0 +1,160 @@
+<!-- MODALITY: AUDIO
+METADATA: {
+  "file_size": 4246508,
+  "chunk_count": 75,
+  "max_chars_per_chunk": 900,
+  "overlap_chars": 80,
+  "language": "en",
+  "backend": "faster-whisper (preferred), openai-whisper (fallback)"
+}
+-->
+
+This is a Libravox recording. All Libravox recordings are in the public domain.
+
+For more information and to find out how you can volunteer, please visit Libravox.org.
+
+Recording by Moira Fogudi.
+
+The Art of War by Sun-Zoo, translated by Lionel Giles.
+
+Part Seven, Manoeuvring.
+
+Sun-Zoo said, in war, the general receives his commands from the sovereign.
+
+Having collected an army and concentrated his forces, he must blend and harmonize the different elements thereof before pitching his camp.
+
+After that comes Tactical Manoeuvring, then which there is nothing more difficult.
+
+The difficulty of Tactical Manoeuvring consists in turning the devious into the direct and misfortune into gain.
+
+Thus, to take a long and circuitous route, after enticing the enemy out of the way and, though starting after him,
+
+to contrive to reach the goal before him shows knowledge of the artifice of deviation.
+
+Manoeuvring with an army is advantageous, with an undisciplined multitude most dangerous.
+
+If you set a fully equipped army in March in order to snatch an advantage, the chances are that you will be too late.
+
+On the other hand, to detach a flying column for the purpose involves the sacrifice of its baggage and stores.
+
+Thus, if you order your men to roll up their buffcoats and make forced marches without halting day or night, covering double the usual distance at a stretch,
+
+doing a hundredly in order to rest an advantage, the leaders of all your three divisions will fall into the hands of the enemy.
+
+The stronger men will be in front, the jaded ones will fall behind, and on this plan, only one tenth of your army will reach its destination.
+
+If you march fifty-ly in order to outmaneuver the enemy, you will lose the leader of your first division, and only half your force will reach the goal.
+
+If you march thirty-ly with the same object, two-thirds of your army will arrive.
+
+We may take it then that an army without its baggage train is lost, without provisions it is lost, without bases of supply it is lost.
+
+We cannot enter into alliances until we are acquainted with the designs of our neighbors.
+
+We are not fit to lead an army on the march unless we are familiar with the face of the country, its mountains and forests, its pitfalls and precipices, its marshes and swamps.
+
+We shall be unable to turn natural advantage to account unless we make use of local guides.
+
+In war, practice dissimulation, and you will succeed.
+
+Whether to concentrate or to divide your troops must be decided by circumstances.
+
+Let your rapidity be that of the wind, your compactness that of the forest, in raiding and plundering be like fire, in a moveability like a mountain.
+
+Let your plans be dark, and impenetrable as night, and when you move fall like a thunderbolt.
+
+When you plunder a countryside, let the spoil be divided amongst your men.
+
+When you capture new territory, cut it up into allotments for the benefit of the soldiery.
+
+Ponder and deliberate before you make a move.
+
+He will conquer who has learnt the artifice of deviation, such as the art of maneuvering.
+
+The book of army management says, on the field of battle the spoken word does not carry far enough, hence the institution of gangs and drums.
+
+Nor can ordinary objects be seen clearly enough, hence the institution of banners and flags.
+
+Gangs and drums, banners and flags, are means whereby the ears and eyes of the host may be focused on one particular point.
+
+The host thus forming a single united body, it is impossible either for the brave to advance alone, or for the cowardly to retreat alone.
+
+This is the art of handling large masses of men.
+
+In night fighting, then, make much use of signal-fliers and drums, and inviting by day a flag and banners as a means of influencing the ears and eyes of your army.
+
+A whole army may be robbed of its spirit, a commander in chief may be robbed of his presence of mind.
+
+Now a soldier's spirit is keenest in the morning, by noon day it has begun to flag, and in the evening his mind is bent only on returning to camp.
+
+A clever general therefore avoids an army when its spirit is keen, but attacks it when it is sluggish and inclined to return.
+
+This is the art of studying moods.
+
+Disciplined and calm to await the appearance of disorder and hubbub amongst the enemy, this is the art of retaining self-possession.
+
+To be near the goal, while the enemy is still far from it, to wait at ease while the enemy is toiling and struggling, to be well fed while the enemy is famished,
+
+this is the art of husbanding one's strength.
+
+To refrain from intercepting an enemy whose banners are in perfect order, to refrain from attacking an army drawn up in calm and confident array, this is the art of studying circumstances.
+
+It is a military axiom not to advance uphill against the enemy, nor to oppose him when he comes downhill.
+
+Do not pursue an enemy who simulates flight, do not attack soldiers whose temper is keen, do not swallow bait offered by the enemy, do not interfere with an army that is returning home.
+
+When you surround an army, leave an outlet free, do not press a desperate foe too hard, such is the art of warfare.
+
+End of Part 7
+
+Part 8, variation in tactics.
+
+Sun Zhu said, in war, the general receives his commands from the sovereign, collects his army and concentrates his forces.
+
+One in difficult country, do not encamp.
+
+In country where high roads intersect, join hands with your allies, do not linger in dangerously isolated positions, in hemmed in situations you must resort to stratagem, in desperate position you must fight.
+
+There are roads which must not be followed, armies which must not be attacked, towns which must not be besieged, positions which must not be contested, commands of the sovereign which must not be obeyed.
+
+The general who thoroughly understands the advantages that accompany variation of tactics knows how to handle his troops.
+
+The general who does not understand these may be well acquainted with the configuration of the country, yet he will not be able to turn his knowledge to practical account.
+
+So, the student of war who is unversed in the art of war of varying his plans, even though he be acquainted with the five advantages, will fail to make the best use of his men.
+
+Hence, in the wise leaders' plans, considerations of advantage and of disadvantage will be blended together.
+
+If our expectation of advantage be tempered in this way, we may succeed in accomplishing the essential part of our schemes.
+
+If on the other hand, in the midst of difficulties we are always ready to seize an advantage, we may extricate ourselves from misfortune.
+
+Reduce the hostile chiefs by inflicting damage on them and make trouble for them and keep them constantly engaged.
+
+Hold out spacious allurements and make them rushed to any given point.
+
+The art of war teaches us to rely not on the likelihood of the enemies not coming, but on our own readiness to receive him.
+
+Not on the chance of his not attacking, but rather on the fact that we have made our position unassailable.
+
+There are five dangerous faults which may affect a general.
+
+One, recklessness which leads to destruction.
+
+Two, cowardice which leads to capture.
+
+Three, a hasty temper which can be provoked by insults.
+
+Four, a delicacy of honor which is sensitive to shame.
+
+Five, over solicitude for his men which exposes him to worry and trouble.
+
+These are the five besetting sins of a general, ruinous to the conduct of war.
+
+When an army is overthrown and its leaders slain, the cause will surely be found among these five dangerous faults.
+
+Let them be a subject of meditation.
+
+End of Part 9
+
+Recorded in Toronto, Ontario by Moira Fogarty, October 2006.

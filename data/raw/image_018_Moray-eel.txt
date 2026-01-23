@@ -1,0 +1,955 @@
+<!-- MODALITY: IMAGE
+METADATA: {
+  "path": "data\\image\\018_Moray-eel.png",
+  "file_size": 3163403,
+  "image_width": 1280,
+  "image_height": 6364,
+  "ocr_engine": "tesseract",
+  "ocr_lang": "eng",
+  "tesseract_cmd": "C:\\Program Files\\Tesseract-OCR\\tesseract.exe",
+  "config": "--oem 3 --psm 6",
+  "min_line_conf": 30.0,
+  "line_count": 256,
+  "overall_bbox": [
+    23,
+    14,
+    1263,
+    6297
+  ],
+  "regions": [
+    {
+      "bbox": [
+        53,
+        14,
+        1263,
+        33
+      ],
+      "avg_conf": 63.666666666666664
+    },
+    {
+      "bbox": [
+        37,
+        30,
+        1256,
+        110
+      ],
+      "avg_conf": 57.666666666666664
+    },
+    {
+      "bbox": [
+        25,
+        109,
+        318,
+        147
+      ],
+      "avg_conf": 71.66666666666667
+    },
+    {
+      "bbox": [
+        202,
+        153,
+        419,
+        165
+      ],
+      "avg_conf": 95.0
+    },
+    {
+      "bbox": [
+        28,
+        189,
+        923,
+        204
+      ],
+      "avg_conf": 89.23809523809524
+    },
+    {
+      "bbox": [
+        28,
+        200,
+        1155,
+        230
+      ],
+      "avg_conf": 88.95
+    },
+    {
+      "bbox": [
+        28,
+        222,
+        1233,
+        252
+      ],
+      "avg_conf": 81.77777777777777
+    },
+    {
+      "bbox": [
+        23,
+        254,
+        1128,
+        285
+      ],
+      "avg_conf": 89.5
+    },
+    {
+      "bbox": [
+        28,
+        285,
+        1248,
+        306
+      ],
+      "avg_conf": 84.96
+    },
+    {
+      "bbox": [
+        28,
+        301,
+        1223,
+        333
+      ],
+      "avg_conf": 55.166666666666664
+    },
+    {
+      "bbox": [
+        28,
+        328,
+        1248,
+        378
+      ],
+      "avg_conf": 30.25
+    },
+    {
+      "bbox": [
+        28,
+        400,
+        1219,
+        422
+      ],
+      "avg_conf": 42.42857142857143
+    },
+    {
+      "bbox": [
+        28,
+        404,
+        1106,
+        444
+      ],
+      "avg_conf": 34.625
+    },
+    {
+      "bbox": [
+        28,
+        437,
+        1242,
+        455
+      ],
+      "avg_conf": 63.75
+    },
+    {
+      "bbox": [
+        28,
+        453,
+        1220,
+        479
+      ],
+      "avg_conf": 63.833333333333336
+    },
+    {
+      "bbox": [
+        28,
+        479,
+        1227,
+        506
+      ],
+      "avg_conf": 58.45454545454545
+    },
+    {
+      "bbox": [
+        210,
+        505,
+        1183,
+        517
+      ],
+      "avg_conf": 77.5
+    },
+    {
+      "bbox": [
+        27,
+        515,
+        1243,
+        535
+      ],
+      "avg_conf": 63.5
+    },
+    {
+      "bbox": [
+        28,
+        537,
+        1155,
+        560
+      ],
+      "avg_conf": 95.0
+    },
+    {
+      "bbox": [
+        28,
+        555,
+        1158,
+        594
+      ],
+      "avg_conf": 56.125
+    },
+    {
+      "bbox": [
+        28,
+        583,
+        1184,
+        614
+      ],
+      "avg_conf": 80.875
+    },
+    {
+      "bbox": [
+        28,
+        605,
+        1188,
+        636
+      ],
+      "avg_conf": 73.75
+    },
+    {
+      "bbox": [
+        28,
+        637,
+        1177,
+        656
+      ],
+      "avg_conf": 71.85714285714286
+    },
+    {
+      "bbox": [
+        28,
+        656,
+        1154,
+        673
+      ],
+      "avg_conf": 75.5
+    },
+    {
+      "bbox": [
+        999,
+        663,
+        1178,
+        689
+      ],
+      "avg_conf": 91.5
+    },
+    {
+      "bbox": [
+        210,
+        683,
+        309,
+        692
+      ],
+      "avg_conf": 83.33333333333333
+    },
+    {
+      "bbox": [
+        28,
+        687,
+        1194,
+        711
+      ],
+      "avg_conf": 80.0
+    },
+    {
+      "bbox": [
+        28,
+        715,
+        1160,
+        730
+      ],
+      "avg_conf": 85.0
+    },
+    {
+      "bbox": [
+        28,
+        734,
+        1191,
+        763
+      ],
+      "avg_conf": 62.857142857142854
+    },
+    {
+      "bbox": [
+        28,
+        769,
+        1183,
+        787
+      ],
+      "avg_conf": 86.41379310344827
+    },
+    {
+      "bbox": [
+        27,
+        788,
+        939,
+        814
+      ],
+      "avg_conf": 81.52173913043478
+    },
+    {
+      "bbox": [
+        27,
+        812,
+        963,
+        840
+      ],
+      "avg_conf": 91.6
+    },
+    {
+      "bbox": [
+        201,
+        838,
+        486,
+        855
+      ],
+      "avg_conf": 83.33333333333333
+    },
+    {
+      "bbox": [
+        24,
+        860,
+        956,
+        891
+      ],
+      "avg_conf": 87.58333333333333
+    },
+    {
+      "bbox": [
+        28,
+        882,
+        968,
+        913
+      ],
+      "avg_conf": 93.5909090909091
+    },
+    {
+      "bbox": [
+        28,
+        909,
+        963,
+        929
+      ],
+      "avg_conf": 90.75
+    },
+    {
+      "bbox": [
+        28,
+        929,
+        1250,
+        959
+      ],
+      "avg_conf": 79.2
+    },
+    {
+      "bbox": [
+        24,
+        956,
+        1247,
+        988
+      ],
+      "avg_conf": 88.30434782608695
+    },
+    {
+      "bbox": [
+        28,
+        979,
+        974,
+        1010
+      ],
+      "avg_conf": 94.32
+    },
+    {
+      "bbox": [
+        24,
+        1002,
+        1241,
+        1029
+      ],
+      "avg_conf": 86.33333333333333
+    },
+    {
+      "bbox": [
+        27,
+        1022,
+        1255,
+        1056
+      ],
+      "avg_conf": 90.875
+    },
+    {
+      "bbox": [
+        201,
+        1046,
+        444,
+        1077
+      ],
+      "avg_conf": 46.2
+    },
+    {
+      "bbox": [
+        88,
+        1095,
+        279,
+        1123
+      ],
+      "avg_conf": 61.8
+    },
+    {
+      "bbox": [
+        201,
+        1128,
+        1135,
+        1145
+      ],
+      "avg_conf": 89.63636363636364
+    },
+    {
+      "bbox": [
+        202,
+        1137,
+        1195,
+        1192
+      ],
+      "avg_conf": 84.18181818181819
+    },
+    {
+      "bbox": [
+        201,
+        1163,
+        1250,
+        1203
+      ],
+      "avg_conf": 88.5909090909091
+    },
+    {
+      "bbox": [
+        201,
+        1191,
+        1190,
+        1209
+      ],
+      "avg_conf": 35.333333333333336
+    },
+    {
+      "bbox": [
+        202,
+        1214,
+        1095,
+        1238
+      ],
+      "avg_conf": 86.5
+    },
+    {
+      "bbox": [
+        201,
+        1243,
+        1021,
+        1261
+      ],
+      "avg_conf": 93.375
+    },
+    {
+      "bbox": [
+        202,
+        1269,
+        1247,
+        1288
+      ],
+      "avg_conf": 83.8076923076923
+    },
+    {
+      "bbox": [
+        202,
+        1289,
+        1221,
+        1306
+      ],
+      "avg_conf": 89.12
+    },
+    {
+      "bbox": [
+        202,
+        1314,
+        949,
+        1328
+      ],
+      "avg_conf": 95.04761904761905
+    },
+    {
+      "bbox": [
+        202,
+        1336,
+        425,
+        1350
+      ],
+      "avg_conf": 94.0
+    },
+    {
+      "bbox": [
+        988,
+        1356,
+        1049,
+        1369
+      ],
+      "avg_conf": 95.5
+    },
+    {
+      "bbox": [
+        202,
+        1366,
+        1142,
+        1383
+      ],
+      "avg_conf": 90.1
+    },
+    {
+      "bbox": [
+        202,
+        1381,
+        1249,
+        1400
+      ],
+      "avg_conf": 79.66666666666667
+    },
+    {
+      "bbox": [
+        202,
+        1289,
+        1221,
+        1306
+      ],
+      "avg_conf": 87.56
+    },
+    {
+      "bbox": [
+        202,
+        1336,
+        425,
+        1350
+      ],
+      "avg_conf": 94.0
+    },
+    {
+      "bbox": [
+        202,
+        1366,
+        1142,
+        1385
+      ],
+      "avg_conf": 88.35
+    },
+    {
+      "bbox": [
+        202,
+        1384,
+        1249,
+        1402
+      ],
+      "avg_conf": 87.66666666666667
+    },
+    {
+      "bbox": [
+        202,
+        1402,
+        1046,
+        1428
+      ],
+      "avg_conf": 94.29411764705883
+    },
+    {
+      "bbox": [
+        202,
+        1430,
+        1143,
+        1449
+      ],
+      "avg_conf": 77.5625
+    },
+    {
+      "bbox": [
+        202,
+        1473,
+        1187,
+        1501
+      ],
+      "avg_conf": 56.6
+    },
+    {
+      "bbox": [
+        202,
+        1510,
+        1090,
+        1527
+      ],
+      "avg_conf": 73.5
+    },
+    {
+      "bbox": [
+        202,
+        1531,
+        1039,
+        1550
+      ],
+      "avg_conf": 87.0
+    },
+    {
+      "bbox": [
+        201,
+        1555,
+        934,
+        1572
+      ],
+      "avg_conf": 83.125
+    },
+    {
+      "bbox": [
+        276,
+        1584,
+        1247,
+        1599
+      ],
+      "avg_conf": 62.42857142857143
+    },
+    {
+      "bbox": [
+        202,
+        1597,
+        411,
+        1612
+      ],
+      "avg_conf": 72.66666666666667
+    },
+    {
+      "bbox": [
+        202,
+        1630,
+        937,
+        1644
+      ],
+      "avg_conf": 88.35714285714286
+    },
+    {
+      "bbox": [
+        201,
+        1649,
+        1204,
+        1666
+      ],
+      "avg_conf": 90.88461538461539
+    },
+    {
+      "bbox": [
+        202,
+        1697,
+        310,
+        1714
+      ],
+      "avg_conf": 44.5
+    },
+    {
+      "bbox": [
+        201,
+        1732,
+        935,
+        1746
+      ],
+      "avg_conf": 93.85714285714286
+    },
+    {
+      "bbox": [
+        202,
+        1755,
+        848,
+        1769
+      ],
+      "avg_conf": 94.4375
+    },
+    {
+      "bbox": [
+        201,
+        1806,
+        960,
+        1820
+      ],
+      "avg_conf": 94.11764705882354
+    },
+    {
+      "bbox": [
+        202,
+        1826,
+        975,
+        1843
+      ],
+      "avg_conf": 89.5
+    },
+    {
+      "bbox": [
+        201,
+        1851,
+        975,
+        1865
+      ],
+      "avg_conf": 94.61111111111111
+    },
+    {
+      "bbox": [
+        201,
+        1881,
+        975,
+        1895
+      ],
+      "avg_conf": 95.1
+    },
+    {
+      "bbox": [
+        202,
+        1903,
+        1247,
+        1923
+      ],
+      "avg_conf": 82.30434782608695
+    },
+    {
+      "bbox": [
+        201,
+        1925,
+        1131,
+        1939
+      ],
+      "avg_conf": 91.73913043478261
+    },
+    {
+      "bbox": [
+        202,
+        1945,
+        372,
+        1962
+      ],
+      "avg_conf": 72.25
+    }
+  ],
+  "slicing": {
+    "enabled": true,
+    "slice_height": 1400,
+    "slice_overlap": 120,
+    "num_slices": 5
+  },
+  "note": "OCR text extracted from screenshot; regions include bbox + confidence.",
+  "skipped_ocr": false,
+  "cache_path": ".ocr_cache\\018_Moray-eel.441a54a0ac5ed385.ocr.json"
+}
+-->
+
+Main eels, Muraenidae (/'morer, rev), family of eels whose members found worldwide, There page Moray or ma’ are a are are
+21 ‘Temporal Late Miocene Recent SUMELIESELE range: water ~ brackish and few found fresh water, a are in
+jopatvet, Contact which itself derives from from Greek these the and Greek of the Latin maréna, Latin us tum in muraina; are names rane SSRN
+1 Community portal be consists ea i,
+ce " 2 Feeding behavior ep an n
+2.1. Cooperative hunting gee % RY Upload fe
+«end 3 Habitat ke Special pages
+ce) pa Reproduction andiLii=c) Whitemouth Moray eel the Maldives in as
+5 Taxonomy — —
+bose ntrmetion Phylum: Chordata 7 Relationship with humans
+Get 7.2 Food shortened URL poisoning a Anguiliformes
+Expand all 9 Further reading .
+Family: Muraenidae
+10 External links
+Printlexport Rafinesque, 1810
+Download PDF as Subfamiles
+Prnabieverson Anatomy [esit} Muraeninae Rafinesque, 1815 +
+(nc RES The dorsal fin extends from behind the head along the back and seamlessly with the caudal and anal fins, with the Uropterygiinae Fowier, 1925 just joins |»
+a ‘SHLome (Cnomnes of the subfamily which have fins restricted the of the tail. lack pectoral and Uropterygiinae, to Most exception tip species
+Wien pelvic fins, adding their Their rather small; rely mostly their highly developed serpentine to appearance. eyes are morays on
+prey.'4! of smell, lying ambush wait to ‘sense in
+eet) example the snowflake (Echidna nebulosa) and zebra (Gymnomuraena zebra), primarily feed crustaceans moray moray on
+ee crushing.) eS and other hard-shelled animals, and they have blunt, molar-like teeth suitable for
+Pyccxnit "©! morays, other eel This allows sand granules adhere the sides of their burrows sand-dwelling thus making the walls of the burrow due permanent to to species. in more
+of me vie the glycosylation of Placement their small, circular gills their flanks, far behind the mouth, the / gulping to to maintain motion mucins in mucus. on requires moray a gape
+respiration, {=rfeation needed} facilitate to
+The pharyngeal of located farther back the head and closely resemble the oral (complete with tiny jaws morays are in jaws i
+| _,.. “teeth"). When feeding, launch these the mouth where they and the transport it into cavity, into morays jaws grasp prey
+ga) throat. eels the only known animals that pharyngeal actively and this Moray restrain to capture are use jaws prey in ~
+o addition the of pharyngeal mouth extend far back the head, compared fish In morays' to into to presence jaws, openings :
+» which feed the of lunging and biting down, flows the side of the mouth In at posterior suction. action water out using prey
+reducing front of the eel which would otherwise displace Thus, predation stil possible opening, waves in prey. aggressive is a sya and pharyngeal of jaws a
+times.” with reduced bite least the California (Gymnothorax mordax), teeth the roof of the in Gymnothorax miliaris (gokdentail moray) at even one species, moray in
+mouth able fold down slides backwards, thus the teeth from breaking and hold to preventing maintaining are as prey a on
+transported the throat. itis to prey as
+Moray Eel
+Differing shapes of the and teeth reflect the diets of different of eel, Evolving separately respective jaw species moray —
+LSS multiple within the Muraenidae family. short. rounded and molar-like teeth allow durophacous eels (e.q. zebra times iaws
+Ze and Echidna) while other of Muraenidae have pointed to crustaceans, moray genus consume piscivorous genera jaws
+teeth.'14J!12I131 jaw.415) and longer These morphological teeth positioned the pharyngeal patterns to carry over on reny
+Sa Feeding behavior ay [ecit]
+predators, "©! octopuses."”! A and feed primarily smalller fish, crabs and spotted Morays opportunistic, are carnivorous on \
+outer harm.5I29] eel has been observed red lionfish without barracudas and snakes Groupers, eating moray a sea are among
+ecosystems.20) their few known predators, making (especially the larger species) predators their many morays apex in
+a Moray eel anatomy jaw - .
+Reef-associated coral (Plectropomus pessuliferus) have been observed help recruiting giant to roving groupers morays
+groupers.241221I231 them hunt. The hunt initiated by head-shaking. This style of hunting allow flush from niches accessible invitation to to to not is may morays prey
+Habitat [eait}
+‘The eel be found both fresh and saltwater habitats. The of strictly vast majority moray can in species are marine, never
+freshwater. Of the few known live freshwater, the well-known Gymnothorax entering most to species in is
+Within the realm, found shallow nearshore continental slopes, continental shelves, deep water marine morays are in areas,
+environments.*! benthic habitats, and mesopelagic of the and both tropical and Most temperate zones ocean, in species are
+found tropical subtropical with only few (yellow moray) found environments, temperate environments. in or a species in ocean
+Although the eel both tropical and well both freshwater and saltwater, the temperate moray can occupy oceans oceans, as as
+of eels saltwater which reefs. within the tropical and majority environments, contain moray occupy warm oceans © ‘Amoray dead patch ree, occupying a
+the eel shelters, such dead patch reefs and coral rubble rocks, and less frequently temperate oceans, moray occupies as located Kona, Hawaii in
+reefs.'251 live coral occupies
+as Yj i The reproductive biology of eels incompletely understood. with external Most moray remains species are oviparous,
+ee Bo, fertilization the column. both males and females release simultaneously, and During water gametes occurring in spawning, Le
+ae a: ee A the fertilized subsequently dispersed by currents. b eggs are ocean
+RS » a < Following fertilization, the develop leptocephalus larvae, which and ribbon-like transparent into eggs are in appearance —
+x These larvae the pelagic for extended periods—often year—feeding plankton. This to remain in zone up a on microscopic
+Aes prolonged larval phase facilitates wide geographic dispersal settlement benthic habitats such coral reefs to prior in as or
+occurs.(27libetter needed] source rocky substrates, where metamorphosis juvenile eels into © Echidna nebulosa alive coral occupying
+_'@€" located Sabang, Philippines in The from larva juvenile involves significant morphological and behavioral changes, including the development of to transition
+adult body form, and ecological habits. Juvenile eels typically adopt the solitary and territorial behavior pigmentation, moray
+characteristic of adults.
+their nocturnal and the often inaccessible which reproduction direct observations of eel courtship and behavior Due to activity environments in occurs, moray spawning are
+Consequently, their reproductive mechanisms of the least documented of their biology. aspects rare. remain one
+Environmental factors such photoperiod, and food availabilty believed influence Breeding infrequent, which temperature, to events. captivity water as are spawning in is
+cycle.!28lluser-generated source] further limits for scientific study of their reproductive opportunities
+Genera == [exit]
+ayy, al [= There known of eels, These sub-families, and 200 16 Muraeninae two are over species moray in genera. genera are in
+ty, w fins.2°) which distinguished by the location of their the dorsal fin the gill slits and Uropterygiinae, in Muraeninae a are is near kaley
+ee % RA anus.2°1 down the back of the eel, and the anal fin behind the both the dorsal and the anal fin in Uropterygiinae, runs is are =
+EA a tail.!° So the end of the Though this distinction be between the sub-families, there still of at two varieties can seen are many
+a within and Of these, the Gymnothorax by far the broadest, including than Muraeninae Uropterygiinae. genera genus is more
+half of the total number of species. 7) Cea ee oT
+genera: phylogenetic tree The family Muraenidae the following subfamiles and comprises
+Subfamily Muraeninae Rafinesque, 1815 #
+Diaphenchelys McCosker & Randall, 2007 *
+half of the total number of species. a Muranidae represented on a
+Echidna Forster, 1788 ¢
+a 4 Enchelycore Kaup, 1856 *
+\ Enchelynassa Kaup, 1855 *
+Gymnomuraena r Lacepéde, 1803 ‘* 4
+Gymnothorax Bloch, 1795 ‘*
+& Monopenchelys Bahike McCosker, 1982 ‘*
+a representative of the structure
+Muraena Linnaeus, 1758 # subfamily Uropterygiinae
+Pseudechidna Bleeker, 1863 *
+Rhinomuraena Garman, 1888 *
+Strophidon McClelland, 1844 *
+Subfamily Uropterygiinae Fowler 1925 *
+Anarchias D. S. Jordan & Starks, 1906 *
+Channomuraena Richardson, 1848 *
+& Cirrimaxilla H.-M. Chen K.-T .Shao, 1995, ©
+Scuticaria D. S. Jordan & Snyder, 1901 +
+Uropterygius Ruppel, 1838 *
+Anarchias seychellensis Channomuraena Snowlake (Echidna Barred (Echidna Viper (Enchelynassa vittata moray moray moray
+nebulosa) polyzona) canina)
+Zebra (Gymnomuraena Laced (Gymnothorax __Gymnothorax rueppelliae Monopenchelys Mediterranean acuta moray moray moray
+favagineus) zebra) (Muraena helena)
+White ribbon ee! Ribbon eel (Rhinomuraena Scuticariatigrina Slender (Strophidon sathete) __Uropterygius xanthopterus giant moray
+(Pseudechiana brummert) quaesita)
+Kidako (Gymnothorax kidako) moray
+Evolution [eait}
+The ee!'s elongation due the number of vertebrae, rather than lengthening of each individual vertebra substantial decrease body to moray is an increase in a or a in
+depth.4] Vertebrae have been added asynchronously between the pre-tail ("precaudal") and tail ("caudal") unlike other of eels such Ophicthids and regions, groups as
+Relationship with humans [eait}
+Aquarium trade [ect]
+Several popular hobbyists for their hardiness, flexible diets, and disease The commonly traded the resistance. most moray species are among aquarium species are
+snowflake, zebra and goldentail (Gymnothorax miliaris). Several other occasionally but difficult obtain and command to ste} moray species are seen, are more can a
+Pr g y (Gy i
+market.331 the price on
+Food poisoning {exit}
+article: fish Main Ciguatera poisoning
+eels, particularly the (Gymnothorax javanicus) and yellow-edged (6. flavimarginatus), known accumulate high levels of unlike Moray giant to ciguatoxins, moray moray are
+fish;°“5 other reef if consumed by humans, fish result. characterised by neurological, gastrointestinal, and cardiovascular ciguatera Ciguatera poisoning may is
+liver.5 problems that for days after tainted fish. the concentrated the especially remarkable people persist In in 57 eating toxins most instance, may morays, are in an in
+moray.'*5 the Northern Islands poisoned after the head and half of cooked yellow-edged Thus, recommended for human Mariana eating just not were a morays are
+‘consumption.
+References [eait)
+2009 Predation Speared Red Liontish, Pterois Volitans, by Spotted Moray, version. on
+‘Gymnothorax Moringa’ Florida Scientist. 76 (3/4): 381-394. ISSN 0098-45902 zt. 2. 4 Froese, Rainer; Pauly, Daniel (eds.). "Gymnothorax polyuranodon’ 3. FishBase.
+ASTOR 243219942. January 2010 version,
+extendable their throats” ivescience.com. Retrieved 17 June 2021. original 26 September 2016. Retrieved 11 December 2016 2. jaws in on via —
+oxforddictionaries.com. 20. 4 "Moray Eel Facts and Beyond" Biology Dictionary. 10 July 2020. Retrieved :2. -
+17 June 2021. “moray” @. thefreedictionary.com. Retrieved 11 December 2016.
+1 21, 4 In the December 2006 of the journal Public Library of Science Biology, team issue a “arey, Wentworth Th 087, Gk Grek Fishes. London, C7 Oxford
+of omen )- on Conety p Glossary Greek Fishes, London, er of biologists announced the discovery of hunting involving interspecies cooperative
+niversity Press. pp. 162-1 The biologists, who engaged study of Red Sea cleaner fish (fish morays. were in a
+4.” "Crazy facts about the ee!"(2. Moray eels. Khao Lak Explorer moray that the mouths of other fish to rid them of parasites), made the discovery.An enter
+(khaotakexplorer.com). Marine Life Guide, 16 August 2019. Retrieved 17 June 2021.
+ct ‘Amazing First: Two Species Cooperate Hunt | LiveScience to ¢ i:
+Liveaboard Similan Islands to 22. 4 Bshary R, Hohner A, Ait-el-Djoudi K, Fricke H (December 2006). "Interspecific
+5. “Randall, J. (2005). Reef and Shore Fishes of the South Pacific. University of and coordinated hunting between and eels communicative giant groupers moray in
+3. Hawai Press. ISBN 0-6248-2698-1. Ujoumal.pbio.0040431 the Red Sea’ PLOS Biology. 4 (12): e431. doi:10.137 ct.
+6. Fishelson, L. (September 1996). "Skin morphology and cytology eels in marine 3. PMC 1750927 PMID 17147471 e.
+adapted different Iifestyles" The Anatomical Record. 246 (1): 15-29. to . 23. A Vail A.L., Manica Bshary R., Referential fish collaborative huntingc, gestures in A.,
+PMID 867682002. A.; 24, 4 Ebner, Brendan C.; Fulton, Christopher J.; Donaldson, James Schaffer, Jason
+7 Mehta RS, Wainwright PC (September 2007). "Raptorial the throat help jaws in (2015). "Distinct habitat selection by freshwater tropical rainforest morays in
+of 8. eels swallow large prey”. Nature. 449 (7158): 78-82. moray doi:10.111ett12213 streams’ 2, Ecology Freshwater Fish. 25 (2): 329-396.
+S2CID 4s8441L er. 25.8 Tsukamoto, Katsumi; Watanabe, Shun; Kuroki, Mari; Aoyama, Jun; Miller,
+8. Hopkin, Michael (5 September 2007). "Eels Allen: Fearsome fish have imitate Michael J. (2014). "Freshwater habitat by eel Gymnothorax use a moray species,
+Protruding their throats grab prey", Nature News. to jaws in polyuranodon, Fiji shown by otolith microchemistry”. Environmental Biology of in
+¢2 9. 4 "Moray eels uniquely equipped pack big their bodies" to into 2 are prey narrow 014.0228-912, ISSN 0378-19092, S2CID 7590020
+nsf.govinews (Press release). U.S. National Science Foundation (NSF). Retrieved Young, 26.4 Robert E: Winn, Howard E.; Montgomery, W.L. (2008). "Activity Patterns,
+11 December 2016, Diet, and Shelter Site Use for Two Species of Moray Eels, Gymnothorax and moringa
+10. 4 Mehta RS, Wainwright PC (February 2007). “Biting releases constraints on moray Gymnothorax Belize, Copeia, 2008 (1); 44-55, doi:10.1642/0045- vicinus, in
+dol:10.1242/jeb.02663. 504. Bibcode:2007JExpB.210..495M PMID 172346192 :2. 27.4 "Moray Eel Anatomy, Feeding, Behaviour, Reproduction and Types". -
+A cx LL. 4 Reece JS, Bowen BW, Smith DG, Larson (November 2010). "Molecular 28, A°Moray Eel Facts and Habitat |All About Mofena Fish Species’
+phylogenetics of eels (Muraenidae) demonstrates multiple of shell moray origins a 29,94 Reece, Joshua (January 2010), "Phylogenetics and phylogeography of moray
+crushing (Gymnomuraena, Echidna) and multiple colonizations of the Atlantic jaw
+— via els (Muraenidae)" 2. Washington University Qpen Scholarship
+Ocean’, Molecular Phylogenetics and Evolution. 57 (2): 829-36.
+‘openschotarship.wwustl.edu.
+c2. Rony van Bibcode:2010MoIPE..57..829R dol:10.1016/.ympev.2010.07.013¢2. 30, Fike, Lscnmeyer Wiliam N. & det Laan, Richard (eds), °C tn
+N. & (eds.). ricke, Ron; Eschmeyer, William van der Laan, Richard "Genera in the pio 208747509,
+family Muraenidae”c2. Catalog of Fishes. California Academy of Sciences. Retrieved . .
+12. Mea rs 2008) "eomorpoloay mary bie etatonsip beween anuay ie 10 November 2024, *
+letary extremes and morphological diversity’. Physiological and Biochemical
+ry ity". phologi Physiologi 31. A Mehta. Rita S.: Reece. Joshua S. (July 2013). "Evolutionary history of elongation
+“is dan Woy eee, Ene) aa Oe OO — eels (Muraenidae)" 2. Washington University Open Scholarship via
+30. Fricke, Ron; Eschmeyer, William N. & der Laan, Richard (eds.). "Genera the van in Mb 200747528
+4 12. Mehta RS (January 2008). "Ecomorphology of the bite: relationship between moray 10 November 2024,
+31. 4 Mehta, Rita S.; Reece, Joshua S. (July 2013). "Evolutionary history of elongation
+‘and body length eels (Anguiliformes: Muraenidae)" Biological ct. maximum in moray Saco soeabeas
+13. 4 Collar DC, Reece JS, Alfaro ME, Wainwright PC, Menta RS (June 2014). "Imperfect
+AB, 32, Mehta RS, Ward Alfaro ME, Wainwright PC (December 2010). “Elongation of
+morphological variable changes cranial underlie transitions structures convergence: in
+the body eels". Integrative and Comparative Biology. 50 (6): 1091-105. in
+durophagy eels". The American Naturalist. 183 (6): E168-184. to in moray
+7 TFH laddox, Mike. "Moraysl" Magazine, Retrieve igust &. 2018. s2cIb 17433961
+"Chara 9. han T (Ap 01) Festes a Conon Fats Fal 14. Bike, Ege, 860 Par: Odes Arion and
+reniel yon eee Metene hneene cation" rot es bat ‘Saccopharyngiformes”. Fishes of the Westem North Atlantic. Sears Foundation for
+aeons bulc tosons eee - a Mb research. New Haven, CT: Yale University, ISBN 978-0935868456. marine ‘ ee .
+35.°#8 Chan TY une 2017. "Regona aiatons Inthe Rsk and Severty of Ciguatera 15. Gregory, Willam K, (2002). Fish Skulls study ofthe evolution of natural
+Krieger Pub. 2 dol:10.2390/toxins90702013, Caused by Eating Moray Eels", Toxins. 9 (7): 201, ‘mechanisms. Malabar, FL: ISBN 978-1575242149. OCLC 48892721
+Cases of 16. 4 Kooser, Amanda. "See snowllake eel swallow sushi snack a moray a in an 436. A Khlomte, Constantine 7 (1 September 1950). “Seventeen 6
+T. (2 1950). Constantine lentzos, September "Seventeen Cases of Poisoning Due extraordinary way". CNET. Retrieved 17 June 2021.
+to Ingestion of Eel, Gymnothorax Flavimarginatus 1". The American Journal of an
+and Tropical Medicine Hygiene. 1-0 (5): 785-793. dol:10.4269/ajtmh.1950.s1-
+Shelter Site Use for Two Species of Moray Eels, Gymnothorax and moringa
+Belize". Gymnothorax Copela. 2003 (1): 44-55, dot:10.1643/0045- vicinus, in
+Further reading [eait)
+The Eel. United Publishing PowerKids Gross, Miriam J. Moray States: Rosen Group's Press, 2005. ‘+
+Phillip. Eels United Purser, Keeping Moray Aquariums. States: T.FH., 2005. in
+Didier, Eel. United Cherry Lake Publishing, Dominique A. Moray States: 2014. ‘*
+Goldish, Meish. Eel: Teeth. United Kingdom: Publishing, Moray Dangerous Bearport 2009. ‘+
+External links [eait)
+Eels Grab With Alien Moray Prey Jaws 2 Te ees
+Smith, The eels of the Indian and the Red Ichthyological Bulletin; media related Muraenidae. J.L.B. 1962. Western Ocean Sea. No. 23.2. to moray ‘*
+of Ichthyology, Rhodes Grahamstown, South Africa. Department University,
+Wikisource has the text of the Z=>
+@ 1905 New International
+Encyclopedia article "Moray"
+eels True [show] (Anguilliformes) were
+identifiers Taxon
+:2 c7 (2 Open Tree of Life: 765787 Paleobiology Database: 132681 Plazi: FD1087D9-FFA2-4A52-FF67-A23C4D64FEF7 WoRMS: 125431 - -
+7 Authority control databases [show]
+| | Muraenidae first named by Samuel Rafinesque Categories: Extant Miocene Taxa Constantine appearances
+This last edited 30 September 2026, 07:56 (UTC). at page was on

@@ -1,0 +1,1025 @@
+<!-- MODALITY: IMAGE
+METADATA: {
+  "path": "data\\image\\015_Giant-Pacific-octopus.png",
+  "file_size": 3248389,
+  "image_width": 1280,
+  "image_height": 7513,
+  "ocr_engine": "tesseract",
+  "ocr_lang": "eng",
+  "tesseract_cmd": "C:\\Program Files\\Tesseract-OCR\\tesseract.exe",
+  "config": "--oem 3 --psm 6",
+  "min_line_conf": 30.0,
+  "line_count": 332,
+  "overall_bbox": [
+    24,
+    14,
+    1263,
+    7446
+  ],
+  "regions": [
+    {
+      "bbox": [
+        53,
+        14,
+        1263,
+        31
+      ],
+      "avg_conf": 63.0
+    },
+    {
+      "bbox": [
+        41,
+        49,
+        1256,
+        78
+      ],
+      "avg_conf": 65.61538461538461
+    },
+    {
+      "bbox": [
+        53,
+        94,
+        337,
+        113
+      ],
+      "avg_conf": 35.666666666666664
+    },
+    {
+      "bbox": [
+        29,
+        108,
+        448,
+        136
+      ],
+      "avg_conf": 83.0
+    },
+    {
+      "bbox": [
+        202,
+        153,
+        418,
+        165
+      ],
+      "avg_conf": 95.8
+    },
+    {
+      "bbox": [
+        28,
+        189,
+        1128,
+        206
+      ],
+      "avg_conf": 85.72727272727273
+    },
+    {
+      "bbox": [
+        28,
+        201,
+        1236,
+        239
+      ],
+      "avg_conf": 69.84210526315789
+    },
+    {
+      "bbox": [
+        28,
+        228,
+        1214,
+        256
+      ],
+      "avg_conf": 81.21739130434783
+    },
+    {
+      "bbox": [
+        27,
+        257,
+        961,
+        279
+      ],
+      "avg_conf": 85.16666666666667
+    },
+    {
+      "bbox": [
+        28,
+        279,
+        932,
+        295
+      ],
+      "avg_conf": 88.56521739130434
+    },
+    {
+      "bbox": [
+        28,
+        302,
+        1119,
+        327
+      ],
+      "avg_conf": 86.82608695652173
+    },
+    {
+      "bbox": [
+        202,
+        317,
+        1230,
+        350
+      ],
+      "avg_conf": 82.8
+    },
+    {
+      "bbox": [
+        28,
+        338,
+        1246,
+        374
+      ],
+      "avg_conf": 75.33333333333333
+    },
+    {
+      "bbox": [
+        24,
+        360,
+        1248,
+        390
+      ],
+      "avg_conf": 75.14285714285714
+    },
+    {
+      "bbox": [
+        28,
+        381,
+        1165,
+        405
+      ],
+      "avg_conf": 63.0
+    },
+    {
+      "bbox": [
+        28,
+        394,
+        1248,
+        423
+      ],
+      "avg_conf": 60.857142857142854
+    },
+    {
+      "bbox": [
+        28,
+        420,
+        1247,
+        444
+      ],
+      "avg_conf": 47.6
+    },
+    {
+      "bbox": [
+        28,
+        442,
+        1219,
+        464
+      ],
+      "avg_conf": 65.8
+    },
+    {
+      "bbox": [
+        28,
+        457,
+        1223,
+        478
+      ],
+      "avg_conf": 90.33333333333333
+    },
+    {
+      "bbox": [
+        236,
+        476,
+        286,
+        485
+      ],
+      "avg_conf": 74.0
+    },
+    {
+      "bbox": [
+        28,
+        483,
+        1190,
+        512
+      ],
+      "avg_conf": 74.25
+    },
+    {
+      "bbox": [
+        27,
+        514,
+        1239,
+        545
+      ],
+      "avg_conf": 35.333333333333336
+    },
+    {
+      "bbox": [
+        28,
+        538,
+        1220,
+        555
+      ],
+      "avg_conf": 44.125
+    },
+    {
+      "bbox": [
+        28,
+        548,
+        1234,
+        577
+      ],
+      "avg_conf": 66.0
+    },
+    {
+      "bbox": [
+        28,
+        574,
+        1206,
+        611
+      ],
+      "avg_conf": 72.875
+    },
+    {
+      "bbox": [
+        28,
+        605,
+        1200,
+        636
+      ],
+      "avg_conf": 80.66666666666667
+    },
+    {
+      "bbox": [
+        28,
+        633,
+        1143,
+        651
+      ],
+      "avg_conf": 81.85714285714286
+    },
+    {
+      "bbox": [
+        28,
+        656,
+        1145,
+        677
+      ],
+      "avg_conf": 90.22222222222223
+    },
+    {
+      "bbox": [
+        236,
+        677,
+        338,
+        686
+      ],
+      "avg_conf": 92.0
+    },
+    {
+      "bbox": [
+        24,
+        679,
+        1173,
+        712
+      ],
+      "avg_conf": 63.6
+    },
+    {
+      "bbox": [
+        28,
+        705,
+        1150,
+        736
+      ],
+      "avg_conf": 72.16666666666667
+    },
+    {
+      "bbox": [
+        28,
+        731,
+        1198,
+        762
+      ],
+      "avg_conf": 88.5
+    },
+    {
+      "bbox": [
+        28,
+        755,
+        1171,
+        786
+      ],
+      "avg_conf": 83.875
+    },
+    {
+      "bbox": [
+        27,
+        790,
+        1156,
+        807
+      ],
+      "avg_conf": 65.28571428571429
+    },
+    {
+      "bbox": [
+        27,
+        800,
+        1173,
+        831
+      ],
+      "avg_conf": 91.55555555555556
+    },
+    {
+      "bbox": [
+        27,
+        831,
+        1195,
+        847
+      ],
+      "avg_conf": 66.0
+    },
+    {
+      "bbox": [
+        209,
+        845,
+        1195,
+        867
+      ],
+      "avg_conf": 67.5
+    },
+    {
+      "bbox": [
+        24,
+        854,
+        1169,
+        885
+      ],
+      "avg_conf": 70.4
+    },
+    {
+      "bbox": [
+        210,
+        880,
+        302,
+        889
+      ],
+      "avg_conf": 73.66666666666667
+    },
+    {
+      "bbox": [
+        24,
+        936,
+        1143,
+        967
+      ],
+      "avg_conf": 67.0
+    },
+    {
+      "bbox": [
+        28,
+        958,
+        1217,
+        994
+      ],
+      "avg_conf": 76.0
+    },
+    {
+      "bbox": [
+        28,
+        986,
+        1238,
+        1027
+      ],
+      "avg_conf": 79.14285714285714
+    },
+    {
+      "bbox": [
+        27,
+        1007,
+        1234,
+        1038
+      ],
+      "avg_conf": 82.04761904761905
+    },
+    {
+      "bbox": [
+        28,
+        1035,
+        1168,
+        1056
+      ],
+      "avg_conf": 67.75
+    },
+    {
+      "bbox": [
+        202,
+        1078,
+        1179,
+        1103
+      ],
+      "avg_conf": 64.0
+    },
+    {
+      "bbox": [
+        88,
+        1101,
+        1158,
+        1125
+      ],
+      "avg_conf": 65.75
+    },
+    {
+      "bbox": [
+        481,
+        1126,
+        561,
+        1141
+      ],
+      "avg_conf": 77.5
+    },
+    {
+      "bbox": [
+        1009,
+        1142,
+        1203,
+        1155
+      ],
+      "avg_conf": 81.4
+    },
+    {
+      "bbox": [
+        302,
+        1148,
+        1194,
+        1182
+      ],
+      "avg_conf": 79.25
+    },
+    {
+      "bbox": [
+        301,
+        1178,
+        1192,
+        1201
+      ],
+      "avg_conf": 73.47368421052632
+    },
+    {
+      "bbox": [
+        288,
+        1193,
+        1216,
+        1233
+      ],
+      "avg_conf": 73.95
+    },
+    {
+      "bbox": [
+        269,
+        1216,
+        1050,
+        1247
+      ],
+      "avg_conf": 79.27777777777777
+    },
+    {
+      "bbox": [
+        331,
+        1248,
+        1190,
+        1275
+      ],
+      "avg_conf": 65.11111111111111
+    },
+    {
+      "bbox": [
+        481,
+        1267,
+        975,
+        1284
+      ],
+      "avg_conf": 92.4
+    },
+    {
+      "bbox": [
+        1009,
+        1280,
+        1215,
+        1294
+      ],
+      "avg_conf": 65.2
+    },
+    {
+      "bbox": [
+        481,
+        1293,
+        914,
+        1307
+      ],
+      "avg_conf": 93.54545454545455
+    },
+    {
+      "bbox": [
+        209,
+        1305,
+        970,
+        1336
+      ],
+      "avg_conf": 77.75
+    },
+    {
+      "bbox": [
+        220,
+        1315,
+        1210,
+        1339
+      ],
+      "avg_conf": 48.92307692307692
+    },
+    {
+      "bbox": [
+        208,
+        1335,
+        773,
+        1352
+      ],
+      "avg_conf": 85.33333333333333
+    },
+    {
+      "bbox": [
+        209,
+        1348,
+        1212,
+        1364
+      ],
+      "avg_conf": 83.3
+    },
+    {
+      "bbox": [
+        1009,
+        1372,
+        1201,
+        1386
+      ],
+      "avg_conf": 81.0
+    },
+    {
+      "bbox": [
+        481,
+        1383,
+        1192,
+        1400
+      ],
+      "avg_conf": 48.333333333333336
+    },
+    {
+      "bbox": [
+        482,
+        1280,
+        1215,
+        1301
+      ],
+      "avg_conf": 31.733333333333334
+    },
+    {
+      "bbox": [
+        209,
+        1348,
+        1212,
+        1364
+      ],
+      "avg_conf": 74.3
+    },
+    {
+      "bbox": [
+        477,
+        1379,
+        1194,
+        1419
+      ],
+      "avg_conf": 48.333333333333336
+    },
+    {
+      "bbox": [
+        202,
+        1409,
+        1228,
+        1440
+      ],
+      "avg_conf": 72.42857142857143
+    },
+    {
+      "bbox": [
+        1009,
+        1442,
+        1247,
+        1456
+      ],
+      "avg_conf": 58.5
+    },
+    {
+      "bbox": [
+        201,
+        1458,
+        868,
+        1472
+      ],
+      "avg_conf": 90.4375
+    },
+    {
+      "bbox": [
+        201,
+        1478,
+        916,
+        1495
+      ],
+      "avg_conf": 92.2
+    },
+    {
+      "bbox": [
+        201,
+        1500,
+        1222,
+        1517
+      ],
+      "avg_conf": 86.65217391304348
+    },
+    {
+      "bbox": [
+        201,
+        1526,
+        1250,
+        1552
+      ],
+      "avg_conf": 87.6086956521739
+    },
+    {
+      "bbox": [
+        202,
+        1538,
+        1210,
+        1569
+      ],
+      "avg_conf": 80.34782608695652
+    },
+    {
+      "bbox": [
+        202,
+        1559,
+        1248,
+        1593
+      ],
+      "avg_conf": 92.38095238095238
+    },
+    {
+      "bbox": [
+        201,
+        1575,
+        1210,
+        1612
+      ],
+      "avg_conf": 73.61538461538461
+    },
+    {
+      "bbox": [
+        202,
+        1631,
+        1208,
+        1655
+      ],
+      "avg_conf": 53.75
+    },
+    {
+      "bbox": [
+        202,
+        1650,
+        1241,
+        1686
+      ],
+      "avg_conf": 94.04545454545455
+    },
+    {
+      "bbox": [
+        201,
+        1672,
+        1187,
+        1706
+      ],
+      "avg_conf": 86.71428571428571
+    },
+    {
+      "bbox": [
+        201,
+        1703,
+        1235,
+        1728
+      ],
+      "avg_conf": 89.91666666666667
+    },
+    {
+      "bbox": [
+        201,
+        1725,
+        1192,
+        1762
+      ],
+      "avg_conf": 85.14285714285714
+    },
+    {
+      "bbox": [
+        201,
+        1746,
+        1249,
+        1768
+      ],
+      "avg_conf": 84.22727272727273
+    }
+  ],
+  "slicing": {
+    "enabled": true,
+    "slice_height": 1400,
+    "slice_overlap": 120,
+    "num_slices": 6
+  },
+  "note": "OCR text extracted from screenshot; regions include bbox + confidence.",
+  "skipped_ocr": false,
+  "cache_path": ".ocr_cache\\015_Giant-Pacific-octopus.a0ed932e9413b32f.ocr.json"
+}
+-->
+
+Main The giant Pacific (Enteroctopus dofleini), also known the North Pacific giant large page octopus octopus, as is a marine - —
+nn eee aes oer the coastal North Pacific, from the of California, north along the United (California, Mexican state Baja States’ West Coast
+Washington and Alaska, including the Aleutian Islands), and British Columbia, Canada; the northern Pacific Oregon, across ‘About Wikpedia
+the (Kamchatka, of Okhotsk), south the China the Yellow the of Russian Far East Sea East Sea, Sea, Sea Japan, to to @mesiy
+ay 2 (6,600 ft), and best-adapted colder, and nutrient-rich the largest earth and to It waters. octopus is oxygen- is species on can er 4
+dae Comins po ocean.!ISISI gee often be found and research facilities addition the dofieini play role E, to important in aquariums in an in
+Peat Be ea rae the health and biodiversity of deep research, and the fishing industry. ecosystems, maintaining cognitive sea Ase fon
+SEE ere Recent changes AGE
+Upload fie E, dofleini observed off Point Pifos, > Desetition
+a ‘Special pages California, at depth of 65 (213 ft) a m
+2. Size
+Tools Conservation status OEE
+Extinct, Threatened coneern SRST aa Ot
+© (€x) Ew) (eR) (en) w) (1) Permanent ink 3.8 Movement patterns
+cae 3.1) mermaton Least Concern (IUCN 3.4 Shelter
+Get 4 Lifespan and reproduction Scientific classification shortened URL
+Expand all 6 Conservation and climate change Phylum: Mollusca
+Prinvexport Class: Cephalopoda CO Teen)
+Order: Download PDF Octopoda as CS@ygNCETn
+Genus: 6.5 Ocean acidification Enteroctopus In other projects
+dofleini Enteroctopus 8 Ref
+9 Extemal links
+sto} first -, mn The Pacific described by Gerhard Walker of Uber Japanische 4 1910 Leipzig University giant octopus was in in
+| od yA Cephalopoden. describes the morphology detail, and that there be much within He species’ mentions to variation in seems
+ae 7 species.” the The specific dofleini chosen by Gerhard Wulker honor of Theodor German Franz scientist name was in qi
+Doflein.®! 1201111 moved by Hochberg i It Enteroctopus Eric 1998 to was genus in ae _
+E. Description of dofieini [eit] range
+Octopus punctatus Gabb, 1862 *
+i) + doflein’ distinguished from other by large the largest E. Its its is species size. dofieini Octopus woker, 1910
+species.'“I1121 Be adults usually weigh around kg (33 Ib), with 15 octopus an arm Polypus dofleini Wilker, 1910 «
+"51 (14 larger individuals have weighed kg 4.3 some 50 to at span up m in a doflinidoflini «Octopus ;wuker,
+G. (110 Ib), with radial of (20 ft)."! zoologist Parker 6 American H. a span m ae? a5)
+found thatthe argest suckers Pace about glant 6.4 octopus ona are em i Polypus apollyon Bey, 1912 «
+each.! (2.5 in) and kg (35 Ib) The only other possible contender 16 support can
+dofleini apollyon Octopus (Bery, +
+for the largest of the (Haliphron octopus octopus species is seven-arm
+of E. © atlanticus), based 61-Kilogram (134-pound), incomplete estimated Close-up dofleini sh f on a carcass
+» (134-pound) gram i fe ereere ere ra Polypus gilbertianus Berry, 1912 +
+the siphon, longitudinal folds the Ib).41051 eyes, on have had live of kg (165 75 to a mass
+gilbertianus Octopus Berry, 1912 body and the paddle-like papillae ‘*
+apollyon Octopus (Berry, 1913) +
+Ecology feait) nen
+tho larmmet emanine af mmtmmrie ie the ee a euarerp, 6=6=—SCté‘(<«‘é‘S;*SC® GOHTEINI Apollon (Berry, LOPS
+Ecology tet) madoka cctopus tory 1901
+asper Akimushkin, Paroctopus 1963 + Diet {exit}
+dofleini Octopus martini Pickford, 1964 *
+doffeini shrimp, crabs, scallops, abalones, cockles, snails, clams, lobsters, fish, squid, and other E. preys on
+octopuses.!28127II28] Food procured with suckers and then bitten tough beak of chitin. has also been its It its is using
+captivity."°! > observed catch dogfish (Squalus acanthias) (4 ft) length while Additionally, consumed to 1.2 to spiny up m in in carcasses >
+of this shark have been found Pacific middens the wild, providing evidence of these strong giant octopus octopuses same species in in |
+a Pp habitat.!2°l small sharks their natural photographer widely reported have in May 2012, Ginger Morneau amateur to preying on in was ~
+e photographed wild Pacific attacking and drowning seagull, demonstrating that this above giant not eating octopus a a species is any
+° ee birds. 24) available of food within its source size range, even
+6 and other often when the female them. Pacific ‘Scavengers octopus present to protect Giant attempt to eat organisms eggs, even is
+. paralarvae preyed by other zooplankton and filter feeders. mammals, such harbor seals, octopus Marine otters, are upon many as sea
+> and whales depend the Pacific of food. Pacific sleeper sharks also confirmed predators of octopus giant sperm upon as a source are 6
+P] species.'2I this addition, the (along with cuttlefish and squid) significant of for human In protein octopus consumption. is a source
+=i a annually.) About million (3.6 million short tons) commercially fished, worth $6 billion thousands of humans. 3.3 tonnes Over are years,
+= CESS CERES hands.5) have caught them lures, and bare The parasitized by the Dicyemodeca traps, pot nets, octopus using spears, is mesozoan
+appendages.24) anthinocephalum which lives renal {ni}, its in
+Movement patterns [ecit)
+a doffeini through the propulsion, which achieved by drawing body and then forcefully expelling through siphon, E. jet its cavity water water into it move open using is
+speed.5Il25] powerful thrust and propelling the through the high when the seafloor, however, the crawls water at creating octopus octopus its a a moving on using arms.
+doffeini hiding of the usually concealed within dens, kelp, camouflaged their Otherwise, they exhibit E. stationary 94% time, activity environment. remain or in or in
+throughout the day, increasingly from midnight the early While dofiein’ hide, sleep, and dens. dofieini capable of to stationary, E. maintain E. eat, so morning. groom, are
+distances habitats, with large further than smaller Their random; they demonstrate vast to octopuses not movements moving occupy new areas or moving ones. are a
+preference for habitats with dense kelp and rocky sophisticated level of habitat selection, likely foraging efficiency and suggesting terrain optimizing cover a minimizing
+predators.!78lI29] Furthermore, their include direct relocations and central-tendency familiar to movement patterns to movements to return to exposure new areas
+habitats.271 navigation.2718° This behavior influenced by the of familiar cliff edges, substrates, and topography well visual navigation is use as as
+doffeini depending the population. the Pacific off the of coincides with seasonal E. migration patterns In eastern waters Japan, temperature coast migration vary on
+winter.2” changes the and dofleini shallower the early and and offshore the late and There Here, E. migrate waters winter to winter in summer. in summer in summer is no
+evidence of these the Alaskan and northeast Pacific populations of dofieini. migration patterns E. in
+privacy.° dofleini den dwellers, which central from which they forage while also providing shelter, and after hunting, they bring food E. point protection, are serve as a
+predators." back the den feed safer and avoid Shells, bones, and other feeding debris pile outside of the den, "den litter" that to to environment creating in a up is
+dofleini.(251621I281 commonly used by and divers find to E. scientists
+depth and substratum including holes dug beneath rock, and trash the floor such bottles, and Dens type tires, range across caves, even on ocean as pipes,
+barrels.25I271I261 selection greatly influenced by foraging behavior and preferred made of soft substrata be preferred where bivalves Den Dens is prey. may in areas are
+populations.'8! abundant while dens rocky might be chosen with higher crab The of the den small, usually being large enough for the just near areas in areas size is
+fit inside and around. dofleini beak determines the of the fit inside, with body being able through ‘octopus E. its tiny to turn it to size size space can compress spaces as
+in).5Il$51 ‘small (2 dofleini prefer shelter for least month, often longer if possible. for these leave their den for 50 €. to at It octopus to as mm occupy same one is common
+den.°! short periods of and eventually the longer periods of dofleini relocate dens situated relatively nearby, time However, E. to return to time, re-use same over new
+meters.!281291 within distance of 13.2 an average
+un » Lifespan and reproduction [eait}
+yy, x Te a nN | f \ Unlike other whose lifespans normally only the Pacific has lifespan of octopus giant most octopus species, span one year,
+\& nv Qn —% 1. years.'" age.*4] Sy three five They reach sexual of Gonadal has been linked the to maturity two to at to maturation one years
+gl © » 0 Z = gland.!°"] gland of which has been compared functionally the vertebrate These glands optic optic octopuses to pituitary are i &
+ee A the only endocrine glands identified and their have been found contribute behaviors linked with secretions octopuses, to to in ,
+i a reproduction and When removed, females longer brood their feeding, weight, and senescence. no eggs, resume increase in 4
+i Xs) rea > glands.231 Ss longer lifespans compared sexually brooding females who stil their to optic mature, retain ‘experience
+ie snare, = help for relatively short lifespan, the extremely prolific. lay between and To compensate its octopus t 120,000 400,000 is can aT os
+which coated chorion, and attached hard surface by the female. The intensively cared for to eggs are in a spawn is
+exclusively by the female, who continuously blows and algae and other growths. While she it it water to over grooms remove
+Feproduction and When removed, remales longer brood their leeding, WeIgnt, and = senescence. no eggs, resume Increase In
+cae” «6B glands.) longer lifespans compared sexually brooding females who still their to mature, retain optic experience
+ste = 5 help for relatively short lifespan, the extremely prolific. lay between and To t 120,000 400,000 compensate its octopus is can EET
+fulfils her duty of parental the female close her leaving feed, leading her death after stays to to to care spawn, never soon
+hatched./5! fats!®! the have The female's death the result of she subsists her body during this starvation, young is as on own
+months.) rice,°"! period of approximately Hatchlings about the of of and few adulthood. prres 6 to are size a grain very survive
+Their growth rapid: from (0.0011 02) and kg (44-88 Ib) adulthood, which 0.03 20-40 rate quite starting to at is g growing is an q
+day.'*! " of around The Pacific growth the of has faster 0.9% octopus’ giant two sections: increase per over course a year a a
+> June_°®] from July December, and slower from they cool-blooded, they able January Because section, to section, to a are are
+oS reproduction.25) of their consumed for body physical and reproduction, During to most respiration, activity, use energy mass,
+the male deposits spermatophore (or packet) than (83 ft long his hectocotylus (specialized 1m octopus a sperm more using a Eserectopus dof spawning
+arm) the female's mantle, The hectocotylus found the third of male and the last four inches octopuses in is on arm occupies
+arm.) of the This of the male suckers. spermatophores characteristic of Large part anatomy contains octopuses arm no are
+genus.*°! this The female the spermatophore her spermatheca until she ready fertilize her female the Seattle observed One Aquarium stores to at to in in is eggs. was
+eggs.25) spermatophore for months before laying fertilized retain a seven
+Both male and female Pacific semelparous, they only through breeding cycle their giant octopuses are meaning go one in
+oad ae rs life. Analysis of clutches has shown evidence of polygyny and polyandry Pacific where males and giant octopuses, egg in
+= partners.'*4 females with multiple This multiple potentially allows females the odds of least eee mate paternity to at increase one
+© arent of the males she with producing fit offspring, After both the males and females and ultimately mates mating, stop eating
+OS || rr © die.91241251 after reproduction, they which involves obvious changes behavior and enter senescence, in appearance,
+== including reduced of skin around the them pronounced increased appetite, retraction a eyes giving a more appearance,
+© uncoordinated and white lesions all the body. While the duration of this variable, typically Hectocotylus of octopod activity patterns, stage it arm an in over is
+lasts about months. primarily this period immediately following Despite to two active one senescence occurring over
+reproduction, research has shown that changes related begin early the of reproductive to onset senescence may as as
+behavior.'42] early of which begins the the of reproduction, hyper-sensitivity noted where individuals both in stages octopus enters stage overreact to senescence, as is
+and touch. they late observed along with the dramatic physical changes described above. Changes As enter insensitivity sensitivity noxious non-noxious senescence, is in
+degrades.'*! touch attributed decreasing cellular density and epithelial cells the Death typically attributed the to to system to starvation, are in nerve as nervous is as
+upon.“ females have stopped hunting order their males often spend the making them likely be preyed to protect time to in eggs; more in open, more
+Intelligence [eait)
+invertebrates.'““! ranked the intelligent Pacific commonly kept display due their and Octopuses Giant most octopuses at to interesting are as are on aquariums size
+physiology, and have demonstrated the ability humans with whom they frequently These include changing body to contact. jetting water, recognize come in responses
+individuals.'**! and other behaviors that consistently demonstrated specific They have the ability solve simple puzzles, childproof bottles, and texture, to to are open use
+tools.?5] neurons.5! The brain has folded lobes (a distinct characteristic of complexity) and visual and tactile They have about million They 300 octopus centers. memory
+aquaria.2°! have been known tank valves, disassemble and generally wreak havoc labs and researchers claim that they some to equipment, open expensive in even are
+of play'*®! personalities.!471 capable motor and having
+Conservation [ecit]
+Pacific currently under the of International Trade Endangered of Wild and Flora evaluated the Giant Convention Species Fauna octopuses not protection are on in or in
+List.!48] Red techniques have assisted and phylogenetic analysis of the evolutionary Following analysis, the Pacific IUCN DNA species’ DNA genetic past. its giant in
+[*#@ton needed] actually be three subspecies (one another Alaska, and third Sound). Japan, Puget octopus to may prove in in a in
+Sound, the Washington Fish and Wildlife adopted rules for the harvest of Pacific after legal harvest, In Puget Commission protecting giant octopuses at sites, seven a
+outcry." ation needed] caused public Populations Sound considered threatened Puget not a in are
+Regardless of these data abundance future climate change affect these different Climate change complex, with estimates, gaps in scenarios may organisms in ways. is
+predicted biotic and abiotic changes multiple including limitation, reproduction, acidification, effects other trophic levels, and RNA to toxins, processes oxygen ocean on
+{tation needed} editing,
+Fraud the seafood industry, with being switched by accident the of is an issue in species names or on purpose, as in case a
+y the of for cheaper Cephalopods, particular, lose distinguishing using name a more expensive species a one. in
+ot Wit characteristics during food making them much harder identify. study developed multiplex One PCR to to processing, a assay x
+ox a> Pa) distinguish between three prevalent the Pacific, namely, the Pacific the big blue Eastern octopus giant octopus, species in
+ts ) fraud.©° and the order accurately identify these and help seafood octopus, octopus, to to prevent common in species y i
+i Combined with lack of and mislabeling, tracking the abundance nearly impossible. have species's Scientists assessment is
+ay find.!25) relied catch numbers stock abundance, but the animals solitary and difficult like The sites to estimate to on are
+—= Seafood Watch help people responsibly seafood, including the Pacific Monterey Bay Aquarium to giant can consume
+made 2 Korean sukhoe of giant octopus On
++: $ i fraud. = and the order accurately identify these and help seafood to he octopus, octopus, to prevent common in species |
+We | Combined with lack of and mislabeling, tracking the abundance nearly impossible. have assessment species's Scientists is
+e £ find.5! relied catch numbers stock abundance, but the animals solitary and difficult like The estimate sites to to . on are &
+CeENET AE IETS SURES Seafood Watch lists Pacific either the but be of octopus. "Buy" "Buy, concerns” giant octopus categories in or aware
+54) depending the geographical location of the catch on
+Oxygen limitation [ect] a
+have been found for of and methods, found they Octopuses Using to migrate variety tag recapture scientists a reasons. move See |
+\) ao from den den decreased food availability, change quality, predation, increased to to water in response in increase in or —_
+isi “i their space).©2! Soe population density (or decreased available habitat/den blue blood copper-based (hemocyanin) and he since is
+ee oF Z F efficient favor and toward cooler, oxygen-rich This dependency limits gS octopuses not water. octopus an oxygen carrier, move
+s seawater temperatures re) Ree me °F).!*! habitat, typically (46-54 If these temperate 8-12 °C to waters continue to rise, organisms may
+Re D>. en” be forced deeper, cooler to water. to move
+© Giant Pacific octopus each fall Washington's Hood Canal, habitat for phytoplankton and macroalyae die and dead create octopuses, in a many a
+these decompose, used the and has been measured be low As 2 to zone. micro-organisms oxygen is up in process as as
+ppm.3! million (ppm). This of hypoxia. Normal levels measured Fish and from the deep towards the shallow for state 7-9 parts at octopuses water per is a are move more
+Females do leave, and die with their phytoplankton growth, and annual dead have nesting Warming temperatures promote not at sites. seawater oxygen. eggs zones
+size.’5! been found be avoid these dead shallower which be and less oxygen-rich, To octopuses temperature to must to waters, increasing in zones, move may warmer in
+zones,!tation need them between low-oxygen trapping two
+Increased also metabolic The the the faster seawater water, temperatures octopus increase processes. warmer eggs
+hatch.*! develop and After hatching, the paralarvae the surface other plankton, where they often preyed \)) to to swim join are v7
+Val i] 4! by birds, fish, and other plankton feeders. Quicker hatching also affect critical for food availability. time timing upon may ;
+study found that higher accelerated all of reproduction and shortened lifespan by One temperatures aspects to water even up “
+iy 20%.5] mortalities.°©) 7 Other studies that climate should result higher embryo and paralarvae concur warming scenarios in J
+VY Ocean acidification £4 [ecit) i
+“te The burning of fossil fuels, deforestation, industrialization, and other land-use changes increased carbon dioxide levels cause .
+CO,.°71 the atmosphere. The absorbs estimated of emitted anthropogenic the absorbs 30% As CO,, it in ocean an ocean faa a
+becomes acidic and lowers acidification lowers available carbonate which building block for pH. Ocean more in ions, is a
+tests." calcium carbonate (CaCO,). Calcifying calcium carbonate produce shells, skeletons, and The to organisms use
+base that prefer (crab, clams, scallops, mussels, etc.) negatively impacted by acidification, and decrease abundance. Shifts available octopuses prey are ocean may in in
+!=#ation needea] force change diets other, nonshelled octopus to prey may a in organisms.
+have hemocyanin copper-based blood, small change reduce change from will have Because pH capacity. A pH 8.0 to 7.7 7.5 octopuses as a in can oxygen-carrying or
+51 cephalopods. life-or-death effects on
+Researchers have found high of heavy metals and and digestive glands, which have from these preferred the red PCBs octopus’ concentrations tissues in may come prey,
+productus).°! nearby.) rock crab (Cancer These crabs bury themselves contaminated sediments and that live What effects these have eat toxins octopuses in prey on
+death_lsttation needea) unknown, but other exposed animals have been known show liver damage, changes and to systems, are in immune
+levels.“ Potential changes populations will affect and lower trophic trophic levels include all and fluctuate inversely with octopus Lower items, octopus in upper prey may
+abundance. Higher trophic levels include all predators of and fluctuate with abundance, although of octopuses, octopus variety may many may prey upon a organisms,
+of other threatened affect populations (the for example), they rely for food. research that Protection Some octopus otter, octopuses suggests species may sea as may on
+competitors. "ation needed] fishing other has aided populations, by taking predators and octopus out species
+See also [eait)
+wrestling Octopus *
+Cephalopod size *
+References [eait)
+4@ © 1.4 "Distribution of Recent Cephalopoda and implications for Plio-Pleistocene 33, Wodinsky, Jerome (2 December 1977). "Hormonal Inhibition of Feeding and
+Q. Secretion” events" Retrieved 4 April 2022. Death Octopus: Control by Optic Gland Science. 198 (4320): 948- 2. in
+951, Bibcode:1977Sci..198..948W dol:10.1126/science.198.4320.948 :2. x2 2. Allcock, L.; Taite, M.; Allen, G. (2018). "Enteroctopus doflein” 2. IUCN Red List of
+*4 3, 2.RLTS.T1629584958049.en Retrieved 30 October 2022 34, *Giant Pacific Octopus | California Sea Grant’. caseagrant.ucsd.edu. Retrieved
+3,a@bedefghi 21 March 2024. Cosgrove, James (2009). Super Suckers, The Giant Pacific octopus.
+8C: Harbour Publishing. ISBN 978-1-55017-466-3. 35. Scheel, David. “Giant Octopus: Fact Sheet’ Alaska Pacific University. Archived ct.
+4,840 from the original 7 15 November 2012. Retrieved 13 November 2012. »Giant Pacific Octopus Species Profile" 2. Alaska Department of Fish and Game. on
+28 March 2021. Rock’. The Oregonian. Archived from the originale? 24 June 2023, on
+37. 4 “Giant Pacific Octopus (Octopus dofleni)" «2. NPCA. Archived from the originale? 6.4 Kitby, Ashley J.; Bako, Julie A.; Goertz, Caroline E. C.; Lewbart, Gregory A. (July on
+21 November 2008, Retrieved 13 November 2012. 2028). "Characterization of Current Husbandry and Veterinary Care Practices of the
+Giant Pacitic Octopus (Enteroctopus dotiein) Using Online Survey' Veterinary 38. Robinson, S. M. C.; Hartwick, E. B. (August 1986). "Analysis of growth based 2. an on
+g. doi:10.3390/vetsci10070448 @. Sciences. 10 (7): 448. ISSN 2306-73812. of the Giant Pacific Octopus dofleini martini" Journal of tag-recapture octopus
+83692. 7.4 Wilker, Gerhard; Wilker, Gerhard (1910). Uber japanische cephalopoden: Beitrage
+2. *4 dotleni" kenntnis der systematk und der aibranchiaten Vol, Bd.3:1 (1910). 39, Flory, Eileen (2007). “Giant Pacific Octopus, Enteroctopus (PDF). anatomie zur
+Mainchen: Verlag der K.B. Akademie der Wissenschaften Kommission des G. National Sea Grant College Program. in
+Franzschen Verlags. 40. * Norman, M. 2000. Cephalopods: A World Guide. Hackenheim, ConchBooks, 214. p.
+8. 4 Hansson, Hans G. (14 November 1997). "Biographical Etymology of Marine ISBN 3-925919-2255,
+A. Organism Names. 0." Biographical Etymology of Marine Organism Names. 41. Larson, Shawn; Ramsay, Catherine; Cosgrove, James (June 2015). "Multiple
+Retrieved 9 December 2022. Paternity and Preliminary Population Genetics of Giant Pacific Octopuses,
+9. 6 Hochberg, Frederick (Etic) George (1998). "Enteroctopus; Enteroctopus dofleini Enteroctopus dofleni, Oregon, Washington and the Southeast Coast of Vancouver in
+A. et. g. doi:10.3390/47020195 ‘Wilker, 1910 combination”. In Valentich Scott, Paul; Blake, James (eds.). Island, BC" Diversity. 7 (2): 195-205. ISSN 1424- new
+Taxonomic Atlas of of the Benthic Fauna the Santa Maria Basin and the Western 2eiee.
+°@ Santa Barbara Channel. Vol. 8. Santa Barbara, CA: Santa Barbara Museum of 42, Holst, Meghan M.; Hauver, Camille M.; Stein, Rachel S.; Milano, Bianca L.:
+Natural History. 203-208. ISBN 0-936494-13-1 Levine, Lindsey H.; Zink, Andrew G.; Watters, Jason V.; Crook, Robyn J. (September pp.
+AZA 10. 4 Aquatic Invertebrate Taxon Advisory Group (AITAG) (September 2014). "Giant 2022). "Behavioral changes Pacific (Enteroctopus dofeini) senescent giant octopus in
+Manual" Pacific Octopus (Enteractopus dofleni) Care (PDF). Siver Spring, MD: associated with peripheral neural degeneration and loss of epithelial tissue" are
+A, ‘Association of Zoos and Aquariums. 5 Comparative Biochemistry and Physiology. Part Molecular & Integrative Physiology. p.
+4 Drum And Octopus" PMID 357536042. (PDF). Croaker. Vol. 32. 46. p.
+43. Anderson, R. C.; Wood, J. B.; Bye, R. A. (2002). "Octopus Senescence: The 12. 4 "Giant Pacific Octopus Northwest Wildlife Preservation Society’. Northwest
+Animal Beginning of the End". Journal of Applied Welfare Science. 8 (8): 275-283. Wilaite Preservation Society
+National Zoological 3. 02:2 10,1.1.567.3108 CiteSeerX doi:10.1207/S15327604JAWS0504_ 413. "Giant Pacific Octopus" Smithsonian Park. Archived from the .
+44, 4 Anderson, R. C. (2005). "How smart octopuses?”. Coral Magazine. 2: 44-48. 14. 4 O'Shea, S. (2004), "The Haliphron atlanticus (Mollusca: Octopoda) are giant octopus in
+J. Zealand Zealand Zoology. 45." Anderson, R. C.; Mather, ; Monette, M. Q.; Zimsen, S. R. M, (2010). "Octopuses New waters". New Joumal of 31 (1): 7-13.
+@. Animal 9. Humans" doi:10.1080/03014223.2004.9518353 (Enteroctopus dofteini) Recognize Individual Journal of Applied S2CID 84954869 c2.
+48. 8 Tzar, Jennifer. "Through the Eye of Octopus". Archived from the original et an on 16.4 Harts, Colleen (2 February 2011), "ADW: Enteroctopus dofleini: INFORMATION" cz,
+29 December 2020, Retrieved 7 February 2021 Animaldiversity.org, Retrieved 4 April 2022.
+47. Mather, J.A.; Kuba, M. J. 2013). "The cephalopod specialties: complex 17. 4"Giant Pacific Octopus". Giant Paci Octopus Oceana, nervous -
+facts". ‘system, learning and cognition". Canadian Journal of Zoology. 91 (6): 431-449. 18. 4 "Giant Pacific Animal Spot. 21 February 2018. octopus
+doi:10.1139/cj2-2013-0009 12. 19. 4 “Octopus Eats Shark" Google Video. Archived from the original 7 February 2. c¥ on
+List 48. 8 “IUCN Red of Threatened Species. Version 2013.2". Archived from the 2006. Retrieved 13 November 2012.
+Giant Pacific 2 originale? 27 June 2014. Retrieved 12 May 2014. on 20. 4 Walla Walla University Marine Invertebrates Key: Octopus
+49. 4 “Giant Pacific Octopus Rulemaking Process" Archived from the originale? 13 on ‘Archived: 14 January 2009 at the Wayback Machine
+May 2014, Retrieved 12 May 2014 21. Young, Gayne C. (8 May 2012), "PHOTOS: Pacific Octopus Eats Seagul, First Time
+50. * Lee, Yu-Min; Lee, Ga-Young: Kim, Hae-Yeong (1 April 2022). "Development of a Ever Photographed Outdoor Lite 2,
+M. muttiplex PCR for the simultaneous detection of big blue (Octopus octopus assay 22. A Sigler, FL. B. Hulbert; C. R. Lunsford: N. H. Thompson; K. Burek; G. O°Corty-
+cyanea), Pacific (Enteroctopus doin’), and (Octopus giant octopus octopus common Crowe; A. C. Hirons (24 July 2006). "Diet of Pacific sleeper shark, potential Steller a
+vulgaris)’, Food Science and Biotechnology. 31 (4): 497-504, doi:10.1007/s10068- 2 lion predator, the north-east Pacific Ocean’ (PDF). Journal of Fish Biology. sea in
+51. 4 "Monterey Bay Aquarium Seafood Watch" www.seafoodwatch.org. Retrieved original eZ, doi:10.1111,1095-8649,2006.01096 Archived trom the (PDF) 29 x2, on
+08b6d€T0// 52. A Mather, J.A.; Resler, Cosgrove, J.A. (1985). “Activity and Movement patterns of 23, Courage, Katherine Harmon (2013). Octopus!. USA: The Penguin S.;
+‘Octopus dotteini’. Jounal of Marine Behavior and Physiology. 11 (4): 301-14. Group. ISBN 978-1-59184-527-0.
+12, r2 doi:10.1080/10236248509387055 24. 9 Furuya, Hidetaka; Tsuneki, Kazuhiko (2003). "Biology of Dicyemid Mesozoans'
+3. 2. 53. 4 Mather, JA. (2010). Octopus: The Ocean's Inteligent Invertebrate. Portland. doit10.2108/25}.20.519 Zoological Science. 20 (6): 519-532. PMID 12777824
+Andre, 6def High, 54." J; Haddon, M.; Pecl, G.T. (2010), "Modeling climate-change induced Octopus"{@ 25,98 Wiliam L. (September 1976). “The Giant Pacific (PDF).
+nonlinear thresholds Change cephalopod population dynamics". Global Biology. 16 in Marine Fisheries Review. 38 (9) NOAA. via
+12. Bay (10): 2866-2875. Bibcode:2010GCBio..16.2866A dol:10.1111/}.1365- 26. 4 "Giant Pacific Octopus" Monterey Aquarium. Retrieved 19 March 2024. 2.
+on laboratory growth, Journal Marine 55. 4 Forsythe, J.W.; Hanlon, R.T. (1988). "fect of temperature Enteractopus dotlein (Wilker, 1910)". of Experimental octopuses,
+GS ceanraduetion and life af Octane himarnuinidec" (DNL) Marine Biniany of conan oe _ OE Be
+- nonlinear thresholds cephalopod population dynamics". Global Change Biology. 16 in Marine Fisheries Review. 38 (9) ia NOAA.
+2480,2010,02228.x12, S2CID 83960161 2. 27.8864 Scheel, D.; Bisson, L. (April 2012). "Movement patterns of giant Pacific
+55, * Forsythe, J.W.; Hanlon, R.T. (1988). "Effect of laboratory growth, temperature on Enteroctopus dofleini (WOker, 1910)". Journal of Experimental Marine octopuses,
+Biology and bimaculoides”f@ reproduction, and life of Octopus (PDF). Marine Biology. 98 span Ecology, 416-417: 21-81, dor 10.1026) me 2012.02.004 -,
+vincent, T. S2CID 8370833902, 28,8864 L. S.; Scheel, D.; Hough, K. R. (March 1998). "Some Aspects of
+Walker , 56. Repolho, Tiago (2014). "Developmental and physiological challenges of octopus Diet and Foraging Behavior of Octopus dofleini 1910 Northernmost its in
+early life of (Octopus vulgaris) under warming”. Journal Comparative stages ocean Range". Marine Ecology. 19 (1): 13-29. Bibcade:199°MarEc..19..13Ve2
+S2ciD 86471582. 29,88 Hartwick, E. Brian; Ambrose, Richard F; Robinson, Shawn M.C. (August 1984).
+87." Guinotte, J. M.; Fabry, V. J. (2008). “Ocean acidification and potential effects its on @. "Den utlization and the of tagged Octopus dofleii’ Marine Behaviour movements
+the York of and 14 :2. ecosystems". Annals of New Academy Sciences. 1134 (1): 320- ‘marine Physiology. (2): 95-110, doi:10.1080/10236248409387038 ISSN 0091-
+doi:10.1196/annals.1439,013c2, PMID 18566099 S2CID 15009920. 2. 30. / Alves, Christelle; Boal, Jean G.; Dickel, Ludovic (1 November 2008). "Short-distance
+C. 98. Gazeau, F; Quiblier, C.; Jansen, J, Gattuso, J. P; Middelburg, J. Help, H. cephalopods: and synthesis’. Cognitive Processing. 94): 230- navigation in a review M.; .;
+2. (2007). "Impact of elevated CO? shellfish calcification”. Geophysical Research on 247. doi:10.1007/s10339-007-0192-9 ISSN 1612-47902, PMID 17932698 :2.
+2 Letters. 34 (7): LO7603, Bibcode:2007GeoRL..34.7603G 31. 4 Chancellor, Stephanie; Scheel, David; Brown, Joel S (13 February 2021). “Design of
+doi:10.1029/2008g1028554 2. hdl:20.500.11755/a8941c6a-6d0b-4345-ba0d- experimental food patches foraging for study to intensity octopus: measure a case
+187a74a05668. S2CID 130190489 Archived from the original 12 November 2. on @. with the Pacific Enteroctopus dofleint” Joumal of Molluscan Studies. giant octopus
+59. * Scheel, D.; Anderson, R; (2012). "Variability the diet specialization of in 32. 4 dig.webmaster@alaska.gov. "Giant Pacific Octopus Species Profile, Alaska
+Enteroctopus dofleini (Cephalopoda: Octopodidae) the eastern Pacific examined in Department of Fish and Game". wuwaafg.alaska Retrieved 19 March 2024, gov,
+External links [eait)
+"CephBase: Pacific Archived from the original Giant octopus’ Z. z 17 August 2005. on *
+The Cephalopod Page a *
+Of Pacific Behavior The Wild 2 Hours Giant Octopus In *
+Edible molluscs [show] were
+identifiers Taxon
+# ‘Authority control databases: National _Istael
+of | | | | Red least Octopodidae Molluscs the Pacific molluscs of Cephalopods of North Categories: IUCN List Ocean Marine Asia America concern species
+| | | | Molluscs of of California North coastal fauna Molluscs described Japan Fauna Western American 1910 in
+This last edited 8 January 2026, 17:57 (UTC).. at page was on

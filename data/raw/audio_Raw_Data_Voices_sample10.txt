@@ -1,0 +1,12 @@
+<!-- MODALITY: AUDIO
+METADATA: {
+  "file_size": 160044,
+  "chunk_count": 1,
+  "max_chars_per_chunk": 900,
+  "overlap_chars": 80,
+  "language": "en",
+  "backend": "faster-whisper (preferred), openai-whisper (fallback)"
+}
+-->
+
+Sometimes it takes a little treat to tame a beast.

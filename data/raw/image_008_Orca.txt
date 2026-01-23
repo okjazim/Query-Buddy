@@ -1,0 +1,1596 @@
+<!-- MODALITY: IMAGE
+METADATA: {
+  "path": "data\\image\\008_Orca.png",
+  "file_size": 8856139,
+  "image_width": 1280,
+  "image_height": 20894,
+  "ocr_engine": "tesseract",
+  "ocr_lang": "eng",
+  "tesseract_cmd": "C:\\Program Files\\Tesseract-OCR\\tesseract.exe",
+  "config": "--oem 3 --psm 6",
+  "min_line_conf": 30.0,
+  "line_count": 956,
+  "overall_bbox": [
+    11,
+    14,
+    1264,
+    20827
+  ],
+  "regions": [
+    {
+      "bbox": [
+        53,
+        14,
+        1263,
+        29
+      ],
+      "avg_conf": 65.6
+    },
+    {
+      "bbox": [
+        41,
+        33,
+        1264,
+        79
+      ],
+      "avg_conf": 49.07692307692308
+    },
+    {
+      "bbox": [
+        53,
+        94,
+        1230,
+        128
+      ],
+      "avg_conf": 42.0
+    },
+    {
+      "bbox": [
+        32,
+        110,
+        257,
+        136
+      ],
+      "avg_conf": 38.0
+    },
+    {
+      "bbox": [
+        90,
+        144,
+        419,
+        165
+      ],
+      "avg_conf": 85.5
+    },
+    {
+      "bbox": [
+        28,
+        189,
+        661,
+        204
+      ],
+      "avg_conf": 89.72727272727273
+    },
+    {
+      "bbox": [
+        28,
+        208,
+        1150,
+        226
+      ],
+      "avg_conf": 89.54166666666667
+    },
+    {
+      "bbox": [
+        28,
+        241,
+        1139,
+        266
+      ],
+      "avg_conf": 88.08333333333333
+    },
+    {
+      "bbox": [
+        27,
+        264,
+        1168,
+        287
+      ],
+      "avg_conf": 85.83333333333333
+    },
+    {
+      "bbox": [
+        28,
+        286,
+        973,
+        300
+      ],
+      "avg_conf": 93.8
+    },
+    {
+      "bbox": [
+        1017,
+        295,
+        1225,
+        310
+      ],
+      "avg_conf": 86.0
+    },
+    {
+      "bbox": [
+        28,
+        302,
+        1236,
+        342
+      ],
+      "avg_conf": 89.0
+    },
+    {
+      "bbox": [
+        28,
+        325,
+        1042,
+        349
+      ],
+      "avg_conf": 88.8125
+    },
+    {
+      "bbox": [
+        28,
+        350,
+        975,
+        381
+      ],
+      "avg_conf": 91.25
+    },
+    {
+      "bbox": [
+        28,
+        383,
+        1069,
+        398
+      ],
+      "avg_conf": 89.26086956521739
+    },
+    {
+      "bbox": [
+        28,
+        392,
+        1209,
+        426
+      ],
+      "avg_conf": 90.9
+    },
+    {
+      "bbox": [
+        28,
+        423,
+        1217,
+        451
+      ],
+      "avg_conf": 86.61904761904762
+    },
+    {
+      "bbox": [
+        28,
+        439,
+        1238,
+        477
+      ],
+      "avg_conf": 72.16666666666667
+    },
+    {
+      "bbox": [
+        36,
+        464,
+        1110,
+        485
+      ],
+      "avg_conf": 43.8
+    },
+    {
+      "bbox": [
+        27,
+        496,
+        955,
+        516
+      ],
+      "avg_conf": 90.73684210526316
+    },
+    {
+      "bbox": [
+        27,
+        518,
+        1243,
+        538
+      ],
+      "avg_conf": 81.7
+    },
+    {
+      "bbox": [
+        28,
+        539,
+        1147,
+        548
+      ],
+      "avg_conf": 62.0
+    },
+    {
+      "bbox": [
+        28,
+        541,
+        957,
+        568
+      ],
+      "avg_conf": 88.9
+    },
+    {
+      "bbox": [
+        28,
+        569,
+        1100,
+        611
+      ],
+      "avg_conf": 87.54545454545455
+    },
+    {
+      "bbox": [
+        28,
+        598,
+        974,
+        612
+      ],
+      "avg_conf": 88.33333333333333
+    },
+    {
+      "bbox": [
+        28,
+        617,
+        957,
+        635
+      ],
+      "avg_conf": 83.44
+    },
+    {
+      "bbox": [
+        28,
+        633,
+        970,
+        669
+      ],
+      "avg_conf": 87.86363636363636
+    },
+    {
+      "bbox": [
+        42,
+        658,
+        968,
+        680
+      ],
+      "avg_conf": 90.54545454545455
+    },
+    {
+      "bbox": [
+        24,
+        679,
+        1245,
+        710
+      ],
+      "avg_conf": 87.16666666666667
+    },
+    {
+      "bbox": [
+        28,
+        710,
+        1229,
+        724
+      ],
+      "avg_conf": 62.6
+    },
+    {
+      "bbox": [
+        324,
+        725,
+        1175,
+        738
+      ],
+      "avg_conf": 91.6
+    },
+    {
+      "bbox": [
+        210,
+        750,
+        1190,
+        764
+      ],
+      "avg_conf": 82.0
+    },
+    {
+      "bbox": [
+        28,
+        769,
+        1232,
+        786
+      ],
+      "avg_conf": 83.33333333333333
+    },
+    {
+      "bbox": [
+        27,
+        785,
+        1239,
+        808
+      ],
+      "avg_conf": 33.6
+    },
+    {
+      "bbox": [
+        23,
+        808,
+        1234,
+        835
+      ],
+      "avg_conf": 75.2
+    },
+    {
+      "bbox": [
+        39,
+        833,
+        1204,
+        857
+      ],
+      "avg_conf": 70.77777777777777
+    },
+    {
+      "bbox": [
+        24,
+        859,
+        1186,
+        888
+      ],
+      "avg_conf": 71.28571428571429
+    },
+    {
+      "bbox": [
+        210,
+        884,
+        270,
+        896
+      ],
+      "avg_conf": 91.5
+    },
+    {
+      "bbox": [
+        11,
+        893,
+        1243,
+        915
+      ],
+      "avg_conf": 53.333333333333336
+    },
+    {
+      "bbox": [
+        999,
+        923,
+        1171,
+        934
+      ],
+      "avg_conf": 96.0
+    },
+    {
+      "bbox": [
+        28,
+        926,
+        1026,
+        947
+      ],
+      "avg_conf": 68.5
+    },
+    {
+      "bbox": [
+        24,
+        939,
+        1175,
+        970
+      ],
+      "avg_conf": 82.2
+    },
+    {
+      "bbox": [
+        24,
+        962,
+        1182,
+        993
+      ],
+      "avg_conf": 76.0
+    },
+    {
+      "bbox": [
+        24,
+        981,
+        1191,
+        1015
+      ],
+      "avg_conf": 51.4
+    },
+    {
+      "bbox": [
+        27,
+        1006,
+        327,
+        1033
+      ],
+      "avg_conf": 95.33333333333333
+    },
+    {
+      "bbox": [
+        27,
+        1019,
+        1170,
+        1045
+      ],
+      "avg_conf": 66.25
+    },
+    {
+      "bbox": [
+        28,
+        1040,
+        278,
+        1063
+      ],
+      "avg_conf": 73.0
+    },
+    {
+      "bbox": [
+        209,
+        1043,
+        1191,
+        1074
+      ],
+      "avg_conf": 81.0
+    },
+    {
+      "bbox": [
+        92,
+        1091,
+        1166,
+        1123
+      ],
+      "avg_conf": 71.66666666666667
+    },
+    {
+      "bbox": [
+        236,
+        1129,
+        1173,
+        1142
+      ],
+      "avg_conf": 80.81818181818181
+    },
+    {
+      "bbox": [
+        236,
+        1152,
+        1166,
+        1168
+      ],
+      "avg_conf": 75.55555555555556
+    },
+    {
+      "bbox": [
+        236,
+        1174,
+        1173,
+        1191
+      ],
+      "avg_conf": 82.22222222222223
+    },
+    {
+      "bbox": [
+        236,
+        1197,
+        1146,
+        1206
+      ],
+      "avg_conf": 78.66666666666667
+    },
+    {
+      "bbox": [
+        1085,
+        1204,
+        1162,
+        1218
+      ],
+      "avg_conf": 80.0
+    },
+    {
+      "bbox": [
+        236,
+        1219,
+        412,
+        1228
+      ],
+      "avg_conf": 87.75
+    },
+    {
+      "bbox": [
+        236,
+        1234,
+        1182,
+        1254
+      ],
+      "avg_conf": 66.875
+    },
+    {
+      "bbox": [
+        263,
+        1257,
+        1178,
+        1275
+      ],
+      "avg_conf": 83.3
+    },
+    {
+      "bbox": [
+        236,
+        1269,
+        1198,
+        1300
+      ],
+      "avg_conf": 75.22222222222223
+    },
+    {
+      "bbox": [
+        236,
+        1300,
+        1092,
+        1320
+      ],
+      "avg_conf": 80.0
+    },
+    {
+      "bbox": [
+        210,
+        1331,
+        1138,
+        1340
+      ],
+      "avg_conf": 53.0
+    },
+    {
+      "bbox": [
+        210,
+        1354,
+        289,
+        1363
+      ],
+      "avg_conf": 80.0
+    },
+    {
+      "bbox": [
+        210,
+        1376,
+        298,
+        1385
+      ],
+      "avg_conf": 81.5
+    },
+    {
+      "bbox": [
+        236,
+        1280,
+        1198,
+        1299
+      ],
+      "avg_conf": 75.5
+    },
+    {
+      "bbox": [
+        236,
+        1397,
+        337,
+        1406
+      ],
+      "avg_conf": 91.33333333333333
+    },
+    {
+      "bbox": [
+        210,
+        1420,
+        321,
+        1432
+      ],
+      "avg_conf": 82.66666666666667
+    },
+    {
+      "bbox": [
+        210,
+        1443,
+        309,
+        1452
+      ],
+      "avg_conf": 78.0
+    },
+    {
+      "bbox": [
+        1060,
+        1457,
+        1185,
+        1475
+      ],
+      "avg_conf": 66.5
+    },
+    {
+      "bbox": [
+        202,
+        1478,
+        1158,
+        1517
+      ],
+      "avg_conf": 88.0
+    },
+    {
+      "bbox": [
+        201,
+        1516,
+        1199,
+        1530
+      ],
+      "avg_conf": 43.666666666666664
+    },
+    {
+      "bbox": [
+        202,
+        1526,
+        1236,
+        1553
+      ],
+      "avg_conf": 87.48
+    },
+    {
+      "bbox": [
+        201,
+        1548,
+        1212,
+        1576
+      ],
+      "avg_conf": 82.8
+    },
+    {
+      "bbox": [
+        201,
+        1582,
+        941,
+        1599
+      ],
+      "avg_conf": 88.5
+    },
+    {
+      "bbox": [
+        202,
+        1607,
+        1207,
+        1621
+      ],
+      "avg_conf": 88.61538461538461
+    },
+    {
+      "bbox": [
+        202,
+        1626,
+        1234,
+        1643
+      ],
+      "avg_conf": 84.8
+    },
+    {
+      "bbox": [
+        201,
+        1649,
+        513,
+        1666
+      ],
+      "avg_conf": 83.0
+    },
+    {
+      "bbox": [
+        201,
+        1678,
+        1232,
+        1695
+      ],
+      "avg_conf": 89.62962962962963
+    },
+    {
+      "bbox": [
+        202,
+        1701,
+        979,
+        1718
+      ],
+      "avg_conf": 88.55555555555556
+    },
+    {
+      "bbox": [
+        201,
+        1749,
+        290,
+        1768
+      ],
+      "avg_conf": 96.0
+    },
+    {
+      "bbox": [
+        202,
+        1784,
+        1130,
+        1799
+      ],
+      "avg_conf": 94.45454545454545
+    },
+    {
+      "bbox": [
+        202,
+        1803,
+        1021,
+        1820
+      ],
+      "avg_conf": 91.66666666666667
+    }
+  ],
+  "slicing": {
+    "enabled": true,
+    "slice_height": 1400,
+    "slice_overlap": 120,
+    "num_slices": 17
+  },
+  "note": "OCR text extracted from screenshot; regions include bbox + confidence.",
+  "skipped_ocr": false,
+  "cache_path": ".ocr_cache\\008_Orca.a4cd65180ce158af.ocr.json"
+}
+-->
+
+ren *a
+Orca WikwepiA
+Main other (disambiguation) and (disambiguation). page For Orca Orcas uses, see
+SOLS "Killer Whale" redirects here. The episode, Killer Whale (The Avengers). tokusatsu film, The Whale God (Killer Whale). For Avengers For 1962 see see
+The (Orcinus orca), killer whale, toothed whale and the largest member of the dolphin family. The only orea or is a oceanic PMCID =
+Contact bottom and having recognizable white patches. cosmopolitan inhabits wide of A it us environments, eye species, a range marine
+recent ‘Temporal Pliocene to range:
+oa have proposed dividing the global population subspecies, possibly Scientists into races, or even species. contribute
+Help predators with diverse diet. Individual populations often specialize particular of including bony Orcas types are apex a in prey,
+SY Community porta forming stable matrilineal family (pods). Their sophisticated hunting techniques and vocal behaviors, often to groups unique =
+ae aos 9 specific and passed down from considered be manifestations of animal culture. The generation to to generation, groups are
+*. We 2 Ss . studied populations off the of North which include fish-eating "residents", mammal-eating most coast America, west are = = os
+prearees =a and offshores. "transients",
+ea The International for of (IUCN) lists the data deficient multiple Union Conservation Nature orca’s conservation status as as
+Te eral SRST distinct local populations threatened endangered due depletion, Some to types represent orca may species. are or prey
+Related ch ,
+cewerenine habitat loss, pollution (by PCBs), for parks, and conflicts with fisheries. late the southern resident captures In 2005, marine
+added the Endangered list. U.S. Species = to orcas were fen
+Cite this have been revered by indigenous peoples while cultures have historically feared them. They have been taken Orcas Western page
+Gers iene aE by whalers when stocks of larger have declined. The took the due orca's positive tum 1960s, to greater species image a in
+poumeaai® ceil public and scientific and their display then, have been trained perform parks, Since to captivity. awareness in orcas in marine
+m that has been criticized unethical. rarely threat humans, and fatal attack has been recorded Orcas practice to as pose a no
+Prinvexport the wild, have injured killed their handlers theme parks. However, captive in orcas or in marine CATERER
+compared 1.8-meter (5-foot-11-inch) to Pamela
+Conservation status 1 Naming
+In other projects 2 Taxonomy, Least
+WOISPEES Ew) (nr) (Lc) (EN) (Ex) (cR) (vu) 3 Characteristics
+Nesey 4 Range and habitat 3.1) Deficient Data (IUCN
+5 Feeding
+© Ganeeb Scientific classification gf BAe
+Kingdom: Animalia
+rT 5.2 Mammals and birds ——
+#1304 Phylum: Chordata 6 Behaviour
+ttaiano 6.1 Social structure Class: Mammalia
+Pycewi 6.2 Vocalizations — artiodactyla
+Tagalog 6.3 Intelligence
+Infraorder: Cetacea Tiéng Viet
+7 Life cycle ae
+Family Delphinidae 8 Conservation
+Species: 9.1 Indigenous cultures aca OECUIES
+‘Subspecies
+(0. orca) Common orca 0. += Or GET
+Resident (O. ater) orca 0. + 9.7.1 Cooperation with humans
++ (Bigg's) (O. Transient orca 0. 9,8 Whale watching
+rectipinnus) 9.9 Captivity
+10 See also >
+11 Footnotes
+12 References
+Transient (Bigg S) (VU. orca 0. © 9.8 Whale watching
+413 Further reading
+14 External links
+[Hl oveinus orca range
+‘Synonyms Naming
+ininus pe Linnaeus, 1758 orca =e
+whales." often referred "killer whales" because sailors them hunt larger the the Orcas ancient since 1960s, to are as saw Delphinus gladiator Bonnaterre, 1789 «
+whale" usage.” has increasingly replaced "killer “orca” term in common gladiator Orca (Bonnaterre, 1789) +
+dead’, Although that ‘of the kingdom of the the international Code of Zoological Orcinus suggest some sources means
+Nomenclature (ICZN) that the from the word large-bellied derived form created by adding Latin ‘a pot.’ Orcinus mentions originates name orca orca, meaning is a a
+it.! orca'"! masculine suffix originally used (pl, orcae) for these animals, possibly borrowing Greek dpué (6ryx), which used for Ancient Romans Ancient to was various
+narwhal.!4] whale potentially including the species
+species,"2! They referred ‘blackfish’, also used for other Historically, another for the though rarely to cetaceans. ‘grampus' sometimes term it are as a was name is now
+griseus).!"3) used. This should be confused with the which includes only dolphin (Grampus Grampus, Risso's not usage genus
+Taxonomy
+the only recognized the and of originally described by Carl Orcinus Orcinus extant orca is species in genus one many species —
+Naturae.“4) his landmark 10th edition of Conrad the first scientific description of Linnaeus 1758 Systema Gessner wrote in an orca in
+Wey his aquatilium of of the larger animalium, based of dead stranded Piscium & animantium natura 1558, Historia part examination on a
+se interest.!"5) wE animal the of Greifswald that had attracted deal of local Bay great in a
+The of the dolphin family, which first appeared about million The lineage 35 11 orca is one species in oceanic years ago. orca ;
+| Wicaaniga thereafter.®! probably branched off shortly although has morphological similarities with the false killer whale, the killer it pygmy WZ7
+whale, and the pilot whales, study of cytochrome b indicates that closest relatives the snubfin its extant Orcinus citoniensis fossil, extinct a gene sequences are an
+a of the Museo Orcaella.'7] ‘species same genus, dolphins of the (2018) study places the the Lissodelphininae, However, to recent sister taxon genus a more orca as a
+Capelli Bologna in Cephalorhynchus.""®! clade that includes Lagenorhynchus and phylogenetic study found the be the in contrast, 2019 to a orca
+basal.{2°) on second basal member of the Delphinidae, with only the Atlantic white-sided dolphin (Leucopleurus acutus) being most “el more
+gt. Further information: and populations Orca types (4 GO
+SIM mmm races,”"! species) The three five of be distinct enough be considered different subspecies, possibly to types to orcas may or even i»
+ss ‘ (see problem). The reported "The of this clearly need of and likely that Species IUCN 2008, O. taxonomy itis in genus is in review,
+Meee CREE METS) years."! will be split number of different least subspecies the few Although large the into at next variation orca a species or over in
+types,’22! ecological distinctiveness of different complicates simple differentiation research off the of into west coast orca groups
+“offshores".5] North has identified fish-eating "residents", mammal-eating and other populations have America "transients", not
+elsewhere.24] been well studied, although specialized fish and mammal have been distinguished Mammal-eating different long eating as orcas orcas in regions were
+hypothesis.75781 thought likely be closely related, but has refuted this to genetic testing
+respectively.” study supported the elevation of North Pacific resident and distinct and The for A 2024 Eastern O. afer O. rectipinnus Society transient orcas as species,
+Mammalogy declined the whether the constituted subspecies. "Pending complete Marine to two citing uncertainty types to recognize species, as unique species or a more
+global and the provisionally recognized them subspecies and with the revision", Society Orcinus ater O. rectipinnus, O. nominate review as orca o. 0. orca as
+have been documented the dwarf named and glacialis, described during the by Four types Antarctic, Types A-D. Two Orcinus Orcinus 1980s in species, nanus were
+status.2"] researchers, but researchers skeptical about their Complete mitochondrial indicates the (types and Soviet cetacean Antarctic B most two are sequencing groups
+data.*! C) should be recognized distinct should the North Pacific leaving the others subspecies pending additional study of transients, 4 2019 Type D as species, as as
+species.) also found them be distinct from other populations and possibly to orcas even a unique
+Characteristics
+the largest members of the dolphin family. Males typically from (20 ft) long and weigh Orcas extant 6 8 26 to to are range m
+of (5.9 long short tons). Females smaller, generally from (16 ff) and 6 t tons; 6.6 5 to 7 to 23 in excess are ranging m
+tons).!54] weighing about (3.0 long short larger males have been 3 to 4 to 3.9 3.3 to 4.4 Orcas attain t tons; may sizes as
+t —~< ft).'52] recorded (32 ft) and females (28 males reach weight of (9.8 long short 9.8 8.5 Large 10 11 at at tons; m m can a over
+<i> y <a t tons).'341I351 tons), large females reach weight of (7.4 long short Calves birth weigh about 7.5 tons; 8.3 at can a over o
+long.'°81!571 kg (400 Ib) and about (7 ft in) The skeleton of the typical for dolphin, but 180 2.4 10 are m orca is an oceanic
+robust.=2! mph)!2) They also reach speeds of km/h (35 56 to more can up _
+pigmentation, species.*! With their distinctive adult rarely confused with other when from distance, orcas are any seen a =
+dolphins.) juveniles be confused with false killer whales The mostly black but with sharply bordered Risso's can or orca is
+white The lower white and from here, the colouration stretches the underside the genital entire to areas. jaw is across area
+Cm: = and expanding and extending lateral flank patches close the end. The tail fluke (fin) also white to into narrowing some, is on
+the underside, while the have white oval-shaped patches behind and above them, and white "saddle patch" eyes a grey or
+back.!°I41] behind the dorsal fin and the Males and females also have different of black and white skin exists patterns across
+areas.'*2! coloured.1l*4] their genital newborns, the white yellow have pale In antarctic Different angle of typical female in areas are or orange orcas may views a
+orca's backs. water.?4) appearance nearly white brown and yellow due diatoms the Both albino and Some Antarctic to to grey orcas are in
+documented.21 melanistic have been orcas
+pectoral fins large and rounded, resembling paddles, with those of males significantly larger than those of females. rea are
+Dorsal fins also exhibit sexual dimorphism, with those of males about (5 ft in) high, than the of the 1.8 11 twice m more size
+curved.!**! female's, with the male's fin like elongated isosceles triangle, whereas the female's the skull, in more an is more
+| crests.'“4! a adult males have longer lower than females, well larger occipital The blunt and lacks the beak snout jaws as as is ~
+4 _ _. species.=] of other The teeth and powerful the teeth fall the orca's its into strong, exert are very jaws a grip; upper gaps
+between the lower teeth when the mouth closed, The firm middle and back teeth hold place, while the front teeth is prey in
+movements.!451 inclined slightly forward and outward them from powerful jerking to protect are
+= have good eyesight above and below the excellent hearing, and good of touch. They have Oreas water, _ a sense >
+exceptionally sophisticated echolocation abilities, detecting the location and characteristics of and other objects the prey in
+as echoes,'*®! by clicks and listening for do other members of the dolphin family. The body temperature water emitting mean A SE
+ae larger Image shows fukes than fomaloe °F).!47Il#®1 of the (97 Like mammals, have layer of insulating blubber 36 to 38 °C 100 to most orca is marine orcas a ranging
+skin.'47! from (3.0 in) thick beneath the The pulse about heartbeats when the 7.6 10 to 3.9 60 to minute at cm is per orca is ‘sexual dimorphism between them.
+submerged.) the surface, dropping beats/min when to 30
+individual often be identified from dorsal fin and saddle patch. such nicks, scratches, and the dorsal fin and the of white An Variations pattern its tears orca can as on or
+the saddle patch Published directories identifying photographs and for hundreds of North Pacific animals. Photographic identification contain grey in are unique. names
+structures.©°! has enabled the local population of be counted each rather than estimated, and has enabled insight life cycles and social to great into orcas year
+Range and habitat
+Further information: and populations Orca types
+found all and their numbers, and density, relative distribution reas most Due to are in oceans seas. enormous range, is
+estimate,=") environments.©2! difficult but they clearly prefer higher latitudes and coastal pelagic which Areas to areas over
+os study for the include the of Iceland, the Valdés Peninsula of the coasts Norway, Argentina, sites serve as major species
+Alaska.) Pos Islands, Zealand and of the of North from California Crozet New west America, to systematic parts coast surveys ———
+km?) indicate the highest densities of (>0.40 individuals the northeast Atlantic around the 100 Norwegian coast, orcas per in SS
+the north Pacific along the Aleutian Islands, the Gulf of Alaska and the Southern off much of the of = Ocean coast in in
+= z km?) They considered (0.20-0.40 individuals the Pacific along the of Antarctica. "common" 100 eastern coasts are per in 3
+Islands.) ——— British Columbia, Washington and the North Atlantic around Iceland and the Oregon, Ocean Faroe in
+5? AN leaps out of the water when orca the the edge of the pack and believed the denser pack finding In Antarctic, to to venture into orcas range up ice are ice, open
+behaviour known ‘swimming—a as
+leads much like beluga whales the merely seasonal and do Arctic. However, visitors to Arctic not waters, in orcas are er cael See
+approach the pack the With the rapid decline the Hudson their extends Arctic Strait, ice in summer. sea ice in range now
+Atlantic.=41 deep the northwest Occasionally, freshwater They have been documented 100 into into orcas swim rivers. mi
+States.©55 (160 km) the Columbia the United They have also been found the Canada and the River Fraser River up in in in
+Japan.©5) Horikawa River in P =
+>» Ms poorly understood. Each the individuals off the of British Columbia and Migration coasts patterns are summer, same appear
+Washington, decades of research, where these animals for the of the unknown. pods have Despite Transient rest go year remains
+California.57) been sighted from southern Alaska central to
+Population
+(2006).81(5I9! Worldwide population but of ocal estimates uncertain, 50,000 _ estimates recent suggests are consensus a minimum
+include roughly the the tropical Pacific, off the cooler northeast Pacific and off 25,000 Antarctic, 8,500 2,250-2,700 500-1,500 in in
+Norway.[©! (®1[621 Fisheries estimated the that the around Japan's Agency 2000s 2,321 Japan, in orcas were in seas =
+Feeding
+=~ predators, that they themselves have natural predators. They called "wolves of the Orcas sea", y sometimes are apex meaning no are
+packs.'°*! because they hunt like wolf hunt varied including fish, cephalopods, mammals, seabirds, and orcas in groups prey sea
+9 turtles.'"4 species.°5! Variations Antarctic Different populations specialize, and have dramatic in orcas ecotypes However, impact or may some can a on prey
+productivity.!°5!®71 whales tropical have generalized diets due lower food spend of their to Orcas time to most in areas appear more
+©*! depths, prey.'®*!l7l shallow but occasionally dive several hundred depending their at metres On 227 eats on average, an orca
+—a day.” kilograms (500 Ib) each
+Fish ae
+a ae Fish-eating around of fish. populations the and Greenland specialize herring 30 Some Norwegian orcas prey on species in sea in
+Sa. and follow that fish's autumnal the Salmon for of northeast Pacific residents’ diet, to Norwegian coast. 96% migration account
+arctan Mn orcas.'"2! particularly Chinook salmon which make of the salmon by Chum salmon also but smaller sockeye 65% eaten eaten, up are
+and pink salmon significant food Depletion of specific therefore, for for local not item. are a prey species in an area is, cause concern
+prey.) populations, despite the high diversity of while salmon usually hunted by individual whale small herring are an or a group,
+a often caught carousel feeding: the force the herring tight ball by releasing bursts of bubbles flashing their into are using orcas or
+white undersides. They then slap the ball with their tail flukes, killing fish then them by stunning 15 at time, eating to or up a one one.
+species.!7°) Carousel feeding has been documented only the population, well dolphin Norwegian in orca as as some oceanic
+Zealand, sharks and be including eagle long-tail and short-ail In New important to stingrays, rays appear prey, rays, common
+makos.!"41(75) threshers, smooth hammerheads, blue sharks, basking sharks, and shortfin sharks herd them Orcas to pursuing may
+flukes,“ Resident chinook the surface and strike them with their tail while bottom-dwelling cornered, pinned the ground and taken the orca pursuing a to to rays are
+aD surface.!”4l sharks,”7! sharks,!78"9] other of the world, have preyed broadnose sevengill whale and in parts great orcas on even
+white sharks, whose livers have been observed by flipping the sharks their backs, inducing paralysis called to target onto orcas a
+immobility!771!®ll®1] overlap.) between and white sharks probable where their diets The arrival of white Competition tonic orcas is in regions orcas in an area can cause
+elsewhere.@141 sharks flee and forage to
+Mammals and birds
+sophisticated and effective predators of mammals. They recorded other usually smaller dolphins and such Orcas to cetacean are marine are prey on species, porpoises
+porpoises."*1*4 dolphins, bottlenose dolphins, Pacific white-sided dolphins, dusky dolphins, harbour and Dall's while hunting these as common porpoises species, orcas
+usually have chase them exhaustion. highly social pods individual from have better chance of to to For to Larger try separate its species, orca an group. groups a
+their from which killed by being thrown around, rammed and jumped attack beluga whales and narwhals stuck pools preventing Arctic prey escaping, is on. orcas may in
+grabbed.!*! enclosed by the former also driven shallower where juveniles be of pilot whales, which have water By to into contrast, sea ice, are are orcas appear wary
+them."*! been recorded mob and chase Nevertheless, possible predation long-finned pilot whales has been recorded Iceland, and study short- to suggests on in one
+prey.'®71l®51 well.®9) finned pilot whales Caribbean Killer whales have been recorded attacking short-finned pilot whales orcas’ Peru are among in as
+also larger such whales, whales, humpback whales and minke reas prey on species as sperm grey
+whales.5ll4] three recorded have killed blue whales off the On 2019 separate to occasions in orcas were
+!°°! ae south of Australia, including estimated (59-72 ft) individual whales coast Western 18-22-meter Large an ; os
+ee much effort and coordination kill and often calves. hunt begins with chase followed to target A require orcas a ——
+by violent attack the exhausted whales often show of attack tooth rake i Large a on prey. signs orca via
+©) marks.!5] Orca attacking strap-toothed beaked whale a Pods of female whales themselves by forming circle around protect sometimes protective sperm a
+attackers.!°!! their calves with their flukes facing outwards, them repel the There also evidence that to using is
+species.!°2) humpback whales will defend mob who attacking either humpback calves juveniles well members of other against or orcas are or as as
+the advent of industrial whaling, whales have been the food for The introduction of modern whaling techniques have aided Prior to great may major source orcas. may
+by the sound of exploding harpoons indicating the availability of and compressed inflation of whale them float, thus to to orcas prey scavenge, air carcasses causing
+them the devastation of whale populations by unfettered whaling has possibly reduced their availabilty for and caused However, great to exposing scavenging. orcas,
+well.25) them expand their of smaller mammals, thus contributing the decline of these to consumption to marine as
+| Other mammal includes seal such harbour seals, elephant seals, California lions, Steller lions, SOUtN marine prey species as sea sea =
+walruses.5II44 SSS lions and often, avoid disable their before killing and This involve American to eating it. sea injury, orcas prey may
+it.@*! a throwing the slapping with their tails, breaching and landing steeply banked beaches off it in it it, in air, ramming or on
+as ATER Peninsula Valdés, and the Islands, feed South lions and southern elephant seals shallow Argentina, Crozet American orcas on sea in
+| beaching temporarily grab before wriggling back the Beaching, usually fatal to cetaceans, water, to to not even prey sea. is an
+young.!° behaviour, and of for the then release the animal juvenile whales, instinctive orcas practice can require years can near
+‘Orca beaching to lion capture a sea
+prey.!°414! allowing the whales the difficult technique the now-weakened the to practice capture jn Antarctic, type B younger on along Valdes Peninsula
+hunt Weddell seals and other by "wave-hunting”. They “spy-hop" locate them floes, and then resting to orcas prey on ice swim in —
+eS wait.!271121 a that wash the floe. This washes the the where other lie to create into water, groups waves over prey orcas in =
+———e the Aleutian Islands, decline populations the controversially attributed by In 1990s scientists otter to a in sea in was some orca
+evidence.""! populations,!“!1°4 —_— S| predation, although with direct The decline of followed decline seal which otters turn no sea a in in
+= al whaling,!02I12031204| be substitutes for their original decimated by industrial have been observed Qrcas may prey, now preying on
+America.!1005) terrestrial mammals, such between islands off the northwest of North cannibalism ‘Orcas close coast orca swimming in as moose swimming
+wash the crabeater seal off the flee
+whalers.'1°6l shot.) also attacked by after being although resident have been observed One its orca was companions orcas never
+reason.2°"! other mammals, they occasionally harass and kill and seals for dolphins some to eat apparent marine porpoises no
+area.!108] resident harmless and the recognize orcas as remain in same
+do seabirds but likely kill and leave them recorded and sub-Antarctic include Oreas to Penguin Antarctic uneaten, waters gentoo consume are more species as prey in
+penguins.°°! gulls.1°) chinstrap king and rockhopper and Marineland of orcas a captive cormorants at penguins, penguins, penguins in many areas may prey on orca
+behaviour.214) Canada discovered could fish the surface, gulls, and then the birds. others then learned the it onto attracting Four to regurgitate eat sea copy
+Behaviour
+Day-to-day behaviour generally of foraging, travelling, and socializing. frequently Orcas consists resting orca engage in
+surface behaviour such breaching (jumping completely of the water) and tail-slapping. These have out activities as may a i "
+ee ZN aA of such courtship, dislodging play. Spyhopping behaviour which variety communication, parasites, purposes, as or is a in a
+surroundings.!"12] whale holds head above Resident alongside and other water its its to view orcas swim porpoises
+Ss will surplus killing, that killing that designed be for food. example, film reas not As BBC to engage in is, is an a crew
+2 2241 witnessed British Columbia playing with male Steller lion exhaustion, but to not it eating orcas in a sea = =
+A hats.215) my have been observed with dead salmon their heads, resembling ‘Some orestine orcas swimming on histone Tar
+commonly breach, often iting their entire
+Social structure bodies of the water. out
+structures.“791 have complex Only elephants and higher live comparably complex social Orcas Due societies. primates to in
+captivity.!1171 complex social bonds, have about how humane keep them orcas’ to experts it many marine concerns is in
+Resident the North Pacific live particularly complex and stable social Unlike other known mammal social resident whales live eastem structure, orcas in in groups. any
+with their mothers for their lives. These family based matrilines of the eldest female (matriarch) and her and daughters, and the entire consisting groups are on sons
+together.18) descendants of her daughters, The of matriline animals. females reach four travel etc. 5.5 Because 90, generations average size a is can age as many as
+‘These matrilineal highly stable. Individuals for only few hours forage. The of individual from separate time, to mate separation at permanent groups are a a or an a
+Luna.!119) resident matriline has only been recorded the of named once, in case an orca
+Closely related mattilines form loose called pods, usually of four matrlines. Unlike mattilines, to aggregations consisting one
+time.4°] pods for weeks months indicates resident males nearly always with females separate at DNA testing mate may or a
+pods.'!2°l from other Clans, the level of resident social composed of pods with similar dialects, and structure, next are
+clans.) but older maternal heritage. Clan overlap, mingling pods from different The highest association common ranges
+layer the which of pods that regularly with each other but share maternal relations community, consists associate is no or > = oe
+= pods smaller than resident pods, typically of adult female and of her offspring. Males Transient consisting two are an one or
+typically relationships with their mothers than other females. These bonds extend well adulthood. stronger maintain into can
+© “Palf of the Pacific Nortnwest oreas in Unlike residents, extended of offspring from natal matrilines with juveniles and separation transient permanent or is common,
+adults of both males become and do form long-term occasionally participating. Some “rovers” not associations, sexes joining
+females.!12! that reproductive resident clans, members share although regional differences contain as transient repertoire, community acoustic groups in an in
+noted.!1?%) vocalizations have been
+with residents and the lifestyle of these whales reflect their diet; fish-eating off have resident-lke social while mammal- As transients, Norway structures, to appears orcas
+transients.'1241 and the Islands behave like eating Argentina Crozet orcas in more
+of the and physical and synchronous surfacing. These behaviours do randomly individuals pod, Oreas contact not same sex age group may engage in occur among in a
+"friendships".251I1261 providing evidence of
+Vocalizations
+also: Whale sound ‘See Multimedia relating to the orca
+Like all depend heavily underwater sound for feeding, and orientation, communication. cetaceans, orcas on ounce
+They produce three of sounds: clicks, whistles, and pulsed calls. Clicks believed be used to categories are
+52! = commonly heard during social interactions
+Sy 4271 Northeast Pacific resident tend be much vocal than the transient to waters groups more groups in same
+Residents feed primarily Chinook and chum salmon, which calls (inferred from the insensitive to on are orca —————————
+CEES audiogram of Atlantic salmon). the mammal of hear whale calls well and thus In contrast, transients marine prey
+w=) silent."27! typically Vocal behaviour these whales mainly limited surfacing and transients activities to are in is
+!228) milling (slow with direction) after kill apparent swimming no a a
+Problems playing these files? See media help.
+All members of resident pod similar calls, known collectively dialect. Dialects composed of a use as a are
+time.2*! matrilines.!13 ‘specific numbers and of discrete, calls. They complex and stable Call and distinctive within patterns structure types repetitive are over are
+repertoire.'125! members.!234] Newborns produce calls similar their mothers, but have limited individuals likely learn their dialect through with pod Family- to contact a more
+them.!*2! specific calls have been observed frequently the days following calf birth, which help the calf learn pialects probably of important more in a may are an means
+time.235] identity and cohesiveness. Similarity dialects likely reflects the degree of relatedness between pods, with when pods maintaining variation group in growing over
+dominant call decrease and subset call The of both call called biphonation. The increased subset call be the types types meet, types types increase. use is may
+relations.15) distinguishing factor between pods and inter-pod
+Dialects also distinguish Resident dialects (mean 11) distinctive call All members of the North contain 17 American west transient types. to types. coast seven =
+the basic dialect, although regional call evident. Preliminary research indicates offshore have group-specific ‘community types variation express same minor in is orcas
+transients.!1591 dialects unlike those of residents and
+hunting.""*4! and Icelandic herring-eating have different vocalizations for like population that live McMurdo Sound, Norwegian 4 Antarctica to activities orcas appear in
+calls.!235) have complex burst-pulse and whistle 28
+Intelligence
+article: intelligence Main Cetacean
+mammals'*5] animal).''371 have the second-heaviest brains (after whales, which have the largest brain of have Orcas Orcas matter among marine sperm any more gray
+humans."*5) intelligent,291249) and cortical than mammal, including They be trained and often described although defining and captivity more neurons any can in are as
+humans.“ "intelligence" difficult whose and behavioural different from those of others, and environment Orcas imitate strategies measuring is in a species are very
+needed.!°41!5) deliberately teach skills their kin. Off the Islands, mothers push their calves the beach, pull the back if March to Crozet onto waiting youngster in to to ‘seem
+Sneefellsnes.2441 female spotted with newborn pilot whale 2023, a orca was a in
+People who have interacted closely with offer anecdotes demonstrating the whales’ playfulness, curiosity, orcas numerous
+to solve not learned how to steal fish from longlines, but have d ability problems. Alask have only al:
+ability are o solve problems. Alaskan orcas have not ony leaned how to steal fish frm longnes, but have also overcome eine
+decoys.!"*2! of techniques designed them, such the of unbaited lines fishermen placed their stop Once, variety to as use as
+boats several miles taking small of their catch, the hope that the whales would have apart, turns amounts not retrieving in Seg ES
+- ‘enough between boats steal the catch being retrieved. The worked initially, but the ee time to tactic to it move as was orcas
+groups.!*42) a adapted quickly and split into eee
+—— : other anecdotes, researchers describe incidents which wild playfully humans by repeatedly objects In tease in orcas moving
+reach,!45] snowball."441 == the humans suddenly around chunk of after human throws start toss trying to to are or a ice a a az
+= Anorca plays with ball ofice,soon a
+of the Salish observed off strands of bull kelp and rolling them around body. This In 2025, Sea its tearing one orcas was was after researcher threw snowball the at a a
+a “allokelping."“\45) the first observation of killer whale tools. called this behavior whale. Scientists using
+The of dialects and the of other learned behaviours from have been described orca's generation generation to use passing
+culture.!48) form of animal as a
+writes:!471 Luke Rendell, article Behavioral and Brain Sciences, in an in
+“The complex and stable vocal and behavioural cultures of of killer whales (Orcinus orca) have parallel outside humans and sympatric to groups appear no
+faculties.""1471 independent evolution of cultural represent an
+Life cycle
+20,""481'49l Female begin around the of and reach peak fertility around periods of to mature at 10-13 orcas age experiencing
+polyestrous cycling separated by non-cycling periods of three months. Females often breed until followed 16 40, to can age 2
+> fertility.“49! by rapid decrease the few animals that undergo and live for decades after they ‘ Orcas a in are among menopause
+A: a breeding."1°ll54 years.!"52] have finished The lifespans of wild females claimed have lived 50 to 80 Some to average are
+Aim substantially longer: (J2) estimated by researchers have been old the of her Granny to 105 time at oe was some as as years
+af ts =i years.(25°Il1541[155] se! death, though biopsy sample indicated her of the oldest living 65 80 One Ocean Sun to a age as orcas is
+old.!255II1571 (identified L25), Southern Resident who estimated be than thought that Orca, 98 jt to as a is more years is orcas 2
+{25215811591 held tend have shorter lives than those the wild, although this subject scientific debate captivity to to in in is
+months."©° Males with females from other pods, which inbreeding. from Mothers mate Gestation 15 to 18 prevents varies
+usually calve single offspring about five resident pods, births of although In at time winter a once every years. occur any year,
+ni die.!284] the Mortality extremely high during the first months of life, when of alll calves most 37-50% is common. is seven senior Ie erelel calf resin
+begins about months of and complete by According observations several all Weaning at 12 two to age, is years. in regions, Georgia
+young.!211 male and female pod members the of the participate in care
+years.!153) Males sexually the of but do typically reproduce until Wild males live around with of about 15, not 21. 29 60 mature at age age years on average, a maximum
+male, known Old reportedly spotted between the and off South Wales, Australia, which would have made him One Tom, 1840s 1930 New 90 winter to as was every up
+35,!"°! animals.!"55 old. of his teeth indicated he died around but this method of determination believed be for older Examination to One inaccurate years age age is now
+2010.'4! male known researchers the Pacific Northwest (identified J1) estimated have been old when he died The oldest male Scottish to 59 to in as was years in in
+old,'*©5! John (identified W001), estimated be while male Sound named Harbeson (identified T087) thought be around Coe to 65 Puget to 64 waters is as years a in as is
+old.!“6] shorter.!“41 their caudal elongate with making their heads relatively orcas sections cetaceans, years are unique among as age,
+Infanticide, thought only observed wild populations by researchers off British Columbia December this incident, to 2, 2016. In captive once occur in orcas, was in on an
+adult male killed the calf of female within the pod, with the adult male's mother also the assault. theorized that the male killed the calf order Itis a same joining in young in
+with mother (something that other species), while the male's mother supported the breeding for her The attack ended when its opportunity to mate occurs in carnivore son.
+dolphin.'"57) the calf's mother struck and injured the attacking male. Such behaviour matches that of smaller dolphin such the bottlenose However, many species, as
+whales.118) forced by males be killer mating to appears rare in
+Conservation
+the (International for of Nature) changed of the In 2008, IUCN Union Conservation its orca's assessment conservation status — a
+pon A => from dependent data deficient, that actually be separate, conservation to types recognizing one or more orca may
+ee ey species."! endangered Depletion of pollution, large-scale oil spills, and habitat disturbance caused by prey species, noise —_ =
+lal > threats.) and conflicts with boats the significant worldwide the first England and Wales most in January 2020, are orca in - d
+FF $ stomach.(2°8) found dead with large fragment of plastic 2001 its since was a in = ;
+ee Like other animals the highest trophic levels, the particularly risk of from bioaccumulation of at at toxins, Ree orca is poisoning
+ot (PCBs).!®2! including Polychlorinated biphenyls harbour seals have problems reproductive and European — in immune
+t: = functions associated with high levels of and related and off the Washington found PCBs PCB contaminants, coast a survey -
+Ce a wari seals.!!°"! levels higher than levels that had caused health problems harbour Blubber samples the in orcas were in in ete
+show higher levels of pesticides and brominated flame-retardants than polar bears. study Norwegian Arctic PCBs, A 2018 in body where most have solid areas orcas
+__ pollution.17974] black colouring. Research into published found that global populations poised dramatically decline due such is ongoing Science to to toxic in orca are
+whether types distinct one or more orca are
+years. the Pacific Northwest, wild salmon stocks, resident food have declined dramatically In recent in a main source, in need of protection. species in
+years.72] the Sound only whales with few births the last few the of Alaska and Puget 75 On coast west region, remain over
+declined.!751 the Aleutian Islands, seal and lion populations have also substantially sea
+Act.©" the United listed the southern resident endangered population under the Endangered This In 2005, States government community Species community as an
+three pods which live mostly the and and Sound British Columbia and Washington. They do breed outside of their Georgia Haro Straits Puget not comprises in in
+83.!175! dead, reducing the This potentially the largest decline the population the These deaths be attributed declines Chinook past 10 to count to is in in years. can in
+Balcomb has extensively studied he the research biologist responsible for discovering harm studied Scientist Ken 1976; U.S. Navy He orcas since is sonar may orcas.
+Washington.'*76l from the for Whale Research, located Friday Harbor, also able study from "his home porch perched above Sound, Center He to Puget orcas in was orcas
+months"."76 where the animals hunt and play Balcomb (along with other whale watchers the Sound coastline) noticed in May 2003, Puget in summer near
+uncharacteristic behaviour displayed by the The whales seemed "agitated and haphazardly, lft their heads free of the to water" to attempting orcas. were moving escape
+sonars.'176l the sound of the "Balcomb confirmed the that underwater detected with underwater microphones The sound at time strange pinging noises were sonar.
+said.""76l originated from frigate miles (19 kilometres) distant, Balcomb The of potentially life-threatening. Three U.S. Navy 12 impact a sonar waves on orcas is years
+Balcomb's discovery, research the Bahamas showed beaked whales washed the shore. These whales beached the day destroyers, 14 U.S. Navy to prior in up on were on
+exercise.’ activated Of the whales beached, of them died. These dead whales studied, and of of the whale heads 14 CAT two into were sonar six six were scans
+sickness.!2761 showed hemorrhaging around the brain and the which with decompression consistent ears, is
+Another made public September when the Canadian decided enforce further (including conservation 2008 government it not protections to concer was in was necessary
+the Risk place endangered animals along with their habitats) for aside from the laws already place. this decision, Species Act protect In to at to in orcas in response six
+environmental sued the federal claiming facing threats along the British Columbia including increased boat traffic, government, Coast water toxic groups orcas were
+them.2771 and low salmon population, and the federal did nothing to wastes, government protect
+Strait.71 Underwater from shipping, drilling, and other human significant key habitats, including Johnstone and Strait Haro in activities noise is a concer in some orca
+waters.” the mid-1990s, loud underwater from salmon farms used deter seals. also avoided the surrounding High-intensity used by the to Orcas noises were sonar
+mammals.'1°! disturbs along with other popular with whale watchers, which the whales and alter their behaviour, particularly if Navy orcas stress orcas marine are may
+travel.!284] boats approach closely block their lines of too or
+The Valdez oil spill adversely affected William Sound and Alaska’s Fjords Eleven members (about halt) of resident pod Exxon Prince Kenai orcas in region. one
+disappeared the following The spill damaged salmon and other populations, which damaged local estimated the turn By 2009, scientists ATL in year. prey in orcas.
+population (considered of larger population of transients), numbered only individuals and had reproduced the spill. This population transient 346 not part a seven since is
+[82111831 expected die to out
+included Appendix of the International Trade Endangered (CITES), international trade (including parts/derivatives) Orcas Il Convention Species are in on in meaning in is
+Relationship with humans
+out. °°"! expected die to
+Indigenous cultures
+also: Animal worship See
+The Indigenous peoples of the Pacific Northwest feature throughout their history, spirituality and religion. The Haida Coast art, orcas
+regarded the powerful animals the and their mythology tells of living houses and under the most towns ¢ orcas as in ocean, orcas in sea.
+them.24l According these they took human form when submerged, and humans who drowned live with the stories, went For to to on WV
+ia warriors.2841 Kwakwaka'wakw, the regarded the ruler of the undersea world, with lions for slaves and dolphins for In orca was as sea
+chiefs.!“°4! 4 Nuu-chah-nulth and Kwakwaka'wakw mythology, embody the souls of deceased The Tlingit of southeastern orcas may |
+humans."85I Alaska regarded the custodian of the and benefactor of The consider be people, referring Lummi to to orca as sea a orca
+L waves”./186] them "qwe'lhol'mechen” which relations under the "our as means =
+PAZ The Archaic people of Newfoundland also had for evidenced by found Maritime 4,000-year- great respect stone orcas, as carvings in a IN
+ae Site.!8711288) old burial the Choix Archaeological at Port au
+r 4 \ ji the tales and beliefs of the Siberian Yupik people, said wolves and wolves In to winter, orcas are appear as in as orcas in
+summer. /2891(4901[1911192] walrus.2°5) ae believed their hunters driving expressed several forms: the Orcas to Reverence assist are in is in
+belt.!*®"] boat the animal, does wooden hung from the hunter's smalll sacrifices such tobacco represents meat as a carving as or are »
+them,!29sI2921 the for strewn into sea
+The people of Hokkaido, the Kuril Islands, and southern Sakhalin often referred their folklore and myth Ainu to Repun orcas in as P|
+5 Haida sculpture by Bill Reid (God of Sea/Offshore) bring fortunes (whales) the and there had been traditional funerals for stranded Kamuy to to coasts, or
+bears.) deceased akin funerals for other animals such brown to orcas as
+Attacks by wild humans and animals orcas on
+Further information: attack Orca
+predators.!2°°l cultures, historically feared dangerous, The first description of In Western written orcas were as savage an =
+SS by Pliny the Elder who (the of which other AD 70, wrote, “Orcas orca was given circa appearance no image can express,
+than of flesh with teeth) the of [other kinds of whale... they charge and them an enormous mass savage are enemy pierce =
+above).291 like warships (see citation "Naming", section ramming." in
+fatal.!"97! Of the few confirmed attacks humans by wild have been tried in instance, tip to very on orcas, none one orcas ice
+standing.'"°8! floes which dog and photographer of the Expedition The sled dogs’ barking team Terra Nova on a were is
+speculated have sounded enough like seal calls the hunting the surfer California to trigger orca's curiosity. In 1970s, to a in
+Alaska who retreated,°°! bitten, but the then and boy splashing frequented by 2005, was orca in a in was in a region
+prey.2°7 harbour seals bumped by that apparently misidentified him was an orca as
+a Male depicted St Mary's orca in in
+GEETECSUEMREAE Orca attacks sailboats and small vessels on
+article: Iberian attacks Main orca
+around pods of began attack sailing vessels off the southern of and few sunk. least between Beginning 2020, to tip Europe, At 15 interactions one or more orcas a were
+2020.2") and boats off the Iberian reported According the Atlantic Working (GTOA) vessels have been damaged Orca Group 500 coast to orcas were in as many as
+2023.7] between and video, be biting of the rudders ripped from Gibraltar. The of the vessel 2020 in two catamaran captain one an orca can seen on one a near
+reported this the second attack vessel under his command and the focused the rudders. “Looks like they knew exactly what they doing. They didn't was on a orcas on are
+else."’7°°! areas.4! touch anything after repeatedly rammed vessel off the of there the behavior spreading other This coast Norway 2023, to an orca a in is a concern is
+sand.!2°°) signal.'7°5 has led recommendations that sailors bags of sand the the rudder thought confuse the Dropping into water to Experts to now carry near is sonar
+divided whether the behavior of incident, playful frustrated boat's sort protection to traumatic to attempts to get were as was some revenge or response a previous or or a
+water.207] propeller of high-speed emit to stream a
+Attacks humans by captive on orcas
+(208112091 Unlike wild have made nearly dozen attacks humans the of which have been fatal. captive 1970s, two orcas, orcas on since some
+Human attacks on orcas
+with fishermen also led being regarded the of the Pacific Northwest and Iceland, the shooting of accepted and Competition In waters to pests. orcas as orcas was even
+As governments.'+°5l encouraged by indication of the of shooting that occurred until fairly recently, about of the captured Sound for intensity 25% Puget an orcas in
+scars.?"°l through bore bullet The claimed have deliberately killed hundreds of Icelandic with machine 1970 U.S. Navy to waters 1956 aquariums orcas in in guns,
+charges.!2111/2121 rockets, and depth
+Modern Western attitudes
+also: popular culture See Orcas in
+attitudes towards have changed dramatically decades. the mid-1960s and early ‘Western recent In 1970s. orcas in orcas” |
+fl much public and scientific with the live-capture and display of known Moby greater starting to came awareness, an orca as
+1964.!"9°] Doll, southern resident harpooned off Island the first be studied close Saturna He to at a orca in was ever orca
+alive, Moby Doll's scientific research the including the first scientific studies of not postmortem. time, quarters impact at in an
+Zoologica.!215lI2141 sound production, led articles about him the journal little known the orca's to so at time, two it in was was
+nearly months before the whale's keepers discovered what food (fish) willing the of those who it To two to eat. was surprise
+humans.|2151 him, Moby Doll docile, whale who made attack attempts to ‘saw was a non-aggressive no
+© Ingrid Visser's research team filming
+and from the Pacific Northwest captured for display and public inthe Between 1964 1976, 50 interest orcas were in aquaria, New Zealand orcas in
+animals the research pioneered by Michael led the discovery of the complex social In 1970s, Bigg species’ structure, to grew.
+of vocal and extraordinarily stable mother—offspring bonds. Through photo-identification its its communication, use
+decades.21) techniques, individuals named and tracked were over
+techniques also revealed the Pacific Northwest population the low hundreds rather than the thousands that had been Bigg's was in “
+assumed."®5] previously The southern resident alone had lost of members by only 48 1976, 80 community its to captivity; .
+remained.171 the Pacific Northwest, the that had unthinkingly been targeted became cultural within few in species a icon a =
+The public's also led whale-keeping Only whale has been taken appreciation to to opposition growing growing in aquariua. one in
+\ North the of the public's has manifested itself several high- American 1976. In recent extent interest waters since years, in orcas in
+aie profile efforts surrounding individuals. Following the of the film Willy, the Keiko retumed 1993 Free movie's captive star to success was
+1 the of his Iceland The director of the International Mammal for the Earth Island David native 2002. Marine Project Institute, coast in
+Arctic . waters.21®] Phillips, led the efforts Keiko the Iceland Keiko however did adapt the harsh climate of the to return to Ocean, not to
+OSS ey 27.219! and died his release after the of the orphan discovered at in 2002, Springer into contracting a year pneumonia, age was in
+= Sound, Washington. She became the first whale be successfully reintegrated wild pod after human Puget to into intervention, a
+orcas." © crystallizing decades of research the vocal behaviour and social of the The of raised In 2002, the orphan Springer structure region's Springer into saving
+succesetilty reamed onary jucas hopes that another named which had become separated from his pod, could be returned his Luna, it. However, to young orca case
+eas 224) marked by about whether and how and killed by boat propeller. controversy to 2006, Luna intervene, was in was a
+Whaling
+article: Whaling Main
+The earliest known records of commercial hunting of date the 18th the 19th and to Japan. During century orcas in
+TEE NEE ERS early 20th the global whaling industry caught numbers of baleen and whales, but largely centuries, immense sperm
+ignored because of their limited of recoverable oil, their smaller populations, and the difficulty of ee amounts orcas SRST eee Sree ee
+— adie them.) taking the stocks of larger depleted, targeted by commercial whalers inthe 5 Once sore species were orcas were ~
+= Sa SS mid-20th and took (although the of the claims Between 1954 1997, Japan 1,178 Ministry Environment century. orcas
+a ESS 196031222) that there had been domestic catches of about whales between the late and took 1,600 1940s Norway to
+987.225] a hunting of including catch of alone, prompted the International Extensive Antarctic 916 1979-80 The named Old Tom alongside orcas, an in orca swims a
+‘whaleboat, flanking whale calf. The boat being research.!225] a is Whaling recommend ban commercial hunting of the pending further Commission to a on species
+towed by harpooned whale (not visible here), a near
+Today, substantial hunt, although Indonesia and Greenland small subsistence hunts out country permit no carries a ven, australia
+Aboriginal (see whaling). Other than commercial hunts, hunted along of public Japanese out coasts orcas were
+for potential conflicts with fisheries. Such include semi-resident male-female Akashi Strait concern cases a pair in
+1957,!2241!225) 1970,5] and Harimanada being killed the Inland the killing of five whales from pod of members that Tokyo and Seto Sea 11 Bay into in in a swam in a
+1990s.2271228) catch record southern the Taiwan in in
+Cooperation with humans
+whales.?7°] have helped humans hunting other well-known example the of Eden, Australia, including the male known Old Whalers Orcas One Tom. was orcas as more
+catch.22°! often considered them however, would gather from the whalers’ populations, such Alaska's William to some Prince meat a nuisance, as orcas scavenge as in
+retaliation.) ‘Sound, have been reduced significantly by whalers shooting them may in
+Whale watching
+Whale watching popularity, but have problematic exhaust from large of vessel traffic to impacts Exposure amounts continues to increase in may some on orcas. gases is
+2019.7" for the overall health of the southern resident (SRKWs) left of early This population followed by approximately 75 20 causing concern remaining orcas as is
+May-September.3"! vessels for hours day during the months Researchers discovered that these vessels the line of sight for these whales for of 12 98-99.5% a are in
+hours.!254] daylight with vessels, the quality around these whales deteriorates and their health. pollutants that bind with exhaust fumes impacts Air so many air are
+family.'?54] responsible for the of the cytochrome Researchers have successfully identified this skin biopsies of live whales and also the activation P450 1A gene gene in
+lungs of deceased whales. direct correlation between of this and the pollutants be made because there other known factors that will A activation not gene air can are
+induce the Vessels have either dry exhaust with exhaust leaving pollutants the due solubility. systems, wet to A wet systems water same gene. can or more in various gas
+dose.!231] modelling study determined that the lowest-observed-adverse-effect-level (LOAEL) of exhaust pollutants about of the human 12% was
+daylight hours.*~"~ With vessels, the quality around these whales deteriorates and their health. pollutants that bind with exhaust tumes Impacts Air so many air are
+this, boats off the British Columbia have approach distance of compared the This As to 2017 coast 200 100 metres. metres to a response in now a minimum previous new
+rule complements Washington approach of that has been effect If whale approaches vessel be placed State's 180 metres 2011. it must minimum zone in since a a in
+vessels.252) neutral until the whale The World Health has quality standards effort control the produced by these Organization to set passes. air in an emissions
+Captivity
+article: Main Captive orcas
+| The intelligence, trainabilty, stiking playfulness and sheer have made popular exhibit orca’s captivity it appearance, in size a — ——
+and theme parks. whales taken from the wild Iceland, from and at From 1976 to 1997, 55 19 Japan, aquatic aquaria were in
+three from These figures exclude animals that died during fell dramatically the ares Argentina, Live captures 1990s, capture. in
+od 2331 = and by about of the animals display the world captive-born 1999, 40% 48 on in were :
+a a tea i cre such World Animal and Whale and Dolphin the of Organizations Protection Conservation practice against as campaign ee fs ‘
+keeping them they often develop pathologies, such the dorsal fin collapse of captivity. In 60-90% captivity, in as seen in ~_i—
+“lla 20s.! males, have vastly reduced life only living their That said, captive Captives into 2015, expectancies, on average a =
+eas study coauthored by staff SeaWorld and the suggested significant difference survivorship between at Minnesota Zoo So no in
+orcas.!5° © free-ranging and the wild, females who infancy live and However, 46 Lolita, the Miami Seaquarium, captive to at in survive years on average, up was one
+of the oldest years.'2*4] captivity. orcas in Wild males who infancy live and 70-80 31 50-60 Captivity to years in rare cases. survive years on average, up
+usually bears little resemblance wild habitat, and whales’ social foreign those found the wild. captive to to groups are in
+above.35! claim life stressful due these factors and the perform tricks that of wild behaviour, wild Critics to requirement to captive not part is circus are orca see orcas
+captivity." travel kilometres (100 mi) day, and the animals big and intelligent be suitable for occasionally 160 critics too to Captives act to may up in a say are
+stress.°°! aggressively towards themselves, their tankmates, humans, which result of and the bull known Tilikum Between 1991 2010, critics or say is a orca as was
+Blackfish.!234! involved the death of three people, and featured the critically acclaimed film Tilikum lived SeaWorld from until his death 2013 at 1992 in was in in
+shows." March SeaWorld announced that they would be ending their breeding and their theatrical of theatrical shows In 2016, However, 2025, orca program as
+ongoing.240) featuring still orcas are
+See also
+« of mammal List marine species Fi ceases poral
+« of List cetaceans =
+‘Mammals portal melvillei occupied similar ecological niche Livyatan a « -
+Marine life portal Ingrid (researcher) Zealand biologist who with wild Visser New a swims orcas « —
+FE oceans portal
+Footnotes
+Baird! ® According kiler whales prefer harbour seals lions and to to a. sea porpoises in some areas,
+b. 8 Although there examples of killer whales living longer, including several 20 old, and (Corky Il and Lolita) their mid-40s, two captive are over years orcas are in
+References
+D.M. (eds.). Mammal Species of the World: A Taxonomic and Geographic from the original June 2, 2023. Retrieved June 2, 2023. on
+a 2. Reference (8rd ed.). Johns Hopkins University Press. 723-743. ISBN 978-0- 115, 4 "Why dead salmon ‘hats’ say’ CBC. pp. remains mystery, scientists orcas wear as
+*# 2.4 "Orcinus Linnaeus 1758"c7. Fossilworks. Archived 2 from the original 116. Heimlich & Boran 2001, 35. orca on p.
+December 12, 2021. Retrieved December 17, 2021. 117. "Keep Whales Wild" cz. Keep Whales Wild. January 14, 2011. Archived from the
+3.986¢d€f Reeves, R.; Pitman, R. L.; Ford, J. K. B. (2017). "Orcinus orca’ IUCN c2. original December 16, 2010. Retrieved February 16, 2011. c? on
+Red List of Threatened Species. 2017 ¢.T15421A50368125. 118. Wright, Brianna M.; Stredulinsky, Eva H.; Ford, John K. B. (2023). "Sex Killer in
+doi:10.2305/IUCN.UK.2017-3.RLTS.115421A50368125.en. Retrieved Whales: Behavior, Exogamy, and the Evolution of Sexual Strategies the Ocean's in
+(2. 4,440 "Appendices | CITES" Archived from the original December 5, cites.org. 2 3_16 ISBN 978-3-031-35650-6. on 2.
+120.*# 5. 4 Orcinus (Linnaeus, 1758)" «2. Integrated Taxonomic Information System. orca NMFS 2005, 39. p.
+G. Retrieved March 9, 2011. 121. 4 Ford, J. K. B.; Ellis, M.; Balcomb, K. C. (1999). Killer Whales: The Natural History
+6. 4 "Facts about (killer whales)". Whales.org. Whale & Dolphin Conservation orcas and Genealogy of Orcinus British Columbia and Washington State. University orca in
+USA. Archived from the original February 8, 2022, Retrieved February 8, 2022. on of British Columbia Press. 25. ISBN 978-0-7748-0469-1 p.
+8 National Wildlife Federation. Archived? from the original January 31, 2017. on 123, NMFS 2005, 14 p.
+Retrieved July 30, 2020 124, 4 Ford, Els & Balcomb 2000, 27 p.
+8. 4 Ford, Elis & Balcomb 2000, 68. p. 125, 4 Weiss, M. N.;et al. (2021). "Age and influence social but interactions, not sex
+Mary p. 7.4 Brice, (July 22, 2018). "Orcas: How Science Debunked Superstton"c2 122, ANMFS 2005, 13.
+et. of B: 9. 4 "The Code Online | Intemational Commission Zoological Nomenclature" 2. on within killer whale pod" Proceedings the Royal Society associations, a
+2. Retrieved February 15, 2025. www.iczn.org. Biological Sciences. 288 (1953) 20210617. doi:10.1098/rspb.2021.0617
+T; (1879). 3. 410. Lewis, Chariton Shor, Charles “orca”: A Latin Dictionary, Perseus ha:10871/125708 82066963. PMC PMID 341304982.
+2 Digital Library. Archived from the original October 7, 2022. Retrieved October 7, on 16, A Lesté-Lasserre, Christa (June 17, 2021). "Killer whales form killer friendships, new
+2022. drone footage suggests” Science. Archived? from the original December 5, c2. on
+? Perseus Digital Library. Archived from the original May 26, 2024, Retrieved 127.98 on NMS 2005, 20 p.
+9, V. J. October 2023. 128. 4 Deeck, B.; Ford, J. K. B.; Slater, P. B. (2005). "The vocal behaviour of mammal-
+with costly cals". 12. 4 Fitzinger, L. J, (1860). ‘Wissenschaftch-populare Naturgeschichte der Saugethiere cating killer whales: communicating Animal Behaviour. 69 (2): 295~
+nebst 2. ren stimmtichen Hauptformen: Einleitung die Naturgeschichte in einer in 405, Bibcode:2005AnBeh..69..305D e. doi:10.1016%,anbehav.2004.04.014
+uiberhaupt und die Lehre den Thieren insbesondere" 2. Aus der Kaiserlich- in von 5210 16309659°7.
+(in 6. A. éniglichen hot- und staatsdrucherei German). Wien: 204-217. 129, 9 Foote, D.; Osborne, R. W.: Hoelzel, A. (2008). "Temporal and contextual patterns
+13.‘ Leatherwood, Stephen; Hobbs, Larry J. (1988). Whales, dojphins, and of porpoises of killer whale (Orcinus orca) call production’. Ethology. 114 (6): 599-606 type
+adjacent Arctic guide to 2 c. the North Pacific and their identification eastern waters: a Bibcode:2008Ethol.114..599F doi:10.1111).1439-0910.2008,01496.x.%
+kremers,D.; Lemasson, Courier Dover Publications. 118. ISBN 0-486-25651.0, Retrieved January 28, 2010. n@8 p. 139, A; Almunia, 3; Wanker, R. (2012), “Vocal sharing and
+126 (4): 2 ordines, characteribus,diferentis, ocis. Tomus It genera, species, cum synonymis, Journal of Comparative Psychology. 433-445, dot:10.1037/a0028058
+(in Latin). Vol v2 (Loth ed). Holmiae. (Laurenti Salvi). 824. Archived from the t p. PMID 22866769 0.
+A.; original March 25, 2017. Retrieved January 14, 2018. on 131, 9 Filatova, Olga Fedutin, Ivan D.; Burdin, Alexandr M. Hoyt, Etich (2007). "The
+435." Zum Wal der Marienkirche & (In German). St. Mary's Church, Greifswald. in ofthe discrete cal of killer whales Orcinus from Southeast structure repertoire orca
+Retrieved February 16, 2010 f) Kamchatka’ (PDF). Bioacoustics. 16 (3): 261-280.
+17. LeDue, R. G.; Perrin, W. F; Dizon, A. E. (1999). "Phylogenetic relationships S2CID 563045412, Archived (PDF) from the original July 15, 2011. Retrieved among on
+the delphinid based full cytochrome b sequences’. Marine Mammal cetaceans February 23, 2010. on
+Science. 15 (3): 619-648. Bibcode:1999MMamS..15..6191 2. doi:10.1111/.1748- 132. “ Wei, Brigitte M.; Ladich, Friedrich; Spong, Paul; Symonds, Helena (2006). "Vocal
+7692.1999.tb00833.x ISSN 0824-04692. (7. behaviour of resident killer whale matrilines with newborn calves: The role of family
+L. insights of the of 119 (1): signatures") 18. Horreo, Jose (2018). "New the phylogenetic relationships the into (PDF). The Journal Acoustical Society America. 627— among
+cA, . dolphins (Cetacea: Delphinidae)" 2. Journal of Zoological Systematics and 635, Bibcode:2006ASAJ..119..627W do10.1121/1.2130934 PMID 164543162. oceanic
+doi:10.1111/7s.12255 original Evolutionary Research. 57 (2): 476480. Archived from the (PDF) May 27, 2011, on
+Alvarez-Carretero, 19. 4 MeGowen, Michael R.; Tsagkogeorga, Georgia; Sandra; dos 134, 9 Simon, M.; MeGregor, P. K.: Ugarte, F. (2007). "The relationship between the
+Reis, Mario; Struebig, Monika; Deaville, Robert; Jepson, Paul D.; Jarman, Simon; behaviour and surface activity of kler whales (Orcinus orca) that feed acoustic on
+Polanowski, Andrea; Morin, Phillip Rossiter, Stephen J. (October 21, 2019). herring (Clupea harengus)". Acta Ethologica. 10 (2): 47-53. doi:10.1007/s10211-007- A.;
+“"Phylogenomic Resolution of the Cetacean Tree of Life Using Target Sequence 0029-7 S2cID 298283112 2.
+Capture". Systematic Biology. 69 (3): 479-501. doi:10.1093/sysbio/syz068 (2. 185. 4 Szondy, David (February 26, 2020). "The smallest killer whale has large musical a
+2. New Atlas. from 7164366. ISSN 1063-5157 PMC PMID 31633766: ‘epertoe"t2. Archived? the orginal February 27, 2020 on
+(Baird Killer Canadafiy Archived 20.84 2002). Status of Whales November 8, in Retrieved February 27, 2020.
+at Contract report 2010). ’Killer whales: smart 2011, the Wayback Machine, the Committee the Status of to on 136, 9 Spear, Kevin (March 7, How they?"«2. Orlando are
+Endangered Wilde Canada, Ottawa, ON, Canada, Also published Status of in as ‘Sentinel. Archived? from the original September 8, 2015. Retrieved March 7, on
+f§ Canada Archived Killer Whales, Orcinus July 14, 2010, at the Wayback orca, in 2010
+Machine The Canaafan Field-Naturalist 128 (4) (2001), 676-701. Retrieved January 4.37, » Dunham, Will (Qctober 16, 2017), "Big and brillant: complex whale behavior tied to
+Reuters. 26, 2010. brain Archived from the original July 19, 2021. Retrieved ct. c? size" on
+pitman, of killer 21.440 Robert L.; Ensor, Paul (2003). "Three forms whales (Orcinus December 23, 2020.
+orca) Antarctic (PDF). Journal of Cetacean Research and Management. waters” in 43g, n Ridgway, Sam H.; Browmson, Robert H.; Van Alstyne, Kaitlin R; Hauser, Robert A
+2. B§ Archived (PDF) 5 (2): 191-129, doi:10.47536)jo1m.vSi2.81312, S2CID 52257732 (December 16, 2019). Li, Songhai (ed). "Higher densities the cerebral neuron in
+from the original April 27, 2020, Retrieved January 9, 2010. on and larger cerebellums limit dive of delphinids compared deep- cortex times to may
+Ns C. A. a cx. 22. 4 De Bruyn, PJ. Tosh, A; Terauds, (2013). "Killer whale Is there ecotypes: diving toothed whales" PLOS ONE. 14 (12) €0226206
+23. 6 Ford, Elis & Balcomb 2000, 16-24. Associated pp. *4 139, Press. Whale Attack Renews Captive Animal Debate CBS News,
+T. W. killer whale Jefferson, 24.4 A.; Stacey, P. J.; Baird, R. (1991). "A of review March 1, 2010. Retrieved March 7, 2010
+140.*® with other mammals: predation co-existence” (PDF). interactions to marine Canwardine 2001, 67. p.
+Mammal 2. of Review. 21 (4): 151-180. Bibcode:1901MamRv. 21.1519 141, 8 Weston, Phoebe (March 10, 2023). Extraordinary’ sighting orca with baby pilot
+Archived dof:10.1111/,1365-2907.1991,tb00291.xc2. (PDF) trom the original on whale astounds scientists". The Guardian
+2. 448 whale 25. Sehrope, Mark (2007). "Food chains: Kile inthe Kelp Nature, (7129) 703-44 ier (PDF), Blacks Sounder. 1: 5.2006, Archived from the games
+S2CID 44213622. c 144, 4 Pitman, Robert L. Scientist Has ‘Snowball Fight’ With Killer Whale Archived 2 a
+McInnes; Andrew W. R. the 6, 26. Josh D. Trtes; Chelsea Mathieson; Marilyn E. Dahiheim: September 15, 2020, at Wayback Machine. Live Science, February 2008
+E, A. M. 7, Jeffrey Moore; Paula Olson; Kevin Lester (2024). "Evidence for Oceanic an Retrieved March 2010
+Population of Killer Whales (Orcinus orca) Offshore Waters of California and in 145, 4 "Drone footage reveals tools first’. CNN. June 23, 2025. stunning orcas using in a
+@. Oregon" Aquatic Mammals. 50 (2): 93-106. Bibcode:2024AqMam..50...93M c. Retrieved August 2, 2025.
+2. teehee pepgeece Ape seg, doi:10.1578/am.50.2.2024.93 Retrieved March 22, 2024. DA A Mortis Pceebe eh PEUPUVTY (he peste bee Pte pe
+Go: 20.2576/am.50.2.2024.03c2, Retrieved March 22, 2024, 146. * Marino, Lori; al. (2007). "Cetaceans Have Complex Brains for Complex et
+27." Morin, P.A.; McCarthy, M. L; Fung, C. W Durban, J. W.; Parsons, K: M.; Perrin, W. /journal.pbio.00501393. Cognition’ 2. PLOS Biology. § (6) €139. doi:10.137
+2 F; L.; T.A.; Taylor, B. Jefferson, Archer, FI. (2024). "Revised of taxonomy eastern 1868071. PMC PMID 17503965
+resident ecotypes North Pacific killer whales (Orcinus orca): Bigg's and deserve # @. 147, pendel, uke: Whitehead, Hal (2001), “Cure whales ana dolphins” in
+ana 24 (2): 2. Royal Open 11 status’ Society Science, (8) 231368, species Behavioral Brain Setences 209-324
+2%. PMID 38545012 Archived from the original May 30, 2010. Retrieved March 7, 2010. c on
+Cj S; K:; Croft, 2 Se oe ManneMammalscenceorG: ae nso 44a, Grimes, Brent LIN; Els, Weiss, MN; Franks, D, W; Elif, D.
+7, socially ‘ciety for Marine Mammalogy. June P. (August 2023). "Postreproductive female killer whales reduce inflicted
+A; male 29. 6 Morin, Philip Archer, Frederick; Foote, Andrew D.; Vlstrup, Julia; Allen, Eric E. their offspring". Current Biology. 33 (15) 3250-3256.64 injuries in
+Wade, Paul; Durban, John; Parsons, Kim; Pitman, Robert (2010). "Complete Bincode:202308i0. 33632506 odor 101016), cub 2023 08.038
+mitochondrial phylogeographic analysis of killer whales (Orcinus orca) genome pup 37478608 Retieved February 20, 2028, 2.
+oostaoseae Ward, J.; eee aan ese oo ee in uaan 4° 149. Eric Holmes, Elizabeth E.; Baleomb, Ken C. (June 2009). "Quantifying
+3. ‘or er e oe the effects of abundance killer whale reproduction" Journal of Applied :2. prey on
+L.; 30. 4 Pitman, Rober Durban, John W.; Greenfelder, Michael; Guinet, Christophe; Ecology. a6 (2): 682-640, Bidcode:2008)ApEe. 46. 630Wex. dor 0.1111), 1365-
+A.; Jorgensen, Morton; Olson, Paula Plana, Jordi; Tixier, Paul; Towers, Jared R. x 2664 2009.01647
+(August 7, 2010). "Observations ofa distinctive mrpholype of ile whale (OICMUS 55x oun, D.M.; Wills, 0.D. (298) “Aging. Advances Veterinary Science and n
+31." Baird 2002, 129. p. 151. 4 Timiras, Paola S. (2013). Physiological Basis of Aging and Geriatrics (Fourth ed.).
+J. E; E. 8886460 (POF). 32, Heyning, Dahiheim, M. (1988), “Orcinus orca" CRC Press. 161 p.
+Mammalian Species (304): 1-9. Bibcode:1988MamSp.304....1 Hi °# 152. “Orcas don't do well Here's why" 2. Animals. March 25, 2019. captivity. in
+2. on 31, doi:10.280718504225¢2. JSTOR 3504225 S2CID 2539141532. Archived from the Archived ttom ine onignalt+ dune 6, 2020, Retieved May 2020
+AUGUSE on cy orca) 98.4 “kiler Whale (Orcinus (PDF). Sea Watch Foundation. Retrieved A, A cl acident ler whale considered! dead. KING
+whale jest Southern Resident killer considered dead", ose
+« & 3, Archived from the original January 2017. Retrieved January 3, 2017. on sd. Webber, Mare A Jetterson, Thomas Alen; Piman, Robert Luly 28, 2015
+‘Webber, Mare Jefferson, Thomas Allen; Pitman, Rol July 2015). A; 28,
+). Ouly 155. * Podt, Annemieke (December 31, 2016). "Orca Granny: she really 105?" 2 was
+of Marine Mammals the World: A Comprehensive Guide Their Identification: to chess tom tha orignal October 15,2018, Reteued September 11,2017 an
+"Meet P 156. 4 Griffin, Brooke (January 31, 2025). ‘Ocean Sun’, the nearly 100-year-old .
+35. * Anderson, Robert; Waayers, Robyn; Knight, Andrew (August 2016). “Orca Behavior ‘Southern Resident Orca crowned oldest the world" 2. KIRO 7 News Seattle. in
+c2. . ° and Subsequent Aggression Associated with Oceanarium Confinement’ Animals. 6 Retrioved August 11, 2025
+0, Retrieved August 157, A"Meet the Southem Residents" Orca Conservancy. 11, 2025. :2. pwlib s7sa209
+pp. R.; O'Brien, Justine Robeck, 94 28 Todd Willis, Kevin; Scarpuzzi, Michael R.; K. 36, 8 Olsen, Ken (2006). “Orcas the edge", National Wii. Vol. 44, 0.6. 22-30. on
+29, “ PP onatosooes nen (September 2015). "Comparisons of life-history between free-ranging parameters IsoN
+. and killer whale (Orcinus orca) populations for application toward captive species
+of two 37. 4 Stewart, Doug (2001). "Tales orcas". National Wildife. Vol. 38, 1. 54~ no. pp. rahsgement's,doumal of Mannvaiogy 96 (6), 1085-1070
+Whale | & 38. 4 “Killer (Orcinus orca) U.S. Fish Wilde Service” c2, wnnufws.gov. the originale ono 23,2019
+: - Retrieved March 10, 2025.
+159. 6 Jett, John; Ventre, Jefirey (2016). “Captive killer whale (Orcinus orca) survival".
+Vancouver Aquarium. on April 8 40. 9 "Wild Whales", Archived from the original? 5, oud Lit iimms 12225
+For sa. nbn 000) ler We ner, Wan FMA PEM Ses aS 2005. 38 088248
+J, of Encyclopedia yewissen, Hans’ (eds.). Marine Mammals. Academic G. M.
+E. A. eee 162, 4 Mitchell, and Baker, N. (1980). Age of reputedly old Killer Whale, Orcinus orca, . eee
+eins » Eden, Twotold A. “Old Tom’ from Bay, Australia, W. F. Perrin and C. Myrick Jr (eds.} in: do neal bacanin 000
+& ‘ord, Elis Balcorn| P45. ‘Age determination of toothed whales and 143-154 Rep. Int. Whal. sirenians, pp. ;
+(Killer whale) @. 2, the 45." Orca American Cetacean Society Reieved January 2009 Comm. (Special Issue 3), cited Know Killer Whale 2, The Dolphin’s in
+p. 44.2? Hepiner etal, 1996, 681. Encyclopaedia. Retrieved January 27, 2010
+Peter F.; 45. “ Hepner al. 1996, 683. et p. 163. * Olesiuk, Ellis, Graeme M. and Ford, John K. B. (2005). Life History and
+46. ® Carwardine 2001, 30-22. pp. Population Dynamics of Northem Resident Killer Whales (Orcinus orca) British in
+i &4 47." "Killer Whales Adaptations for Aquatic Environment’ 2, Seaword.org. Columbia Archived an April 19, 2011, the Wayback Machine, Research — at
+‘Archived from the original September 4, 2013. Retrieved September 14, 2013. 7 on Document 2005/045, Canadian Science Advisory Secretariat, Fisheries and Oceans
+G. 48. 4 N.W. Kasting, S. A. L. Adderly,T. Safford, K. Hewiett (1989). "Thermoregulation Canada, 33. Retrieved January 27, 2010 p.
+e? Beluga (Delphinapterus luecas) and Killer (Orcinus orca) Whales" in 164, 4 How Southern Resident Killer Whales Identified Archived November 28, are
+M. P.; A.; 49. 9 Spencer, Gornall 3d, T Poulter, T. C. (1967). "Respiratory and cardiac 2009, at the Wayback Machine, Center for Whale Research, Retrieved March 23,
+activity ofkiler whales", Jounal of Applied Physiology. 22 (5): 974-981. 2012
+2. 2. J, Scullion. "Scottish Killer Whale Bibcode:1967JAPh...22..974S doi:10.1152/jappl.1967.22.5.974 165. 4 Andrew Photo Identification Catalogue 2021" 2
+50.“ Obee & Elis 1992, 1-27. pp. 166, 4 "Meet the Transient Orcas Bigg's Killer Whales | Our Wild Puget Sound” cz —
+whales’) (PDF). Estes, A.; | CBC ct. ot n James DeMaster, Douglas P; Doak, Daniel F: 167. 4" Hortfied’ first kiler whale infanticide News" Archived scientists to see
+Wiliams, Terrie M.; Brownell, Robert L. Jr. (eds.). Whales, whaling and ocean from the original March 22, 2018. Retrieved March 22, 2018. on
+Berkeley: University of California Press. 145-162. ISBN 978-0-520- ecosystems. pp. 19g, riper etranciac Oren feyindl almost 20 the Wash"? RBC News Janrany. in wears in
+& — Killer Wild 50.“ Obee Elis 1992, 1-27. pp. 166, 4 "Meet the Transient Orcas Bigg's Whales | Our Puget Sound” 2.
+&8 Estes, A.; | CBC ct. ot whales" (POF). In James DeMaster, Douglas P.; Doak, Daniel F; 167. 4" Hortfied’ first kiler whale infanticide News" Archived scientists to see
+Orca Berkeley: University of California Press. 145-162. ISBN 978-0-520- ecosystems. pp. 468, a Fist strancled found almost 20 the Wash". BBC News. January in years in
+f Archived 24884-7. (PDF) trom the original August 7, 2020. Retrieved on 14, 2020, Archived. from the original January 16, 2020 on
+52. * Carwardine 2001, 21. p. 170, 8 Carrington, Damian (September 27, 2018). "Orca ‘apocalypse’ hal of kler whales
+trom 53.4 Baird 2002, 128. p. doomed die trom pollution"c2. The Guaralan, Archived the original to on
+54. 4 Kwan, Jennifer (January 22, 2007). "Canada Finds Killer Whales Drawn Warmer to September 28, 2018. Retrieved September 28, 2018.
+Reuters, Archived on A; B; ‘Arctic. from the originale? August 17, 2017, 171. 4 Desforges, J-P; Hall, Mcconnell, al. (2018). "Predicting global killer whale et
+Resident Killer fj c2. 2 3. Research’ (PDF). 56. 4 "Southern Whale Northwest Fisheries Science hdl:10023/16189 Bibcode:2018Sci..261.1373D doi:10.1126/science.aat1953
+original Center, February 14, 2007 [October 2003}. Archived from the (PDF) on PMID 30262502:2. S2CID 5287631202.
+March 6, 2014. Retrieved January 26, 2010. 172. 4 Robbins, Jim (July 9, 2018). "Orcas of the Pacific Northwest Are Starving and
+57. A NMFS 2005, 24-29. pp. Disappearing’ zt. The New York Times. Archived from the original July 10, 2018. c2 on
+*4 © 59. “Killer whale (Orcinus orca)" NOAA Fisheries. Office of Protected c3. 173. Ford, Ellis & Balcomb 2000, 98. p.
+on 9, is 4@2 Resources, National Marine Fisheries Service, Archived from the original July 174, Lyke, ML. (October 14, 2008). "Granny's Struggle: When Granny wil gone,
+«2. 2017. Retrieved August 15, 2017. her be the last chapter?" Seattle Post inteligencer. Archived from the story
+88 61. * Ecology of Japanese Coastal Orcas Archived August 22, 2009, at the Wayback 175, Le Phuong. Researchers: 7 Orcas Missing from Puget Sound. Archived
+28, the Machine, Associated Today, Machine, sha-chijp. Retrieved February 17, 2010 October 2008, Wayback Press, USA October at
+after 62. 9 Ten Years Tai Orca Capture Archivedez March 1, 2014, at the Wayback 25, 2008
+*#4€4€f Machine, January 28, 2007. Iruka (dolphin) and Kujira (whale) Action Network (IKAN): 176. pickrell, John (March 2004). "U.S. Navy Sonar May Harm Killer Whales,
+Iruma, Saitama Prefecture, Japan. Retrieved February 17, 2010 Expert Says". National Geographic News. Archived from the original 2 on
+63. 4 “Orcinus Orca (Killer Whale)". Marinebio,org. Archived from the originalet September 9, 2011. Retrieved March 19, 2012. orca ~
+cz. July 1, 2012, Retrieved June 26, 2007. 177. 4 "Ottawa Sued Lack of Legislation Protect B.C. Killer Whales" CBC News, on to over
+9, 64. 4 NMFS 2008, 17. Cctober 2008. Archived from the original June 26, 2012, Retrieved March 19, p. on
+"Killer 2012 65. 4 Morell, Virginia (2011). Whales Earn Their Name". Science. 331 (6015): 274—
+3 e? PMD 2125232312. 179, Research Orcas Archived September 11, 2012, at archive today, Raincoast on
+R. et (2006). whales 66. * Baird, W.; al. “Killer Hawaiian information Research Society, Retrieved February 18, 2010 waters: in on
+fj habits" Population identity and feeding (PDF). Pacific Science. 60 (4): 523-530. 180. 8 McClure, Robert (October 2, 2003). "State Navy tests" 2. expert to stop urges sonar
+8. i hdl:10125/22585 Bibcode:2006PacSc..60..5238 £2, doi:10.1353/psc.2006.0024 «2. Seattle Post Inteligencer. Archived from the original October 4, 2012. Retrieved on
+@ Archived S2CID 16788148 c7. (POF) from the original October 23, 2017. june 25, 2007 on
+Retrieved October 23, 2017. 181, 4 Willams, Rob (2023). "Behavioural of male killer whales to responses a
+C. T.; C. vessel" (POF). Journal Cetacean 67. 4 Weir, R.; Colns, Carvalho, |; Rosenbaum, H. (2010). “Killer whales ‘leapfrogging’ of Research and Management. &
+waters, Africa" 2. &4 (PDF). Archived (PDF) (Orcinus orca) Angolan and Gulf of Guinea tropical West in (8): 805-810. doi:10.47536,jrm.vaia.844c7. S2CID 55958071
+Journal ofthe Marine Biological Association ofthe United Kingdom. 90 (8): 1601~ from the original March 6, 2014. Retrieved February 25, 2014. on
+<2 original S2CID 84721171 Archived from the (PDF) September 30, 2014 on Valde2" Wired, Archived? from the original January 6, 2010. Retrieved e. on
+68. ‘ Miler, Patrick James OMalley; Shapiro, Ari Daniel; Deecke, Volker Bert December 31, 2009.
+(November 2010). Progress ) "The diving behaviour of mammal-eating killer whales: 256:269" (PDF). original) variations 489, "Marine Ecology Series Archived trom the
+& factors” with ecological physiological (PDF). Canadian Journal of Zoology. 88 not (PDF) July 28, 2011. Retrieved December 31, 2009. on
+Retrieved the of time Elis 2000, 20, 2018. August 23, 2020. “Overall, whales 50% heir 8M spent 495, a Ford, & Balcomb 11. p.
+shallower and 9076 of their time 40 shallower” oF m or 186. 9 Gibson, Caitlin (December 5, 2023). "The call of Tokitae” The Washington Post. 2.
+R.; D.; Archived «from 5, 69. 4 Reisinger, Ryan Keith, Mark; Andrews, Russel de Bruyn, P. JN. (December the original December 2023. Retrieved December 10, 2023. on
+and kiler a & 2015). "Movement diving of whales (Orcinus orca) Southern Ocean at 187. » Rolimann, Hans (1998). Religion Newfoundland and Labrador Archived May in
+archipelago” 7. Journal of Experimental Marine Biology and Ecology. 473: 90-102. 4, 2009, at the Wayback Machine, Newfoundland and Labrador Heritage, Memorial
+«2. Bibcode:2015JEMBE.473..90R doit10.1016),jembe.2015.08,008:2. University of Newfoundland. Retrieved January 26, 2010
+3. hha:2263/49986 Archived from the original June 30, 2022. Retrieved on 188, 4 Tuck, James A. (1971)."An Archaic Cemetery Port Au Choix, Newfoundland!” at
+A; Amnould, P 70. * Towers, Jared R; Tixier, Paul; Ross, Katherine Bennett, John; John Y; s2cib 16239171502,
+Pitman, Robert L; Durban, John W; Northridge, Simon (January 2019).’Movemen's 159 x the oyphan boy with his 186 Rubcova, ES. (1954). Materials onthe sister, p. in
+ofa ICES and dive behaviour toothfish-depredating killer and whale" 2. Journal sperm Language and Folkiore ofthe Eskimoes, Vol. , Chaplino Dialect. Leningrad: Academy
+do:10.209a/cesimsisy1188. of Marie Science. 76 (1): 298-811. Pyyosa: of Sciences of the USSR. Original data: E.C. MaTepwansi no sasity
+8. hdl:10536/DRO/DU:30120094 S2CID 91256980. "The killer whale dove >750 m (vannwicil ponexnopy ananexr). Axajemun Hayx CCCP. Mocea- acrmmocos
+five while depredating (maximum: 1087 m), but these deep dives on occasions were onnrpan, 1984
+always followed by long periods (3.9-4.6 h) of shallow (<100 m) diving.” 190. 8 Menovshchikoy, G. A. (1962). Grammar of the language of Asian Eskimos. Vol. |.,
+71. 4 Hughes, Catherine D. (March 2014). "National Geographic feature" 2. creature 420,441, Moscow and Leningrad: Academy of Sciences of the USSR. Orginal pp.
+2, ‘Archived from the original June 2023. Retrieved July 25, 2007. on data: [. A. MevoBuynkos: pannarika acre nabka aaviarcKx sckamocos. nepBan.
+72. "NMFS 2008, 18. p. Axajemus Hayk CCCP. Mockea-flennurpag, 1962
+73. Simia,T; Ugate, F (1999). “Surface and underwater observations of cooperatWely 463. CuGupH rionnepyexa Spintualcuture subsection of pas xopeusen Haponoe -
+feeding killer whales Northern Nomway’. Canadian Joumal of Zoology. 74 (8): 1494 in the Eskimos the Suppor for Siberian Indigenous Peoples Rights". Gn page in nsuu
+2. 1499. Bibcode:1993CaJZ...71.1494S 2. doi:10.1139/293-210 Russian). Archived from the original: August 30, 2007. on
+fA. * nugnes, Catherine D. (March 2024). National Geographic crealure feature’ ©. USSR. 439, 441. Moscow and Leningrad: Academy of Sciences of the Original pp.
+Archived 2 from the original June 2, 2023. Retrieved July 25, 2007. on data: FA. MeHoauyioa: Tpammaruka UacTs aabika aavtarcKyx ackumocos. nepsaa,
+72. 4 NMFS 2008, 18. p. ‘Avaya Hay CCCP. Mockea-flennrpa, 1962
+73. Simi, T; Ugat,F (1893). "Surface and undenvater observations of cooperatively naB-royopmxa Cup 91 Spiual cule subsection of pas kopennswapopen
+whales (mn feeding kiler Northern Norway”. Canadian Joumal of Zoology. 74 (8): 1494- in the Eskimos inthe Suppor for Siberian Indigenous Peoples Rights". nsu.u page
+1499. Bibcode:1999CaNZ...71.1494S L. dot:10.1199/203-210¢2, Russian), Archived rom the eines August 30,2007 on
+Visser, N, (2006). Vajda, J. East Archived 74.4 Ingrid “Ftst Observations of Feeding Thresher (Alopias on *#® 192, Edward “Siberian Yupik (Eskimo)"ct. Asian Studies. from
+vulpinus) and Hammerhead (Sphyrma zygaena) Sharks by Killer Whales (Orcinus tho orga Octove 28, 2016, Revievea August 7, 2013 on
+orca) Specialising Elasmobranch Prey". Aquatic Mammals. 32 (1): 83-88. on °# 193. Kopanesa, pia & Borocnoackas, Moawuna (December 3, 2002). KusoTHbie
+(2. K B CaMBIX 7 (in Bibcode:2005AqMam..31...83V dol:10.1578/AM.31.1.2005.83(2. TeKcTaX Russian). 9x0 OTpakenne ux npuxona YenoBeky pasHbx
+“Kier Whale Mocks. Archived from 5, 75. Visser, Ingrid N.;Berghan, Jo; Meuts, Rinie; Fert, Dagmar (2000), van Apcesa, the original May 2008, Retrieved Apri 29, on
+(Orcinus orca) Predation Shortin Mako Shark (Isurus oxyrichus) New on a in 2008, A rato intervew with Rusclen selentste about and animal, exampies man
+fl Archived Zealand Waters’ (PDF). Aquatic Mammals. 26 (2): 229-231. (PDF) taken especial rom Asian Eskimos
+3, from the orginal January 26, 2012, Retrieved May 2014 on Lb) RHE ALCON Ce 5H), sos» MivanageT 2012),
+76.” Visser, Ingrid N. (1999). "Benthic foraging by kiler whales (Orcinus stingrays on ‘Asani Shimbun (h Japanese)
+orca) New Zealand waters”. Marine Mammal Science. 15 (1): 220-227. in 1095.»#° 4 One & Eis 1992, Chapter. pp
+T Machine (Latin), Bill Thayer's 1 Kock, A Me Ma As: 2020, at the Wayback LacusCurtius: Into the Roman in
+7. 8, by dot-10.1002/e0s2.2531 Bibcode:2019Ecosp..10E2531E translation Archived June 4, 2011, the Wayback Machine John Bostock and at
+78. 6 OSulvan, J B. (2000). "A fatal attack whale shark Rhincodon by killer typus, on a Henry Thomas Rey, 1858) Retieved February 19, 2010
+American whales Orcinus off Bahia de Los Angeles, Baja California". orca 197. 4 “Orca shares the with local surfer"c?. 3 News. September 12, 2008. Archived waves
+Society Elasmobranch 16th Annual Meeting, June 14-20, 2000. La Paz, B.C-S., from the original July 24, 2011. Retrieved October 13, 2011. :? on
+Journey Mexico. Archived rom te originale? February 28, 2010, Retrieved Febwuay 8, on 99 x chany-arara, Aeley (2008), The Wet inthe Worl: Antaetic1910-
+A; J; Los Angles 79, Pancald, Francesca; Ayres, Kathryn Gallagher, Austin Mosk, James; 109, nae eos ste Hom Suter uy’ Times, MONTEREY UPI
+tom Wiliamson, Kelsey C.; Higuera Rivas, Jests Erick (November 29, 2024, “Killer say 11 u97% sueneses te ongaon rena 2024 Rettevea
+whales (Orcinus orca) hunt, kl and the largest ish Earth, the whale consume on Nien sd cose
+shark (Rhincodontypus). Frontiers Marine Science. 11 1448254, in
+200-80 Surv bump om Kler whale. The Seale Ties. The Associated Press taansans, secede eeoer a araesheeh torte setae aa ISSN 2299.
+‘August 18, 2005. Archived? from the orginal Apri 2, 2011. Retrieved January 3, on shee
+2010 D. 80. Pyle, Peter; Schramm, Mary Jane; Keiper, Carol; Anderson, Scot (1999).
+(2. 201. A "Scientists puzzled by Oreas sinking Boats of abnormal attacks" string are ina
+“Predation white shark (Carcharodon carcharlas) by kller whale (Orcinus orca) on a a oe he, ay oa cate cheeses onal ay a cave Rennes
+fi and possible of displacement’ (PDF). Marine Mammal Science. competitive a case shy 2028
+killer whale out 202, A"Gladis the and her of for revenge" 2. The Independent. gang orcas graf 76021960 900822 13 Arched om re POF Mare 22,2012 on
+May 29, 2023. Archived from the original June 20, 2023, Retrieved July 5, 2023. on retieves apn 28 20.8
+203° Dean, Pandora June 9,202) "Ores fed destoyng ship's udder shocking n oa, n ater Vig Achy November 3, 2029, “FustEver Footage Shows Kier Wnaes
+Newsweek. clip: “Surrounded” "2. Archived from the original July 6, 2023. on ‘Attacking Great White Shark Nursery”. Scientific American. Springer Nature.
+Retrieved July 5, 2028, Retrieved December 10, 2025.
+204. * Hoare, Philip; Hoskendjky Jeroen (June 21, 2028). 'Orea yacht off into rams 82. 4 Heithaus, Michael (2001). "Predator-prey and between compettve interactions
+f2 Shetland first such incident northem The Guardian. ISSN 0261- waters" 2. in in review’ (PDF). sharks (order Selachii) and dolphins (suborder Odontoceti) a
+on deters orcas Practical Boat 205: "Shtinkng sand aocording Cruising Associaton, to ®DF) derto 101713008283500100006! e.Arcived rom the orginal January
+Archived from 4, July COumer. June 19, 2023. the orginal July 2023. Retrieved 4, on ts 2016, Retroved Janay 1, 2010,
+"killer whales 2028. 83. Jorgensen, S. J.; al. (2019). redistribute white shark foraging et
+killer 706: * Crisp, James (May 27, 2028). "Sailors have whale to stop a new way seals” Scientific Reports. 9 (1) 6153. Bibcode:2019NatSR...9.61532. ct. pressure on
+>, Archived? attacks", The Telegraph. ISSN 0307-12352. from the original July 4, on 9, tokio soasieti599-010.369%6.24 Pale sasroe2 pub 20902478
+4, Kock, AA; Y; 2028, Retrieved July 2028. 84. 4 Towner, AV; Watson, RGA; Papastamatiou, Sturup, M; Gennari, E;
+& "Fear a off — 207 Soot Neuman (May 15,2024, "Orcas sank yacht Spain the ltestin slw a Bator €, Sooty 7 Dioken Mt Chive, W: Enon (ar 2022) stine op:
+of such ‘attacks’ NPR. Archived. from the original July 8, 2023. recent years”, in on killer whale predation drives white shark absence South Aftica’s largest at aggregation
+Retrieved May 16, 2024. 2. African Journal of Marine Science. 44 (2): 139-152. site"
+Killer Attacks 7. ABC 2. (2. *45 208. "ABC News: Whale SeaWorld Trainer’ News. November Bibcode:2022A1JMS..44..139T doi:10.2989/1814232X.2022.2066723
+30, 2008, Archived from the original February 28, 2010. Retieved January 3, on IGGN eia232%7, SoCID 250110179.
+2010, *#5 64 a5. Welter, D. W. (2009). "Predation mammals”. In Perrin, William F.; on marine
+Archived the 208: "SeaWord kiled by ler whale" Api’, 2010, Wayback rane at Wursig, Bema: Thewssen, 2.6. M, Hare (eds), Eroyetopeca or Marne Mammaxs,
+Machine, CNN, February 25, 2010, Retrieved September 9, 2010 ‘Academie Press. 827.980, ISBN 978.0-08.991003.5, pp.
+A; 210. NMFS 2005, 41. p. 86. Selbmann, et al. (2022) "Occurrence of long-finned pllt whales (Globicephala
+Killer Whales Naval Aviation whales 211. 4 Destroyed: VP-7 Accomplishes Special Task, News, ‘metas) and killer (Orcinus orca) Icelandic coastal and their waters in
+ct December 1956, 19. Reproduced Longevity and Causes of Death Archived? at p. interspecific interactions", Acta Ethol. 2 (8) 141-164, doi:0.1007/s10211-022-
+June 19, 2010, a the Wayback Machine, SeaWorld/Busch Gardens ANIMALS. 9170859.3, 0384-117. PMC PMID a5sedss21, S2CID 2404878071.
+Retrieved January 11, 2010 87. Samarra, Fipa (2018). "Prey of kiler whales (Orcinus orca) leelan PLOS 2, in
+212, A"Naval Wat Declared Against Killer Whales. The Science News-Letter. 69 (24: ONE 13 (12) 6 Sivcode:2018L0S0.1307287S¢2
+213, 4 Schevil, Wiliam; Watkins, Willam (Summer 1966). “Sound Structure and pip 2084076202,
+whale)". of Killer Directionality Orcinus (killer Zoologica. 54 (2). New York Zoological in 88. * Kiszka, Jeremy (2021). "Feeding Ecology Elusive Caribbean Whales
+Society: 71-76, Inferred From Bayesian Stable Isotope Mixing Models and Whalers’ Ecological
+8 a 214, Newman, Murray; MoGeer, Patrick (Summer 1966). “The Capture and Care of Knowledge". Frontiers Marine Science. 648421. in
+Killer Whale, Orcinus British Columbia". Zoologica. 51 (2). New York a. orca, in Dibendemopiniaine. eteartic.n doi s28e/imars 2021 eana>1
+213. 4 Schevill, Wiliary; Watkins, Wiliam (Summer 1966). "Sound Structure and PMID 30540762¢2.
+Directionality Orcinus (killer whale)". Zoologica. 51 (2). New York Zoological in 88. * Kiszka, Jeremy (2021). "Feeding Ecology of Elusive Caribbean Killer Whales
+c2, Killer Whale, Orcinus British Columbia”. Zoologica. 51 (2). New York 3. orca, in Bibcode:2021FrMaS...848421K doi:10.2389/Imars.2021.648421
+Zoological Society: 59-70. 89, 8 Gonzalez-Pestana, Adriana (2019). "Killer whale (Orcinus Orea) and occurrence
+215. * Francis & Hewlett 2007, 58-59. pp. interactions with mammals off Peru". Pacific Science. 73 (2): 262-273. marine
+J. 217. 4 Heimlich & Boran 2001, 11. 90. 4 Totterdell, A; Wellard, R.; Reeves, |. M.; Elsdon, B.; Markovic, P.; Yoshida, M.: p.
+A.; 218. * Wood, Daniel (February 24, 2010). "Death of Sea World Do ‘killer whales’ trainer: Fairchild, Sharp, G.; Pitman, R. (2022). "The first three records of killer whales
+belong theme parks?" The Christian Science Monitor. Archived from the cx. 2 (Orcinus orca) kiling and eating blue whales (Balaenoptera musculus)". Marine in
+original May 13, 2012. Retrieved March 19, 2012. Mammal Science. 38 (8): 1286-1301. Bibcode:2022MMamsS..38.1286T 2. on
+12. doi:10.111 L/mms.12906 S2CID 24616767312 219, § Movie-Star Whale Keiko Dies of Pneumonia. Archived? June 7, 2020, the at
+Whale Wayback Machine Associated Press. Published December 13, 2003. Retrieved June 91. 4 Pitman, Robert L.; al. (2001). "Killer Predation Sperm Whales: et on
+@. Implications” 7, 2020. Observations and Marine Mammal Science. 17 (3): 494-507.
+2. Bibcode:2001MMamS..17..494P dot:10.1111/.1748-7692.2001.1b01000.x«2. 220. 4 “Orphaned orca's with family celebrated" 2. Canadian Broadcasting reunion
+‘Archived. from the original December 11, 2015. Retrieved February 25, 2014. Corporation. July 13, 2007. Archived « fram the original November 6, 2015. on on
+Retrieved November 6, 2007. 92. 4 Pitman, Robert L. (2016). "Humpback whales interfering when mammal-eating killer
+whales attack other Mobbing behavior and interspecific altruism?" Marine 221.8 McClure, Robert (March 11, 2006). "Luna the killed by tugboat Seattle 2. ct. species: orca
+Mammal Science. 33: Hearst Corporation. c2 from doi:10.1111/mms.123439. 7-88. Post-intelligencer. Seattle, Washington: Archived the
+original August 11, 2011. Retrieved April 8, 2009. 93. 4 Estes, James (February 26, 2009). "Ecological effects of mammals" 2. In on marine
+ATER MP AEB, SITE ERVNNAEIR iy Perrin, William F. (ed.). Encyclopedia of Marine Mammals. Wursig, Bernd & 222, A (2)- 19. F Orcinus orca 2 -
+2 ‘Archived ‘Archived from the original May 9, 2016. Retrieved December 30, 2015. (PDF) from the original July 17, 2015. Retrieved January 14, 2015. ct on on
+it FEB) 95. 4 Carwardine 2001, 29. 224, 9 (in Japanese). Osaka College of Eco & Animals. 2011. Archived p. s+
+*8 from the original December 24, 2014, Retrieved December 24, 2014. 96. Baird 2002, 61-62. on pp.
+228. *“Stranding Base (1901-2012) for Hyogo Prefecture". The Whale Laboratory of 97. 4 Pitman, R. L.; Durban, J. W. (2011). "Cooperative hunting behavior, selectivity prey
+Shimonoseki. 2014, Archived from the original December 24, 2014. Retrieved and handling by pack killer whales (Orcinus orca), B, Antarctic, type on prey ice in
+@. waters" December 24, 2014. Peninsula Marine Mammal Science. 28 (1): 16-36. doi:10.1111/.1748-
+7692.2010.00453.x.2. Archived from the original August 2, 2023. Retrieved 226, 4“Stranding Date Base (1901-2012) for Chiba Prefecture” The Whale Laboratory c2 cz. on
+July 27, 2023, of Shimonoseki. 2014, Archived from the original January 9, 2015. Retrieved c* on
+January 9, 2015. 98. 4 Visser, Ingrid N.; Smith, Thomas G.; Bullock, lan D.; Green, Geoffrey D.; Carlsson,
+killer whales Z.; A. of Olle G. L.; Imbert, Santiago (2008). "Antarctic peninsula (Orcinus orca) ‘227. A Kalya, Leatherwood, S.; Jefferson, T. (1995). "Records Small Cetaceans in
+on a) Mammal Science. ice” f&) hunt seals and floating (PDF). Marine 24 (1) Chinese Waters: A Review’ (PDF). Asian Marine Biology. 12: 119-139. a penguin
+2. ‘Archived 225-234. Bibcode:2008MMamS..24..225V doi:10.1111.1748- (PDF) from the original July 17, 2015. Retrieved December 24, 2014. on
+2 original 7692.2007.00163.x Archived from the (PDF) May 31, 2011. <2. 228. 4 Kaiya, Z.; Leatherwood, S.; Jefferson, A. T: (2002), Perrin F. W.; Reeves R. R.; Dolar on
+A. 99. 4 Pinell, Nadine, et al, “Transient Killer Whales Culprits the Decline of Sea Otters L. LM, Jefferson T.; Marsh H.: Wang ¥, J.; Estacion J. (eds.). “Report of the in —
+Western Alaska? Archived June 30, 2017, the Wayback Machine” B.C. ‘Second Workshop The Biology and Conservation of Small Cetaceans and at in on
+fa Asia" Cetacean Sightings Network, June 1, 2004. Retrieved March 13, 2010 Dugongs of South-East (PDF). CMS Technical Series Publication N° 9 at
+original) *# ‘Convention Migratory Species. Archived from the (PDF) March 4, 100. Baird 2002, 23. on on p.
+(7 2016. Retrieved December 24, 2014. 101. 4 Killer Whales Develop Taste For Sea Otters Archived (* November 7, 2015, at a
+*®® 229. Reeves, Randall; Whitehead, Hal (2008). “Killer whales and whaling: the the Wayback Machine Ned Rozell, Article #1418, Alaska Science Forum, December
+Biology Letters. hypothesis’. 1 (4): 415-418, 10, 1998. Retrieved February 26, 2010 scavenging
+2. g. 1626385 Bibcode:2005BiLet...1..415W (2. doi:10.1098/rsbl.2005.0348 PMC 102. Springer, A. M. (2003). "Sequential megafaunal collapse the North Pacific Ocean: in
+eZ. PMID 17148221 2. ‘An legacy of industrial whaling?" Proceedings of the National Academy of ongoing
+1 230. "Home" Be Whale Wise. Archived from the original October 31, 2019. 2. 2 Sciences. 100 (21): 12223-12228, Bibcode:2003PNAS. 100122238 on
+A.; 6@5¢4 231, Lachmuth, Cara L.; Barrett-Lennard, Lance G.; Steyn, D. Q.; Milsom, Wiliam 103. * Demaster, D.; Tries, Clapham, P.; Mizroch, S.; Wade, P.; Small, R.; Hoef, J.
+K. (April 2011). "Estimation of southern resident killer whale to exhaust (2006). "The sequential megafaunal collapse hypothesis: Testing with existing data’ exposure
+from whale-watching vessels and potential adverse health effects and Progress Oceanography. 68 (2-4): 329-342. Bibcode:2006PrOce..68..329D 2. emissions in
+toxicity thresholds". Marine Pollution Bulletin. 62 (4): 792-805. doi:10.1016), pocean.2006.02.007 2.
+PMID 21276987 «2. of mammal population deciines southwest Alaska: food- consequences marine in a
+2. 232, “Boats Maintain Greater Distance from Killer Whales | Whales online” Baleines ‘web perspective" Philosophical Transactions of the Royal Society B: Biological to c.
+233, NMFS 2005, 43-44, 105. 4 Baird, Robert W.; Baird, Robin W. (August 31, 2006). Killer Whales of the Worl pp.
+Natural History and Conservation Voyageur Press. 23-. ISBN 978-0-7603- 234, 4 Rose, N.A. (2011). “Killer Controversy: Why Orcas Should No Longer Be Kept «. pp. in
+Captivity”) 2654-1, Archived from the original July 21, 2011. Retrieved February 2, 2011. (PDF). Humane Society International and the Humane Society of the on
+f3) Archived United States. (PDF) from the original December 30, 2017. Retrieved 4108. Baird 2002, 124. on p.
+fj captivity’ 235, "Orcas (PDF). Whale and Dolphin Conservation Society. Archived in 108. © Chung, Emily (February 18, 2019). “Killer whales dolphins. So why these eat are
+lj original from the (PDF) July 6, 2010. Retrieved January 26, 2010. on dolphins fate?" &. CBC News. Archived? from the original August 7, tempting on
+236, 4 “Blackfish” Rotten Tomatoes. Archived from the original November 21, 2. c? 2028. Retrieved August 7, 2023. on
+2013, Retrieved November 23, 2013. 109. 4 Pitman, R. L.; Durban, J. W. (2010). “Killer whale predation on penguins in
+American (2. 237. § Zimmerman, Tim (2011). "The Killer the Pool". The Best Sampler 2011. Antarctica”. Polar Biology. 33 (111): 1589-1594. Bibcode:2010PoBio...33.1589P in
+(7 237. A Zimmerman, Tim (2011). "The Killer the Pool”. The Best American Sampler 2011. Antarctica’, Polar Biology. 33 (11): 1589-1594, Bibcode:2010PoBio,.33.1589P in
+238. 4 "Corpse Is Found Whale" z2. The New York Times. July 7, 1999. Archived from 110. 4 Baird 2002, 14. on p.
+2. the original June 13, 2012. Retrieved September 11, 2011. 111. 4 "Whale fish bait catch seagulls then shares with fellow orcas" on to strategy uses as
+239, A "SeaWorld End Controversial Orca Shows and Breeding’ National Geographic ‘Associated Press. September 7, 2005, Archived from the original March 22, to 2. 2 on
+‘News. March 17, 2016. Archived from the original April 20, 2016. Retrieved c? 2010. Retrieved February 18, 2010. on
+«240. ® Gulion, John (February 4, 2024). "The Surprising Reason SeaWorld Still Has 113. 4 Connelly, Laylan (July 30, 2019). "Videos show kiler whales frantically hunting for
+reas, Years After Blackfish". Archived? from the original June 15, 2025, dolphins off San Clemente" The OCR. Archived? from the original December on ez. on
+Retrieved July 24, 2026. 10, 2019. Retrieved November 24, 2019.
+Works cited
+2. Baird, Robin (2002). Killer Whales of the World Stillwater, W. MN.: Voyageur Press. ISBN 978-0-7603-2654-1. *
+Carwardine, Mark (2001). Killer Whales London: Worldwide. 2. BBC ISBN 978-0-7894-8266-2. *
+2. 2. Ford, John (2002). "Killer Whale" Encyclopedia of Mammals Academic K. B. Marine Press. 669-675. ISBN 0-12-551340-2. pp. *
+Ford, John Ellis, Baloomb, Kenneth (2000). Killer Whales (Second ed.). K. B.; Graeme M.; C. & Vancouver, BC: UBC Press. ISBN 978-0-7748-0800-2. *
+z. Ford, John Ellis, (2006). "Selective foraging by fish-eating killer whales British Columbia" Ecology K. B.; Graeme M. Orcinus Marine Progress Series. 316: orca in *
+Daniel; Hewlett, Gil (2007). and the Struggle Killer Whales. Madeira Park, Harbour Publishing. Francis, Operation Orca: Springer, Luna to Save West Coast B.C.: *
+978-0-89658-545-4 [permanent dead link] Heimlich, (2001). Killer Whales. Stillwater, Sara; Boran, James MN: Voyageur Press. ISBN *
+Nasimovich, Bannikov, Hoffmann, Robert (1996). Mammals of the Vol. Washington Smithsonian Heptner, V. G.; A. A.; A. G.; S. Soviet Union 2. II, part 3. D.C.: *
+Libraries and National Foundation. Institution Science ISBN 978-1-886106-81-9.
+2 orca)" (2005). Plan for Southern Resident Killer Whales (Orcinus Seattle, National Fisheries (NMFS) Northwest NMFS "Conservation U.S.: Marine Service (PDF). #
+{& original Regional Office. Archived from the Retrieved June 26, 2008. January 2, 2009. (PDF) on
+Obee, Ellis, (1992). Elaine (ed.). Guardians of the Whales: The Study Whales the Wild. North British Columbia: Whitecap Bruce; Graeme Jones Quest to Vancouver, in *
+Further reading
+7. Hoyt, Erich (August 1984). “The Whales Called "Killer", National Geographic. Vol. 166, 2. 220-237. ISSN 0027-9358 OCLC 643482454.. «© no. pp.
+é, Publishing Hoyt, Erich (1998), Orca: The Whale Called Killer Camden House Camden House, ISBN 978-0-920856-25-9 ‘©
+« Biology of Killer Kirkevold, B. C.; Lockard, J. S. (1986). Behavioral Whales. Alan R. Liss Inc. ISBN 978-0-8451-3100-8
+External links
+Archived the Wayback Machine Johnstone British Columbia Orca-Livet? & August 15, 2000, Oreas Strait, at in * —
+Salish Hydrophone Network? Archived July the Wayback Machine live Washington the free dictionary. Sea 9, 2013, Listen at to orcas in * ei —
+State, U.S.
+Wikisource has the text of the Z=>
+whales wile Keep «
+2 ca Boren arcs Cram PIS Why called killer whales? Archived February the Wayback Machine, HowStuffWorks.com, article by 7 19, 2023, at are orca *
+Jacob Silverman Listen to this article (1 hour and 0 minutes)
+- (Killer the Sounds of the Whale) Voices Sea Orea 2 in *
+devours white shark Archived? Api’, athe Wayback Machine ofa 2012, great +
+Dolphins (Caught Drone) Archived March the Wayback Machine, off the of Orcas Preying On On 17, 2021, at coast # “Tis audio fle crested trom was a
+Ss Clemente San ofthis article dated revision
+25 July 2025, and does not reflect Whales? Archived April the Wayback Machine Orcas Sperm 24, 2020, at vs *
+subsequent edits Watch: Killer Whales Charge Blue Whale (Rare Footage) Archived November the Wayback Drone & 16, 2019, at #
+- (Audio help More spoken articles) Machine | National Geographic
+identifiers Taxon
+“ ‘Authority control databases Ishow]
+Fauna that | | | | Red data deficient listed Appendix Cosmopolitan mammals Animals echolocation Categories: IUCN List CITES II Orcas species on use
+| | Mammals described Animal named by Carl 1758 taxa Linnaeus in
+This last edited 12 January 2026, 14:59 (UTC). at page was on

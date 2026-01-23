@@ -1,0 +1,1009 @@
+<!-- MODALITY: IMAGE
+METADATA: {
+  "path": "data\\image\\002_Colossal-squid.png",
+  "file_size": 2585498,
+  "image_width": 1280,
+  "image_height": 7124,
+  "ocr_engine": "tesseract",
+  "ocr_lang": "eng",
+  "tesseract_cmd": "C:\\Program Files\\Tesseract-OCR\\tesseract.exe",
+  "config": "--oem 3 --psm 6",
+  "min_line_conf": 30.0,
+  "line_count": 319,
+  "overall_bbox": [
+    11,
+    110,
+    1260,
+    7057
+  ],
+  "regions": [
+    {
+      "bbox": [
+        32,
+        110,
+        1240,
+        152
+      ],
+      "avg_conf": 45.666666666666664
+    },
+    {
+      "bbox": [
+        37,
+        137,
+        359,
+        161
+      ],
+      "avg_conf": 52.6
+    },
+    {
+      "bbox": [
+        28,
+        189,
+        353,
+        198
+      ],
+      "avg_conf": 72.66666666666667
+    },
+    {
+      "bbox": [
+        57,
+        189,
+        370,
+        215
+      ],
+      "avg_conf": 78.66666666666667
+    },
+    {
+      "bbox": [
+        28,
+        196,
+        291,
+        227
+      ],
+      "avg_conf": 50.5
+    },
+    {
+      "bbox": [
+        28,
+        228,
+        419,
+        245
+      ],
+      "avg_conf": 91.14285714285714
+    },
+    {
+      "bbox": [
+        27,
+        267,
+        447,
+        284
+      ],
+      "avg_conf": 93.55555555555556
+    },
+    {
+      "bbox": [
+        28,
+        299,
+        1164,
+        315
+      ],
+      "avg_conf": 84.89473684210526
+    },
+    {
+      "bbox": [
+        201,
+        313,
+        1172,
+        335
+      ],
+      "avg_conf": 84.04166666666667
+    },
+    {
+      "bbox": [
+        28,
+        336,
+        1235,
+        363
+      ],
+      "avg_conf": 82.12
+    },
+    {
+      "bbox": [
+        28,
+        359,
+        1245,
+        385
+      ],
+      "avg_conf": 85.61538461538461
+    },
+    {
+      "bbox": [
+        28,
+        377,
+        1218,
+        393
+      ],
+      "avg_conf": 74.5
+    },
+    {
+      "bbox": [
+        28,
+        396,
+        1141,
+        420
+      ],
+      "avg_conf": 84.04347826086956
+    },
+    {
+      "bbox": [
+        28,
+        411,
+        1226,
+        441
+      ],
+      "avg_conf": 78.0909090909091
+    },
+    {
+      "bbox": [
+        28,
+        437,
+        1180,
+        454
+      ],
+      "avg_conf": 83.42857142857143
+    },
+    {
+      "bbox": [
+        28,
+        456,
+        1212,
+        477
+      ],
+      "avg_conf": 79.1304347826087
+    },
+    {
+      "bbox": [
+        202,
+        481,
+        1190,
+        499
+      ],
+      "avg_conf": 93.875
+    },
+    {
+      "bbox": [
+        27,
+        505,
+        1239,
+        529
+      ],
+      "avg_conf": 81.81481481481481
+    },
+    {
+      "bbox": [
+        201,
+        527,
+        1220,
+        545
+      ],
+      "avg_conf": 82.35
+    },
+    {
+      "bbox": [
+        28,
+        539,
+        1201,
+        564
+      ],
+      "avg_conf": 71.625
+    },
+    {
+      "bbox": [
+        28,
+        558,
+        1206,
+        582
+      ],
+      "avg_conf": 86.41666666666667
+    },
+    {
+      "bbox": [
+        28,
+        575,
+        1195,
+        596
+      ],
+      "avg_conf": 71.43478260869566
+    },
+    {
+      "bbox": [
+        28,
+        598,
+        1243,
+        626
+      ],
+      "avg_conf": 78.27586206896552
+    },
+    {
+      "bbox": [
+        995,
+        620,
+        1142,
+        645
+      ],
+      "avg_conf": 94.0
+    },
+    {
+      "bbox": [
+        28,
+        637,
+        423,
+        655
+      ],
+      "avg_conf": 80.75
+    },
+    {
+      "bbox": [
+        999,
+        653,
+        1144,
+        667
+      ],
+      "avg_conf": 69.5
+    },
+    {
+      "bbox": [
+        28,
+        668,
+        293,
+        680
+      ],
+      "avg_conf": 82.66666666666667
+    },
+    {
+      "bbox": [
+        36,
+        673,
+        1172,
+        693
+      ],
+      "avg_conf": 66.33333333333333
+    },
+    {
+      "bbox": [
+        24,
+        678,
+        1037,
+        710
+      ],
+      "avg_conf": 56.285714285714285
+    },
+    {
+      "bbox": [
+        28,
+        705,
+        1156,
+        724
+      ],
+      "avg_conf": 74.33333333333333
+    },
+    {
+      "bbox": [
+        236,
+        721,
+        1163,
+        752
+      ],
+      "avg_conf": 83.5
+    },
+    {
+      "bbox": [
+        28,
+        749,
+        1148,
+        771
+      ],
+      "avg_conf": 73.57142857142857
+    },
+    {
+      "bbox": [
+        236,
+        779,
+        1204,
+        788
+      ],
+      "avg_conf": 82.0
+    },
+    {
+      "bbox": [
+        23,
+        779,
+        1211,
+        811
+      ],
+      "avg_conf": 67.2
+    },
+    {
+      "bbox": [
+        27,
+        804,
+        1162,
+        821
+      ],
+      "avg_conf": 65.2
+    },
+    {
+      "bbox": [
+        236,
+        825,
+        1171,
+        845
+      ],
+      "avg_conf": 52.4
+    },
+    {
+      "bbox": [
+        24,
+        834,
+        1120,
+        865
+      ],
+      "avg_conf": 55.8
+    },
+    {
+      "bbox": [
+        1074,
+        857,
+        1173,
+        868
+      ],
+      "avg_conf": 95.5
+    },
+    {
+      "bbox": [
+        29,
+        870,
+        1218,
+        885
+      ],
+      "avg_conf": 72.5
+    },
+    {
+      "bbox": [
+        24,
+        878,
+        1144,
+        918
+      ],
+      "avg_conf": 67.0
+    },
+    {
+      "bbox": [
+        28,
+        903,
+        1148,
+        929
+      ],
+      "avg_conf": 72.0
+    },
+    {
+      "bbox": [
+        11,
+        930,
+        1234,
+        956
+      ],
+      "avg_conf": 55.875
+    },
+    {
+      "bbox": [
+        28,
+        951,
+        1241,
+        970
+      ],
+      "avg_conf": 72.66666666666667
+    },
+    {
+      "bbox": [
+        28,
+        967,
+        1247,
+        999
+      ],
+      "avg_conf": 68.8
+    },
+    {
+      "bbox": [
+        27,
+        1003,
+        1245,
+        1027
+      ],
+      "avg_conf": 73.125
+    },
+    {
+      "bbox": [
+        27,
+        1010,
+        1241,
+        1056
+      ],
+      "avg_conf": 58.333333333333336
+    },
+    {
+      "bbox": [
+        209,
+        1048,
+        274,
+        1057
+      ],
+      "avg_conf": 90.0
+    },
+    {
+      "bbox": [
+        92,
+        1089,
+        313,
+        1105
+      ],
+      "avg_conf": 57.8
+    },
+    {
+      "bbox": [
+        209,
+        1116,
+        302,
+        1125
+      ],
+      "avg_conf": 86.0
+    },
+    {
+      "bbox": [
+        202,
+        1171,
+        353,
+        1190
+      ],
+      "avg_conf": 48.0
+    },
+    {
+      "bbox": [
+        201,
+        1206,
+        1254,
+        1220
+      ],
+      "avg_conf": 92.82758620689656
+    },
+    {
+      "bbox": [
+        201,
+        1225,
+        1218,
+        1242
+      ],
+      "avg_conf": 87.28571428571429
+    },
+    {
+      "bbox": [
+        202,
+        1251,
+        1254,
+        1265
+      ],
+      "avg_conf": 95.07142857142857
+    },
+    {
+      "bbox": [
+        201,
+        1270,
+        1199,
+        1287
+      ],
+      "avg_conf": 86.8
+    },
+    {
+      "bbox": [
+        202,
+        1302,
+        943,
+        1316
+      ],
+      "avg_conf": 92.27777777777777
+    },
+    {
+      "bbox": [
+        202,
+        1322,
+        970,
+        1339
+      ],
+      "avg_conf": 92.56521739130434
+    },
+    {
+      "bbox": [
+        201,
+        1344,
+        439,
+        1362
+      ],
+      "avg_conf": 70.83333333333333
+    },
+    {
+      "bbox": [
+        201,
+        1377,
+        912,
+        1391
+      ],
+      "avg_conf": 91.05
+    },
+    {
+      "bbox": [
+        202,
+        1302,
+        943,
+        1316
+      ],
+      "avg_conf": 91.33333333333333
+    },
+    {
+      "bbox": [
+        202,
+        1322,
+        970,
+        1339
+      ],
+      "avg_conf": 92.56521739130434
+    },
+    {
+      "bbox": [
+        202,
+        1396,
+        1085,
+        1413
+      ],
+      "avg_conf": 47.0
+    },
+    {
+      "bbox": [
+        202,
+        1414,
+        1103,
+        1467
+      ],
+      "avg_conf": 59.4
+    },
+    {
+      "bbox": [
+        201,
+        1473,
+        1142,
+        1498
+      ],
+      "avg_conf": 87.33333333333333
+    },
+    {
+      "bbox": [
+        201,
+        1495,
+        1161,
+        1534
+      ],
+      "avg_conf": 86.1
+    },
+    {
+      "bbox": [
+        202,
+        1522,
+        1186,
+        1538
+      ],
+      "avg_conf": 90.95238095238095
+    },
+    {
+      "bbox": [
+        201,
+        1539,
+        1209,
+        1563
+      ],
+      "avg_conf": 81.85
+    },
+    {
+      "bbox": [
+        202,
+        1566,
+        1182,
+        1583
+      ],
+      "avg_conf": 80.25
+    },
+    {
+      "bbox": [
+        202,
+        1591,
+        937,
+        1605
+      ],
+      "avg_conf": 94.21052631578948
+    },
+    {
+      "bbox": [
+        201,
+        1611,
+        1236,
+        1630
+      ],
+      "avg_conf": 86.3076923076923
+    },
+    {
+      "bbox": [
+        202,
+        1659,
+        325,
+        1676
+      ],
+      "avg_conf": 56.5
+    },
+    {
+      "bbox": [
+        1004,
+        1672,
+        1247,
+        1686
+      ],
+      "avg_conf": 94.83333333333333
+    },
+    {
+      "bbox": [
+        202,
+        1701,
+        312,
+        1716
+      ],
+      "avg_conf": 81.5
+    },
+    {
+      "bbox": [
+        201,
+        1734,
+        962,
+        1748
+      ],
+      "avg_conf": 90.14285714285714
+    },
+    {
+      "bbox": [
+        202,
+        1754,
+        1159,
+        1771
+      ],
+      "avg_conf": 85.9
+    },
+    {
+      "bbox": [
+        201,
+        1778,
+        1177,
+        1793
+      ],
+      "avg_conf": 90.89473684210526
+    },
+    {
+      "bbox": [
+        201,
+        1799,
+        971,
+        1816
+      ],
+      "avg_conf": 87.85
+    },
+    {
+      "bbox": [
+        201,
+        1821,
+        1068,
+        1838
+      ],
+      "avg_conf": 82.44444444444444
+    },
+    {
+      "bbox": [
+        202,
+        1846,
+        974,
+        1860
+      ],
+      "avg_conf": 94.52631578947368
+    },
+    {
+      "bbox": [
+        1039,
+        1861,
+        1210,
+        1869
+      ],
+      "avg_conf": 79.0
+    },
+    {
+      "bbox": [
+        202,
+        1866,
+        1222,
+        1890
+      ],
+      "avg_conf": 88.14285714285714
+    }
+  ],
+  "slicing": {
+    "enabled": true,
+    "slice_height": 1400,
+    "slice_overlap": 120,
+    "num_slices": 6
+  },
+  "note": "OCR text extracted from screenshot; regions include bbox + confidence.",
+  "skipped_ocr": false,
+  "cache_path": ".ocr_cache\\002_Colossal-squid.ad6e48b7eb317fc9.ocr.json"
+}
+-->
+
+-Sa Celebrating 25 years J
+Main A page
+Colossal squid cs
+The colossal squid (Mesonychoteuthis hamiltoni) of large squid belonging the family Cranchiidae, to is a species very —s -
+cate SELL that of the cockatoo squids glass squids. called the Antarctic cranch squid giant squid (not be It sometimes to or is or
+SEUIcELe mass. Sle” confused with the squid Architeuthis) and believed be the largest squid of itis giant to terms in genus is species in _
+Help > “1 a the only recognized member of the Mesonychoteuthis genus =
+The confirmed reach of least kilograms (1,091 Ib), though the largest specimens—known only to at 495 species is a mass excunyae — -
+FS Sx Ib),!51l6 _—— from beaks found whale stomachs—may perhaps weigh much kilograms (1,300-1,500 600-700 in sperm as as Recent changes *
+CR oriDenir ue Special however, these include the feeding tentacles measured dead life the squid’s tentacles hidden, only pages In on specimens. are
+Conservation status released when If tentacles considered, lengths of (33 ft) and (46 ft) but the capturing 10 14 metres metres exist, prey. are
+likely.'*1"! ee former The colossal squid has the largest of known with estimate exist, creature to is more eyes any ever an a eum What inks nere
+in)!*“! De GEST ff estimated diameter of (11-12 (16 in) for the largest collected 27-30 to 40 cm cm specimen.
+we Permanent link The has similar other members of family, although the only member of Cranchiidae display anatomy to it its to species is
+o ps Pee whale.2311241 Scientific classification gf be ambush predator, with diet including fish, and likely key of the item to an a various is a prey sperm uae
+Kingdom: Animalia
+Phylum: Mollusca
+1 Morphology Prinvexport
+eee Class: Cephalopoda
+Para 2 Distribution and habitat Reo :
+Family: Cranchiidae 3.1 Feeding
+in other projects 3.2 Metabolism Subfamily: Taoniinae
+Reproduction Robson, 1925, .4 CeaEaiea
+38 Vision hamiltoni Species: M.
+Binomial name
+4 History of knowledge bell ————
+Espafol GEtepEe 4.2 Entire collected specimens
+f= aN a Frangais 4.3 Largest known specimen
+iil vA \ 4.3.1 Defrosting and dissection, Apr-May 2008
+Malian { \ 4.3.2 Exhibition
+>wy =i 5 Conservation status bx
+6 See also
+7 Ecitlinks 8 Further reading
+9 External links
+Morphology [eit]
+The colossal squid shares features all squids: mantle for locomotion, of gills, beak tooth, and external characteristics like eight and to certain common a one pair a or arms
+fins."“4] squid.!"4] tentacles, head, and general, the morphology and of the colossal squid the other there in However, certain ‘two two anatomy a are same as any are
+morphological characteristics that the colossal squid from other squids family: the colossal squid the only squid family whose and tentacles separate its its in is in arms are
+three-pointed.""2! Cranchiidae.24] ‘equipped with hooks, either swiveling There squids other families that also have hooks, but other squid the family or are in no in
+Unlike squid the colossal squid exhibits abyssal the heaviest living invertebrate gigantism, most it species, as is species,
+Ib).'*! reaching weights kg (1,091 squids typically have mantle length of about (12 in) and to 495 For 30 up comparison, a cm
+The colossal squid also has the largest documented the animal kingdom, with diameter of (11— 27-30 eyes in a cm
+. Distribution and habitat [ecit)
+oo The squid's known extends thousands of kilometres north of southern South southern South Antarctica America, to range
+\\ Ocean.) Africa, and the southern of Zealand, making primarily inhabitant of the Southern New tip it circumantarctic an x
+ANN Colossal squid also often sighted and because of and the Cooperation Sea Ross Sea Antarctic its competitor, are near prey
+| toothfish." XS The between the Weddell and the Kerguelen archipelago has been deemed "hotspot" Sea western region a j
+habitat.“®) W\ based characteristics of the The squid’s vertical distribution correlate directly with squid Young / to on appears age.
+found between (0-1,640 ft), adolescent squid found (1,600-6,600 ft) and adult squid 0-500 500-2,000 are m are m are
+ocean.! found primarily within the mesopelagic and bathypelagic of the regions open |
+a Size with human comparison a
+Feeding [exit]
+While little known about their behavior, colossal squid believed feed primarily small fish, such lanternfish and to is are on as
+N toothfish brought aboard by trawlers between and showed clear of attack by colossal Antarctic 2011 2014, seventy-one signs
+‘squid.° study the Prydz of found squid female colossal squid's stomach, A Bay Antarctica suggesting in region remains in a
+species.'241 5‘°N the possibility of cannibalism within this studies the of the chitinous beaks of / content measuring
+cephalopods determine trophic ecology levels have demonstrated that the colossal squid predator that positively to top is a is
+size.!?2! correlated with increased This confirmation of the colossal squid's trophic level that likely suggests it its new preys on ane
+wa large fishes, such the toothfish, and smaller squids, according and that predators include Patagonian to its its as size, sperm eS
+whales and sleeper sharks. a ‘The beak of colossal squid a
+Metabolism [exit]
+The colossal squid thought have slow metabolic needing only around (1 02) of daily for adult with of kilograms 30 500 to rate, is a very grams prey an a mass
+Ib).'4! (1,100 of slow-moving ambush predator, large primarily for prey-detection rather than Estimates its suggest it requirements its energy is a using eyes engaging in
+hunting.(2411141 active
+Predation [exit]
+whales have their backs that believed be caused by the hooks of colossal squid. Colossal squid for whales the Many to item sperm scars on are are a major prey sperm in
+of the squid beaks found the stomachs of these whales those of the colossal squid, which indicates that colossal squid likely make of Antarctic; 14% 77% in sperm are up
+whales.’5! the biomass consumed by these other animals also feed colossal squid, including the beaked whales, such southern bottlenose whales, and Many on as
+toothfish,®! and Baird's beaked whales. Other possible predators include the pilot whale, killer whales, larger southern elephant seals, southern Cuvier's Patagonian
+albatrosses).!" sleeper sharks (Somniosus antarcticus), toothfish, and albatrosses (e.g., the wandering and Beaks from adults have only been Antarctic mature sooty
+adults.271 recovered from large predators (i.e. whales and southern sleeper sharks), while other predators only juveniles eat sperm or young
+Reproduction [ecit)
+much known about the colossal squid's reproductive cycle, although does have distinct of squid, however, develop sex-specific Not Many it two is sexes. species organs
+develop.) they and The adult female colossal squid has been discovered much shallower which likely implies that females shallower waters, waters, as age in spawn in
+rather than their usual depth. additionally, the colossal squid has high possible fecundity reaching million which high compared other 4.2 quite oocytes, to a over is
+waters.8! ‘squids such cold Colossal squid have been observed from large small Sampling 3.2 2.1 1.4 0.5 oocytes at to in sizes ranging as as mm x mm as as mm x mm.
+gram."*! of colossal squid show of squid thought the surface from 2,175 Young time at temperatures -0.9 0 °C to to ovaries an average eggs per are spawn near summer
+pelagic of similar weight the colossal squid, such the swordfish, the diameter required for visual detection but the colossal For to 10 organisms as average eye is cm,
+in).'9I°°! ‘squid's large (12 This allows for visual detection including reduced diffraction blurring and distinction, 30 strategies, greater contrast are as as cm an increase in
+eyes.?°! which be extremely beneficial the colossal squid justify the large camouflage, and these The colossal to to must to energetic maintain expenses grow, move,
+‘squid's increased pupil has been mathematically the visual complications of the pelagic (the combination of downwelling daylight, to size proven overcome zone
+bioluminescence, and light with distance), especially by larger volumes of and by detecting long-range changes plankton scattering monitoring water at increasing once in
+whales).°) bioluminescence the physical disruption of large objects (e.g., via moving sperm
+eyeballs.'°"] The colossal squid's glow the dark long, rectangular light-producing photophores located the lens the front of both symbiotic bacteria to next eyes in via on
+reaction.!°2! reside within these photophores and luminesce through chemical
+range.!29 hypothesized that the colossal squid's detect predator beyond (390 ft), which the limit of the whale's Itis 120 movement eyes can m is upper sperm sonar
+DIOluMINEscence, and ugnt scattering WIIN distance), especially Dy monitoring larger volumes OF Water at and Dy detecting long-range changes plankton increasing once IN
+cochlea).!53! ‘Squid have been found detect the of sound called (similar the human squid likely respond low- statocysts to to movement statocysts to waves via organs
+fish." frequency sounds less than similar pelagic Colossal squid likely essentially deaf high frequencies, such whale they rely largely 500 Hz, to to are as sonar, so on
+predation 29141 visual detection mechanisms avoid to
+of History knowledge [eait)
+article: of colossal squid and sightings Main List specimens
+1925."! Cranchiidae.!4 The colossal squid, Mesonychoteuthis hamiltoni, discovered This belongs the class Cephalopoda and family to species was in species
+71I$] adult discovered; second collected. Captured the largest colossal squid weighed kilograms In 1981, 2003, 2007, 495 an specimen was in a specimen was in
+Ib),!"! /40ll411 (1,091 and display the of Zealand Museum New Te Papa Tongarewa. at is now on
+of the full colossal squid collected; of only complete colossal squids had been recorded, with only half of these being full Most not 2015, 12 time, specimens are as ever
+a adults. total.'“! Beak of the colossal squid commonly collected; beaks of colossal squids have been recorded commonly (four times), fin, remnants 55 Less are in
+collected."*! mantle, tentacle of colossal squid has been arm, or a
+First collected specimens [ecit]
+1924~1925.5! The first discovered the form of found the stomach of whale the of This named two winter species was in arm crowns in a sperm in species,
+1925.5) Mesonychoteuthis hamiltoni after Hamilton who made the initial discovery, formally described by Coburn Robson E. Guy was in
+Entire collected specimens [exit]
+trawler the off the of caught large squid with total length of (13 ft), which later identified In 1981, Soviet Russian Ross Sea, Antarctica, 4 coast a in a a over m was as an
+hamiltoni.'"! female of complete of subadult female found the surface with total length of (20 ft) and mantle length of M. in 2003, 6 immature a specimen a was near a m a
+inches).!4! (8 feet the first full living captured depth of (5,331 ft) while taking toothfish from longline off South 2.5 3 in 2005, 1,625 Georgia at m specimen was a m a a
+Island.42! although the mantle brought aboard, length estimated (8 feet inches), and the tentacles measured (7 feet not its at 2.5 3 2.3 metres was was over m
+inches).2! Ib).42) The animal thought have weighed between and kg (330 and 7 to 150 200 440 is
+Largest known specimen [ecit]
+also: Cephalopod See size ~ .
+Weal The largest recorded female, which thought be larger than males, captured February by to 2007 specimen was a are in a T
+NS Antarctica." ax Ah Zealand fishing boat the off The squid close death when captured and New Ross Sea to it in was was (og
+y \/ study.'“) i : subsequently taken back Zealand for scientific The initially estimated about to New to was specimen was measure
+‘ae oe, kg.!43) total length and weigh about 10 450 metres in es
+eV Defrosting and dissection, April-May 2008 [cit] "
+» Tongarewa.4! Thawing and dissection of the took place the of Zealand biologist at Museum New Te Papa AUT specimen
+© This caught February 2007, specimen, in 7
+_ O'Shea, Kubodera, and biologist Bolstad invited the aid the joined by Steve Tsunemi AUT Kat to to were museum in process, the largest cephalopod recorded. ig ever
+Blaauw.“*) ecologist Mark Fenwick and Dutch Olaf Media suggested the scientist at reports scientists Here it shown alive during capture, with marine museum were is
+oleae ie ee an oN nee ans ae considering defrost the squid because thawing would take several days to it temperature giant at using a microwave room
+mantle characteristically inflates
+g frozen."**! and would likely begin decompose the outside while the remained they later opted for the to However, it on core
+water."*®! conventional approach of thawing the bath of salt After thawing, found that the it more specimen in a was specimen
+a dead." kg with mantle length of and total length of only probably because the tentacles shrank the squid 495 2.5 4.2 was a m m, once was
+of the have been examined: Parts specimen
+whales,'47lI48] The beak considerably smaller than found the stomachs of that other colossal squid much larger than this suggesting is some in sperm some are *
+(10 (44 animal.!“®] The in) wide, with lens in) This the largest of known These of the partly collapsed 27 12 measurements eye is cm a cm across. is eye any are ‘*
+30'©! across./#91 when the squid alive, the probably (12 in) to 40 to 16 specimen; was eye was cm
+eggs.!1$] of the with endoscope revealed thousands of Inspection containing specimen an ovaries
+‘The of Zealand began displaying this from December The exhibition Museum New Te Papa Tongarewa 13 2008. ee specimen ie Wes
+— ys Papa.!40l closed between and but reopened for public 2018 2019, it was Te ——— at was viewing
+"al Filming in natural habitat [cit]
+© ‘The display at the Museum specimen on
+there several made by including exploration non-profit called In 2022-23 attempts scientists, KOLOSSAL, to were an ocean of New Zealand Te Papa Tongarewa
+a Papa.!0) closed between and but reopened for public Le 2018 2019, it Te * at was was viewing .
+>a Filming in natural habitat exit}
+find and film the colossal squid natural habitat for the first learn about biology and ecological time its to its in more
+behavior.°l=4! vessel=!55I The used locations throughout the Southern and to 36 Ocean team tourism science a survey
+have filmed small juvenile colossal squid for the first Researchers have confirmed that that video of of glass squid, but due the to time. may a is a species marine snow,
+footage has been harder confirm without analysis, and instead Galiteuthis glacialis of glass squid unknown DNA represent to to a may or a new species
+E4ISS1561571 science,
+March for the first confirmed colossal squid filmed natural during expedition On 9 2025, ime, its environment a was in an
+the South Sandwich Islands the South Atlantic The squid, juvenile around (12 in) long, Ocean. 30 near in a measuring cm
+captured video depth of (2,000 ft) by the Schmidt remotely operated vehicle (ROV) at 600 Ocean institute's was on a m
+551891 SuBastian q
+| : Conservation status ecit)
+> a List." The colossal squid has been assessed of "least the Red Colossal squid concern” IUCN not as species on are
+caught when eat cori hooks.!°! targeted by fishers; rather, they only they feed fish caught additionallly, due to to attempt are on on nc Ta Soles cg
+rare.!°) their habitat, between humans and colossal squid considered interactions are by Schmidt Ocean Institute
+See also [eait)
+squid Giant ©
+Kraken *
+References [eait)
+Threatened Species. 2014 e.7163170A980001. dol:10.2305/IUCN.UK.2014- Predator: between the colossal squid (Mesonychoteuthis hamilton) and interactions
+. LLRLTS.T1631704980001.en Retrieved 15 September 2022. the Antarctic toothfish (Dissostichus mawsoni)". Journal of Natural History. 49 (41—
+2. S, 42): 2483-2491. Bibcode:2015JNatH..49.2483R 2. 4 Bieler R, Bouchet P, Gofas Marshall B, Rosenberg G, La Pema R, Neubauer TA,
+2. AF, doi:10.1080/00222933.2015,1040477 S2CID 821523082. Sartori Schneider S, Vos C, Poorten JJ, Taylor J, Dijkstra H, Finn J, Bank R, ter
+Neubert E, Moretzsohn F, Faber M, Houart R, Picton B, Garcia-Alvarez (eds.) 27. § Cherel, Yves & Duhamel, Guy (2004). "Antarctic cephalopod of sharks jaws: prey in
+G. 2. I: "Mesonychoteuthis hamilton’ C. Robson, 1925" MolluscaBase. World Register Kerguelen waters. Deep Sea Research Part Oceanographic Research Papers. 51
+3.9@bedefoh *4 Roca, Rui; Lopes, Vanessa M.; Guerreiro, Miguel; Bolstad, Kathrin & 28. Jere, P & Roper, C.FE. (2010). Cephalopods of the world: annotated and an
+Xavier, José C. (30 March 2017). "Biology and ecology of the world's largest Ilustrated catalogue of cephalopod known date, Food and Agriculture to species
+EB) invertebrate, the colossal squid (Mesonychoteuthis hamilton): short review" Organization of the United Nations. ISBN 978-92-5-106720-8 a
+12. 4@0 6d (PDF). Polar Biology. 40 (9): 1871-1883. Bibcode:2017PoBio..40.1871R € 29, Nilsson, Dan-Eric; Warrant, Eric J.; Johnsen, Sénke; Hanlon, Roger &
+2. doi:10.1007/s00300-017-2104-5 S2CID 15480545 2 Shashar, Nadav (24 April 2012). "A Unique Advantage for Giant Eyes Giant in
+A. 2. 4,08064 McClain, Craig R.; Balk, Meghan A.; Benfield, Mark C.; Branch, Trevor Squid” Current Biology. 22 (8): 683-688. Bibcode:2012CBio...22..683N
+Dove, 3. cub.2012.02.081 Chen, Catherine; Cosgrove, James; Alistair D.M.; Gaskins, Lindsay C.; Helm, doi:10.1016/, PMID 224251542, S2CID 6119783¢2.
+Rebecca R.; Hochberg, Frederick G.; Lee, Frank B.; Marshall, Andrea; McMurray, 30. 4 Nilsson, Dan-E; Warrant, Eric J.; Johnsen, Sonke; Hanlon, Roger T. & Shashar,
+2012). giant of giant Steven E,; Schanche, Caroline; Stone, Shane N. & Thaler, Andrew D. (2015). "Sizing Nadav (8 September "The squid indeed unexpectedly eyes are
+2. of intraspecific megafauna" PeerJ. 3 giants: pattems variation ocean size in marine large, but if used for whales” c?. BMC Evolutionary Biology. 13 (1): not spotting sperm
+3. 2 3854791 5. 4 "How big the colossal squid display? | Te Papa Retrieved PMC PMID 24010674 2. tepapa.govt.nz. is on
+9 April 2026. 31, 4 Herring, Peter J.; Dilly, P.N. & Cope, Celia (September 2002). "The photophores of
+of @. 6.4 "The beak of the colossal squid | Te Papa". Retrieved 9 Apri the family Cranchiidae (Cephalopoda: Oegopsiday" Journal Zoology. 258 tepapa.govi.nz. squid
+7.4 "The and tentacles of the colossal squid” 25 March 2026. 82, A"The of the colossal squid” 29 December 2016 c2. tepapa. 2. arms eyes
+84 8.4 Roper, C.FE. & P. Jereb (2010). Family Cranchiidae. In: P. Jereb & C.FE. Roper 33, »Scientists Find that Squid Can Detect Sounds" www.whoi.edu/. Retrieved 2.
+of (eds.) Cephalopods the world. An annotated and illustrated catalogue of 10 April 2022. species
+known date. Volume 2. Myopsid and Oegopsid Squidst2. FAO Species Catalogue to 34. A Partridge, Julian C. (24 April 2012). "Sensory Ecology: Giant Eyes for Giant
+2. Current Biology. {or Fishery Purposes No. 4, Vol. FAO, Rome. 148-178. Predators?" 22 (8): R268-R270. pp. 2.
+:2. 3. doi:10.1016/}.cub.2012,03.021 9.4 "Colossal Squid” Oceana. Retrieved 12 February 2024 Bibcode:2012CBio..22.R268P eZ.
+PMID 22537628 S2CID 16685449 c2. 2 10. 4 "The of the colossal squid” &. Museum of New Zealand Te Papa Tongarewa, eyes
+2 *# Wellington, NZ. 29 December 2016. Retrieved 15 September 2022. 35. Robson, G.C. (1925). "On Mesonychoteuthis, of cegopsid, a new genus
+and Magazine History. :2. 11.44564€ Jere, Cephalopoda”. Annals of Natural 9 (16): 272-277. P, & Roper, C.RE. (2010). Cephalopod of the World Food and
+2 doi:10.1080/00222932508633309 Agriculture Organization of the UN. Vol. 2. United Nations. 6-10. pp.
+*@D 36. A"ITIS Report: Mesonychoteuthis hamilton Retrieved 9 April 2025. 2. wwwitis 12. Hooks and suckers". Te Papa (blog). 30 April 2008. Retrieved 30 September gov. -
+7. *@ 13. 4 Nilsson, Dan-Eric; Warrant, Eric J.; Johnsen, Sénke; Hanlon, Roger; Shashar, 38, Griggs, Kim (2 April 2003). "Super squid surfaces Antarctic” BBC News. in
+Unique et. Nadav (2012). "A Advantage for Giant Eyes Giant Squid’ Current Wellington. Retrieved 2 August 2016. in
+84 Biology. 22 (8): 683-688. Bibcode:2012CBio...22..683Nc2, 39, “The Colossal Squid Exhibition The Squid Files How big the colossal is - —
+- 8@ 36, 4 "ITIS Report: Mesonychoteuthis hamiltoni” Retrieved 9 April 2025. 2. wwwwitis.gov. 12, “Hooks and suckers"E2. Te Papa (blog). 30 April 2008. Retrieved 30 September
+~ 37.2 2011 Blog.tepapa govt.nz. Ellis, R, 1998. The Search for the Giant Squid. The Lyons Press. via
+2. Nadav (2012). “A Unique Advantage for Giant Eyes Giant Squid" Current Wellington. Retrieved 2 August 2015. in
+. 2. ct doi:10.1016/,cub.2012.02.031 PMID 22425154:2. squid?" 17 December 2008. Archived from the original 17 December 2008. on
+«8 Retrieved 2 August 2015, 40, “The Colossal Squid” Te Papa. 21 December 2015. Retrieved 14 May 2019. eZ.
+Zealand secrets". Radio New Zealand, Retrieved 2 August 2015, its squid’. New Herald. ISSN 1170-0777 Retrieved 2 August 2015. give up «2.
+16.*#564 8 ©-Very Black, Richard (30 April 2008). “Colossal Squid's big revealed” cx. BBC 42, Rare Giant Squid Caught Alive" ct. South Georgia Island. Archived from eye
+News. BEC. the original? 5 June 2010, Retrieved 2 August 2015. on
+® 17.2 Remesio, Alexander; Yukhoy, Valentin; Bolstad, Kathrin & Laptikhovsky, Viadimir 43, 4 "NZ fishermen land colossal squid’ ct. BBC News. 22 February 2007. Retrieved
+(1 May 2019). "Distribution and biology of the colossal squid, Mesonychoteuthis 2 August 2016.
+4@ hamiltont: New data from depredation toothfish fisheries and whale stomach in sperm 44, Te Papa's Specimen: The Thawing and Examination? Archived 25 April 2008 c2
+2. 2. 127. Bibcode:2019DSRI..147..121R doi:10.1016)).dsr.2019.04.008 45, & Marks, Kathy (23 March 2007). "NZ's colossal squid be microwaved’ The New to c2.
+S2CID 1460438307. Zealand Herald. Archived from the original 29 September 2007. Retrieved on
+18. 4 Xavier, José C.; Raymond, Ben; Jones, Daniel C. & Griffiths, Huw (19 October 25 September 2011.
+2015). "Biogeography of Cephalopods the Southern Ocean Using Habitat Suitability in 46, a Black, Richard (28 April 2008). "Colossal squid of et. BBC News. out comes ice"
+fi) Prediction Models’ (PDF). Ecosystems. 19 (2): 220-247. doi:10.1007/s10021-015- Retrieved 2 August 2015.
+9926-12. S2CID 14435325 e. 47." Ballance, Alison (14 October 2014), "Colossal Squid Revealed” Radio New c2.
+8@ 19. Remesio, Alexander; Yukhoy, Valentin; Bolstad, Kathrin & Laptikhovsky, Viadimir Zealand. Retrieved 2 August 2015,
+2. (May 2019). “Distribution and biology ofthe colossal squid, Mesonychoteuthis 48,4 °Massive squid be babe" The Star, South Aftica. 30 April 2008, just may a
+/hamitont: New data from depredation toothfish fisheries and whale stomach in sperm 4 a »yorids biggest squid reveals ‘beach ball eyes". uavyerradaily.com, Wellington
+2. 127. Bibcode:2019DSRI..147..121R doi:10.1016)} ds.2019.04.008:2 50, 4 McGrath, Jenny. “Scientists hunt for the elusive colossal squid and went on a —
+"A S2CID 146043830 total of 107 M. hamilfoni stomachs (out of 849 examined) 22 brought ship with them’ eZ. Business Insider. Retrieved 5 June 2024. tourists cruise
+contained These comprised remnants of small fish, of which prey remains. some Were 544 «studying the World's Largest Invertebrate the Colossal Squid, Mesonychoteuthis —
+ct. — ‘entatively identified Myctophidae and Bathyiagidae. Large fish scales also as were hamiltoni" Experiment Moving Science Forward. Retrieved 5 June 2024.
+observed, but other facilitating identification found. No exact no remains species were
+52, ECO (22 November 2022). "Expedition Launching Study the Colossal Squid to in
+invertebrate observed.” remains were
+Antarctica” @. ECO Magazine. Retrieved 5 June 2024.
+20. 4 Remesio, A.V.; Yakushev, M.R.; Laptikhovsky, V. (10 November 2015). “Alien vs.
+53, ‘Graham, Myrah; Herbig, Jennifer; Jacobsen, Eugenie; Maldonado, Tatiana K.; Beck,
+) Predator: between the colossal squid ( Mesonychoteuthis hamiltoni and interactions
+Jared; Lackey, Brent; Mulrennan, Matthew (20 February 2024). "New methods of
+the Antarctic toothfish ( Dissostichus J" 2, Journal of Natural History. 49 (41— mawson!
+undertaking Antarctica vessels" 2. PLOS Climate. 3 tourism marine science in using
+54, 4 Haro, Alexander (30 May 2024). "A Baby Colossal Squid Might Have Been Filmed
+Antarctica”. Antarctic Prydz Bay Science. 6 (2): 223-229. region,
+for the First Time Ever"c2, The inertia, Retrieved 5 June 2024.
+55, Magazine, Haka "Visiting the Kraken Home". Hakai Magazine. Retrieved at 2CI0 130139281 1
+(7 22. Cherel, Yves; Hobson, Keith A August 2005). "Stable beaks and isotopes,
+56, 4" "Mystery" Glass Squid In Antarctica Could Be First-Ever Colossal Squid Baby
+predators: tool study the trophic ecology of cephalopods, including and to giant a new wimee Fos so tay 20D Retire 8 sane 3004
+IFT 29 5 B: Retrieved “medi. Sctence, May June 2024. colossal squids” Proceedings of the Royal Society Biological Sciences. 272 2.
+57. 4 "For the First Time Ever, the Colossal Squid Might Have Shown Its Secret Face"<. 15598393, (4572): 1601-1607, doi:10,1098irspb.2005 3115¢2. PMC
+Popular Mechanics. 5 June 2024. Retrieved 5 June 2024. Mo 1602877612,
+a ; re
+4 of a 58, “First Confirmed Footage Colossal Squid—and Baby!" Schmidt Ocean. it's a . 23, iesonychoteutis hamilton", Animal Diversity Web.
+15 Apr 2025, Retrieved 16 April 2025, 24.88 Rosa, Rui & Seibel, Brad A. (2010). "Slow of life of the Antarctic colossal pace
+59. 4 Preston, Elizabeth (15 April 2025). "The First Ever Sighting of Colossal Squid" a squid, Journal ofthe Marine Biological Association of the United Kingdom. 90 (7)
+60. "Colossal Squid Oceana. Retrieved 10 March 2020. cx. S2CID 85063782
+61. 4 "Colossal Squid MarineBio Conservation Society’. Marine Bio. 18 May 2017. ~ 25. Clarke, MR. (1980). "Cephalopoda the det of whales ofthe southern in sperm
+hemisphere and their bearing whale biology". Discovery Reports. 37: 1~ on sperm
+Further reading [eait)
+« Aldridge, (2009). beak shape help research the life history of squid?" Zealand Journal of and Freshwater Research. (5): A.E. "Can . New Marine 43 1061-1067. to
+(in Russian) Klumoy, Yukhov Mesonychoteuthis hamiltoni Robson, (Cephalopoda, Oegopsida). Antarktika Doklady S.K. & V.L. 1975. 1925 Komission 14: 159-189.
+(1970). of the juvenile form of the squid Mesonychoteuthis hamiltoni Robson". Malacologia. McSweeny, E.S. "Description Antarctic 10: 323-332. +
+Rodhouse, Clarke, (1985). "Growth and distribution of Mesonychoteuthis hamiltoni Robson (Mollusca: Cephalopoda): squid”. Milieu. P.G.; M.R. Antarctic Vie young an +
+External links [eait)
+&. [A Wieneca Commons has) "CephBase: Colossal squid” Archived from the original? 17 August 2005. on * ‘Commons has
+ay media related to of fe weh Mesonychoterthic hamiltoni Tree | > nroiect: ¢
+cS) media related to of Life web Mesonychoteuthis hamiltoni Tree 2 project: *
+‘Mesonychoteuthis hamiltoni.
+of Zealand Tongarewa(Te Papa) Colossal Squid information Museum New Te Papa Specimen *
+of Zealand Tongarewa(Te Papa) Colossal Squid and Video Museum New Te Papa images «2 & aise neconpenoreuthis to
+Squid and Colossal Squid Sheet Tonmo.com: Giant Fact hamittoni. *
+Zealand Herald: Fishermen haul world's biggest squid New & in *
+Today: Colossal Squid Caught USA Antarctic Waters in *
+squid surfaces BBC: Super Antarctic in *
+ca Mesonychoteuthis hamiltoni MarineBio: +
+identifiers Taxon
+Bioluminescent molluscs | | | | Red least Molluscs of the Southern of Antarctica Categories: IUCN List Taoniinae Ocean Fauna concern species
+| | | cephalopods Pliocene molluscs Cephalopods described Cenozoic 1925 in
+This last edited 31 December 2025, at 11:23 (UTC). page was on

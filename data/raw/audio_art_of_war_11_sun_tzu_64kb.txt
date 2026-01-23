@@ -1,0 +1,256 @@
+<!-- MODALITY: AUDIO
+METADATA: {
+  "file_size": 6213090,
+  "chunk_count": 123,
+  "max_chars_per_chunk": 900,
+  "overlap_chars": 80,
+  "language": "en",
+  "backend": "faster-whisper (preferred), openai-whisper (fallback)"
+}
+-->
+
+This is a Libravox recording. All Libravox recordings are in the public domain.
+
+For more information and to find out how you can volunteer, please visit Libravox.org
+
+Recording by Moira Fogadi
+
+The Art of War by Sonsu translated by Lionel Giles
+
+Part 11, The Nine Situations
+
+Sonsu said the Art of War recognizes nine varieties of ground.
+
+One, dispersive ground, two, facile ground,
+
+three, contentious ground, four, open ground,
+
+five, ground of intersecting highways,
+
+six, serious ground, seven, difficult ground,
+
+eight, hemmed in ground, nine, desperate ground.
+
+When a chieftain is fighting in his own territory, it is dispersive ground.
+
+When he is penetrated into hostile territory but to no great distance, it is facile ground.
+
+Ground of the possession of which imports great advantage to either side is contentious ground.
+
+Ground on which each side has liberty of movement is open ground.
+
+Ground which forms the key to three contiguous states so that he who occupies it first
+
+has most of the empire at his command is a ground of intersecting highways.
+
+When an army has penetrated into the heart of a hostile country,
+
+leaving a number of fortified cities in its rear, it is serious ground.
+
+Mountain forests, rugged steeps, marshes and fends,
+
+all country that is hard to traverse, this is difficult ground.
+
+Ground which is reached through narrow gorges and from which we can only retire by tortuous paths
+
+so that a small number of the enemy would suffice to crush a large body of our men.
+
+This is hemmed in ground.
+
+Ground on which we can only be saved from destruction by fighting without delay
+
+is desperate ground.
+
+On disperse of ground therefore fight not.
+
+On facile ground halt not.
+
+On contentious ground attack not.
+
+On open ground do not try to block the enemy's way.
+
+On the ground of intersecting highways join hands with your allies.
+
+On serious ground gather in plunder.
+
+In difficult ground keep steadily on the march.
+
+On hemmed in ground resort to stratagem.
+
+On desperate ground fight.
+
+Those who were called skillful leaders of old knew how to drive a wedge between the enemy's front and rear
+
+to prevent cooperation between his large and small divisions,
+
+to hinder the good troops from rescuing the bad, the officers from rallying their men.
+
+When the enemies men were united they managed to keep them in disorder.
+
+When it was to their advantage they made a forward move, when otherwise they stopped still.
+
+If asked how to cope with the great host of the enemy in orderly array
+
+and on the point of marching to the attack I should say begin by seizing something
+
+which your opponent holds dear, then he will be amenable to your will.
+
+Repidity is the essence of war.
+
+Take advantage of the enemy's unreadiness.
+
+Make your way by unexpected routes and attack unguarded spots.
+
+The following are the principles to be observed by an invading force.
+
+The further you penetrate into a country, the greater will be the solidarity of your troops
+
+and thus the defenders will not prevail against you.
+
+Make forays in fertile country in order to supply your army with food.
+
+Carefully study the well-being of your men and do not overtax them.
+
+Concentrate your energy and hoard your strength.
+
+Keep your army continually on the move and devise unfathomable plans.
+
+Throw your soldiers into positions once there is no escape and they will prefer death to flight.
+
+If they will face death there is nothing they may not achieve.
+
+Officers and men alike will put forth their uttermost strength.
+
+Soldiers when in desperate straits lose the sense of fear.
+
+If there is no place of refuge they will stand firm.
+
+If they are in hostile country they will show a stubborn front.
+
+If there is no help for it they will fight hard.
+
+Thus without waiting to be martyled the soldiers will be constantly on the key weave.
+
+Without waiting to be asked they will do your will.
+
+Without restrictions they will be faithful.
+
+Without giving orders they can be trusted.
+
+Prohibit the taking of almonds and do away with superstitious doubts.
+
+Then until death itself comes no calamity need be feared.
+
+If our soldiers are not overburdened with money it is not because they have a distaste for riches.
+
+If their lives are not unduly long it is not because they are disinclined to longevity.
+
+On the day they are ordered out to battle.
+
+Your soldiers may weep those sitting up by doing their garments and those lying down letting the tears run down their cheeks.
+
+But let them once be brought to bay and they will display the courage of a chew or a quay.
+
+The skillful tactician may be likened to the Shuai Jan.
+
+Now the Shuai Jan is a snake that is found in the Chiung Mountains.
+
+Strike at its head and you will be attacked by its tail.
+
+Strike at its tail and you will be attacked by its head.
+
+Strike at the middle and you will be attacked by head and tail both.
+
+As if an army can be made to imitate the Shuai Jan I should answer yes.
+
+For the men of Wu and the men of UA are enemies.
+
+Yet if they are crossing a river in the same boat and are caught by a storm,
+
+they will come to each other's assistance just as the left hand helps the right.
+
+Hence it is not enough to put one's trust in the tethering of horses and the burying of chariot wheels in the ground.
+
+The principle on which to manage an army is to set up one standard of courage which all must reach.
+
+How to make the best of both strong and weak.
+
+That is a question involving the proper use of ground.
+
+Thus the skillful general conducts his army just as though he were leading a single man willy nilly by the hand.
+
+It is the business of a general to be quiet and thus ensures secrecy, upright and just and thus maintain order.
+
+He must be able to mystify his officers and men by false reports and appearances and thus keep them in total ignorance.
+
+By altering his arrangements and changing his plans, he keeps the enemy without definite knowledge.
+
+By shifting his camp and taking circuitous routes, he prevents the enemy from anticipating his purpose.
+
+At the critical moment the leader of an army acts like one who has climbed up a height and then kicks away the ladder behind him.
+
+He carries his men deep into hostile territory before he shows his hand.
+
+He burns his boats and breaks his cooking pots, like a shepherd driving a flock of sheep, he drives his men this way and that, and nothing knows whether he is going.
+
+To muster his host and bring it into danger, this may be termed the business of the general.
+
+The different measures suited to the nine varieties of ground, the expediency of aggressive or defensive tactics and the fundamental laws of human nature.
+
+These are things that must most certainly be studied.
+
+When invading hostile territory, the general principle is that penetrating deeply brings cohesion, penetrating but a short way means dispersion.
+
+When you leave your own country behind and take your army across neighborhood territory, you find yourself on critical ground.
+
+When there are means of communication on all four sides, the ground is one of intersecting highways.
+
+When you penetrate deeply into a country, it is serious ground. When you penetrate but a little way, it is facile ground.
+
+When you have the enemy's strongholds on your rear and narrow passes in front, it is hemmed in ground.
+
+When there is no place of refuge at all, it is desperate ground.
+
+Therefore, on dispersive ground, I would inspire my men with unity of purpose. On facile ground, I would see that there is close connection between all parts of my army.
+
+On contentious ground, I would hurry out my rear. On open ground, I would keep a vigilant eye on my defenses. On ground of intersecting highways, I would consolidate my alliances.
+
+On serious ground, I would try to ensure a continuous stream of supplies. On difficult ground, I would keep pushing on along the road.
+
+On hemmed in ground, I would block any way of retreat. On desperate ground, I would proclaim to my soldiers the hopelessness of saving their lives.
+
+For it is the soldier's disposition to offer an obstinate resistance when surrounded, to fight hard when he cannot help himself and to obey promptly when he has fallen into danger.
+
+We cannot enter into alliance with neighboring princes until we are acquainted with their designs. We are not fit to lead an army on the march unless we are familiar with the face of the country.
+
+Its mountains and forests, its pitfalls and precipices, its marshes and swamps. We shall be unable to turn natural advantages to account unless we make use of local guides.
+
+To be ignored of any one of the following four or five principles does not be fit a warlike prince.
+
+When a warlike prince attacks a powerful state, his generalship shows itself in preventing the concentration of the enemy's forces. He over-aws his opponents and their allies are prevented from joining against him.
+
+Hence, he does not strive to ally himself with all in sundry, nor does he foster the power of other states. He carries out his own secret designs, keeping his antagonists in awe.
+
+Thus, he is able to capture their cities and overthrow their kingdoms.
+
+Bestow rewards without regard to rule, issue orders without regard to previous arrangements, and you will be able to handle a whole army as though you had to do with but a single man.
+
+Confront your soldiers with the deed itself, never let them know your design. When the outlook is bright, bring it before their eyes, but tell them nothing when the situation is gloomy.
+
+Place your army in deadly peril and it will survive, plunge it into desperate straits and it will come off in safety. For it is precisely when a force has fallen into harm's way that it is capable of striking a blow for victory.
+
+Success in warfare is gained by carefully accommodating ourselves to the enemy's purpose. By persistently hanging on the enemy's flank, we shall succeed in the long run in killing the commander in chief.
+
+This is called ability to accomplish a thing by sheer cunning.
+
+On the day that you take up your command, block the frontier passes, destroy the official tallies, and stop the passage of all emissaries. Be stern in the council chamber so that you may control the situation.
+
+If the enemy leaves the door open, you must rush in. Forst all your opponent by seizing what he holds dear and subtly contrive to time his arrival on the ground.
+
+Walk in the path defined by rule and accommodate yourself to the enemy until you can fight a decisive battle.
+
+At first then exhibit the coiness of a maiden until the enemy gives you an opening. Afterwards emulate the rapidity of a running hair and it will be too late for the enemy to oppose you.
+
+End of Part 11
+
+Recorded in Toronto, Ontario by Moira Fobody October 2006.
