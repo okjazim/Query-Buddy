@@ -18,7 +18,7 @@ IMAGE_DIR = "data/image"
 for dir_path in [RAW_DIR, RAW_SOURCES_DIR, AUDIO_DIR, IMAGE_DIR]:
     os.makedirs(dir_path, exist_ok=True)
 
-# Web URLs to scrape
+# web URLs to scrape
 WEB_URLS = [
     "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Global_attributes",
     "https://blog.hubspot.com/website/website-development",
@@ -124,7 +124,7 @@ def load_web(url: str, index: int) -> Dict[str, Any]:
     }
 
 def load_audio(audio_path: str) -> Dict[str, Any]:
-    """Load audio file using the audio loader (implemented by Jude)."""
+    """Load audio file using the audio loader"""
     try:
         from load_audio import process_audio_file
         result = process_audio_file(audio_path)
@@ -136,14 +136,13 @@ def load_audio(audio_path: str) -> Dict[str, Any]:
     except ImportError as e:
         print(f"Warning: load_audio.py not found or error importing: {e}")
         print(f"Skipping audio file: {audio_path}")
-        print("Note: Audio ingestion requires load_audio.py (Jude's implementation)")
         return None
     except Exception as e:
         print(f"Error processing audio file {audio_path}: {e}")
         return None
 
 def load_image(image_path: str) -> Dict[str, Any]:
-    """Load image file using the image loader (implemented by Tomas)."""
+    """Load image file using the image loader"""
     try:
         from load_image import process_image_file
         result = process_image_file(image_path)
@@ -155,7 +154,6 @@ def load_image(image_path: str) -> Dict[str, Any]:
     except ImportError as e:
         print(f"Warning: load_image.py not found or error importing: {e}")
         print(f"Skipping image file: {image_path}")
-        print("Note: Image ingestion requires load_image.py (Tomas's implementation)")
         return None
     except Exception as e:
         print(f"Error processing image file {image_path}: {e}")
@@ -214,8 +212,8 @@ def print_modality_status():
         "pdf": {"status": "[READY]", "loader": "Built-in (PyPDF2)", "notes": ""},
         "text": {"status": "[READY]", "loader": "Built-in", "notes": ""},
         "web": {"status": "[READY]", "loader": "Built-in (BeautifulSoup)", "notes": ""},
-        "audio": {"status": "[WAITING]", "loader": "load_audio.py (Jude)", "notes": "Requires external audio processing"},
-        "image": {"status": "[WAITING]", "loader": "load_image.py (Tomas)", "notes": "Requires OCR/vision processing"}
+        "audio": {"status": "[READY]", "loader": "load_audio.py", "notes": "Requires external audio processing"},
+        "image": {"status": "[READY]", "loader": "load_image.py", "notes": "Requires OCR/vision processing"}
     }
 
     for modality, info in modalities_status.items():
@@ -237,7 +235,8 @@ def discover_source_files() -> Dict[str, List[str]]:
                     sources[modality] = []
                 sources[modality].append(str(file_path))
 
-    # Check dedicated directories
+
+    #check dedicated directories
     if os.path.exists(AUDIO_DIR):
         for file_path in Path(AUDIO_DIR).rglob("*"):
             if file_path.is_file() and get_modality_from_extension(str(file_path)) == "audio":
