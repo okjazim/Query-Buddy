@@ -1,0 +1,180 @@
+<!-- MODALITY: AUDIO
+METADATA: {
+  "file_size": 4312968,
+  "chunk_count": 85,
+  "max_chars_per_chunk": 900,
+  "overlap_chars": 80,
+  "language": "en",
+  "backend": "faster-whisper (preferred), openai-whisper (fallback)"
+}
+-->
+
+This is a Libravox recording. All Libravox recordings are in the public domain.
+
+For more information and to find out how you can volunteer, please visit Libravox.org
+
+Recording by Moira Fogadi
+
+The Art of War by Sun-Zoo translated by Lionel Giles
+
+Part 12 The Attack by Fire
+
+Sun-Zoo said, there are five ways of attacking with fire.
+
+The first is to burn soldiers in their camp. The second is to burn stores. The third
+
+is to burn baggage trains. The fourth is to burn arsenals and magazines. The fifth is
+
+to hurl dropping fire amongst the enemy.
+
+In order to carry out an attack, we must have means available. The material for raising
+
+fire should always be kept in readiness. There is a proper season for making attacks
+
+with fire and special days for starting a conflagration. The proper season is when
+
+the weather is very dry. The special days are those when the moon is in the constellations
+
+of the sieve, the wall, the wing, or the crossbar. For these four are all days of rising
+
+wind.
+
+In attacking with fire, one should be prepared to meet five possible developments. One,
+
+when fire breaks out inside to enemy's camp, respond at once with an attack from without.
+
+Two, if there is an outbreak of fire but the enemy's soldiers remain quiet, buy your time
+
+and do not attack. Three, when the force of the flames has reached its height, follow
+
+it up with an attack if that is practicable. If not, stay where you are.
+
+Four, if it is possible to make an assault with fire from without, do not wait for it
+
+to break out within, but deliver your attack at a favorable moment.
+
+Five, when you start a fire, be to windward of it. Do not attack from the leeward. A wind
+
+that rises in the daytime lasts long, but a night breeze soon falls. In every army,
+
+the five developments connected with fire must be known, the movements of the stars calculated
+
+and a watch kept for the proper days. Hence, those who use fire as an aid to the attack
+
+show intelligence. Those who use water as an aid to the attack gain an accession of strength.
+
+By means of water an enemy may be intercepted but not robbed of all his belongings. Unhappy
+
+is the fate of one who tries to win his battles and succeed in his attacks without cultivating
+
+the spirit of enterprise, for the result is a waste of time and general stagnation. Hence
+
+the saying, the enlightened ruler lays his plans well ahead. The good general cultivates
+
+his resources. Move not unless you see an advantage. Use not your troops unless there is
+
+something to be gained. Fight not unless the position is critical. No ruler should put
+
+troops into the field merely to gratify his own spleen. No general should fight a battle
+
+simply out of peak. If it is to your advantage, make a forward move. If not, stay where you
+
+are. Anger may in time change to gladness. Vexation may be succeeded by content. But a
+
+kingdom that has once been destroyed can never come again into being, nor can the dead
+
+ever be brought back to life. Hence the enlightened ruler is heedful and the good general
+
+full of caution. This is the way to keep a country at peace and an army intact.
+
+End of Part 12. Part 13. The use of spies. Sonsu said, raising a host of 100,000 men and
+
+marching them great distances and tales heavy loss on the people and a drain on the resources
+
+of the state. The daily expenditure will amount to a thousand ounces of silver. There will
+
+be commotion at home and abroad, and men will drop down exhausted on the highways. As many
+
+as 700,000 families will be impeded in their labor. Hostile armies may feast each other
+
+for years, striving for the victory which is decided in a single day. This being so, to
+
+remain in ignorance of the enemy's conditions simply because one grudges the outlay of
+
+a hundred ounces of silver in honors and emoluments is the height of inhumanity. One who
+
+acts thus is no leader of men, no present help to his sovereign, no master of victory. Thus
+
+what enables the wise sovereign and the good general to strike and conquer and achieve things
+
+beyond the reach of ordinary men is for knowledge. Now this for knowledge cannot be elicited
+
+from spirits. It cannot be obtained inductively from experience nor by any deductive calculation.
+
+Knowledge of the enemy's dispositions can only be obtained from other men. Hence the use
+
+of spies of whom there are five classes. One, local spies, two inward spies, three converted
+
+spies, four doomed spies, five surviving spies. When these five kinds of spy are all at work
+
+none can discover the secret system. This is called divine manipulation of the threads.
+
+It is the sovereign's most precious faculty. Having local spies means employing the services
+
+of the inhabitants of a district. Having inward spies, making use of officials of the enemy.
+
+Having converted spies, getting hold of the enemy spies and using them for our own purposes.
+
+Having doomed spies, doing certain things openly for purposes of deception and allowing our
+
+spies to know of them and report them to the enemy. Surviving spies, finally, are those who bring
+
+back news from the enemy's camp. Hence it is that which none in the whole army are more intimate
+
+relations to be maintained than with spies. None should be more liberally rewarded and no other
+
+business should greater secrecy be preserved. Spies cannot be usefully employed without a certain
+
+intuitive sagacity. They cannot be properly managed without benevolence and straight forwardness.
+
+Without subtle ingenuity of mind, one cannot make certain of the truth of their reports.
+
+Be subtle, be subtle, and use your spies for every kind of business.
+
+If a secret piece of news is divulged by a spy before the time is ripe, he must be put to death
+
+together with the man to whom the secret was told. Whether the object be to crush an army,
+
+to storm a city, or to assassinate an individual, it is always necessary to begin by finding out the
+
+names of the attendants, the aides to comp, and doorkeepers and sentries of the general in command.
+
+Our spies must be commissioned to ascertain these. The enemy's spies who have come to spy on us
+
+must be sought out, tempted with bribes, led away, and comfortably housed. Thus they will become
+
+converted spies and available for our service. It is through the information brought by the converted
+
+spy that we are able to acquire and employ local and inward spies. It is owing to this information
+
+again that we can cause the doomed spy to carry false tidings to the enemy. Lastly, it is by this
+
+information that the surviving spy can be used on appointed occasions. The end and aim of
+
+spying in all its five varieties is knowledge of the enemy, and this knowledge can only be
+
+derived in the first instance from the converted spy. Hence, it is essential that the converted spy
+
+be treated with the utmost liberality. Of old, the rise of the Yin dynasty was due to E-chi
+
+who had served under the Sya. Likewise, the rise of the two dynasty was due to Luya who had
+
+served under the Yin. Hence, it is only the enlightened ruler and the wise general who will use
+
+the highest intelligence of the army for purposes of spying and thereby they achieve great results.
+
+Spies are a most important element in water because on them depends on army's ability to move.
+
+End of the Art of War
+
+Recorded in Toronto, Ontario by Moira Fogarty, October 2006

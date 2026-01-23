@@ -1,0 +1,1137 @@
+<!-- MODALITY: IMAGE
+METADATA: {
+  "path": "data\\image\\004_Anglerfish.png",
+  "file_size": 4241383,
+  "image_width": 1280,
+  "image_height": 10187,
+  "ocr_engine": "tesseract",
+  "ocr_lang": "eng",
+  "tesseract_cmd": "C:\\Program Files\\Tesseract-OCR\\tesseract.exe",
+  "config": "--oem 3 --psm 6",
+  "min_line_conf": 30.0,
+  "line_count": 449,
+  "overall_bbox": [
+    24,
+    14,
+    1263,
+    10120
+  ],
+  "regions": [
+    {
+      "bbox": [
+        44,
+        14,
+        1263,
+        42
+      ],
+      "avg_conf": 55.4
+    },
+    {
+      "bbox": [
+        32,
+        111,
+        1240,
+        152
+      ],
+      "avg_conf": 44.25
+    },
+    {
+      "bbox": [
+        37,
+        133,
+        359,
+        165
+      ],
+      "avg_conf": 69.4
+    },
+    {
+      "bbox": [
+        28,
+        184,
+        324,
+        221
+      ],
+      "avg_conf": 61.5
+    },
+    {
+      "bbox": [
+        28,
+        228,
+        419,
+        245
+      ],
+      "avg_conf": 92.57142857142857
+    },
+    {
+      "bbox": [
+        27,
+        267,
+        1184,
+        284
+      ],
+      "avg_conf": 90.08
+    },
+    {
+      "bbox": [
+        28,
+        294,
+        1081,
+        325
+      ],
+      "avg_conf": 88.75
+    },
+    {
+      "bbox": [
+        28,
+        320,
+        1136,
+        353
+      ],
+      "avg_conf": 89.36842105263158
+    },
+    {
+      "bbox": [
+        28,
+        345,
+        1138,
+        373
+      ],
+      "avg_conf": 89.34782608695652
+    },
+    {
+      "bbox": [
+        28,
+        373,
+        517,
+        393
+      ],
+      "avg_conf": 62.142857142857146
+    },
+    {
+      "bbox": [
+        28,
+        399,
+        1157,
+        433
+      ],
+      "avg_conf": 83.35
+    },
+    {
+      "bbox": [
+        28,
+        425,
+        1232,
+        454
+      ],
+      "avg_conf": 82.71428571428571
+    },
+    {
+      "bbox": [
+        28,
+        443,
+        1044,
+        481
+      ],
+      "avg_conf": 88.22222222222223
+    },
+    {
+      "bbox": [
+        201,
+        476,
+        1189,
+        493
+      ],
+      "avg_conf": 81.68181818181819
+    },
+    {
+      "bbox": [
+        27,
+        488,
+        1200,
+        520
+      ],
+      "avg_conf": 50.25
+    },
+    {
+      "bbox": [
+        1030,
+        512,
+        1219,
+        524
+      ],
+      "avg_conf": 30.5
+    },
+    {
+      "bbox": [
+        27,
+        520,
+        1208,
+        530
+      ],
+      "avg_conf": 51.8
+    },
+    {
+      "bbox": [
+        28,
+        522,
+        1235,
+        551
+      ],
+      "avg_conf": 82.11111111111111
+    },
+    {
+      "bbox": [
+        201,
+        543,
+        1246,
+        564
+      ],
+      "avg_conf": 87.66666666666667
+    },
+    {
+      "bbox": [
+        28,
+        559,
+        1026,
+        571
+      ],
+      "avg_conf": 54.333333333333336
+    },
+    {
+      "bbox": [
+        28,
+        570,
+        1232,
+        594
+      ],
+      "avg_conf": 76.47058823529412
+    },
+    {
+      "bbox": [
+        28,
+        591,
+        1217,
+        629
+      ],
+      "avg_conf": 83.04347826086956
+    },
+    {
+      "bbox": [
+        28,
+        613,
+        1184,
+        649
+      ],
+      "avg_conf": 77.76
+    },
+    {
+      "bbox": [
+        36,
+        625,
+        1108,
+        656
+      ],
+      "avg_conf": 65.25
+    },
+    {
+      "bbox": [
+        28,
+        647,
+        1056,
+        668
+      ],
+      "avg_conf": 86.66666666666667
+    },
+    {
+      "bbox": [
+        201,
+        669,
+        330,
+        683
+      ],
+      "avg_conf": 91.33333333333333
+    },
+    {
+      "bbox": [
+        28,
+        707,
+        386,
+        724
+      ],
+      "avg_conf": 93.6
+    },
+    {
+      "bbox": [
+        28,
+        733,
+        284,
+        745
+      ],
+      "avg_conf": 88.5
+    },
+    {
+      "bbox": [
+        236,
+        754,
+        338,
+        763
+      ],
+      "avg_conf": 77.5
+    },
+    {
+      "bbox": [
+        28,
+        769,
+        277,
+        785
+      ],
+      "avg_conf": 80.4
+    },
+    {
+      "bbox": [
+        27,
+        792,
+        275,
+        811
+      ],
+      "avg_conf": 54.333333333333336
+    },
+    {
+      "bbox": [
+        27,
+        808,
+        1220,
+        836
+      ],
+      "avg_conf": 57.333333333333336
+    },
+    {
+      "bbox": [
+        27,
+        831,
+        1227,
+        852
+      ],
+      "avg_conf": 51.25
+    },
+    {
+      "bbox": [
+        232,
+        845,
+        1221,
+        853
+      ],
+      "avg_conf": 31.0
+    },
+    {
+      "bbox": [
+        24,
+        856,
+        1221,
+        883
+      ],
+      "avg_conf": 69.2
+    },
+    {
+      "bbox": [
+        28,
+        878,
+        1233,
+        911
+      ],
+      "avg_conf": 85.58333333333333
+    },
+    {
+      "bbox": [
+        28,
+        909,
+        1183,
+        919
+      ],
+      "avg_conf": 43.166666666666664
+    },
+    {
+      "bbox": [
+        36,
+        911,
+        1243,
+        932
+      ],
+      "avg_conf": 41.57142857142857
+    },
+    {
+      "bbox": [
+        28,
+        920,
+        337,
+        951
+      ],
+      "avg_conf": 83.6
+    },
+    {
+      "bbox": [
+        28,
+        941,
+        1135,
+        969
+      ],
+      "avg_conf": 64.5
+    },
+    {
+      "bbox": [
+        28,
+        959,
+        1139,
+        1000
+      ],
+      "avg_conf": 54.8
+    },
+    {
+      "bbox": [
+        28,
+        988,
+        1165,
+        1019
+      ],
+      "avg_conf": 30.0
+    },
+    {
+      "bbox": [
+        27,
+        1021,
+        1165,
+        1038
+      ],
+      "avg_conf": 60.0
+    },
+    {
+      "bbox": [
+        28,
+        1044,
+        1170,
+        1061
+      ],
+      "avg_conf": 62.5
+    },
+    {
+      "bbox": [
+        209,
+        1066,
+        1208,
+        1082
+      ],
+      "avg_conf": 59.857142857142854
+    },
+    {
+      "bbox": [
+        92,
+        1096,
+        1166,
+        1115
+      ],
+      "avg_conf": 69.2
+    },
+    {
+      "bbox": [
+        201,
+        1121,
+        1183,
+        1140
+      ],
+      "avg_conf": 80.0
+    },
+    {
+      "bbox": [
+        197,
+        1131,
+        1163,
+        1162
+      ],
+      "avg_conf": 61.333333333333336
+    },
+    {
+      "bbox": [
+        201,
+        1156,
+        1097,
+        1179
+      ],
+      "avg_conf": 81.11764705882354
+    },
+    {
+      "bbox": [
+        1106,
+        1171,
+        1158,
+        1179
+      ],
+      "avg_conf": 85.0
+    },
+    {
+      "bbox": [
+        202,
+        1171,
+        1138,
+        1193
+      ],
+      "avg_conf": 85.66666666666667
+    },
+    {
+      "bbox": [
+        201,
+        1191,
+        1208,
+        1222
+      ],
+      "avg_conf": 85.28571428571429
+    },
+    {
+      "bbox": [
+        202,
+        1220,
+        894,
+        1237
+      ],
+      "avg_conf": 86.6
+    },
+    {
+      "bbox": [
+        201,
+        1243,
+        996,
+        1268
+      ],
+      "avg_conf": 85.66666666666667
+    },
+    {
+      "bbox": [
+        201,
+        1265,
+        918,
+        1282
+      ],
+      "avg_conf": 87.8
+    },
+    {
+      "bbox": [
+        201,
+        1284,
+        1195,
+        1305
+      ],
+      "avg_conf": 85.0952380952381
+    },
+    {
+      "bbox": [
+        201,
+        1316,
+        1194,
+        1334
+      ],
+      "avg_conf": 88.10526315789474
+    },
+    {
+      "bbox": [
+        201,
+        1342,
+        1186,
+        1358
+      ],
+      "avg_conf": 79.8
+    },
+    {
+      "bbox": [
+        201,
+        1358,
+        1172,
+        1388
+      ],
+      "avg_conf": 70.8
+    },
+    {
+      "bbox": [
+        201,
+        1380,
+        1158,
+        1400
+      ],
+      "avg_conf": 76.26086956521739
+    },
+    {
+      "bbox": [
+        201,
+        1284,
+        1195,
+        1305
+      ],
+      "avg_conf": 81.33333333333333
+    },
+    {
+      "bbox": [
+        201,
+        1313,
+        1193,
+        1334
+      ],
+      "avg_conf": 90.15789473684211
+    },
+    {
+      "bbox": [
+        201,
+        1337,
+        1209,
+        1365
+      ],
+      "avg_conf": 83.35714285714286
+    },
+    {
+      "bbox": [
+        201,
+        1354,
+        1156,
+        1386
+      ],
+      "avg_conf": 73.92307692307692
+    },
+    {
+      "bbox": [
+        1027,
+        1380,
+        1135,
+        1388
+      ],
+      "avg_conf": 38.0
+    },
+    {
+      "bbox": [
+        201,
+        1381,
+        1174,
+        1408
+      ],
+      "avg_conf": 77.34782608695652
+    },
+    {
+      "bbox": [
+        202,
+        1417,
+        1206,
+        1469
+      ],
+      "avg_conf": 32.0
+    },
+    {
+      "bbox": [
+        201,
+        1456,
+        1162,
+        1487
+      ],
+      "avg_conf": 79.0
+    },
+    {
+      "bbox": [
+        211,
+        1487,
+        1174,
+        1503
+      ],
+      "avg_conf": 66.0
+    },
+    {
+      "bbox": [
+        234,
+        1505,
+        1090,
+        1529
+      ],
+      "avg_conf": 76.22222222222223
+    },
+    {
+      "bbox": [
+        211,
+        1539,
+        465,
+        1553
+      ],
+      "avg_conf": 79.0
+    },
+    {
+      "bbox": [
+        234,
+        1565,
+        515,
+        1579
+      ],
+      "avg_conf": 78.66666666666667
+    },
+    {
+      "bbox": [
+        211,
+        1589,
+        445,
+        1603
+      ],
+      "avg_conf": 75.2
+    },
+    {
+      "bbox": [
+        234,
+        1613,
+        1113,
+        1634
+      ],
+      "avg_conf": 58.857142857142854
+    },
+    {
+      "bbox": [
+        256,
+        1639,
+        1152,
+        1656
+      ],
+      "avg_conf": 73.36363636363636
+    },
+    {
+      "bbox": [
+        256,
+        1666,
+        1137,
+        1680
+      ],
+      "avg_conf": 69.5
+    },
+    {
+      "bbox": [
+        256,
+        1690,
+        672,
+        1704
+      ],
+      "avg_conf": 77.57142857142857
+    },
+    {
+      "bbox": [
+        256,
+        1713,
+        1247,
+        1728
+      ],
+      "avg_conf": 81.55
+    },
+    {
+      "bbox": [
+        256,
+        1734,
+        1179,
+        1751
+      ],
+      "avg_conf": 76.36363636363636
+    },
+    {
+      "bbox": [
+        993,
+        1751,
+        1227,
+        1763
+      ],
+      "avg_conf": 88.8
+    }
+  ],
+  "slicing": {
+    "enabled": true,
+    "slice_height": 1400,
+    "slice_overlap": 120,
+    "num_slices": 8
+  },
+  "note": "OCR text extracted from screenshot; regions include bbox + confidence.",
+  "skipped_ocr": false,
+  "cache_path": ".ocr_cache\\004_Anglerfish.81b5c7e7f9f3032d.ocr.json"
+}
+-->
+
+<r it Celebrating 25 years
+Pine Anglerfish
+contribute redundant sections, expand with pertinent the of the section. using material that pertains content to Try to scope
+all anglerfish, just the deep forms. Please help this article if (March 2025) (Learn not how and when sea improve you can. vel
+message) this to remove Lea ait to
+Portal Anglerfish nny lofiz’f2:rmi:z/).! The anglerfish ray-finned fish the order Lophiiformes (/, Both the order's and scientific are in common
+ae o from the characteristic mode of predation, which modified dorsal fin lure for (akin acts to name comes in a ray as a prey a TEE BE
+>t human angler, and likened "/ophos"). The modified fin with the being the and the length of the crest tip to a or ray, very esca =
+the illicium, adapted specific the families of anglerfish by different luring attract items structure to is prey across using Ts CRIRSoS GHA
+Tools methods. ee Soe
+Me Cz
+What links he eek a
+a eee aa Anglerfish worldwide. The bottom-dwellers, being demersal fish, while the aberrant deep-sea anglerfish majority occur are
+Pare ” pelagic, (mostly) living high the column, live the deep (such the deep-sea anglerfish and Some water are in in sea as sea
+Permanent link Eton,
+ce toads), while others live shallower such the frogfishes and battishes. waters, in as some Rapotemeien s
+regs ite this . page Anglerfish notable for their sexual dimorphism, which extremely pronounced; the females be several Ny sometimes are is may
+SS i neca oe a ES orders of magnitude larger than males. This dimorphism has enabled reproductive method the deep-sea in mass a unique in
+QR A jownload code
+anglerfish; sexual the attachment of male the much larger female, fusing together example to sometimes parasitism is as an —< Een
+of natural parabiosis.
+In other projects 2 Evolution
+alegeesS tie 3.1 Esca and illicium
+;ehavior ‘ x
+Dine bizaad 4.3 Reproduct venti ‘ticati
+ine Daaae ERTS TE) Scientific classification ¥
+Espafol 5 Relation to humans
+Frangais cpa Arai 5.1 Classical interpretation
+cee Phylum: Chordata BA AOE
+ea Glass: Actnoptergi 5. capity
+6 References Clade: Percomorpha Tieng viet
+7 Further reading $x Order: __Lophiiformes
+@ External links 1905! Sedgwick et. al,
+OO Linnaeus, 1758
+Anglerfish first grouped the family of Acanthopterygians with “pediculate pectoral [finjs" (pectorales pédiculées) by were in .
+nonyms
+enon Animal: the edition of Régne being characterized by of their pectorals, Cuvier 1829 Le "a sort supporting in possessing arm
+| formed by elongated carpal bone". placed the Lophius (incl. Lophius piscatorius), Chironectes/Antennarius Pediculati Miller, (pro parte) Cuvier 1839 an genera
+family.©) incl. subspecies of Lophius histrio), Malthe (incl. Lophius vespertilio), and Batrachus within this various
+fish),™! eventually truncated Pediculati Pediculata (pediculate these being used classify anglerfish to into or names
+| 1970s,!"4] use.!*8) through Though this publications late the Pediculati has fallen of 1926. out term saw use in as as
+j 1899;°! The Lophidia conceived by Samuel this subdivided the Lophioids (incl. Garman into group was in group was
+Lophius, Lophiomus, Melanocetus, Dolopichthys, Chaunax, and Chaunacops) and the Halieutoids (incl. Oncocephalus, . ] Z
+0 | \ Halieutaea, Halieutella, Halieutichthys, Halieutopsis, Halicmetus, Dibranchus, Dibranchichthys, and Malthopsis) based on y=
+Me base.!2°) Pediculati.!! Gees the of the ilicium's Lophiiformes that being suborder of orientation By 1905. at time into came use. a es
+| 1926." 1970s,!14] use.!1°] through Though this publications late the Pediculati has fallen of out term saw use in as as
+NE re.
+, base.°! Pediculati.1 the of the ilicium's Lophiiformes that being suborder of Soe orientation By 1905, at time into came use, a ee
+Rr. ck Classification exit)
+(2025):!241 The following classification based Eschmeyer's Catalog of Fishes is on Zs y
+{e Suborder Lophioidei a Regan, 1912 #
+“Sy Family Lophiidae (monkfishes and goosefishes) Rafinesque, 1810 «
+Suborder Ogcocephaloidei Pietsch, 1984 *
+Family Ogcocephalidae (batfishes) Gil, 1893 +
+Suborder Antennarioidei Regan, 1912 #
+(frogfishes)!22) Family Antennariidae Jarocki, 1822 * es
+pases Subfamily Fowlerichthyinae (Fanfin frogfishes) Maile, Smith & Davis, 2025 ‘+
+Subfamily (Fibonacci frogfishes) Antennariinae Jarocki, 1822 * -
+Subfamily Lophichthyinae (lophichthyin frogfishes) Boeseman, 1964 *
+Subfamily Tathicarpinae (longfin frogfishes) 5 Hart, Amold, Alda, Kenaley, Pietsch, Hutchinson & Chakrabarty, 2022 Pediculati plate, Le Regne Animal #
+Toadtish (Batrachoididae) such as Subfamily Tetrabrachiinae (tetrabrachiid frogfishes) Regan, 1912 #
+Batrachoides (middle) surinamensis are no
+Subfamily Histiophryninae (starfingered frogfishes) Amold & Pietsch, 2012 * ienapennedered eines Seanderiath
+Subfamily Rhycherinae (Balrog frogfishes) Hart, Amold, Alda, Kenaley, Pietsch, Hutchinson & Chakrabarty, 2022 ‘*
+Subfamily Brachionichthyinae (handfishes) Git, 1863 #
+Suborder Chaunacoidei Pietsch & Grobecker, 1987 #
+Family Chaunacidae (gapers toads) Gil, 1863 or sea +
+Suborder Ceratioidei Regan, 1912 *
+Family Caulophrynidae (fanfins) Goode & Bean, 1896 «
+Family Neoveratiidae (spiny seadevils) Regan, 1926 +
+Family Melanocetidae (black seadevils) Gil, 1878 +
+Family Himantolophidae (footballfishes) Gil, 1861 +
+Family Diceratiidae (double anglers) Regan & Trewavas, 1932 +
+Family Oneirodidae (dreamers) Gil, 1878 +
+Family Thaumatichthyidae (wolftrap anglers) Smith & Radcife, 1912 «
+Family Centrophrynidae (prickly seadevils) Bertelsen, 1951 «
+Family Ceratiidae (warty seadevils) Gil, 1861 +
+Family Gigantactinidae (whipnose anglers) Boulenger, 1904 «
+Family Linophrynidae (leftvents) Regan, 1925 +
+Alternatively, Lophiiformes be treated clade within Acanthuriformes; defines Lophioidei equivalent the of Lophiiformes (the 2025 to conception may as a paper as prior one
+below).!25! depicted above) and the suborders infraorders (as Below phylogenetic the left phylogeny elaborates the relationships of converts two into trees; seen are on
+Ecology,”“! the suborders within Lophiiformes Pietsch and Grobecker's Frogfishes of the World: Zoogeography, and Behavioral while the set 1987 Systematics, out as in
+right phylogeny based the study, where Maile al combines the analysis of Ultra-Conserved Elements (UCE)s, mitochondrial and morphological 2025 et DNA, is on
+‘Antennarioidel Lophioideo
+Lophilformes| Acanthuriformes ‘Chaunacoidei Antennarioideo
+Ogcocephaloidei Lophioidei(sensu Maile et. Ogcocephaloideo
+Ceratioidel Chaunacoideo
+Ceratioideo
+Tetraodontiformes,”3! Phylogenetic studies have consistently recovered the Lophiiformes the with both within the larger clade Acanthuriformes of to sister-group as as
+basisphenoid.25) gill along with the absence of multiple skeletal elements, such the anal fin, ribs, nasals, and supporting openings, as spines
+Evolution [eait}
+The earliest fossils of anglerfish from the excavated from the Bolea formation of italy, and these already show evidence of diversification the Eocene, Monte into are
+order.®! modern families that make the this, and their close relationship the Tetraodontiformes which known from fossils, they likely originated Given to Cretaceous up are
+Cretaceous.271I28] during the
+mitochondrial phylogenetic study suggested the anglerfishes diversified short period during the early mid-Cretaceous, between and million 42010 to 130 100 genome in a
+ago.”4] ago.’”8! reduces this the between and million Other studies indicate that anglerfish only originated a 2023 time to Late Cretaceous, 92 61 preprint years years
+shortly after the Cretaceous-Paleogene of adaptive radiation of percomorphs, although this clashes with the diversity already part extinction event extensive as a massive
+Eocene.”8ll2°I known from the by the study found that all anglerfish suborders likely diverged from another during the and q 2024 Late Cretaceous most group one
+Paleocene, but the multiple families of deep-sea anglerfishes (Ceratioidei), well their trademark sexual originated during the rapid radiation Eocene parasitism, as as in a
+maximum.!°! following the Paleocene-Eocene thermal adaptations different of depths have driven the evolution of anglerfish and families to ranges may species in
+prehistory.231
+follows:94S21I331341 Anglerfish the fossil record appear in as
+Paleocehe Eocene Miocene Oligocene | | Plio.| Peis}
+Paleogene Neogene a
+(a Time milion yoars)
+/7alerish defined by gils that behind the pectoral fins (as opposed other fish whose pectorals lay behind the gil to are open SPRING ee)
+yy ie x: FRA oF opening), depressible teeth that hinge back, of the bone, the form ofthe pectoral fin radials, and the luring MN epiotic é joints can
+NG. na & 95123) By (see subsection) Ky, 1 apparatus
+x2 Vy in).'5] WA Anglerfish lengths from (1-7 in), with few larger than (39 The largest members 2-18 100 can vary cm a species cm Koch ee ep
+Tehs yall the monifish Lophius (200 (6.6 fi kilograms (127 lb)), the deep-sea anglerfish Sms European piscatorius SL, 7.7 warty are om
+P| holboelli (120 (3.9 ft) TL), the frogfish (45 (1.48 ft) TL), and the triangular Ceratias Antennarius giant * giant cm commerson cm Je) Ky
+bli fe batfish Malthopsis (13.6 (0.45 ft). ae gigas cm | -
+MG oe suborders sexually dimorphic, with the deep-sea anglerfish being the example; male holboelli Many extreme C. most are can
+TL," each (6.3 in) long (SL), while females commonly around (2.53 ft) potentially 16 centimetres 77 centimetres to up are © The sargassumiish (Histo histrio, upto.
+mate.'*1l421 ‘weighing order of magnitude than her Male Photocorynus measured be 6.2-7.3 20 (7.9 in) TL) frogfish well-adapted to an more spiniceps were mm cm is a
+to live among sargassum (0.24-0.29 in) and claimed be the smallest vertebrate known. due being free- at to However, maturity, at time to not were one
+living (being males) and the females being (1.99 in), they often excluded from the 50.5 parasitic mm are now
+{431l441(45146] records. sexual dimorphism pronounced other suborders; the Lophiid monkfish Lophiodes similar between the genders not quite is as in genus are in size
+SL),47! (Mean for Males millimetres (4.4-5.2 in) Females millimetres (5.2-6.7 in) and the for Lophius itself (Males 113-133 SL; 131-171 68.50-129.50 true same is
+seaweed.*! Anglerfish generally ambush predators, with shallow-water such frogfish often camouflaging rocks, blend with the To are species as as sponges or in
+brown,!*#libeter needed) source featureless dark depths they inhabit, deep-sea anglerfish dark colored, with from tints to are ranging grey
+wide mouth extends all around the (front) circumference of the head, and bands of inwardly inclined teeth line both The teeth be In anterior most species, a jaws. can
+/S"llbeter needed] source depressed (swept back) offer impediment gliding towards the stomach, but still anglerfish able to to prevent its to to so as no prey escape are
+distend both their and stomach their bones thin and flexible, which allows them swallow large their twice entire to to to jaw enormous size, since are prey up as as
+bodies, S5llbetter needed] source
+This needs section expansion
+with: these references ilicial on
+821531, muscles: You help $8 can
+by adding information. missing
+prey.®! All anglerfish and thus adapted for the of character shared by all anglerfish suborders capture 4 are carnivorous are
+the of “lure” "bait", unambiguously referred the The the of fin modified from the to tip is presence a or as esca. esca is a ray,
+4 (foremost) dorsal fin; this fin-ray often referred the “fishing rod” “fishing line”, and scientifically termed anterior to is as or is }
+‘4 ee. doo jIliminym Tha illieial nf the ilinial mtaruminmitnre the “inne” nf the etrantrirs) falleanarl bay cemmre? amtire ammaratiie pamejcte a
+by information. adding missing
+a SO the ilicium. The ilicial of the illicial pterygiophore (the "base" of the structure), followed by second entire apparatus consists a oy
+as short dorsal and tipped with the bone of the ilcium which ends with the this appendage slot into spine, esca proper; may a
+ARIS apparatus.©1!5349 that accommodates all of the illicial Both the and illicium used tandem lure part to groove or esca are in
+prey.“ The illicium’s length highly variable from being visible all around 4.9 not at to is across species, in some species, S
+wr in)).©4-469561 (over the length of the of the body) (body length (13.9 SL 4 Gigantactis 354 times times rest in macronema mm
+The illicial notable the deep-sea anglerfish (Ceratioidei) their bioluminescent bacteria, apparatus most contain is in as esca
+hh © Striated frogfish (Antennarius striatus), (STISEHESI55) oth dit jy
+making them glow the dark of the deeper pelagic waters other species different in zones. In the esca possesses repaying he wormmke atthe let top esca
+luring mechanisms, such odoriferous chemicals that olfactory-driven (batfish, Ogcocephaloidei, emitting attract as prey
+possibly toads, Chaunacioidei), by resembling small fish such shrimp (frogfish, attractive to sea or prey as or worms
+both.'°51(601541:263 Antennarioidei). When the close enough, the anglerfish catches feeding, elongated sharp teeth, yyhile reported it suction sometimes to prey is using or
+feature.!°°S!] bioluminescent toads lack bioluminescent bacteria and do actually this not possess a esca, sea possess
+least the triplewart seadevil, the illicium moved back and forth by five distinct of muscles: namely the shorter and depressor muscles that dictate In at erector is pairs
+pterygiophore.!©2) of the illicial bone, along with inclinator, and muscles that aid of the movement protractor, retractor motion
+Behavior [eait)
+with: Merging be preferrable, may
+but let's if it see anyone can save 3
+You help by adding can missing
+information. (May 2025)
+The “anglerfish" derives from the characteristic method of predation. Anglerfish typically have species’ at name
+least long filament from the middle of their heads, termed the illicium. The illicium the detached sprouting one is
+and modified first three of the dorsal fin. anglerfish the longest filament the In anterior most spines species, is
+first. This first protrudes above the fish's and irregular growth of flesh (the esca), terminates spine eyes in an -
+Say, and all directions. Anglerfish wiggle the make resemble animal, which lures to it can move in can esca a prey \
+si ~. ey whole.'©3! Dig the anglerfish's close enough for the anglerfish devour them deep-sea anglerfish of the Some to prey
+EO) prey.) bathypelagic also light from their emit to attract zone esca
+anglerfish foragers, they show of preferred with fish the of Because opportunistic at extremes are a range prey
+the whilst showing increased selectivity for study the stomach One spectrum, certain size prey. examining
+© Skeleton of the anglerfsh Lophius The frst primarily of benthic and teleost fish. The frequent pandalid piscatorius: ate two categories crustaceans most prey: prey were
+GCC Ge I STOEL shrimp, of the stomachs examined the observations that anglerfish low 52% empty, supporting were are energy
+{891 1861 consumers.
+Movement and conservation energy [cit]
+All anglerfish weak including the pelagic deep-sea anglerfish. Demersal often "walk" the bottom eee ai... fen See are swimmers, species on
+"@ afl a 31551 Ao ee their pectoral and pelvic fins. The pelvic fins lost the deep-sea anglers. upon were in ay
+OY SONS <== The deep-sea anglers often drift without actively observation of female Oneirodes and whipnose anglerfsh So) n sity swimming;
+De WS they eS (from ROVs) recorded that they often passively float place but observed current, sometimes to attemptto in or in a were
+oe see] Eee flee from the beating pectoral fins in-phase while undulating tail fin. The lethargic behavior of these ambush ROY, its its ee
+ees sea.{6711581 a Sa predators suited the of the deep Ne to environment is energy-poor
+er eee ee The and stomach of the anglerfish extend allow of the limited Because to it to to twice its jaw can consume prey up size.
+ee eee of food available the anglerfish’s this adaptation allows the anglerfish food when there amount environment, to store in is an es
+[tation needed] abundance © Red-lipped baitish "standing" onthe
+benthos
+The toad Chaunax endeavour has been observed gills for least around seconds and 26 4 to retain water its at to sea in up
+This behavior thought be thus the fish minutes to respiration in some cases. is an energy-saving measure as requires energy,
+beneficial.{°°) “holding breath" enough for such behavior be its to may conserve energy a
+with: information frogfish and on
+batish!™! You help %® spawning, can
+by information adding missing
+| The deep-sea anglerfish employ unusual method: because individuals locally between of mating encounters two an are rare, ——___—__—__—
+battisht”l You help 3% spawning. can
+the also and finding be problematic; this has led the development of sexual mate to same species are very rare, a can
+anglerfish, where the males latch their their mouths, which be suitable effective for mates parasitism onto not in using may or
+capture.'”4Jl42] when first started ceratioid anglerfish, they noticed that all of the scientists capturing prey specimens were
+female, and of these they had what appeared be attached them, which turned be highly to to parasites out to on some
+parabiosis.*4 dimorphic male ceratioids. This of the few of naturally of anglerfish, In instances is one occurring some species
+fusion between male and female when reproducing possible due the lack of keys that allow antibodies to system is immune
+T-cells.72) and for to mature create receptors
+Further information: Ceratioidei § Sexual parasitism
+a Linophrynidae: Haplophryne mollis
+it!25! The of all anglerfish enveloped by gelatinous sheath, which has multiple referring The of female anglerfish with males attached terms to spawn are a spawn
+the Lophius anglerfish of thin sheet of gelatinous material (10 in) wide and be longer than transparent 25 consists a cm may
+eggs.“""4®] (33 ft); this million The this sheet single layer, each 10 "egg mass" contain its m may over a eggs in are in a in
+The larvae pelagic and have the pelvic fins elongated filaments. thought that these effectively disperse their into It cavity. great own are is egg masses young over
+a area.!45I5° distances and large millimetres (3.0 in) female Linophryne arborifera, with millimetres (0.59 in) male, observed have 77 15 to parasitic a a was numerous
+embedded gelatinous (the raft" "veil") protruding from the genital the diameter, the largest known for "egg 0.6-0.8mm eggs in a mass or opening; eggs, in are among any
+Relation humans to [eait)
+Classical interpretation [ecit)
+the of Animals, Aristotle described the "Fishing-Frog" (one of the local Lophius like budegassa) example of In History L. piscatorius L. species, or as an a marine species
+well adapted their those equipped with devices” that alongside the Torpedo. noted that fishing-frogs that have lost “ingenious He to environment, it to capture uses prey,
+intact.!75(71231 their lure appeared be thinner than those still to
+As food [ecit)
+Lophiidae, marketed monkfish goosefish, of commercial with fisheries found North r-- Europe, eastern interest western as or are in
+Africa, and and North the tail of fish of the Lophius, known monkfish America, East Asia. In Europe America, meat genus as or ei
+goosefish (North America), widely used cooking, and often compared lobster tail and texture. to taste is in is in
+catches.!“*! Africa, the of Namibia and the Republic of South Africa record the highest especially In countries In Asia, Japan, ae
+ee delicacy.””) monkfish liver, known ankimo, considered anglerfish especially heavily consumed South where Korea, it as is a is in is
+as featured the ingredient dishes such Aguijim. as main in 4 I
+sme, ~ {78 a Northwest Lophius heavily fished and listed by the "outside safe biological limits" European ICES in 2010, species are are as
+= ed De Intemational added the angler (Lophius americanus), the angler (Lophius piscatorius), and the black-bellied Greenpeace American
+Ne angler (Lophius budegassa) seafood red lista list of fish commonly sold worldwide with high likelihood of being sourced its to a
+Wx A y 4 fisheries..7954I from unsustainable additionally, anglerfish known occasionally the surface during El Nifio, leaving large to to are rise
+7s surface.|78llrlevant7| of dead anglerfish floating the groups on
+* 4 eet Sn
+and Denmark
+—<_ batfish,®17) of anglerfish kept such frogfish and ™ Vv Various captivity, species are in as
+though these eB! mS all that inhabit shallow deep-sea anglerfish have waters; not are species
+eS been kept due the challenges of keeping them alive through and display that captivity capture, transport, to in a can
+Se, vy them. een repressurize A ?
+brackish-water oe po biocellatus known by the frogfish freshwater frogfish; being euryhaline, Antennarius it is common names or : ¥
+ae Ad ®» time,**1'®5) live freshwater for claimed be the sole of the anglerfish live sometimes to representative to can in some in
+A freshwater.5l aquaria,®®*! Like frogfish, has been displayed public though unlike the other A. it many in species
+aquarists.29) biocellatus kept home by sometimes private * are in aquaria
+a A. biocellatus in aquascape
+References [exit]
+4 These being Ogcocephalus vespertii, Ceratias holboelh, Lophius and Chaunax The of the Antennarius needs clarification piscatorius, pictus. type a. species genus
+108) BZULSILAIASIL6]I7 A ¢,
+°#© 1.48 Sedgwick, Adam; Lister, Joseph Jackson; 28, Miller, Elizabeth Christina; Faucher, Rose; Hart, 57. 4 "Our Work Pacific Footballfish" 2. calacademy.org.
+California Academy Shipley, Arthur Everett (1898-1909), 4 student's Pamela B.; Rincon-Sandoval, Melissa; Santaquiteria, of Sciences. text-
+ook of zoology. Vol. I. London: Swan Aintzane; White, Wiliam T.; Baldwin, Carole C.; Miya, 58, * Freed, Lindsay L.; Easson, Cole; Baker, Lydia J.;
+Coppanechein and 04% Retrieved 29 March: Macaki: Betancir2 Birardn (20 Octoher 2092) omnia Pamta: Crttam TramayT: Kham Vecmin eo n
+Adam; 4 "Our Work Sedgwick, °¢© 1.88 Lister, Joseph Jackson; 28, Miller, Elizabeth Christina; Faucher, Rose; Hart, 57. Pacific Footballfish" 2. calacademy.org.
+T.; Sonnenschein and 245, Retrieved 22 March Masaki; Betancur-R, Ricardo (20 October 2023), Fenolio, Danté; Sutton, Tracey Khan, Yasmin; co. p.
+2025, Tory A.; Phylogenomics reveals the deep Blackwelder, Patticia; Hendry, Lopez, Jose V. ocean as an
+evolutionary diversification accelerator for 2. 8 Froese, Rainer; Pauly, Daniel (eds.). "Order in (1 October 2019). "Characterization of the microbiome
+, anglerfishes doi10.1101/2023.10.26.564281 12, Lophitformes 2, FishBase. February 2006 and bioluminescent symbionts life of stages version. across
+29. Alfaro, Michael E.; Faircloth, Brant C.; Harrington, Microbiology Ecology. 95 (10) fz146. 1830), Le animal distribué ctapres régne son
+de Richard C.; Sorenson, Laurie; Friedman, Matt; doi:10.1093/femsecifiz146 ISSN 0168-6496 servir base histoire naturelle cz. 2 organisation, pour @
+Cemy, 67784163, Thacker, Christine E,; Oliveros, Carl H.; David; PMC PMID 315044652 des cintroduction 'anatomie et animaux &
+J. A G.; Near, Thomas (2018). "Explosive diversification of comparée (in French) (Nouvelle éaition et 9, Baker, Lydia J; Freed, Lindsay L.; Easson, Cole rev.
+fishes the Cretaceous-Palaeogene ed,). Paris: Paris Chez Déterville. 249-254. at Lopez, Jose V:; Fenolio, Danté; Sutton, Tracey T:; marine aug. pp.
+@. & A. boundary" Nature Ecology Evolution. 2 (4): 688— Retrieved 21 March 2025 Nyholm, Spencer V; Hendry, Tory (1. October
+696, Bibcode:2018NatEE...2.688A2. 2019). "Diverse deep-sea anglerfishes share 4,4 Cuvier, Georges; Griffith, Edward; Smith, Charles a
+doi:10.1038/541559-018-0494-6 ISSN 2397- 2, genetically reduced luminous symbiont that Hamitton (1827-1835). The CLASS PISCES: is
+2, 334X PMID 2953134622 acquired from the eLife. 8 647606. environment" 2, arranged by the Baron Cuvier, with supplementary
+: 12 doi:10.7554/eLife.47606Q. 30. 4 Brownstein, Chase D.; Zapfe, Katerina L.; Lott, ISSN 2050-084X additions 2. The animal kingdom arranged in
+Ava; 6773444. ‘Spencer; Harrington, Richard; Ghezelayagh, PMC PMID 31571583 (2, conformity with / Alternative: its organization
+60.*@ Dornburg, Alex; Near, Thomas J. (2024). "Synergistic Classified index and of the animal kingdom, Mundy, Bruce (6 January 2021). "The Mysterious synopsis
+enabled the radiation of anglerfishes Uniform: Ragne animal (Translation, with adaitions, innovations Identity of the Bright-Red Sea Toad" in
+the deep ocean". Current Biology. 34 (11): of Le régne animal.) (the First ed.. London: for G.B, ‘isheries.noaa.gov. National Oceanic and open
+2541-2550.e4, Bibcode:2024CBio,..24.25418 Whittaker. 245-250, Retrieved 22 March 2026. c2 ‘Atmospheric Administration, Retrieved 22 March pp.
+PMID 3878870812. animal kingdom: arranged conformity with 61. 4"An alluring fish: The deep-sea anglerfish couch its in is a
+31. * Sepkoski, Jack (2002). "A compendium of fossil (the First ed.). New York: G.&C.&H. potato's hero" annualreport.mbariorg. Retrieved organization .
+animal genera’ Bulletins of American Carvill. 183-186. Retrieved 22 March 2025. 2. 22 March 2025, marine pp.
+Paleontology. 364: 560. Archived from the original 6.4 Miller, J.P. (1839). Abhandlungen der Kéniglichen 62. 4 Shimazaki, Mitsuomi; Nakaya, Kazuhiro (1 February
+23 July 2011. Retrieved 17 May 2011. (on ‘Akademie der Wissenschaften Berlin 2. Beri 2004). "Functional ofthe luring of anatomy apparatus zu
+Deutsche Akademie W. T. 32. * Camevale, Giorgio; Theodore Pietsch; Gary der Wissenschaften, 249. the deep-sea ceratioid anglerfish Cryptopsaras p.
+Takeuchi; Richard W. Huddleston (2008). "Fossit Retrieved 22 March 2025. (Lophitformes: Ceratidae)".lohthyological coves
+Ceratioid Anglerfishes (Teleoste: Lophiformes) from Research. 1 (1): 33-37. 7.8 *Pediculati Mindat.org. Retrieved 22 March et.
+2025. California") the Miocene of the Los Angeles Basin, Bibcode:2004IchtR..51...238 dot:10.1007!s10228- 2.
+(PDF), Journal of Paleontology. 82 (5): 996-1008. (003-0190-6:2. ISSN 1616-3915 12 8. 9 *Pediculati plural e. noun’ wwwmerriam-
+(7. Bibcode:2008JPal...82..996C doi:10.1666/07- 2. ‘S2CID 21508894 webster.com. Merriam-Webster. Retrieved 22 March
+Archived 2025, 113.122, S2CID 1299267762. from the 63. 4 Smith, William John (2009). The Behavior of
+4 e2. original (PDF) 3 March 2016. Retrieved on Communicating: ethological approach Harvard an 9. “order pediculati"e2, wordinik.com. Wordnik,
+27 October 2022. University Press. 381. ISBN 978-0-674-04379-4. p. Retrieved 22 March 2025.
+by _-33:* Giorgio Carnevale; Theordore W. Pietsch (12 June “Others rely the technique adopted wot on a in 10. "Pediuate Defntion” wwmmyouraictonary.com, ct.
+2008), "The deep-sea anglerfish genus ‘sheep's clothing—they harmless mimic a species... LoveToKnow Media. Retrieved 22 March 2025
+prey's Le ‘Acentrophryne (Teleostel, Ceratioidel, Linophrynicae) ther predators their *#° even mimic prey. 11. Danois, Yseult (1976). Poissons Pédiculates
+G4 of California" the Miocene of (PDF). Journal anglerfish (Lophilformes) and alligator in Chaunacidae snapping Haploptéryoiens: Lophidae (PDF). et
+Vertebrate Paleontology. 29 (2): 372-378. turtles Macroclemys temmincki wriggle fleshy can Paris: Muséum National D'Histoire Naturelle,
+doi:10.1671/039,029.0232.2, ISSN 0272-4634 ¢ outgrowths of their fins tongues and attract small or Labotatoie dehthyologle Generale et Applquee.
+4 Extraordinary Animals: (1863). 34.“ Nazarkin, Mikhail V.; Theodore W. Pietsch (2020). 64, Piper, Ross (2007). An 12. 4 Gill, Theodore “Descriptions of Some New
+Unusual Animals, ‘A fossil dreamer of the Oneirodes Encyclopedia of Curious and genus ‘Species of Pediculati, and the Classification of the on
+Ceratioidei) of (ophiformes: from the Miocene of Greenwood Press Group. Proceedings of the Academy Natural
+@. Sakhalin Island, Russia’ Geological Magazine. 157 65. Espinoza, Mario; Ingo Wehrtmann (2008). Sciences of Philadephia. 15: 82-92.
+(@): 1378-1382. Bibcode:2020Ge0M. 157.1378N ct “Stomach analyses ofthe threadfin anglerfish content JSTOR 4059748 22.
+7, ol:10.1017/50016756820000588 Lophiodes spiturus (Lophiiformes: Lophiidae) 413. * Annandale, Nelson; Jenkins, James Travis (1909-
+7. S2CID 225386060 Retrieved 27 October 2022. associated with deepwater shrimp fisheries from the 41910). Report the fishes taken by the Bengal on
+44© 35, Magbilang, Lila; Olson, Danielle. "Anglerfish central Pacific of Costa Rica" 2. Revista de Biologia fisheries "Golden Crown."(. Calcutta: Indian steamer
+22 Lure Prey Throughout the Ocean’ 2. ocean.si.edu. Tropical. 4. 56 (4): 1959-70, Museum. 17-21. Retieved March 2028, pp.
+doi:10.15517/rbt.v56i4.5772. ‘Smithsonian National Museum of Natural History. PMID 19419094 «2. 414.4 Jackel, Otto (1911). Die Wirdettire: Ubersicht eine
+Retrieved 22 March 2025, Retrieved 4 October 2013. Uber die fossilen und lebenden Formen 2. Berlin:
+36,0464 Anglerfsh’ct. National Geographic. 10 66. 4 Yasugi, Masaki; Hori, Michio (June 2016). Verlag Gebriider Borntraeger. Retrieved 22 March
+2025 ‘September 2010, Retrieved 28 February 2019. “Predominance of parallel and cross-predation in
+anglerfish". 37. 8 Froese, Rainer; Pauly, Daniel (eds.). "Lophius Marine Ecology. 37 (3): 576-587. 15. 4 Regan, CT. (1912), "The classification ofthe
+FishBase. Bibcode:2016MarEc..37..576Y piscatorius" 2. 2. teleostean fishes of the order Peciculat'es, Annals
+12 94 doi:10.1111/maec.12309 38, Froese, Rainer; Pauly, Daniel (eds.). "Ceratias ‘and Magazine of Natural History. Series 8. 9 (61):
+holboell 2. FishBase. 67. Luck, Daniel Garcia; Pietsch, Theodore W. (4 June 277-289, doi-10,1080/00222031208603132 2
+2008). “Observations of Deep-sea Ceratioid 39. 4 Froese, Rainer; Pauly, Daniel (eds.)."Antennarius a 416. 4 Regan, Charles Tate (2 February 1925). "Dwarfed
+Anglerfsh of the Genus Oneirades (Lophiiformes: commerson” FishBase. 2. males the females angler- parasitic on in oceanic
+Oneirodidae). Copeia. 2008 (2) 446451 40. Froese, Rainer; Pauly, Daniel (eds). "Malthopsis fishes (Pedlculaticeratioideay' Proceedings ofthe «2.
+2. doi:10.1643/CE-07-075 S2CID 5529785212. gigas’. FishBase Royal Society of London. Series B, Containing Papers
+2. doi:10.1643/CE-07-075 S2CID §529785202. 2. FishBase. gigas" Royal Society of London. Series B, Containing Papers
+a 4° 68. Moore, Jon A. (31 December 2001). "Upside-Down 41. Pietsch, Theodore W. (August 2005), of Biological Character. 97 (684): 386-400.
+8. ‘Swimming Behavior Whipnose Anglerfish Dimorphism, and revisited: modes of in a doi:10.1098/rspb.1925,0006 parasitism, sex
+(Teleostel: Ceratioidet: Gigantactinidae)". Copeia. 4 reproduction deep-sea ceratioid anglerfishes among 17. Breder Jr, C. M. (1926). Heterosomata Pediculati to
+2002 (4): 1144-1146. doi:10.1643/0045- Lophiiformes)". (Teleostei: Ichthyological Research. from Panama Lower California, the Bulletin of the to in
+69. Mellan Solly (1 July 2019). "Coffinfish Can Hold 899812. Retrieved 1 March 2025 22 March 2025.
+42,» Their Breath for Up Four Minutes the Ocean to isakov, Noah (2022). "Histocompatibility and on 418. 4 Regan, C. Tate (1926). Pediculate fishes of the
+Floor" Smithsonian Magazine. Retrieved 22 March 2. Reproduction: Lessons from the Anglerfish" 2. Life. suborder Ceratioidea. Danish Dana Expeditions.
+70.*# doi:10.3290/Kf6120101139. Christie, Barrett L.; Montoya, P. Zelda; Torres, ISSN 2075-17292. 419.» Pietsch, T. W.; Bauchot, M. L; Desoutter, M. (1986).
+3. Lyssa 8780861 A. Foster IV, John W. (2016). "THE NATURAL PMC PMID 35054506 2. “Catalogue des de Poissons du ortque types
+HISTORY AND HUSBANDRY OF THE WALKING 43, 4 "Scientists find ‘smallest fish’. BBC News. 25 Muséum national d'Histoire naturelle"e2, Bull. Mus.
+BATFISHES (LOPHIIFORMES: January 2006. Retrieved 23 May 2010. Natn, Hist, Nat, Paris. 4 (8). Retrieved 22 March
+2. 2028, OGCOCEPHALIDAE)". Drum and Croakert?. Vol. 47. 44, \ "What the smallest of fish?" is species
+7-40. Retrieved 15 May 2025. pp. ‘Amonline.net.au. 27 September 2013. Archived from *4 20. Garman, S. (December 1899). "Memoirs of the
+cz 71. 4 Pietsch, Theodore W. (8 March 1972). "A Review of the original 20 February 2009. Retrieved on Museum of Comparative Zodlogy, Harvard College, at
+the Monotypic Deep-Sea Anglerfish Family 3 October 2013. Cambridge, Mass"2. Harvard University. Museum of
+:*. ‘Centrophrynidae: Taxonomy, Distribution and 45. 4 "Smallest fish for honours" BBC News. compete Comparative Zoology. XXIV: 75-107. Retrieved
+2. (2. dot:10.2307/1442779 JSTOR 1442779 46. 4 "Bragging Rights: The Smallest Fish Ever | 21.4 Fricke, R.; Eschmeyer, W. N.; Van der Laan, R.
+72. * Deep-sea anglerfishes have evolved of type a new LiveScience" Live Science. Archived from the 2. (2025), "ESCHMEYER'S CATALOG OF FISHES:
+c? system immune original 6 July 2008. on CLASSIFICATION" 2. California Academy of
+73, “Prince, E. E. 1891. Notes the development of the on 47. 4 Pietsch, Theodore W.; Ross, Steve W.; Caruso, Sciences. Retrieved 10 February 2025.
+angler-fish (Lophius piscatorius). Ninth Annual Report John H.; Saunders, Miles G.; Fisher, Charles R. 22. 4 Maile, Alex J.; Smith, W. Leo; Davis, Matthew P. (2
+of the Fishery Board for Scotland! (1890), Part I (December 2013). "In-Situ Observations of the Deep- May 2025). "A otal-evidence phylogenetic approach
+343-348, Goosefish Sladenia shaefersi Caruso and Bullis sea understanding the evolution, depth and to transitions,
+74, ‘ Bertelsen, E (1980). "Notes Linophrynidae 8: (Lophiiformes: Lophiidae), with Evidence of Extreme on a body-shape changes the anglerfishes and allies in
+of the deepsea anglerishes of the revision Sexual Dimorphism”c2. Copela, 2013 (4): 660-665 (Acanthuriformes: Lophioidel)" PLOS ONE. 20 (5) 2.
+cz. Linophryne arborifera-group (Pisces, Ceratoidei)" 2. doi:10.1643/CI-13-023 2. Retrieved 22 March 2025. 20322369. Bibcode:2025PLoSO..2022369M
+. Retrieved 2 March 2025. 12047784 R; Sampedro, P; Costas, G; Torres, M. A; Cans, L 62032. PMC PMID 4031528012.
+75. 8 Thompson, D'Arcy Wentworth (transl). "Part 37 of 8@bedefg hi (October 2008). "Lophius the world: synthesis in a on 23, jaile, Alex J.; Smith, W. Leo; Davis,
+ct. The History of Animals By Aristotle" 2. the features and life strategies’ ICES common Matthew P. 2 May 2025). "A total-evidence
+classics.mit.edu. MIT. Retrieved 15 May 2025. Journal of Marine Science. 65 (7): 1272-1280. phylogenetic approach understanding the to
+3. Aristotle" doi:10.1093/icesjmssisn140 76. \"The History of Animals 2. evolution, depth and body-shape changes transitions,
+tnisagionseraph.tripod.com. Retrieved 15 May 2025. 49, 4 Pembury Smith, Matilda Q. R.; Ruxton, Graeme D. the anglerfishes and allies (Acanthuriformes: in
+77. "The world's 50 best foods" CNN. CNN Travel (2020). "Camourage predators" Biological zt. :2. Lophioide')’ 2. PLOS, 20 (5) €0322369, in
+2. 120477843. ISSN 1464-7931 2. PMID 324102972. How overfishing changing the world and what PMC PMID 40315280 is we
+2. © 24.*80 S2CID 218649415 eat. London: Ebury Press. ISBN 978-0-09-189780-2. Miya, Masaki; Pietsch, Theodore W; Orr,
+“4” @ 50. One of the preceding 79. 4 Greenpeace sea-food red list James W; Amold, Rachel J; Satoh, Takashi P; or more
+sentences incorporates from publication text Shedlock, Andrew M; Ho, Hsuan-Ching; Shimazaki, a now in 0, A "Frogfish Antennariidae Lophilformes" 2.
+the public domain: Chisholm, Hugh, ed. (1914). Mitsuomi; Yabe, Mamoru; Nishida, Mutsumi (1 aquariumorpacific.org. Aquarium of the Pacific.
+angler". Encyclopeedia Britannica. Vol. 2 (Lith ed.) January 2010), "Evolutionary history of anglerfishes Retrieved 15 May 2026.
+‘Cambridge University Press. 16. (Teleostei: Lophiiformes): mitogenomic p. 81, 4"Deep-sea anglerfish Order Lophilformes" a 2.
+*4064€ BMC Evolutionary Biology. 10 (1): 58. 51. pietsch, Theodore W. (2009). Oceanic perspective” 2. montereybayaquarium.org. Monterey Bay Aquarium.
+Bibcode:20108MCEE..10..58M dok:10.1186/1471- anglerfishes: extraordinary diversity the deep ez. in sea. Retrieved 15 May 2025.
+3. 3. 2148-10-58 2836326 PMC PMID 20178642:2. Berkeley: University of California Press. ISBN 978-0- 2, A*Black seadevil anglerfish Melanocetus
+2 520-94255-4, OCLC 1298208235 25. 4 Ghezelayagh, Ava; Harrington, Richard C.; Burress, johnsonii"e2. montereybayaquarium.org. Monterey
+Bay °° Edward D.; Campbell, Matthew A.; Buckner, Janet C.; 52. Hagio, Hanako; Nishino, Hirotaka; Miyake, Aquarium. Retrieved 15 May 2025.
+Chakrabarty, Prosanta; Glass, Jessica R.; McCraney, Kenta; Sato, Nene; Sawada, Kel; Nakayama, 83, 4°Fanfin anglerfish Caulophryne sp"
+\W. Tyler; Unmack, Peter J.; Thacker, Christine E.; ‘Tomoya; Yamamoto, Naoyuki (October 2024). "Fish ‘montereybayaquarium.org. Monterey Bay Aquarium.
+Alfaro, Michael E.; Friedman, Saran T.; Luat, William That Fish for Fish-A Peculiar Location of "Fishing Retrieved 15 May 2025.
+8; Cowman, Peter F; Friedman, Matt; Price, Motoneurons’ the Striated Frogfish Antennarius in 84, 4 Leander, N.J.S.; Torres, A.G.; Capull, E. (2022).
+Alex; Samantha A; Dorburg, Faircloth, Brant C.; striatus" &. J Comp Neurol. 532 (10) 25674. “Antennarius biocellatus” IUCN Red List of c2.
+“4 "Prolonged morphological of spiny-rayed 53. Last, Peter R; Gledhill, Daniel (October 2009). "A expansion doi:10.2305/IUCN.UK.2022-
+fishes following the end-Cretaceous”. Nature Ecology of the Australian handtishes (Lophiiformes: LLRLTS.719630442443685.en. revision Retrieved 27 March
+6 (8). with of & Evolution. Nature: 1211-1220, Brachionichthyidae), descriptions three new 2024.
+Bibcode:2022NatEE...6.1211G and species" 2. Zootaxa. 2252. genera nine new 85, / Andréfouét, Serge; Chen, Wel-Jen; Kinch, Jeff;
+doi:10.1038/s41559-022-01801-32. doi:10.11646/zo0taxa.2252.1.1.. Retrieved Mana, Ralph: Russel, Barry C.; Tully, Dean: White,
+(MAIN TIgT, Peter, Near, TOMAS J. (26 Aly eUec). (GOP AU AUMEICHE. COO TS Gs PME esoneee Threatened Species. 2022 e.T196304A2443685.
+4 Evolution. 6 (8). Nature: 1211-1220, Brachionichthyidae), with descriptions of three new 2024.
+2. & PMID 35835827 24 March 2026. William T. (2019). "Antennarius biocellatus"
+:2 26. 4 Pietsch, Theodore W.; Camevale, Giorgio (2011). 54, ‘ Derouen, Valerie; Luat, William B; Ho, Hsuan- zenodo.org. doi:10.5281/zenodo.10447059
+"A New Genus and Species of Anglerfish (Teleostet: Ching; Chakrabarty, Prosanta (March 2015). Retrieved 15 May 2025.
+Lophiiformes: Lophiidae) from the Eocene of Monte “Examining evolutionary relationships and shifts in 86, 4 “Freshwater Frogfish (Antennarius biocellatus)" 2.
+@. Italy" Bolca, Copeia. 2014 (1): 64-71. depth preferences batfishes (Lophiiformes: in ‘aqua-imports.com, Aqua-Imports. Retrieved 15 May
+27. 4 Chanet, Bruno; Guintard, Claude; Bett, Ere; Gallut Bibcode:2015MoIPE. 84.2702. AHSBOMBEBM PARE LO 87.
+Y Cyril Dettal, Agnes; Lecointre, Guillaume (1 doi:10.1016/, ympev.2014.12.011 2. BGR. LIP 39, churaumi.okinawa (in
+‘September 2013). "Evidence for close phylogenetic PMID 2555452512 a Japanese). Okinawa Churaumi Aquarium. Retrieved
+relationship between the teleost orders 44 6"Science 55, Birds, Reptiles & Other Vertebrates, > 15 May 2025
+Tetraodontiformes and Lophiiformes based Fish anglerfish fish". brtannica.com. Britannica. on an > > gg, a 2ybj, Teresa. “Antennarus biocellatus (Cuvier,
+analysis of soft anatomy/Des donnees d'anatomie Retrieved 22 March 2025. 1817)'c. frogish.ch. Retrieved 15 May 2025.
+motte corroborent retroite parente entre 56. 4 "Genus: Chaunax, Frogmouths, Gaper, Gapers 2. gg. a “Search Results for: biocellatus" antennarius 2
+‘Tetraodontiformes Lophiiformes" Cybium. 37 (3) et 2. biogeoab. siedu. Smithsonian Tropical Research str ‘youtube.com. YouTube. Retrieved 15 May 2025,
+179-199. Institute. Retrieved 24 March 2025.
+Further reading [eait)
+Anderson, and Leslie, Robin of the deep-sea anglerfishes (Lophiiformes: Ceratioidel) of southern Africa. Ichthyological Bulletin of the M. Eric, W. 2001. Review & *
+Smith of Ichthyology; Smith of Ichthyology, Rhodes J.L.B. Institute No. 70. J.L.B. institute University
+External links [eait)
+of Life web Lophiiformes Tree project: «# aCe ae
+cS) Video (02:37) Anglerfish YouTube media related Lophioidei. to mating on * —
+Anglerfish lets them fuse with their (2020). Lu, D. system New Scientist 247, 19 mate. immune + -
+External videos
+1 Welrd Killer of the Deep YouTube -
+1 The anglerfsh: The original approach to
+deep-sea fishing i YouTube —
+15 30 reveal deep-sea anglerish’s scans
+huge final meal 2 YouTube —
+orders of Actinopterygii (ray-finned fish) Extant [show] vere
+7 Authority control databases [show]
+identifiers Taxon
+| | | Lophiiformes Bioluminescent fish Early first named by Samuel Categories: Extant Cretaceous Taxa Garman appearances
+This last edited 16 December 2025, at 07:05 (UTC). page was on

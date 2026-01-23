@@ -1,0 +1,1198 @@
+<!-- MODALITY: IMAGE
+METADATA: {
+  "path": "data\\image\\010_Narwhal.png",
+  "file_size": 4850575,
+  "image_width": 1280,
+  "image_height": 12060,
+  "ocr_engine": "tesseract",
+  "ocr_lang": "eng",
+  "tesseract_cmd": "C:\\Program Files\\Tesseract-OCR\\tesseract.exe",
+  "config": "--oem 3 --psm 6",
+  "min_line_conf": 30.0,
+  "line_count": 537,
+  "overall_bbox": [
+    11,
+    14,
+    1263,
+    11993
+  ],
+  "regions": [
+    {
+      "bbox": [
+        53,
+        14,
+        1263,
+        31
+      ],
+      "avg_conf": 63.0
+    },
+    {
+      "bbox": [
+        41,
+        49,
+        1256,
+        77
+      ],
+      "avg_conf": 64.75
+    },
+    {
+      "bbox": [
+        29,
+        94,
+        1253,
+        136
+      ],
+      "avg_conf": 30.0
+    },
+    {
+      "bbox": [
+        202,
+        153,
+        418,
+        165
+      ],
+      "avg_conf": 95.8
+    },
+    {
+      "bbox": [
+        28,
+        189,
+        509,
+        204
+      ],
+      "avg_conf": 92.0
+    },
+    {
+      "bbox": [
+        28,
+        219,
+        958,
+        237
+      ],
+      "avg_conf": 89.34782608695652
+    },
+    {
+      "bbox": [
+        28,
+        233,
+        1150,
+        256
+      ],
+      "avg_conf": 85.95238095238095
+    },
+    {
+      "bbox": [
+        1017,
+        255,
+        1226,
+        267
+      ],
+      "avg_conf": 65.33333333333333
+    },
+    {
+      "bbox": [
+        27,
+        254,
+        959,
+        285
+      ],
+      "avg_conf": 94.46153846153847
+    },
+    {
+      "bbox": [
+        28,
+        286,
+        924,
+        300
+      ],
+      "avg_conf": 45.75
+    },
+    {
+      "bbox": [
+        28,
+        299,
+        961,
+        330
+      ],
+      "avg_conf": 94.11111111111111
+    },
+    {
+      "bbox": [
+        28,
+        321,
+        975,
+        352
+      ],
+      "avg_conf": 92.21052631578948
+    },
+    {
+      "bbox": [
+        28,
+        353,
+        959,
+        376
+      ],
+      "avg_conf": 89.6
+    },
+    {
+      "bbox": [
+        28,
+        367,
+        1184,
+        393
+      ],
+      "avg_conf": 68.55555555555556
+    },
+    {
+      "bbox": [
+        28,
+        401,
+        1089,
+        419
+      ],
+      "avg_conf": 90.35
+    },
+    {
+      "bbox": [
+        28,
+        423,
+        974,
+        451
+      ],
+      "avg_conf": 89.8695652173913
+    },
+    {
+      "bbox": [
+        28,
+        444,
+        947,
+        471
+      ],
+      "avg_conf": 86.79166666666667
+    },
+    {
+      "bbox": [
+        36,
+        464,
+        968,
+        486
+      ],
+      "avg_conf": 87.5
+    },
+    {
+      "bbox": [
+        24,
+        485,
+        971,
+        516
+      ],
+      "avg_conf": 93.04347826086956
+    },
+    {
+      "bbox": [
+        27,
+        499,
+        1241,
+        552
+      ],
+      "avg_conf": 87.36363636363636
+    },
+    {
+      "bbox": [
+        28,
+        539,
+        383,
+        551
+      ],
+      "avg_conf": 95.28571428571429
+    },
+    {
+      "bbox": [
+        28,
+        569,
+        1223,
+        590
+      ],
+      "avg_conf": 91.46428571428571
+    },
+    {
+      "bbox": [
+        28,
+        591,
+        1190,
+        610
+      ],
+      "avg_conf": 83.04347826086956
+    },
+    {
+      "bbox": [
+        28,
+        614,
+        1232,
+        628
+      ],
+      "avg_conf": 91.79166666666667
+    },
+    {
+      "bbox": [
+        28,
+        631,
+        1239,
+        650
+      ],
+      "avg_conf": 82.86363636363636
+    },
+    {
+      "bbox": [
+        28,
+        652,
+        1234,
+        679
+      ],
+      "avg_conf": 60.333333333333336
+    },
+    {
+      "bbox": [
+        280,
+        673,
+        1206,
+        696
+      ],
+      "avg_conf": 57.0
+    },
+    {
+      "bbox": [
+        1041,
+        688,
+        1203,
+        699
+      ],
+      "avg_conf": 79.0
+    },
+    {
+      "bbox": [
+        28,
+        714,
+        1186,
+        730
+      ],
+      "avg_conf": 66.875
+    },
+    {
+      "bbox": [
+        36,
+        736,
+        1243,
+        756
+      ],
+      "avg_conf": 69.57142857142857
+    },
+    {
+      "bbox": [
+        28,
+        758,
+        1156,
+        789
+      ],
+      "avg_conf": 87.77777777777777
+    },
+    {
+      "bbox": [
+        27,
+        787,
+        1160,
+        808
+      ],
+      "avg_conf": 90.33333333333333
+    },
+    {
+      "bbox": [
+        27,
+        800,
+        1036,
+        831
+      ],
+      "avg_conf": 77.0
+    },
+    {
+      "bbox": [
+        27,
+        816,
+        1167,
+        848
+      ],
+      "avg_conf": 71.625
+    },
+    {
+      "bbox": [
+        236,
+        836,
+        1176,
+        867
+      ],
+      "avg_conf": 66.5
+    },
+    {
+      "bbox": [
+        24,
+        854,
+        1155,
+        887
+      ],
+      "avg_conf": 41.8
+    },
+    {
+      "bbox": [
+        56,
+        888,
+        1191,
+        919
+      ],
+      "avg_conf": 71.6
+    },
+    {
+      "bbox": [
+        11,
+        912,
+        1165,
+        941
+      ],
+      "avg_conf": 70.0
+    },
+    {
+      "bbox": [
+        28,
+        943,
+        1183,
+        962
+      ],
+      "avg_conf": 76.4
+    },
+    {
+      "bbox": [
+        236,
+        964,
+        299,
+        973
+      ],
+      "avg_conf": 91.5
+    },
+    {
+      "bbox": [
+        28,
+        966,
+        1197,
+        991
+      ],
+      "avg_conf": 69.2
+    },
+    {
+      "bbox": [
+        28,
+        987,
+        1120,
+        1002
+      ],
+      "avg_conf": 66.83333333333333
+    },
+    {
+      "bbox": [
+        1074,
+        998,
+        1173,
+        1009
+      ],
+      "avg_conf": 95.5
+    },
+    {
+      "bbox": [
+        27,
+        998,
+        286,
+        1029
+      ],
+      "avg_conf": 84.0
+    },
+    {
+      "bbox": [
+        27,
+        1024,
+        1194,
+        1041
+      ],
+      "avg_conf": 76.28571428571429
+    },
+    {
+      "bbox": [
+        28,
+        1046,
+        1163,
+        1062
+      ],
+      "avg_conf": 70.8
+    },
+    {
+      "bbox": [
+        32,
+        1076,
+        313,
+        1090
+      ],
+      "avg_conf": 73.16666666666667
+    },
+    {
+      "bbox": [
+        201,
+        1131,
+        290,
+        1150
+      ],
+      "avg_conf": 96.0
+    },
+    {
+      "bbox": [
+        201,
+        1150,
+        1103,
+        1199
+      ],
+      "avg_conf": 84.83333333333333
+    },
+    {
+      "bbox": [
+        202,
+        1188,
+        957,
+        1202
+      ],
+      "avg_conf": 88.0
+    },
+    {
+      "bbox": [
+        202,
+        1211,
+        930,
+        1225
+      ],
+      "avg_conf": 88.10526315789474
+    },
+    {
+      "bbox": [
+        201,
+        1230,
+        966,
+        1247
+      ],
+      "avg_conf": 83.14285714285714
+    },
+    {
+      "bbox": [
+        201,
+        1257,
+        1217,
+        1277
+      ],
+      "avg_conf": 81.85714285714286
+    },
+    {
+      "bbox": [
+        202,
+        1285,
+        937,
+        1299
+      ],
+      "avg_conf": 92.73333333333333
+    },
+    {
+      "bbox": [
+        201,
+        1304,
+        643,
+        1321
+      ],
+      "avg_conf": 79.07692307692308
+    },
+    {
+      "bbox": [
+        201,
+        1337,
+        1247,
+        1351
+      ],
+      "avg_conf": 93.96296296296296
+    },
+    {
+      "bbox": [
+        202,
+        1359,
+        1251,
+        1373
+      ],
+      "avg_conf": 92.03703703703704
+    },
+    {
+      "bbox": [
+        202,
+        1379,
+        1238,
+        1396
+      ],
+      "avg_conf": 91.29629629629629
+    },
+    {
+      "bbox": [
+        202,
+        1304,
+        643,
+        1321
+      ],
+      "avg_conf": 87.41666666666667
+    },
+    {
+      "bbox": [
+        201,
+        1337,
+        1247,
+        1351
+      ],
+      "avg_conf": 93.55555555555556
+    },
+    {
+      "bbox": [
+        202,
+        1379,
+        1238,
+        1396
+      ],
+      "avg_conf": 91.29629629629629
+    },
+    {
+      "bbox": [
+        202,
+        1401,
+        391,
+        1415
+      ],
+      "avg_conf": 60.0
+    },
+    {
+      "bbox": [
+        202,
+        1443,
+        277,
+        1455
+      ],
+      "avg_conf": 96.0
+    },
+    {
+      "bbox": [
+        202,
+        1476,
+        1246,
+        1490
+      ],
+      "avg_conf": 94.92307692307692
+    },
+    {
+      "bbox": [
+        202,
+        1495,
+        1218,
+        1512
+      ],
+      "avg_conf": 89.29166666666667
+    },
+    {
+      "bbox": [
+        202,
+        1517,
+        1255,
+        1534
+      ],
+      "avg_conf": 90.78571428571429
+    },
+    {
+      "bbox": [
+        202,
+        1540,
+        340,
+        1554
+      ],
+      "avg_conf": 48.5
+    },
+    {
+      "bbox": [
+        201,
+        1572,
+        1252,
+        1586
+      ],
+      "avg_conf": 92.68
+    },
+    {
+      "bbox": [
+        202,
+        1592,
+        1233,
+        1609
+      ],
+      "avg_conf": 90.73913043478261
+    },
+    {
+      "bbox": [
+        201,
+        1614,
+        932,
+        1631
+      ],
+      "avg_conf": 90.36842105263158
+    },
+    {
+      "bbox": [
+        201,
+        1643,
+        747,
+        1660
+      ],
+      "avg_conf": 88.57142857142857
+    },
+    {
+      "bbox": [
+        215,
+        1682,
+        331,
+        1696
+      ],
+      "avg_conf": 69.0
+    },
+    {
+      "bbox": [
+        323,
+        1717,
+        619,
+        1731
+      ],
+      "avg_conf": 94.6
+    },
+    {
+      "bbox": [
+        322,
+        1751,
+        568,
+        1765
+      ],
+      "avg_conf": 88.25
+    },
+    {
+      "bbox": [
+        322,
+        1786,
+        482,
+        1800
+      ],
+      "avg_conf": 85.0
+    },
+    {
+      "bbox": [
+        333,
+        1820,
+        494,
+        1834
+      ],
+      "avg_conf": 55.5
+    },
+    {
+      "bbox": [
+        355,
+        1855,
+        526,
+        1867
+      ],
+      "avg_conf": 71.5
+    },
+    {
+      "bbox": [
+        217,
+        1879,
+        495,
+        1908
+      ],
+      "avg_conf": 72.0
+    },
+    {
+      "bbox": [
+        366,
+        1924,
+        496,
+        1938
+      ],
+      "avg_conf": 85.5
+    },
+    {
+      "bbox": [
+        366,
+        1959,
+        457,
+        1969
+      ],
+      "avg_conf": 92.66666666666667
+    }
+  ],
+  "slicing": {
+    "enabled": true,
+    "slice_height": 1400,
+    "slice_overlap": 120,
+    "num_slices": 10
+  },
+  "note": "OCR text extracted from screenshot; regions include bbox + confidence.",
+  "skipped_ocr": false,
+  "cache_path": ".ocr_cache\\010_Narwhal.76edd835141b6620.ocr.json"
+}
+-->
+
+7 oa
+Main other Narwhal (disambiguation). page For uses, see
+Ret ‘Monodon and of living of the family Monodontidae. The narwhal stocky with representatives cetacean two one is a a ae
+Temporal Quaternary-Present range:
+ea thtis15-30m (45-58 4 ong which protung le eughouncion ol for eding, sa canine as avepen,
+the Arctic shallow dorsal ridge allow for through where the narwhal spends extended periods movement environment, at easy contribute
+depths. The narwhal's geographic overlaps with that of the similarly built and closely related beluga whale, and great range cs
+* the animals known interbreed, << to are ooo
+eds Community porta Narwhals inhabit the of Canada, Greenland and they ice-free Arctic Russia. Every waters migrate to year, summering
+ae aos grounds, usually shallow and often the subsequent Their diet mainly of polar consists waters, return to sites in same in years.
+eal io and cod, Greenland halibut, cuttlefish, shrimp, and armhook squid. depths of (7,780 ft), the Arctic Diving 2,370 to to up m es
+eEEIES narwhal the deepest-diving The animals typically travel of three eight, with of cetaceans. to aggregations is among in groups
+Tools the months. Narwhals the offshore pack from March and the 1,000 May, to mate to up occurring in summer among ice young
+There estimated living narwhals, and the listed being of least by the Intemational 170,000 Union Size compared to human are an species is as concern an average on
+for of (IUCN). The population threatened by the effects of climate change, such reduction Conservation Nature is as in ice Teena oneness EET
+and human such pollution and hunting. Narwhals have been hunted for thousands of by activities Inuit Get shortened URL cover as years in Teast
+& (Ex) (eR) (en) (wu) Expand all (nT) Ew)
+3.1)" Least Concern (IUCN
+I1!*! Download PDF Appendix CITES as 1a een
+rimable version Scientific classification c 2 Description
+Kingdom: 2.1 Tusk and dentition Animalia In other projects
+Order: Artiodactyla AR OE
+Family 4.3 Communication Monodontidae .
+* ee 4.4 Longevity and mortality factors Pome Cars
+5 Conservation Linnaeus, 1758 sz
+6 Relationship with humans Been a
+Binomial name
+Tagalog 6.1 Inuit
+‘Monodon Tiéng monoceros Viet 6.2 Tusk trade
+Linnaeus, 1758 ex 7 References
+8 Further reading a 73 more
+Taxonomy
+a2 Naturae.®! The narwhal scientifically described by Carl his publication The word "narwhal" Linnaeus 1758 Systema was in
+from the Old nérhval, ‘corpse-whale’, which possibly refers the animal's mottled skin and Norse to its comes meaning grey,
+habit of motionless when the surface, behaviour known “logging’ that usually happens the water's at remaining a as in
+summer.®ll7l single-horn'.®) The scientific Monodon derived from Greek, ‘single-tooth Ancient name, monoceros, is meaning
+DEH Tielpa ras The narwhal closely related the beluga whale (Delphinapterus leucas). Together, these the most to two is species comprise
+only members of the family Monodontidae. Monodontids distinguished by their pronounced melons (acoustic extant are
+201 organs), short and the absence of dorsal fin. snouts true sensory a
+Although the narwhal and beluga classified there evidence of interbreeding between the the of whale, separate two. Most prominent are as genera, is some are remains a
+described by zoologists unlike known which found Greenland around had features midway between narwhal and beluga, West 1990. It marine as any species, were in a a
+‘narluga’);!"4] analysis.) indicating that the belonged hybrid between the (a this confirmed by Whether the hybrid itself could to 2019 DNA two remains a species was a
+fin.!°119) organs), short and the absence of dorsal snouts true sensory a
+unknown_(41231 breed remains
+Evolution
+Results of study reveal that and monodontids closely related, forming clade which diverged from other dolphins about million 11 genetic separate a porpoises are a years
+(mya)."4) molecular analysis of monodontid fossils indicates that they separated from Phocoenidae (porpoises) around and they 4 2018 10.82 20.12 to ago mya, are
+taxa.["5] considered be later phylogenetic study conducted suggested that the narwhal split from the beluga whale around based data from A 2020 4.98 to sister in mya, on
+DNA."6) mitochondrial
+The fossil thermophila of early Pliocene central italy described possible narwhal when discovered Bohaskaia, Denebola Casatia 2019. ancestor it species was as a was in
+States.'171I1611°l and Haborodelphis other known from the Pliocene of the United Fossil evidence shows that prehistoric monodontids lived tropical extinct are genera in
+chain.271281 They have migrated and subarctic changes the food Arctic waters. to waters to may in response in marine
+Monodontidae.71 The following phylogenetic based study of the family 2019 tree is on a
+‘tKentriodon pernix
+(common bottlenose dolphin) Tursiops truncatus
+Phocoena phocoena (harbour porpoise)
+‘tHaborodelphis japonicus
+‘tDenebola brachycephala
+‘+Bohaskaia monodontoides
+Monodontidae Monodon monoceros
++Casatia thermophila
+IRSNB M 1922
+Delphinapterus leucas (beluga whale)
+Description
+The narwhal has robust body with short, blunt small upcurved flippers, and tail flukes. Adults snout, to a a convex concave measure
+Ib).!0l2122) (9.8 ft) length and weigh kg (1,800 Male narwhals sexual 3.0 5.5 18.0 800 1,600 3,500 to to to to attain maturity at m in ot
+JRE of reaching length of (11.5 ft). Females reach sexual between 12 20 3.5 4.0 13.1 8 to to to maturity at years age, a m a younger age,
+t long.25) and old, when they about (11 ft) males about (28 in) longer and than 9 3.4 On 70 75% years are m average, are cm more
+females.°41 heavier than
+The colouration of the narwhal of mottled with blackish-brown markings white background, birth, the skin Narwhals the surface At water consists pattern, near a over a
+slit;!”! light and when sexually white patches the navel and genital such whitening throughout life, mature, is grey, grow on occurs Se
+as white.'22! resulting aged narwhals being almost purely Unlike whales, the narwhal has shallow dorsal ridge, rather than most ns in a a
+rolling.'5! dorsal fin, possibly evolutionary adaptation make under facilitate The neck vertebrae to to an swimming ice easier or are PreictmcianeTa
+also jointed, instead of being fused whales, which allows for of neck flexibility. These characteristics most greater as in a range are
+whale.) shared by the beluga Furthermore, male and female narwhals have differently shaped tail flukes; the former bent are
+tusk.’26] inward, while the latter back the front This thought be adaptation for reducing drag caused by the swept to are on margins. is an
+The skeletal muscles of narwhals highly adapted for prolonged periods of deep-sea foraging. such reserved the muscles, which During activities, are oxygen is in are
+manouverability.2”! typically slow-twitch, enabling endurance and Narwhals also have comparatively high of myoglobin their body, which helps greater amount to a in
+dives.8! facilitate deeper has dense layer of blubber, around (2.0 in) thick. This fat for third of the body and helps insulate from It 50 100 3.9 to to accounts a mm a mass
+141291 cold temperatures. ocean
+Tusk and dentition
+The of male narwhals long, spiralled tusk, which tooth that from the left side of most trait projects conspicuous is a is a canine
+a jaw.21[°°] the Both have of tusks embedded the which males from the lip erupt upper sexes pair in upper jaw, in
+age.22 somewhere between and three of The tusk throughout the animal's life, reaching lengths of 1.5 two to years grows
+in).4821189) (4 ft ft hollow and weighs kg (16.4 Ib). males tusks, 3 11 9 10 [t 7.45 Some to to two m in js up may grow
+lip.°51(541 when the right also protrudes through the Females rarely tusks: when they do, the tusks occurring canine grow are
+spirals.!7351 typically smaller than those of males, with less noticeable
+4 scientific indicates that narwhal tusks secondary sexual characteristics which indicate social Current status. consensus are
+—_ Further functions of the narwhal tusk debated: while biologists that narwhals their tusks fights, suggest are some use in =
+feeding.®! others that they be of The tusk also highly innervated with millions of argue may use in is a sensory organ nerve
+surroundings.=°! endings, allowing the narwhal variability These also be able to temperature its to sense in nerves may
+pressure.!571I58l detect changes particle and according male narwhals rid themselves of their tusks by Martin Nweeia, concentration water to encrustations in may on
+rivalry.°75) rubbing them together, opposed displays of male-to-male footage from Tremblay Sound, revealed prone August 2016 Nunavut, to posturing as aggressive in
+feeding.5$°] that narwhals used their tusks and small cod, making them catch for Females, who usually do have tusks, live longer than Arctic to tap to not stun easier
+males, hence the tusk be essential the animal's survival. generally accepted that the function of the narwhal tusk associated with sexual Itis cannot to primary is
+5140) selection
+Alongside tusk, the narwhal has single of small vestigial teeth that reside tooth sockets the These teeth, which differ form and its a pair in open in upper jaw. in
+ventrally.°ll44] encircle the exposed tooth sockets laterally, posteriorly, and vestigial teeth male narwhals commonly shed the palate. The varied composition, in are in
+"1421 morphology and of small teeth indicate path of evolutionary obsolescence. anatomy a
+Distribution
+The narwhal found the Atlantic and of the Individuals commonly recorded the Russian Arctic Ocean. is in areas are in — :
+3!) Canadian Archipelago, such the northem of Hudson Hudson Baffin off the = Arctic Bay, Strait, Bay, part east as in in in
+of Greenland and from the northern end of Greenland (170° east). Land this fe Russia coast strip east to eastern in a running in
+ae Zemlya.” includes Svalbard, Joseph Land and The northernmost sightings of narwhals occurred Franz Severnaya strip
+north."”! = b north of Joseph Land, about There estimated narwhals the northern Hudson Franz 85° 12,500 Bay, at are an in
+‘4 Bay.!45) whereas around reside Baffin 140,000 in
+Migration
+S Narwhals exhibit seasonal with high fidelity of preferred ice-free grounds, usually shallow Pod of narwhals migration, return to six a summering in
+months, they closer the often pods of individuals. the they In 10-100 In waters. to coast, winter, to summer move in move
+leads.1l4®] deeper offshore, under thick pack surfacing fissures wider fractures known these leads channels As waters into ice, in narrow or in as spring comes, open up
+bays.'71l*8] and the narwhals the coastal Narwhals Baffin typically travel northern Canada and Greenland between and September. After this Bay June return to to in
+April.'45) period, they travel about kilometres (1,100 mi) south the and there until narwhals from Canada and Greenland 1,700 Davis Strait, During West to stay winter,
+regularly the pack of the and Baffin along the continental slope which less than and hosts high density of Greenland Davis Strait Bay 5% visit contains water ice open a
+49171 halibut.
+Behaviour and ecology
+Narwhals normally of three eight individual's. be with only females and Groups "nurseries" congregate to in groups may <Tege
+ee Be Pg eA year.!102150) only juveniles adult males ("bulls"); mixed of the jn contain at time young, or can or groups can occur any
+ene ok ag] a individuals.20122) several together, forming larger which 500 1,000 aggregations contain to summer, groups come can over
+= = S715) Male narwhals have been observed rubbing each other's tusks, behaviour known "tusking”. a as -
+When their narwhals make of the deepest dives recorded for diving least 800 wintering waters, cetaceans, to at in some m
+eee ft).2155) (2,620 ft) day, with dives reaching (4,920 The dive depth recorded 15 1,500 times greatest over per many m is.
+ta ft).©2IS4! (7,780 last and depth depending the and local between 2,370 Dives 25 to minutes, variation m up vary in on season a Nemnat fuk
+arwhal tall fluke
+narwhals example, the Baffin grounds, tend dive deep within the typically For Bay environments. wintering to steep coasts, in
+south of Baffin This differences habitat availabilty, adaptations between Bay. suggests structure, genetic in prey or
+subpopulations. the northern grounds, narwhals do dive deep the southern population, of depths these This mainly In wintering not spite greater water as as in in areas. is
+21 attributed being concentrated the surface, which narwhals alter their foraging to to to strategies. prey nearer causes
+Diet
+diet.®11 Narwhals have restricted and specialised the lack of well-developed dentition, narwhals believed feed by close and sucking Due to to to a are swimming prey
+Greenland halibut (Reinhardtius hippoglossoides). of Boreo-Atlantic armhook squid (Gonatus fabricii) also discovered. Male had higher Large quantities were specimens a
+groups.'°"! depths of than (1,600 ft). The study also concluded that the of did differ between genders Other found within narwhal 500 at not items more m size prey or age
+mostly Arctic Narwhal diet between narwhals feed demersal mostly flatish, under dense pack the they cod and In During winter, eat varies seasons. on prey, ice. summer,
+their diet.!°7! Greenland halibut, with other fish such polar cod making the remainder of Narwhals food the months than they do winter as up consume more in in
+Breeding
+old.'©! female narwhals reproduce by the they eight Courtship and behaviour for the has been recorded from March Most May, time to mating to are six years species
+Greenland halibut, with other fish such polar cod making the remainder of their diet." "" Narwhals food the months than they do winter as up consume more In in
+when they live offshore pack and thought involve dominant male with several The period lasts months, and births to mating 15 partners. gestation among ice, is a average
+a years.75158IIS9l be frequent between July and Female narwhals have birth interval of around with mammals, only single to August. 2-3 as most most appear marine a
+pigmentation.©°°) calf born, (4.9 ft) length with white light population along different coastal inlets of Baffin Island found 1.5 Summer is averaging m in or grey surveys
+that calf numbers varied from of Admiralty Inlet, of total Eclipse Sound. These findings that higher calf reflect calving 0.05% 35,000 to 5% 10,000 suggest counts in in may
+inlets.©21 and habitats favourable nursery in
+Newborn calves begin their lives with thin layer of blubber. The blubber thickens they their mother’s milk, which rich fat; calves dependent milk for a as nurse is in are on
+months.°l(®I mature.[©21[65] about This long lactation period calves learn the skills they will need they Narwhals the few animals 20 time to to gives survive as are among
+pod.5II&4I that undergo and live for decades after they have finished breeding. Females this phase calves the study continue protect q 2024 to menopause in may in
+concluded that five of toothed whale evolved higher overall longevity, although their reproductive periods did change. explain this, to not To species menopause acquire
+hypothesised that calves of these the of (post-menopausal females for enhanced chance survival, they extremely scientists assistance at species require an as are
+rear.'541 difficult for single female successfully to a
+Communication
+also: Whale vocalization See
+Like toothed whales, narwhals sound and hunt for food. They primarily vocalise through clicks, whistles and knocks, created by most to navigate movement use air
+blowhole.'®555l between chambers the The frequency of these sounds from hertz, while those used for echolocation typicallly fall between and 0.3 to 125 19 near ranges
+hertz.'7IIS Sounds reflected off the sloping front of the skull and focused by the animal's melon: of fat which be controlled through surrounding 48 are a mass can
+musculature.'5I®"! distances./©5l"°) echolocation clicks used for detecting and locating barriers short whistles and throbs commonly used at to most are prey are
+members.'©5ll”4 with other pod Calls recorded from the pod similar than callls from different pods, the possibility of communicate suggesting same are more group- or
+environments.!772) individual-specific calls. Narwhals adjust the duration and pitch of their pulsed calls sound sometimes to propagation acoustic maximise in varying
+Other sounds produced by narwhals include and "squeaking-door sounds”. The narwhal vocal similar that of the beluga whale. the trumpeting to However, repertoire is
+belugas.!”5) frequency durations, and of narwhal clicks differ from those of repetition rates ranges,
+Longevity and mortality factors
+determination techniques the number of layers the lower reveal that narwhals live of ‘Age periosteum using in jaw an average
+Se Been though techniques acid dating from the lens of the that female narwhals reach 50 suggest years, using amino eyes can
+——/ years.”4) PS and male narwhals live 115 10 84 9 + to + years can
+la Death by suffocation often when narwhals fail before the freezes late This known to Arctic autumn. migrate occurs over in is
+|70ll’5] Narwhals drown if longer accessible and thick for them break "sea-ice entrapment" water too to as open is no ice is
+through. Breathing holes be (4,760 ft) which limits the of foraging grounds. These holes 1,450 to apart, in ice may up m use a
+‘A polar bear narwhal scavenging a 3)
+7°) breathe. be least (1.6 ft) wide allow adult whale Narwhals also die of from must at 0.5 to starvation entrapment to m an carcass
+events.(24]
+Greenland.7*l around narwhal discovered after such Disko Several In 1914-1915, 1,000 events, most Bay West entrapment carcasses were occurring in areas as in
+before.!”5! of recorded during the including places where such had been recorded This entrapment 2008-2010, Arctic winter, events cases sea were in in some never
+later departure dates from grounds. Wind and from adjacent locations Greenland, leading fluctuations concentration suggests currents to to summering move sea ice in
+their tendency of the changes weather and conditions always associated with narwhal toward Due to to not water. Itis returing movement same areas, in ice are open
+narwhals.51!751771 currently unclear what changes danger to extent to sea ice pose a
+Narwhals preyed by polar bears and the former have been recorded breathing holes for narwhalss, while the latter In instances, waiting at are upon orcas. some young
+pods.!0l78I(71I®0) observed surrounding and killing narwhal predators such narwhals prolonged submersion hide under To entire to were escape as orcas, may use ice
+speed.78) floes rather than relying on
+Researchers found bacteria of the Brucella the bloodstreams of narwhals throughout the of study. They also recorded with 19-year genus in numerous course a were
+whale lice such monodontis and nodosus. Other pathogens that affect narwhals include Toxoplasma gondii, morbillivirus, and Cyamus Cyamus species as
+papillomavirus.©4 system.©2) female narwhal recorded with alphaherpesvirus her n 2018, a was an in
+Conservation
+a The narwhal listed of least by the Red of the global population estimated be individuals of total of IUCN List. As 2017, to 123,000 mature out is as a species concern is
+There about narwhals Northern Hudson and around Island There approximately 170,000. 12,000 Bay 2011, 49,000 Somerset 2013. 35,000 were in in near in are in
+Admiralty Inlet, Eclipse Sound, Baffin and Sound. Population numbers Smith Sound, Inglefield Bredning and Melville 10,000 17,000 Eastern Bay, 12,000 Jones in in in in
+Svalbard.) and respectively. There roughly narwhals the off Bay 16,000, 8,000 3,000, 800 waters are are in
+parts.) the Mammal the United banned of products made from narwhal They listed Appendix of the In 1972 Marine Protection Act, States II Convention imports are on on
+International Trade Endangered of Wild and Flora (CITES) and the of of Wild Animals (CMS). These Species Fauna Convention Conservation Migratory Species in on
+plans.14lI83I international trading of live animals and their body well implementing sustainable The classified special restrict parts, committees action as as species is as
+country.!451!®41 under the the of Endangered Wildlife Canada (COSEWIC), which classify the risk levels of the Committee Status to concern on in aims species in
+artifacts."®5189) the United Kingdom protected narwhals under the which forbids trade teeth and tusks for and cultural In 2025 Ivory Act, except “artistic in
+Mine t9fe Marine Mammal rrotection Act, the United states panned Imports OF products Made irom Narwna! parts.” ° ney listed Appendix li oF the Convention are On On
+Threats
+Narwhals hunted for their skin, teeth, tusks and carved vertebrae, which commercially traded meat, are are
+‘About narwhals Killed Canada and Greenland. Canadian catches 1,000 600 400 are per year: in in were
+steady this level the dropped the late and and have 1970s, to 300-400 1980s 1990s at in per year in risen
+1990s.871 Greenland caught the and 1999. 700-900 1980s again since more, per year, in
+uncarved.!°8I9I19°l Canada and Greenland, Narwhal tusks sold both carved and hunted narwhal, In per are
+sold.'®®! of vertebrae and teeth Greenland, the skin (muktuk) sold to n two an average one are is
+factories,® communities.'88! commercially fish and Canada other Based analysis of to 2007 to in on an
+narwhal hunts Hudson estimated that narwhal CAS6,542 Bay, 2013 in a paper gross revenue per was
+(US$6,091). subsidies, but they mainly tradition, rather than for profit. Hunts continue to support receive
+©) revenue. analysis noted that whale watching be alternate of Economic may an source
+bodies.!1! narwhals bioaccumulation of heavy metals takes place within their thought that As It grow, is
+pollution the the of bioaccumulation mammals; this lead health to in ocean is primary cause in marine may
+population.!°! problems for the narwhal when bioaccumulating, metals the blubber, numerous appear in
+liver, kidney and musculature. study found that the blubber nearly devoid of these metals, whereas the A was
+liver and kidneys had dense of them. Relative the liver, the kidney has concentration greater to a a
+of and cadmium, while lead, and nearly abundant. Individuals concentration not zine copper mercury were as
+organs.°3) of different weight and showed differences the of metals their concentration sex in in
+are Narwhals ofthe mammals wnerable climate change due Arete o to most one marine sea ioe a PETE EEE)
+decline,'*7! especially their northern grounds such the Baffin and Bay Davis Strait wintering in as regions.
+Satelite data collected from these shows the of has been markedly reduced from what amount areas sea ice
+previously! thought that narwhals’ foraging reflect they acquired early life, which their obtain the food supplies they It capacity it patterns to was is ranges in improves
+need for the This focuses fidelity rather than individual-level local distribution, resulting focal foraging during the winter. strategy strong site to on responses prey in areas
+migration.!°4) such, despite changing conditions, narwhals will the during As continue to return to winter. same areas
+Reduction has possibly led increased predation. hunters Siorapaluk experienced the number of caught narwhals, to to In 2002, in sea ice an exposure in an increase in
+endeavour,°*! but this did be linked enhanced implying that climate change be making the narwhal vulnerable hunting. to Scientists not to to increase seem may more
+recommend population numbers, sustainable and local of sustainable development. associated with cil Seismic quotas, acceptance assessing assigning ensuring surveys
+entrapment. exploration disrupt the narwhal's normal These disturbed also be associated with increased patterns. migrations migration may sea ice
+Relationship with humans
+_ millennia.” Narwhals have coexisted alongside circumpolar peoples for Their long, distinctive tusks often held with were - ———— — ss
+| history.!° fascination throughout human These tusks prized for their supposed healing and | were powers, were worn on
+staffs and thrones. of narwhal tusks works of such The Lady and the have found prevalent Depictions Unicorn art in as a
+981991 place human arts in
+Inuit
+sf Narwhals have been hunted by the other mammals, such seals and whales. Almost all of Inuit to extent parts same as sea as
+Pe, the narwhal—the skin, blubber and consumed. Muktuk, the skin and attached blubber, considered meat, organs—are raw is “ex
+Raasy “a art.!I84l delicacy. vertebrae animal used for tools and The skin of As custom, important two a one or per are is an source oad
+~~ which otherwise difficult obtain the Circle. places Greenland, such traditional C, to Arctic in Qaanaaq, vitamin is in some in as % bp 2,
+f) ae hunting methods used and whales harpooned from handmade kayaks. other of Greenland and Northern in " parts are are
+Beg.) used.” PALS Canada, high-speed boats and hunting rifles are 3)
+_ | legend, the narwhal's tusk created when with harpoon tied around her dragged the in inuit waist into was a woman rope was Me
+SO Pees after the harpoon had stuck large narwhal. She then transformed narwhal her hair, which she into a into ocean a was @ was =|
+iS snare ea nex pod tusk.200) twisted knot, became the spiralling narwhal wearing in a
+Tusk trade
+narwhal tusks highly sought after for This from medieval belief that narwhal tusks In Europe, stems centuries. were a were
+4 unicorn.!04JI021I103) the horns of the legendary Considered have magical narwhal tusks used to properties, to counter were
+Von rubella.!9l41051 and all of diseases such measles and the of modern towards the end of sorts poisoning, as rise science
+the 17th led decreased belief and alchemy. After the scientifically refuted, narwhal NW to century notion a in magic unicorn was
+purposes. '1611071 tusks rarely employed for magical were >
+See 32% Vikings and Greenland likely began the trade of narwhal tusks, which, channels, would later reach Norse European via
+purposes. "2081/1071 = tusks rarely employed for magical were
+( markets the Middle and unclear if they hunted the narwhals themselves mainly recovered the tusks DES East East Asia. Itis in or el@®
+_s orcas.'1081!405] \o from the of animals killed by Narwhal tusks gifts kings and throughout state to corpses were given as queens
+7 medieval with the of narwhal tusks said have been couple of hundred than their weight Europe, to greater times price a in ‘
+2°71 centuries."°8!021 deathbed, SI gold during the 18th and 19th the Terrible had jewellery-covered narwhal tusk his van a on Ay
+Wi Frobisher.!11°1 while Elizabeth received narwhal tusk allegedly valued pounds sterling from the | £10,000 Martin at privateer os a
+|i if curiosities.122121 Both staples cabinets of items were in ry ~
+a ‘A goblet made from narwhal tusk in
+Milan, taly
+References
+J. 57.44 1. A Newton, Edwin Tulley (1891). The Vertebrata of the Pliocene deposits of Britain. Finley, K. J.; Gibb, E. (December 1982). "Summer diet of the narwhal
+c2 London: Her Majesty's Stationery Office. doi:10.5962/bhi.itle.57425 (Monocion monoceros) Pond Inlet, northern Baffin Island". Canadian Journal of in
+c2. 2. 424.2. ISSN 0008-4301 2. 8"Monodon Linnaeus 1758 (narhwal)" PBDB.org. Archived from the monaceros
+original 12 July 2020. Rettieved 11 July 2020. 58. 4 Klinowska, Margaret, ed, (1991). Dolphins, Porpoises and Whales of the World: The on
+original 28 January 2024, Retrieved 28 January 2024. List of Threatened Species. 2017. doi:10,2305/IUCN.UK.2017- on
+3. 3.RLTS.713704A50367651.en 59, A Wirsig, Bernd; Rich, Jacquline; Orbach, Dara N. (2023), Wirsig, Bernd; Orbach,
+(2. 4,44D Dara N. (eds.), "Sex and Behavior", Sex Cetaceans: Morphology, Behavior, and the “Appendices | CITES" Archived from the original 5 December cites.org. in on
+Evolution of Sexual Strategies, Cham: Springer Intemational Publishing, 1~27, 2017. Retrieved 14 January 2022. pp.
+p. 60. ® Tinker, Spencer Wilkie (1988). Whales of the World. E. 3. Brill, 213. ISBN O- secundum classes, ordines, characteribus, differentiis, naturae, genera, species, cum
+2 I. 935848-47-9, Archived from the original 28 January 2024. Retrieved 28 January locis. Tomus Editio decima, reformata (in Latin). Stockholm: Lars on synonymis,
+6.840 €4 seas"f@ 61. Mann, Janet (1 January 2009), "Parental Behavior", Perrin, Wiliam F:; Wursig, ~The narwhal: of the (PDF). Fisheries and Oceans Canada, in unicom
+4 Archived Bernd; Thewissen, J. G. M. (eds.), Encyclopedia of Marine Mammals (Second 2007. (PDF) from the original 10 July 2013. Retrieved 10 July 2013. on
+nabedetahilk Edition), London: Academic Press, 830-836, ISBN 978-0-12-373553-9, retrieved pp. 7. Heide-Jergensen, M. P.; Laidre, K. L. (2008). Greenlana's Winter
+47 July 2024 Whales: The Beluga, the Narwhal and the Bowhead Whale. linniusiortik
+*# 62. Evans Ogden, Lesley (6 January 2016). "Elusive narwhal babies spotted Undervisningsmiddetforiag, Nuk, Greenland. 100-125. ISBN 87-7975-299-3. pp.
+September 2016, Retrieved 6 September 2016. Language. G. & C. Merriam. 854. p.
+2. °° 63. Zhao, Shu-Ting; Matthews, Cory J. Davoren, Gail K.; Ferguson, Steven H.; 9.4 Brodie, Paul (1984). Macdonald, D. (ed.). The Encyclopedia of Mammals New D.;
+A. Watt, Cortney (24 June 2021). "Ontogenetic profiles of dentine (815N and isotopes York: Facts File. 200-2032, ISBN 0-87196-871-1. on pp.
+2. @. © Nowak, £5130) reveal variable narwhal Monadon duration” Marine monaceros nursing 10.84 Ronald M. (2003). Walker's mammals of the world Internet marine
+: Ecology Progress Series. 668: 163-175, Bibcode:2021MEPS..668..163Z. Archive. Baltimore, Md. Johns Hopkins University Press. 135-137. ISBN 978-0- pp.
+*# 64. Ellis, Samuel; Franks, Daniel W.; Nielsen, Mia Lybkzer Kronborg; Weiss, Michael 11.4@ Heide-Jargensen, Mads P.; Reeves, Randall R. (July 1993). "Description of an
+N.; Croft, Darren P. (18 March 2024), "The evolution of toothed @. menopause in anomalous Monadontid skull om West Greenland: possible hybrid?" Marine a
+PMID 38480878 2. 12. 9 Skovrind, Mikkel; Castruita, Jose Alfredo Samaniego; Haile, James; Treadaway, Eve
+B.; M.; Conrad, Alexander V.; 65, 4 Blackwell, Susanna Tervo, Outi Sinding, Mikkel H. S.; .; Gopalakrishnan, Shyam; Westbury, Michael Heide-Jargensen, Mads Peter; S.;
+Hansen, Rikke G.; Ditlevsen, Susanne; Heide-Jargensen, Mads Peter (13 June Szpak, Paul; Lorenzen, Eline D. (20 June 2019). "Hybridization between high two
+2018). “Spatial and temporal of sound production East Greenland patterns in Arctic confirmed by analysis". Scientific Reports. 9 (1): 7729. cetaceans genomic
+PMID 29897955 2. 13. 4 Pappas, Stephanie (20 June 2019). "First-ever beluga-narwhal hybrid found the in
+2 66.4 €4 Wei, Chong (1 January 2021), Rosenfeld, Chery! S.; Hoffmann, Frauke Arclic" Live Science. Archived from the original 20 June 2019. Retrieved 2. on
+(eds.), "Chapter 17 Sound production and cetaceans" 2, propagation in 20 June 2019. -
+Vocalization, Waddell, Victor J. ‘Neuroendocrine Regulation of Animal Academic Press, 267-295, pp. 414, 8 Milinkovitch, Michel C.; Bérubé, Martine; Stanhope, Michael (1 G.;
+'SBN 978-0-12-815160-0, retrieved 18 July 2024 May 2000). "Molecular phylogenetic of the Delphinoidea trichotomy: examination
+nuclear loci 67. Stil, Robert; Harrop, Hugh; Dias, Luis; Stenton, Tim (2019). Europe's Sea Mammals evidence from three indicates that (Phocoenidlae) congruent porpoises
+Including the Azores, Madeira, the Canary Islands and Cape Verde: A field guide to share with white whales (Monodontidae) than they recent ancestry a more common
+@. the whales, dolphins, and seals 2. Princeton University Press. 16. (Delphinidae)" porpoises p. do with dolphins Molecular Phylogenetics and Evolution. 15 (2): true
+oe Janam) 2094 ee
+EE EE IE IEE IE EEE IE NOE IE IIS SNE -
+68. 4 Miller, Lee A.;Pristed, John; Meshi, Bertel; Surykke, Annemarie (October 1995). 15. 4 Racicot, Rachel A; Darrach, Simon A. F; Kohno, Naoki (October 2018).
+“The click-sounds of narwhals (Monodon monoceros) Inglefield Bay, Northwest in “Neuroanatomy and labyrinths of the narwhal, Monodon and inner ear monoceros,
+Greenland”. Marine Mammal Science. 11 (4): 491-502. beluga, Delphinapterus leucas (Cetacea: Monadontidae)’ Journal of Anatomy. 233 2.
+ISSN 0824-0469 2, S2CID 85148204¢2, Archived from the original 5 October on PMID 3003353912.
+2022. Retrieved 27 January 2024. 16. * Louis, Marie; Skovrind, Mikkel; Samaniego Castruita, Jose Alfredo; Garilao, Cristina;
+69, * Senevirathna, Jayan Duminda Mahesh; Yonezawa, Ryo; Saka, Taki; Igarashi, Yoji Kaschner, Kristin; Gopalakrishnan, Shyam: Haile, James S.; Lydersen, Christian
+Shigeharu: Asakawa, Funasaka, Noriko; Yoshitake, Kazutoshi; Kinoshita, Shuichi Kovacs, Kit M.; Garde, Eva; Heide-Jergensen, Mads Peter, Postma, Lianne;
+April (Ganuary 2021). "Transcriptomic insight the melon morphology of toothed whales into Ferguson, Steven H,; Willrslev, Eske; Lorenzen, Eline D. (29 2020). "influence
+for molecular developments" eZ. Sustainability. 13 (24) 12997. aquatic of climate change phylogeography and demographic history of narwhals past on
+3. doi:10.3390/su132413997 Bibcode:2021Sust...1313997S :2, ISSN 2071-10502. (Monodon monoceros)" 2. Proceedings of the Royal Society B: Biological Sciences.
+Archer, Frederick; Rasmussen, Marianne H.; Laidre, Kristin L. (12 November 2021), 72114493. PMC PMID 3231559022.
+17.44 "Acoustic differentiation and classification of wild belugas and narwhals using Bianucci, Giovanni; Pesci, Fabio; Collareta, Alberto; Tinelli, Chiara (4 May
+echolocation clicks". Scientife Reports. 14 (1): 22141. 2019). "A Monodontidae (Cetacea, Delphinoidea) from the lower Pliocene of ttaly new
+1. Bibcode:2021NalSR..11221412 dol:10.1038/s41598-021-01441-wez. ISSN 2045- for narwhals and white whales" 2. Journal of Vertebrate supports warm-water a origin
+“Variability and speciticty of narwhal (Monodion monoceros) whistles and context S2CID 202018525 Retrieved 21 January 2024. 2,
+calls"@. pulsed Marine Mammal Science. 28 (4): 649-665. 18.4 vélez-Juarbe, Jorge; Pyenson, Nicholas D. (1 March 2012). "Bohaskaia
+Bibcode:2012MMamS..28..649M i. doi:10.1111/).1748-7692.2011.00514.x12. monodontoides, monodontid (Cetacea, Odontoceti, Delphinoidea) from the a new
+@. ISSN 0824-0469 22. Ocean" Pliocene of the North Atlantic Journal of Vertebrate Paleontology. western
+72. Shapiro, Ar D. (1. September 2006). "Preliminary evidence for signature 32 (2): 476-484, Bibcode:2012)VPal. 32.4762
+vocalizations free-ranging narwhals (Monodon monoceros)". The Journal of among dof:10.1080102724634,2012.641708 ISSN 0272-46342. S2CID 556061512 2.
+the Acoustical Society of America, 120 (2): 1695-1706. 19. 4 Ichishima, Hiroto; Furusawa, Hitoshi; Tachibana, Makino; Kimura, Masaichi (May
+8, hdl:1912/2355 Bibeode:2006ASA)..120.1695S 2, doi10.1121/1.2226586 2. 2019). Hautier, Lionel ed). "First monodontid (Odontocet, Delphinoidea) cetacean
+ISSN 0001-4966 2, PMID 1700449012. @. from the early Pliocene of the north-western Pacific Ocean’ Papers in
+73. Jones, Joshua M.; Frasier, Kaitin E.; Westdal, Kristin H.; Ootoowak, Alex Palaeontology. 5 (2): 323-342. Bibcode:2019PPal...5..3231c2 J;
+Wiggins, Sean M.; Hildebrand, John A. (1 March 2022). "Beluga (Delphinapterus doi:10.1002/spp2.1244 ISSN 2056-27092 2.
+20,84064€f acdonald, Jeucas) and narwhal (Monodon monoceres) echolocation click detection and David Whyte; Barrett, Priscilla (2001). Mammals of Europe 2.
+differentiation from long-term Arctic acoustic recordings”. Polar Biology. 48 (2): 449- Princeton University Press. 173. ISBN 0-691-09160-9. Archived from the original 2 p.
+12 ISSN 1432-2056 S2CID 246176509 21.264 2. Reeves, Randall R.; Tracey, Sharon (15 April 1980). "Monodon monoceros".
+74. Garde, Eva: Heide-Jorgensen, Mads Peter; Hansen, Steen H.; Nachman, Gésta: Mammalian Species (127); 1-7. doi:10.2307/8503952 ISSN 0076-3519 c2.
+Forchhammer, Mads C. (28 February 2007). “Age-specific growth and remarkable JSTOR 35039522.
+longevity narwhals (Monodon monoceros) from West Greenland estimated by €4 in as 22,88 wiepber, Marc A. Jefferson, Thomas Allen; Piman, Robert L. (28 July
+acid racemization”, Joumal of Mammalogy. 88 (1): 49-58. aspartic 2015). Marine Mammals of the World: A Comprehensive Guide Their to
+2372.2. 23.85 © Garde, Eva; Hansen, Steen H.; Ditlevsen, Susanne; Tvermosegaard, Ketil
+75,42 |aidre, Kristin; Heide-Jargensen, Mads Peter; Stern, Harry; Richard, Pierre (1 Biering; Hansen, Johan; Harding, Karin C.; Heide-Jargensen, Mads Peter (7 July
+January 2012). "Unusual narwhal entrapments and delayed freeze-up autumn sea ice 2015). "Life history parameters of narwhals (Monodon monoceros) from Greenland”
+2 trends". Polar Biology. 35 (1): 149-154, Bibcode:2012PoBio..25.149L Journal of Mammalogy. 96 (4): 866-879. doi:10.1093/jmammallgyv110c2. ISSN 0022-
+of 76. “ Porsild, Morten P. (1918). “On ‘savssats': crowding Arctic animals holes the at a in 24. 4 Kingsley, Michael (October 1989). "Population dynamics of the narwhal Monodon
+ice". Geographical Review. 6 (3): 215-228. Bibcode:1918GeoRv...6..215P 2. ‘sea initial assessement (Odontoceti: Monodontidae)". Journal of Zoology. monoceros: an
+& ct. Ari 77. * Macdonald, David Whyte; Barret, Priscila (1993), Mammals of Britain Europe 25. Dietz, Rune; Shapiro, D.; Bakitiari, Mehdi; Orr, Jack; Tyack, Peter L; Richard,
+HarperCollins. 173. ISBN 978-0-00-219779-3 p. Pierre; Eskesen, Ida Granborg; Marshall, Greg (19 November 2007). "Upside-down
+7 78. Perrin, Wiliam F.; Wursig, Bernd; Thewissen, J. G, M. Hans’, eds. (2009). behaviour of free-ranging narwhals” BMC Ecology. (A): 14 2. swimming
+091993-5, 2. Archived? from the original 28 January 2024, Retrieved 18 November 22387333. on PMC PMID 18021441
+2020, 26. “ Fontanella, Janet E.; Fish, Frank E.; Rybczynski, Natalia; Nweeia, Martin T.; Ketten,
+79. 4 Ferguson, Steven H.; Higdon, Jeff W.; Westdal, Kristin H. (30 January 2012). "Prey Darlene R. (October 2011). "Three-dimensional of the narwhal (Monodon geometry
+and predation behavior of killer whales (Orcinus orca) Nunavut, Canada items in ‘monaceros) flukes relation hydrodynamics" Marine Mammal Science. 27 (8 to ct. in
+based Inuit hunter ct, Aquatic Biosystems. 8 (1): 3. interviews" on 880-898. Bibcode:2011MMamS..27..889F doi:10.1111/,.1748- ¢2.
+8. 2310332 PMC PMID 22520955 (2. 27. 6 Pagano, Anthony M.; Willams, Terie M. (15 February 2021). "Physiological
+80. "Invasion ofthe killer whales: killer whales attack pod of narwhal" 2. Public of Arctic loss large by consequences sea ice on marine camivores: unique responses
+2014, Broadcasting System. 19 November Archived from the original 22 October ¢? on polar bears and narwhals". Journal of Experimental Biology. 224 (Suppl_1)
+81. Barratclough, Ashley; Ferguson, Steven H.; Lydersen, Christian; Thomas, Peter O.; ISSN 0022-09492, PMID 33627459 c2
+28,82 Kovacs, Kit M. (July 2023). "A of circumpolar Arctic mammal health—a review marine williams, Terrie M.; Noren, Shawn R.; Glenn, Mike (April 2011). "Extreme
+ef, © Pagano, Anthony M., Willams, Terre Mi. (29 February 2Ue2). Physiological ee
+all of rapid environmental change” Pathogens. 12 (7): 937. to action time c. in a physiological adaptations predictors of climate-change the narwhal sensitivity as in
+82. 4 Nielsen, Ole; Rodrigues, Thais C. S.; Marcoux, Marianne: Béland, Karine; ISSN 0824-0469(2.
+S. ‘Subramaniam, Kuttichantran; Lair, Stéphane; Hussey, Nigel E.; Waltzek, Thomas B. 29. 4 Reidenberg, Joy (June 2007), "Anatomical adaptations of mammals" aquatic
+The (6 July 2023). "Alphaherpesvirus infection free-ranging narwhal (Monodon in a Anatomical Record. 290 (6): 507-513. doi:10.1002/ar.20541 :. ISSN 1932-
+trom Arctic Canada". Diseases ‘monoceros) of Aquatic Organisms. 154: 131-139, 8486c2. PMID 17516440.
+8, Peter V.; doi:10,2964/da003732 ISSN 0177-5103 PMID 37410432. 30.4064 2, Nweeia, Martin T; Eichmiller, Frederick C.; Hauschka, Donahue,
+f CITES" Archived 83, 4 "Fact sheet narwhal and climate change| (PDF). cms.int. Gretchen A, Orr, Jack R.; Ferguson, Steven H.; Watt, Cortney A.; Mead, James G.:
+(PDF) from the original 26 January 2024, Retrieved 21 January 2024. on Potter, Charles W.; Dietz, Rune; Giuseppett, Anthony A.; Black, Sandie R.
+‘Trachtenberg, P. ‘84. Lukey, James R.; Crawford, Stephen S. (June 2009). "Consistency of COSEWIC Alexander J.; Kuo, Winston (18 March 2014). "Sensory ability the in
+@. study" risk designations: freshwater fishes Canadian Journal at species as a case harwihal tooth ¢2. The Anatomical Record. 297 (4): 599-617. system’ organ
+Aquatic 66 (6): Archived of Fisheries and Sciences. 959-971. doi:10.1002/ar-22886c7. ISSN 1932-8486.2. PMID 246390762. from the
+C2 c2. January Bibcode:2009CJFAS..66..959L dot:10.1139/F09-054 ISSN 0706-652X.z. original 24 January 2024, Retrieved 24 2024. on
+Frank F:; Aubail, Aurore; "vary Act protections come 2. 85. 4 force for four species" GOV.UK. 28 into more 31. 4 Dietz, Rune; Desforges, Jean-Pierre; Rigét, Garde, Eva;
+January 2025. Retrieved 5 February 2025. Ambus, Per; Drimmie, Robert; Heide-Jargensen, Mads Peter; Sonne, Christian (10
+Ivory Act: 2. of 86. 4UK Ban extended hippos and whales" BBC May 2021), "Analysis narwhal tusks reveals ifelong feeding ecology and to protect some mercury
+Newsround. 28 January 2025. Retrieved 5 February 2026. exposure". Current Biology. 31 (9): 2012-2019.e2.
+7. c2. April of Bibcode:2021CBio...31E2012D doit10.1016jcub.2021.02.018 ISSN 0960- 87. 8 Witing, Lars (10 2017), Meta population modelling narwhals East Canada in
+~ 2, 982212. PMID 33705717 Archived «trom the original 26 January 2024. and West Greenland 2017, doi:10.1101/059691 S2CID 89062294 retrieved c. c4, on
+Retrieved 26 January 2024. 14 February 2024
+of © °2064 32. 4 Dipper, Frances (8 June 2021). The Marine World: A Natural History Ocean 88, Hoover, C.; Bailey, M. L.; Higdon, J.; Ferguson, S. H.; Sumaila, R. (2013).
+2. Life Princeton University Press. 347. ISBN 978-0-691-23244-7, ‘Estimating the value of narwhal and beluga hunts Hudson Bay, p. economic in
+Arctic Institute Garde, Nunavut" Arctic. 66 (1). of North America: 1-16. 33.4 Eva; Peter Heide-Jargensen, Mads; Ditlevsen, Susanne; Hansen, Steen 2.
+c2. do:10.14430/arctic4261 ISSN 0004-0843 72. H. (January 2012), “Aspartic acid narwhal (Monodon monoceros) racemization rate in
+2. 2009). "Inuit lens nuclei estimated by of growth layers tusks" Polar Research. 31 89. 8 Greentieldboyce, Nell (19 August hunters help track counting scientists eye in
+9. from doi:10.3402/polarv31i0.15865 (2) 15865. ISSN 1751-83692. nanwhals"2. NPR.org. National Public Radio, Archived: the original 24 on
+October 2016. S. social of Retrieved 24 October 2016. 34. Lee, David (2005). The ecological and dynamics nuit narwhal foraging
+c Philosophy thesis). *# Pond Inlet, Nunavut (Doctor of McGill University. 7-13, 90. Heide-Jargensen, Mads P. (22 April 1994). "Distribution, exploitation and at pp.
+population of white whales (Delphinapterus leucas) and narwhals (Monodon 35. 4 Garde, Eva; Heide-Jargensen, Mads Peter (3 June 2022). “Tusk anomalies status in
+Meddelelser Polar ‘monoceros) West Greenland". Grenland, Bioscience. 39: 135~ nnarwhals (Monodon monoceros) from Greenland”. Research. 42. in om
+Lutz, Loch, Ewan; Werth, 36.*#© Carolina; 91. 4 Wagemann, R.; Snow, N. B.; A.; Scott, D. P. (9 December 1983). "Heavy Fordyce, R. Alexander (2023), Walrsig, Bernd;
+@. monoceros)" metals and ofthe narwhal (Moneclon Canadian tissues Orbach, Dara N. (eds.), "Skulls, teeth, and sex’, Sex Cetaceans: Morphology, in organs in
+and the Springer International and Aquatic Journal of Fisheries Sciences. 40 (S2): 5206-214. Behavior, Evolution of Sexual Strategies, Cham:
+© 37.445 92. 4 Bouquegneau, Krishna Das; Debacker, Virginie; Pillet, Stéphane Jean-Marie (2003), Broad, William (13 December 2005). "It's Really”. The New York sensitive.
+2, Heavy metals mammals" Toxicology of Marine Mammals, CRC Press, Times. Archived trom the original 28 January 2024. Retrieved 22 February 2017. 2 in marine on
+21746-3, retrieved 4 February 2024 tusk"@. the of the nanwhal’s Independent.co.uk. Archived from the original mystery 2
+F: 93. Dietz, R.; Riget, Hobson, K.; Heidejorgensen, M.; Moller, P; Cleemann, M.; 18 June 2022. Retrieved 31 March 2014. on
+Deboer, J; Glasius, M. (20 September 2004). "Regional and inter annual patterns of 39. 4 "Drone-shot video have solved 400-year debate what narwhal tusks just may over
+heavy metals, organochiorines and stable isotopes narwhals (Monodon in used for". National Post. 17 May 2017. Retrieved 17 July 2024, are
+of ‘monoceros) trom West Greenland’. Science the Total Environment. 331 (1-3): 83~ 40. Kelley, Trish C.; Stewart, Robert E..; Yurkowski, David. Ryan, Anna; Ferguson,
+e. 108. Bibcode:2004ScTEn.931...83D dol:10.1016/}.sctotenv.2004.03.041 2. Steven H. (April 2015). "Mating ecology of beluga (Delphinapterus leucas) and
+@. ISSN 0048-9697 «2, PMID 1532514312 metrics" narwhal (Monodion monoceres) estimated by reproductive Marine tract as
+Peter February 2011). Mammal Science. 2 94. Laidre, Kristin L.; Heide-Jargensen, Mads (10 "Life the 31 (2): 479-500. Bibcode:2015MMamS..31..479K in
+lead: densities of narwhals (Monadon monaceros) the offshore pack extreme in oi:10.111:1/mms.12165¢2. ISSN 0824-04692.
+ice" Series. 423: a x. Marine Ecology Progress 269-278. 41. 4 °For dentist, the narwhal's smile of evolution’r2. Smithsonian Insider. mystery a is
+c2. 2. 2. c from Bibcode:2011MEPS.423..269L doi:10,3354imeps08941 ISSN 0171-8630 418 April 2012, Archived the original 14 September 2016. Retrieved on
+95. Kovacs, Kit M.; Lydersen, Christian; Overland, James E.; Moore, Sue E. (1 March 6 September 2016.
+V.; 2011). "Impacts of changing conditions Arctic mammals", Marine sea-ice on marine 42. 4 Nweeia, Martin T; Eichmiler, Frederick Hauschka, Peter Tyler, Ethan; Mead, C.;
+e. G.; Potter, W.; P; R.; R.; Biodiversity. 41 (1): 181-194, Bibcade:2011MarBd. 41..181K dok:10.1007/s12526- James Charles Angnatsiak, David Richard, Pierre Ort, Jack
+010-0061-012. ISSN 1867-1624 2. Black, Sandie R. (30 March 2012). "Vestigial tooth anatomy and tusk nomenctature for
+96. * Heide-Jorgensen, Mads Peter; Hansen, Rikke Guldborg; Westdal, Kristin; Reeves, Monodon Monoceros”. The Anatomical Record. 295 (6): 1006-1016.
+Anders Randall R.; Mosbech, (February 2013). "Narwhals and exploration: dof:10.1002/ar-22449cr. ISSN 1932-8486.2. PMID 22467529 seismic is
+(2018), "Narwhal: the risk of entrapments?" 2. Biological Conservation. seismic noise increasing ioe 43. 9 Heide-Jorgensen, M. P. Monodon monoceros” , Warsig, in
+Thewissen, J. 8. dot:10.1016/,.biocon.2012.08.005 188: 50-54, Bibcode:2013BCons.158...50H 2. Bemd; G. M; Kovacs, Kit M. (eds.), Encyclopedia of Marine Mammals
+97. 4 Canada, Service (13 October 2015). "Nanwhal (Monodon monoceros) COSEWIC {rom the original 20 January 2023, retrieved 27 January 2024 on
+E.; 2. 2 and report’ wwu.canada.ca. Archived from the original? on assessment status 44. Belikoy, Stanislav Boltunov, Andrel N. (21 July 2002). "Distribution and
+September 2024. Retrieved 4 July 2024. of the Russian Arctic according observations from aerial migrations cetaceans to in ice
+2 gg. \weeia, Martin T. (15 February 2024). "Biology and cultural of the importance reconnaissance" (2. NAMMCO Scientific Publications. 4: 69-86.
+Thewissen, Mammals g. doi:10.1016/).biocon.2012.08.005 158: 50-54. Bibcode:2013BCons.158...50H 2. Berd; J. G. M.; Kovacs, Kit M. (eds.), Encyclopedia of Marine
+E.; www:canada.ca. 2 and report’. Archived from the originale? on assessment status 44, Belikov, Stanislav Boltunoy, Andrei N. (21 July 2002). "Distribution and
+:2. Annual nanwhal"(. Review of Animal Biosciences. 12: 187-208. doi:10.7557/3.2838 ISSN 2309-2491 (2. Archived from the original 27 January on
+45,949 PMID 38358838 2. att, C. A; Orr, J. R.; Ferguson, S. H. (January 2017). "Spatial distribution of
+"2 99, Wexler, Philip (2017). Toxicology the Middle Ages and Renaissance c. rnarwhal (Monodion monoceros) diving for Canadian populations helps identity in
+‘Academic Press. 101-102. ISBN 978-0-12-809559-1. @. pp. seasonal foraging areas” Canadian Journal of Zoology. 95 (1): 41-50. important
++100. Bastian, Dawn Elaine; Mitchell, Judy K. (2004). Handbook of Native American Bibcode:2017CaJZ...95...41W dot 10.1139/cjz-2016-0178 2. ISSN 0008-4301.
+&2. Mythology Bloomsbury Academic. 54-55. ISBN 1-85109-533-0. ‘Archived from the original 28 January 2024, Retrieved 20 January 2024. pp. on
+46,929 64 101. 4 Dugmore, Andrew Keller, Christian; McGovern, Thomas H. (6 February 2007). Laidre, K, L.; Heide-Jorgensen, M. P. (January 2005). "Winter feeding J.;
+on @. “Norse Greenland settlement: reflections climate change, trade, and the of narwhals (Monocion monoceros)" Marine Mammal Science. 21 (1): 45 intensity
+@. fates of human settlements the North Attantic islands" Arctic contrasting 57. Bibcode:2005MMamS..21...a5L 2. doi:10.1111}.1748-7692.2005.tb01207 «2 in
+8#¢ _—_*102. Pluskowski, Aleksander (January 2004). "Narwhals unicorns? Exotic animals Mads Peter; Ferguson, Steven H. (March 2008). "Quantifying the of Arctic sensitivity or
+Ecological Applications. @. material culture medieval Europe” European Journal of Archaeology. 7 (3): mammals climate-induced habitat change” 18 to 2. ‘as in marine
+103. “ Daston, Lorraine; Park, Katharine (2001). Wonders and the Order of Nature, 1150- 48, ‘Paine, Stefani Hewlett (1995). The of Arctic whales: belugas, bowheads and nature
+: 11750. Zone Books. |SBN 0-942299-91-4, rnarwhals Internet Archive, Vancouver Douglas & Mcintyre. 24. ISBN 978-1- 2. p.
+55054-190-8. 104, 4 Rochelandet, Brigitte (2003). Monstres merveilles de Franche-Comté: fées, et
+2 8@2° fantOmes dragons (in French). Editions Cabédita. 131. ISBN 978-2-88295- et 49, Laidre, K. L; Heide-Jargensen, M. P; Jargensen, O. A. Treble, M.A. (L p.
+400-8. January 2004). "Deep-ocean predation by high Arctic cetacean’. ICES Journal of a
+Marine Science. 61 (3): 430-440. Bibcode:2004ICIMS..61..430L 105. 4 Robertson, W. G. Aitchison (1926). “The of the unicom’s horn, coral and c2. stones use
+7946245. PMC PMID 33944492 7. 50. 4 Beer, Amy-Jane (2004). Encyclopedia of North American mammals‘2. Internet
+Archive. San Diego, Calif.: Thunder Bay Press. 122. ISBN 978-1-59223-191-1. 106. * Spary, E C (2019). "On the of the horn enlightened p. ironic specimen unicom in
+8. 2. doi:10.1093/jshish2005 cabinets" 2. Journal of Social History. 52 (4): 1033-1060. 51. "The biology and ecology of nanwhals" National Oceanic and noaa.gov.
+Administration. ISSN 1527-1897 ‘Atmospheric Archived from the original 14 August 2022. «2. c? on
+Retrieved 15 January 2009. 107. * Schoenberger, Guido (1951). "A goblet of horn”, The Metropolitan Museum unicom
+Art :2. 52.885 C of Bulletin. 9 (10): 284-288. doi:10.2307/3258091 ISSN 0026-15212. Laidre, Kristin L.; Heide-Jargensen, Mads Peter; Dietz, Rune; Hobbs, Roderick
+22. A. JSTOR 3258091 C.; Jorgensen, Ole (17 October 2003). "Deep-diving by narwhals (Monodon
+2. ‘monoceros): differences foraging behavior between areas?" Marine 108. 4 Dectot, Xavier (October 2018). "When from the On of wintering traits in ivory came seas. some
+12 @. Ecology Progress Series. 261: 269-281. Bibcode:2003MEPS..261..269L the trade of and carved sea-mammal the Middle Ages" raw ivories in
+ISSN 0761-3032 S2CID 135259639. (2. 53. 4 Kumar, Mohi (March 2011). "Research Spotlight: Narwhals document continued
+of Baffin Bay", Eos, Transactions American Geophysical Union. 92 (9): 80. 109. © Schmilcke, Ulrich (December 2022). "What about species? Significance of exotic ‘warming
+2. (7. Bibcode:2011EOSTr..92...80K doi:10.1029/2011E0090009 ISSN 0096-3941 of and alien animals the Baltic Sea focusing the period 2. strange remains in region, on
+from the Viking Age high medieval (800-1300 CE)" Heritage. 5 (4): 3864— 54. 4 Davis, Randall W. (2019). "Appendix 3. Maximum Recorded Dive Depths and to times 2.
+g. an doi:10.2390/neritage5040199 3880, ISSN 2571-94082. Durations for Marine Mammals". Marine Mammals. Adaptations for Aquatic Life.
+Berlin/Heidelberg: Springer. ISBN 978-3-319-98278-6. 110. 4 Sherman, Josepha (2015). Storytelling: An Encyclopedia of Mythology and
+28 September 2023. Retrieved 18 September 2023. Williams, T. M.; Dietz, R.; Albertsen, C. M.; Laidre, K. L.; Nielsen, N. H.; Richard, P.; on
+Sinding, M. H. S.; Schmidt, H. C.; Heide-Jargensen, M. P. (29 October 2020). “The LAL. 4 Regard, Frédéric, ed. (2014), "Ice and Eskimos: Dealing With New Otherness" 2, a
+Arctic of predator, the narwhal” Scientific The Quest for the Northwest Passage: Knowledge, Nation and Empire, 1576-1806, impact temperatures top eX. rising sea on an
+1, . J. 7596713 75858-62. ISSN 2045-2322 PMC PMID 33122802 (2. 112. A Duffin, Christopher (January 2017). "Fist, fossil and fake: medicinal unicorn
+@. 56. Jensen, Frederik H.; Tervo, Outi M.; Heide-Jargensen, Mads Peter; Ditlevsen, horn" Geological Society, London, Special Publications. 452 (1): 211-259.
+Susanne (25 March 2023). "Detecting narwhal foraging behaviour from accelerometer Bibcode:2017GSLSP.452..211D doi:10.1144/SP452.16 ISSN 0305-8719 «. :2. 2.
+and depth data mixed-effects logistic regression’ Animal Biotelemetry. 11 (1) S2CID 13336687202. 2. using
+Further reading
+Ford, “Narwhal: OCLC John; Ford, Deborah (March 1986). of the Arctic seas". National Geographic. Vol. 169, 3. 354-363. ISSN 0027-93582. 643483454.2. ‘+ unicorn no. pp.
+Groo, Isabelle (12 February 2014). "The world's weirdest whale: hunt for the unicom"c2, New Scientist. Retrieved 10 February 2024. * sea
+identifiers Taxon
+Odontocete [show] genera vine
+:3 2 :3 :2 NOAA: narwhal Observation.org: 20693 OBIS: 137116 Open Tree of Life: 306757 Paleobiology Database: 64546 SeaLifeBase: 69409 2 x1 « - - - - -
+7 Authority control databases [show]
+Arctic | | | Red least listed Appendix Mammals described of the Categories: IUCN List Fauna CITES II 1758 Cetaceans Ocean concem species on in
+| | | | | | Mammals of Canada Mammals of Greenland Mammals of Monodontidae Animal named by Carl Russia Unicorns Linnaeus taxa
+| | of the Holarctic realm of Northern Canada Fauna Fauna
+This last edited 21 January 2026, 18:06 (UTC). at page was on

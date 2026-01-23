@@ -1,0 +1,1125 @@
+<!-- MODALITY: IMAGE
+METADATA: {
+  "path": "data\\image\\003_Mantis-shrimp.png",
+  "file_size": 4656494,
+  "image_width": 1280,
+  "image_height": 10173,
+  "ocr_engine": "tesseract",
+  "ocr_lang": "eng",
+  "tesseract_cmd": "C:\\Program Files\\Tesseract-OCR\\tesseract.exe",
+  "config": "--oem 3 --psm 6",
+  "min_line_conf": 30.0,
+  "line_count": 440,
+  "overall_bbox": [
+    23,
+    14,
+    1263,
+    10106
+  ],
+  "regions": [
+    {
+      "bbox": [
+        53,
+        14,
+        1263,
+        31
+      ],
+      "avg_conf": 63.0
+    },
+    {
+      "bbox": [
+        41,
+        49,
+        1256,
+        78
+      ],
+      "avg_conf": 67.6923076923077
+    },
+    {
+      "bbox": [
+        32,
+        118,
+        770,
+        155
+      ],
+      "avg_conf": 90.6
+    },
+    {
+      "bbox": [
+        37,
+        141,
+        860,
+        158
+      ],
+      "avg_conf": 85.85714285714286
+    },
+    {
+      "bbox": [
+        28,
+        189,
+        329,
+        198
+      ],
+      "avg_conf": 55.0
+    },
+    {
+      "bbox": [
+        57,
+        189,
+        367,
+        215
+      ],
+      "avg_conf": 78.66666666666667
+    },
+    {
+      "bbox": [
+        28,
+        228,
+        418,
+        245
+      ],
+      "avg_conf": 93.71428571428571
+    },
+    {
+      "bbox": [
+        27,
+        267,
+        1149,
+        286
+      ],
+      "avg_conf": 79.3157894736842
+    },
+    {
+      "bbox": [
+        28,
+        284,
+        1170,
+        306
+      ],
+      "avg_conf": 75.86363636363636
+    },
+    {
+      "bbox": [
+        28,
+        294,
+        1233,
+        325
+      ],
+      "avg_conf": 82.0
+    },
+    {
+      "bbox": [
+        202,
+        314,
+        921,
+        328
+      ],
+      "avg_conf": 86.10526315789474
+    },
+    {
+      "bbox": [
+        28,
+        331,
+        956,
+        356
+      ],
+      "avg_conf": 90.0
+    },
+    {
+      "bbox": [
+        28,
+        349,
+        1057,
+        380
+      ],
+      "avg_conf": 89.0
+    },
+    {
+      "bbox": [
+        28,
+        379,
+        1089,
+        399
+      ],
+      "avg_conf": 85.53333333333333
+    },
+    {
+      "bbox": [
+        28,
+        401,
+        1213,
+        432
+      ],
+      "avg_conf": 67.73913043478261
+    },
+    {
+      "bbox": [
+        28,
+        425,
+        1248,
+        458
+      ],
+      "avg_conf": 77.70833333333333
+    },
+    {
+      "bbox": [
+        28,
+        447,
+        1248,
+        479
+      ],
+      "avg_conf": 78.75
+    },
+    {
+      "bbox": [
+        202,
+        468,
+        1191,
+        501
+      ],
+      "avg_conf": 82.42857142857143
+    },
+    {
+      "bbox": [
+        28,
+        496,
+        953,
+        515
+      ],
+      "avg_conf": 94.13636363636364
+    },
+    {
+      "bbox": [
+        27,
+        520,
+        1097,
+        537
+      ],
+      "avg_conf": 89.0
+    },
+    {
+      "bbox": [
+        28,
+        537,
+        1114,
+        565
+      ],
+      "avg_conf": 86.0
+    },
+    {
+      "bbox": [
+        28,
+        543,
+        1225,
+        587
+      ],
+      "avg_conf": 54.857142857142854
+    },
+    {
+      "bbox": [
+        28,
+        561,
+        1237,
+        603
+      ],
+      "avg_conf": 36.166666666666664
+    },
+    {
+      "bbox": [
+        28,
+        588,
+        1248,
+        615
+      ],
+      "avg_conf": 36.666666666666664
+    },
+    {
+      "bbox": [
+        28,
+        608,
+        1086,
+        635
+      ],
+      "avg_conf": 76.0
+    },
+    {
+      "bbox": [
+        28,
+        623,
+        1248,
+        652
+      ],
+      "avg_conf": 59.833333333333336
+    },
+    {
+      "bbox": [
+        28,
+        649,
+        1234,
+        668
+      ],
+      "avg_conf": 60.875
+    },
+    {
+      "bbox": [
+        1021,
+        662,
+        1226,
+        674
+      ],
+      "avg_conf": 90.0
+    },
+    {
+      "bbox": [
+        263,
+        674,
+        1143,
+        695
+      ],
+      "avg_conf": 76.14285714285714
+    },
+    {
+      "bbox": [
+        24,
+        683,
+        1099,
+        714
+      ],
+      "avg_conf": 73.71428571428571
+    },
+    {
+      "bbox": [
+        28,
+        708,
+        1243,
+        732
+      ],
+      "avg_conf": 61.75
+    },
+    {
+      "bbox": [
+        28,
+        722,
+        1156,
+        757
+      ],
+      "avg_conf": 59.285714285714285
+    },
+    {
+      "bbox": [
+        28,
+        760,
+        1172,
+        781
+      ],
+      "avg_conf": 72.75
+    },
+    {
+      "bbox": [
+        27,
+        782,
+        1186,
+        805
+      ],
+      "avg_conf": 35.714285714285715
+    },
+    {
+      "bbox": [
+        27,
+        800,
+        1177,
+        833
+      ],
+      "avg_conf": 83.6
+    },
+    {
+      "bbox": [
+        27,
+        831,
+        1192,
+        852
+      ],
+      "avg_conf": 67.85714285714286
+    },
+    {
+      "bbox": [
+        24,
+        854,
+        1177,
+        882
+      ],
+      "avg_conf": 71.66666666666667
+    },
+    {
+      "bbox": [
+        210,
+        876,
+        1172,
+        893
+      ],
+      "avg_conf": 69.5
+    },
+    {
+      "bbox": [
+        28,
+        878,
+        1160,
+        909
+      ],
+      "avg_conf": 67.0
+    },
+    {
+      "bbox": [
+        28,
+        919,
+        1240,
+        938
+      ],
+      "avg_conf": 46.833333333333336
+    },
+    {
+      "bbox": [
+        30,
+        931,
+        346,
+        959
+      ],
+      "avg_conf": 53.0
+    },
+    {
+      "bbox": [
+        24,
+        957,
+        1019,
+        988
+      ],
+      "avg_conf": 92.03703703703704
+    },
+    {
+      "bbox": [
+        24,
+        982,
+        1199,
+        1007
+      ],
+      "avg_conf": 82.17857142857143
+    },
+    {
+      "bbox": [
+        23,
+        1003,
+        1175,
+        1032
+      ],
+      "avg_conf": 88.4090909090909
+    },
+    {
+      "bbox": [
+        27,
+        1024,
+        1215,
+        1038
+      ],
+      "avg_conf": 62.5
+    },
+    {
+      "bbox": [
+        28,
+        1041,
+        1198,
+        1076
+      ],
+      "avg_conf": 47.6
+    },
+    {
+      "bbox": [
+        201,
+        1073,
+        1238,
+        1106
+      ],
+      "avg_conf": 81.82608695652173
+    },
+    {
+      "bbox": [
+        88,
+        1092,
+        1240,
+        1125
+      ],
+      "avg_conf": 74.75862068965517
+    },
+    {
+      "bbox": [
+        202,
+        1118,
+        1180,
+        1149
+      ],
+      "avg_conf": 89.14285714285714
+    },
+    {
+      "bbox": [
+        201,
+        1146,
+        1221,
+        1171
+      ],
+      "avg_conf": 84.72
+    },
+    {
+      "bbox": [
+        202,
+        1163,
+        1129,
+        1194
+      ],
+      "avg_conf": 91.04761904761905
+    },
+    {
+      "bbox": [
+        202,
+        1191,
+        1182,
+        1216
+      ],
+      "avg_conf": 86.57142857142857
+    },
+    {
+      "bbox": [
+        201,
+        1214,
+        1180,
+        1231
+      ],
+      "avg_conf": 85.77777777777777
+    },
+    {
+      "bbox": [
+        211,
+        1237,
+        1182,
+        1268
+      ],
+      "avg_conf": 87.26086956521739
+    },
+    {
+      "bbox": [
+        224,
+        1267,
+        1183,
+        1287
+      ],
+      "avg_conf": 90.0
+    },
+    {
+      "bbox": [
+        224,
+        1288,
+        1196,
+        1309
+      ],
+      "avg_conf": 34.0
+    },
+    {
+      "bbox": [
+        211,
+        1309,
+        1220,
+        1336
+      ],
+      "avg_conf": 86.91666666666667
+    },
+    {
+      "bbox": [
+        224,
+        1328,
+        1028,
+        1359
+      ],
+      "avg_conf": 94.125
+    },
+    {
+      "bbox": [
+        224,
+        1350,
+        1229,
+        1381
+      ],
+      "avg_conf": 92.89655172413794
+    },
+    {
+      "bbox": [
+        224,
+        1376,
+        1216,
+        1400
+      ],
+      "avg_conf": 56.5
+    },
+    {
+      "bbox": [
+        224,
+        1288,
+        287,
+        1305
+      ],
+      "avg_conf": 44.0
+    },
+    {
+      "bbox": [
+        211,
+        1315,
+        1035,
+        1329
+      ],
+      "avg_conf": 91.63636363636364
+    },
+    {
+      "bbox": [
+        224,
+        1338,
+        1028,
+        1352
+      ],
+      "avg_conf": 94.125
+    },
+    {
+      "bbox": [
+        224,
+        1359,
+        1229,
+        1374
+      ],
+      "avg_conf": 92.89655172413794
+    },
+    {
+      "bbox": [
+        224,
+        1376,
+        1222,
+        1396
+      ],
+      "avg_conf": 59.25
+    },
+    {
+      "bbox": [
+        1064,
+        1393,
+        1229,
+        1405
+      ],
+      "avg_conf": 76.8
+    },
+    {
+      "bbox": [
+        211,
+        1406,
+        1113,
+        1423
+      ],
+      "avg_conf": 85.36842105263158
+    },
+    {
+      "bbox": [
+        224,
+        1422,
+        999,
+        1447
+      ],
+      "avg_conf": 88.625
+    },
+    {
+      "bbox": [
+        211,
+        1449,
+        1006,
+        1466
+      ],
+      "avg_conf": 85.63157894736842
+    },
+    {
+      "bbox": [
+        202,
+        1482,
+        1049,
+        1505
+      ],
+      "avg_conf": 76.71428571428571
+    },
+    {
+      "bbox": [
+        201,
+        1502,
+        1238,
+        1531
+      ],
+      "avg_conf": 90.2
+    },
+    {
+      "bbox": [
+        202,
+        1522,
+        1073,
+        1541
+      ],
+      "avg_conf": 84.16666666666667
+    },
+    {
+      "bbox": [
+        202,
+        1539,
+        1077,
+        1570
+      ],
+      "avg_conf": 87.8
+    },
+    {
+      "bbox": [
+        201,
+        1568,
+        1085,
+        1590
+      ],
+      "avg_conf": 85.3529411764706
+    },
+    {
+      "bbox": [
+        202,
+        1594,
+        968,
+        1608
+      ],
+      "avg_conf": 95.28571428571429
+    },
+    {
+      "bbox": [
+        201,
+        1616,
+        928,
+        1630
+      ],
+      "avg_conf": 95.56521739130434
+    },
+    {
+      "bbox": [
+        202,
+        1635,
+        1247,
+        1652
+      ],
+      "avg_conf": 91.34615384615384
+    },
+    {
+      "bbox": [
+        202,
+        1653,
+        1248,
+        1679
+      ],
+      "avg_conf": 60.0
+    },
+    {
+      "bbox": [
+        1003,
+        1675,
+        1200,
+        1687
+      ],
+      "avg_conf": 78.83333333333333
+    },
+    {
+      "bbox": [
+        202,
+        1690,
+        953,
+        1704
+      ],
+      "avg_conf": 91.65
+    }
+  ],
+  "slicing": {
+    "enabled": true,
+    "slice_height": 1400,
+    "slice_overlap": 120,
+    "num_slices": 8
+  },
+  "note": "OCR text extracted from screenshot; regions include bbox + confidence.",
+  "skipped_ocr": false,
+  "cache_path": ".ocr_cache\\003_Mantis-shrimp.d7e81a4f8b30019b.ocr.json"
+}
+-->
+
+Celebrating 25 celebrate of humanity best. Join years 25 at its years us P
+Main A 3 page
+shrimp Mantis cs
+ain Jui Contact us tation needed] and (potis) ‘foot’. stomatopods branched off from other members of the class Malacostraca around 400 rov¢
+million with than of shrimp known. Alling the suborder 520 extant mantis years ago,”! more species species are in
+Contribute ago.1!5! Unipeltata, which around million They the predators shallow, 250 most important arose years are among in many
+Help tropical and subtropical habitats. being their habitats, they poorly understood, Despite marine common in are as many ni
+©! meee Australia Dubbed locusts” by killers” and referred “thumb splitters” "sea Assyrians, "prawn ON ancient sometimes to in now as Egy Z
+a Np incautiously,!! pe due their ability inflict painful wounds if handled shrimp powerful raptorial appendages Spel to to mantis possess aS. Upload fie
+oy | iy, on Che that used attack and kill either by dismembering; the shape of these appendages often to stunning, are prey spearing, or are Special pages
+SSS used classify them shrimp either have appendages which form heavily mineralized "clubs" that to into extant mantis groups: Gin TS
+TEES strike with they have sharp, forelimbs used swiftly (similar those of great to to mantises, can power, or grasping seize prey
+1 FICE Be age inomtion besenption
+ae vt Cie tis page =
+Get shortened 24 Claws ae URL
+~— ~ ~ 1.2.1 Polarized light Expand all
+Lysiosquilina maculata (Zebra mantis
+Printexport 2 Ecology and lfe history os
+Scientific classification ff Download PDF as OS eats
+Ty Kingdom: Printable Animalia version An Err
+Phylum: Arthropoda 3.2 Selected extant species ener ene
+8 External links aa
+[show] ‘Superfamilies and families . .
+saa Description [eait)
+Pyccxnit S in). (15 shrimps only the of the head and the first four of the thorax. 38 A Mantis mantis part segments cm carapace covers rear 4
+‘Tagalog & shrimp widely colour, with mostly being shades of brown, while others have multiple vivid colours. contrasting, range in species /
+Tiéng “ Viet \
+a BS ‘The shrimp’s second of thoracic appendages adapted for powerful close-range combat. These claws accelerate mantis at Pm Mh pair is can
+\) ‘ @ Ul) swing/attack.! ( comparable that of caliber bullet when fired, having around of force with each The Exit links .22 1500 ‘3 rate to newtons a
+that hunt their ne, appendage differences divide shrimp those by impaling with spear-lke and mantis into two types: structures main prey
+es aw. those that smash with powerful blow from heavily mineralised club-like appendage. considerable of damage be = A amount _ prey a a can
+club further inflicted after with these robust, hammer-like claws. This is divided three subregions: the the impact into impact ENS region,
+mee, : periodic and the striated shrimp commonly separated distinct (most categorized either Mantis into region, region. are groups are as
+outliers)'"! smashers but there determined by the of claws they type spearers or are some as possess: lke
+- al armed with appendages the having barbed used stab and These raptorial Spearers tips to are spiny spines snag prey. + -
+eee} appendages resemble those of hence the of these This the found mantises, crustaceans, type most mantis, common name is in
+2°) Anda shrimp
+ASIN Lj) Smashers much developed club and rudimentary (which nevertheless sharp and still used quite possess a more a more spear is in *
+their own fights between kind); the club used bludgeon and smash their The of the terminal of to apart. aspect portion is prey inner
+shrimp Drawing of by the appendage also sharp edge, used while the shrimp This found the families mantis a to cut mantis can possess a prey swims. is in
+REE CEE TSS Takuidae.2°) Gonodactylidae, Odontodactylidae, Protosquillidae, and
+2°) shrimp
+fights between their kind); the club used bludgeon and smash their The of the terminal of portion to apart. aspect own is prey inner
+Ey aes Wass Takuidae.2°) Gonodactylidae, Odontodactylidae, Protosquillidae, and
+raptorial claws flanking the are
+Spike smashers (hammers primitive smashers): unspecialized form, found only the basal family Hemisquillidae. The An or in + GERD
+smashing.1012 421118) last lacks the effective but also be used for segment at tip, except it not at spines so is as spearing can
+unresearched.{1UE21l141 Hatchet: unusual, highly derived appendage that only few have. This body plan largely An a species is *
+Both strike by rapidly unfolding and their raptorial claws atthe and infct damage types victims swinging prey, can serious on 9
+= significantly than themselves. smashers, these employed with blinding quickness, with Dy In greater two in size weapons are an
+ee m/s? ft/s?) 25] acceleration of (102,000 and speeds of m/s (83 km/h; mph) from standing 10,400 335,000 23 51 start. g or a
+vapor ‘filled Cresta they strike rapidly, they bubbles the between the appendage and the striking Because generate water so in
+bubbles.) aaa surface—known The collapse of these bubbles produces measurable forces their cavitation cavitation as on prey
+addition the forces of that caused by the of the appendage the striking to 1,500 instantaneous newtons impact against in are
+surface, which that the hit by single strike; first by the claw and then by the collapsing twice cavitation means prey is a
+follow.®! bubbles that immediately if the initial strike the the resulting shock be enough a Even to stun Strike mechanics and misses prey, wave can spearing
+ment | Cities Senna IneCaepe ((apaDrIe mae kill. The collapsing bubbles also produce light, which termed sonoluminescence. or is
+claw, ballistic claw) of shrimp mantis
+‘Smashers this ability attack crabs, snails, rock and other molluscs, their blunt clubs enabling them crack to oysters, to use
+the shells of their however, prefer the of softer animals, such fish and cephalopods, into Spearers, meat prey pieces. as
+which their barbed claws easily slice and can more snag.
+structures. !17Ilelarification needed] The appendages being studied microscale analogue for macroscale material are as a new
+% subsections be well delineated; sections be technical/lacking in clarity for the general not too may many may
+audience. Splitting the section into Stomatopod vision be warranted here. Please help this if section may improve »
+(January 2025) (Learn message) how and when this you can. to remove
+The of the shrimp mounted mobile stalks and independently of each other. The mantis extreme eyes are on can move
+mobilty allows them be rotated all three dimensions, the of their has shown have little effect the to to yet position in eyes on
+surroundings."“®! of their shrimp thought have the complex the animal kingdom and the perception Mantis most to are eyes in -
+mm discovered.291(201(21) complex front-end for visual = most system any ever
+Vv) \ 7 cells.'2°! Each compound made of of thousands of ommatidia, clusters of photoreceptor Each of tens consists eye is up eye
+= —A flattened hemispheres separated by parallel of specialised ommatidia, collectively called the midband. The number two rows
+six.!2°lI7°l of omatidial the midband from This divides the three This configuration two to into rows in ranges eye regions.
+enables shrimp objects that the mid-plane of with three ofthe (ascan be mantis to parts see are near an eye same eye seen 5? Coco pcrapeacock manisshimp
+other words, photos showing three pseudopupils eye). each trinocular and therefore In in some in one eye possesses vision, showing the of the The three structure eyes.
+depth for objects mid-plane. The and lower hemispheres used primarily for of form _dark pseudopupiss, indicating the spots perception, its recognition are near upper are
+Taian eet crustaceans.!"8I CHE and like the of other motion, eyes many
+camera's POV
+Compared with the four of photoreceptor cell that humans their the of shrimp have types mantis possess in eyes, eyes a
+between and of photoreceptor cells. Furthermore, of these stomatopods the of their 12 16 types tune sensitivity some can
+environment.2! long wavelength colour adapt their This phenomenon, called "spectral to tuning”, to vision is species-
+specific251 Cheroske al, did observe spectral Neogonodactylus oerstedii, the with the et tuning not most in species
+wae natural photic bredini, with of habitats from depth of In N. variety 5 10 monotonous environment. to a species a ranging a m ay rx
+(ge (although be found down below the surface), spectral observed, but the ability alter wavelengths ee 20 | it to tuning to can m was
+gi of absorbance pronounced with much higher ecological/photic habitat N. not maximum was as as in wennerae, a species
+a diversity, The diversity of spectral Stomatopoda also hypothesised be directly linked the retinal tuning to to mutations in is in
+ua opsin.241 binding pocket of the oe) Ee . =. ;
+Ai a events.251251 The huge diversity shrimp photoreceptors likely from duplication one mantis ancient seen in comes gene
+Se SA of this duplication the lack of correlation between number and physiologically expressed transcript consequence is opsin
+ee bes photoreceptors.251 have different but only spectrally distinct photoreceptor. one species may six opsin genes, express one
+ie 7 the shrimp have lost the ancestral phenotype, although still distinct Over 16 mantis maintain years, some species some
+© photoreceptors and four light filters, that live of photic have high selective for Close of Oratosquila Species environments oratoria variety up eyes in a pressure
+photoreceptor diversity, and ancestral phenotypes better than that live murky primarily maintain waters species in or are
+nocturnal.!251[271
+light.'29U8! shrimp wavelengths of light from deep ultraviolet (300 nm) far-red (720 nm) and polarised shrimp the superfamilies Mantis in to mantis can perceive ranging in
+Gonodactyloidea, Lysiosquilloidea, and Hemisquilloidea, the midband made of ommatidial colours, while and detect circularly Rows 1 4 5 6 to is up six rows. process rows
+light.'""1(0281(25] linearly polarised light. Twelve of photoreceptor cells four of which detect ultraviolet the of 1 4, Despite types to or are in rows impressive range
+leifeaton needed wavelengths that shrimp have the ability they do have the ability discriminate wavelengths less than suggested that to 25 itis mantis to not apart, see, nm
+discriminating between closely positioned wavelengths allows these make determinations of surroundings with little delay. little Having not to its organisms processing
+combat.8! delay evaluating surroundings for shrimp, they territorial and frequently shrimp have been found important However, mantis mantis in is since are in some
+colors.!5°1 capable of distinguishing between high-saturation and low-saturation
+Their detect five different frequency bands the deep ultraviolet. do this, they photoreceptors UV To two vision can in use in
+filters.'5452] light.'°3! combination with four different colour They currently believed be infrared The optical insensitive to to are
+elements these have eight different classes of visual and the rhabdom (area of that absorbs light from pigments in rows eye a ge
+AS single direction) divided three different pigmented layers (tiers), each for different wavelengths. The three into tiers is in rows
+: and separated by colour filters (intrarhabdomal fiters) that be divided four distinct classes, with classes 2 3 into two are can Hf
+a Ps each Each of colour fiter of class, another colour filter of another class, and then last consists tier, tier, in row. a one a a
+colour Mae eee These filters allow the shrimp with diverse colour Without the filters, the themselves pigments tier. mantis to see vision.
+6 eS ae nm.5! Oe make only small of the visual from about and also segregated segment spectrum, 490 550 Rows 5 to into up a are
+different but have only class of visual the ninth class, and specialised for polarisation tenth National? tiers, A pigment, Peacock shrimp the one are vision. mantis at
+eye.!1°] Aquarium class of visual found the and lower hemispheres of the pigment is in upper
+have least photoreceptor which divided four classes (their spectral further ‘Some 16 into at types, sensitivity species are is
+light!*4*1) tuned by colour filters the retinas), for colour analysis the different wavelengths (including which ultraviolet and four for analysing 12 to sensitive in in six are
+polarised light. humans have only four visual of which three dedicated colour, and human lenses block ultraviolet light. The By most pigments, to comparison, are seeing
+visual information leaving the be processed parallel data leading the brain, greatly reducing the analytical at retina to into streams into requirements seems numerous
+levels.351 higher
+The midband only about of the visual field but like shrimps’ mounted stalks. shrimp, 5 10° most In to at instant, crustaceans, mantis mantis covers any given eyes are on
+the of the stalked unusually free, and be driven all possible of by eight muscles divided functional movement to 70” movement into eye is can up in axes eyecup six
+these muscles the surroundings with the midband, they add information about forms, shapes, and landscape, which be detected by By to cannot groups. using scan can
+the and lower hemispheres of the They also track objects large, rapid where the independently. movements two upper eyes. can moving using eye eyes move
+Polarized light [dit]
+of shrimp have been reported be able detect circularly polarised light, which has been documented other animal, and whether Six mantis to to not itis species in any
+unknown.!6I371I38] all They perform this feat by circularly polarized light linearly polarized light quarter-waveplates formed present converting into across species is via
+from stacks of microvilli. of their biological quarter-waveplates perform uniformly the visual than man-made polarising and Some spectrum current optics, more over any
+technology.2941 this could of optical media that would outperform early Blu-ray types 21st Disc century inspire new
+The Gonodactylus smithil the only known simultaneously detect the four linear and circular polarisation required all to two components to species is organism measure
+a vision.27*4 four Stokes which yield full description of polarisation. thus believed have optimal polarisation the only animal known have It to it parameters, to is is
+background."2! dynamic polarisation This achieved by rotational the polarisation between the object focus and since movements to contrast its vision. is eye maximise in
+information.!*3) each independently from the other, of visual two streams it creates separate eye moves
+Suggested advantages of visual system [cit]
+“s What advantage polarisation confers unclear; however, polatisation used by other animals for sexual signaling sensitivity to is vision is _
+predators.!“4! . and that avoids the of This mechanism could provide evolutionary advantage; only attention | secret communication it an :
+selection.!45) small changes the cell the and could easily lead natural to to requires in eye
+Pa The of shrimp enable them different of coral, (which often mantis to types transparent eyes may recognise prey species are or
+semitransparent), predators, such barracuda, which have shimmering scales. Alternatively, the which they hunt (very or as manner in
+A “apid of the claws) information, which would depth The perception. movements accurate accurate may require very ranging require
+Pn C a “ 41 light enable observation of otherwise hard-to-detect coral reefs. to UV capacity see may prey on
+iid as, rituals, shrimp actively fluoresce, and the wavelength of this fluorescence matches the wavelengths detected by During mating mantis
+oS pigments.!“®l their Females only fertile during phases of the tidal cycle; the ability the phase of the to certain eye are perceive moon
+therefore, help wasted efforts. also these shrimps information about the of the tide, which prevent It mating may, may give size is,
+shore. [tation needed] living shallow the to water important species in near
+Researchers that the broader of photoreceptors the of shrimp allows visual information be suspect variety mantis to in eyes
+preprocessed by the instead of the brain, which would otherwise have be larger deal with the complex task of to Close-up of the trinocular to opponent eyes
+of Pseudosquilia ciliata vision colour used by other thus and While the themselves complex and perception time process species, requiring more energy. eyes are
+simple.'*7! fully understood, the principle of the be has similar of the human visual yet it to not system to set sensitivities appears a
+but works the the human brain, the inferior temporal has huge number of colour-specific which visual impulses In cortex system, opposite in manner. a neurons, process
+from the colour information. The shrimp instead the different of photoreceptors perform the function the human to extract mantis types its to eyes uses in eyes same as
+brain resulting hardwired and efficient for animal that rapid colour identification. have fewer of photoreceptors, but Humans types system neurons, in a more an requires
+"8! photoreceptors. colour-tuned while shrimp have fewer colour and classes of mantis to more neurons, appear neurons more
+study from failed find unequivocal evidence for solely "barcode’-ike visual described above. Stomatopods of the Haptosquilla However, 2022 to system a a as species
+colleagues.°ll8l able distinguish high and low-saturation colors from Thoen and be that combination of color trispinosa jt to contravening were grey, may some
+present.2°) and photoreceptor comparison/barcode analysis activation opponency is
+"8! colour-tuned while shrimp have fewer colour and classes of photoreceptors. mantis to more neurons, appear neurons more
+The shrimps form of reflector of polarised light found elswhere human technology. allows the manipulation of light the rather It not yet nature structure use a in or across
+than through depth, the typical polarisers work. This allows the be both small and microscopically thin, and still be able produce big, bright, colourful its structure to to way
+signals.) polarised
+life Ecology and history [eait)
+shrimp long-lived and exhibit complex behaviour, such ritualised fighting, by the of fluorescent their Mantis patterns are as or use on
+bodies for signalling with their and perhaps other have developed complex social behaviours defend their Many to own even species. "
+from rivals; shrimp typically solitary that aggressively defend their burrows, either rock formations mantis creatures space are sea may ee
+self-dug burrows the seabed. They rarely outside their homes feed and relocate. They learn and he, eee intricate except to or in are seen can STO
+well, "Ho" needed] sags remember and able neighbouring shrimp with which they frequently They to mantis interact. RL are recognise can 5
+Aba Oe ation needed) them by visual and by individual smell. recognise signs even
+& a shrimp be diurnal, nocturnal, crepuscular (active twilight), depending the Unlike Mantis at most crustaceans, Se can or on species. ee
+iB {clarification needed] they hunt, chase, and kill Although live live tropical and ae sometimes temperate most prey. some in seas, species in ee. 9
+oe ‘Gung Subtropical the Indian and Pacific the between Africa and Oceans, Hawaii waters eastemn fy in encompassing seas
+their Be aces time.©°! shrimp live burrows where they spend the of The build their habitat soft sediments Mantis majority in spearing species in
+Peete, and the smashing make burrows hard substrata, such coral. These habitats crucial for their ecology cavities two species in as in are
+prey.°! they burrows for and locations for their and coral also used Burrows sites retreat cavities © since use as as consuming are as Odiontodactyius latistris at
+\Wakatobi National Park Sulawesi, for and for keeping their safe. Stomatopod body undergoes periodic growth which finding sites mating necessitates eggs size a new
+Feyeme SEED burrow that will fit the animal's diameter. modify their pre-established habitat if the burrow Some cavity or new spearing species can is
+expanded.©°! made of silt mud, which be or can
+Stomatopods have breeding episodes their lifespan. Depending the the 20 30 can as many as or over on species, eggs are
+——_ either laid and kept burrow, carried around under the female's tail until they hatch, number of other in a or are as in a cs
+——— Also depending the males and females together only they bond crustaceans, to mate, on species, may come or may in f t=
+relationships.©" bh long-term - monogamous,
+a Sime the the shrimp with the They share the burrow In 20 mantis partner to monogamous species, remain same up years. same
+Sa ae Pe and be able coordinate their Both often take of the (bi-parental care). Pullosquilla and In to activities. may sexes care eggs
+= Nannosquilla, the female lays clutches of that the male tends and that the female tends. two some species in eggs one one — .
+> other the female looks after the while the male hunts for both of them. After the hatch, the offspring In species, eggs eggs
+eed Fa > spend three months plankton. to may up as
+ee = Although stomatopods typically display the standard of shrimp and lobsters, types movement true seen in one species,
+Nannosquilla decemspinosa, has been observed rolling itself crude wheel (somewhat resembling volvation). The into a ~
+pe lives shallow, sandy low tides, decemspinosa often stranded by short legs, which At NV. its species in areas. is rear are
+sufficient for when the body supported by but dry land. The shrimp thus performs forward movement water, not mantis is on a = -
+flip roll towards the tide pool. has been observed roll repeatedly for (6.6 f), but N. 2 attempt to nearest to in an m specimens‘. a Ssriment of larval somatopods
+ft).©21 typically travel less than (3.3 1 m
+Evolutionary history [eit]
+Although the Eopteridae have been suggested be early stomatopods, their fragmentary known make Devonian to remains
+“it uncertain."! the referral The oldest unambiguous shrimp date the Carboniferous (359-300 million stem-group mantis to
+ago).514] Ti shrimp assigned the Palaeostomatopodea and the stem-group mantis to two years are major groups ~
+> Archaeostomatopodea, the latter of which closely related modem shrimp, which assigned the clade to mantis to are more are
+” Unipeltata.©*! Triassic.=41 The oldest members of Unipeltata date the to
+Selected extant species [exit] a Reconstruction of Daidal, primitive a
+Carboniferous shrimp mantis Family Gonodactylidae «
+Gonodactylus smithii *
+Family Hemisquillidae «
+Hemisquilla ensigera *
+Hemisquilla australiensis *
+Hemisquilla braziliensis *
+Hemisquilla califoriensis *
+Family Lysiosquillidae «
+Lysiosquillina maculata, Zebra shrimp striped shrimp mantis mantis or *
+Family Nannosquillidae *
+Nannosquilla decemspinosa *
+Platysquilla eusebia *
+Family Odontodactylidae «
+Odontodactylus scyllarus, peacock shrimp mantis *
+Odontodactylus latirostris, pink-eared shrimp mantis *
+Odontodactylus brevirostris *
+Family Pseudosquillidae «
+Pseudosquilla ciliata, shrimp mantis common *
+Family Squilidae *
+(8%, Oratosquilla shako) oratoria *
+Rissoides desmaresti *
+Squilla empusa #
+Squilla mantis #
+Family Tetrasquilidae +
+Heterosquilla Zealand tricarinata, New *
+Oe 2 pe BAN Slate “a8 ¢ 5 3
+og Ce Be aps Ny ce
+‘a's ee, RG i ey = 4 Ne = arene Lo “
+Bathysquilla Lysiosquilina Austrosquilla osculans Gonodactylus platysoma Kasim Lysiosquilina maculata outside its
+crassispinosa, phitippinen maculata burrow
+museum sis,
+specimen museum
+specimen
+Pullosquilla thomassini Squita Vossquilla mantis
+kempi
+were Alarge number of shrimp first scientifically described by carcinologist, Raymond the collection of stomatopods he amassed the B. Manning; mantis species one is
+unknown.©51 largest the world, of the known whilst still 90% 10% in covering species are
+Culinary uses [eit
+article This is missing information about specifics better if combined with list of fisheries. For more on species, some ____
+cy ee example, Harpiosquilla harpax and Oratosquilla anomala commonly mentioned Please expand SE Asian contexts. are in
+the article include this information. Further details the talk (October 2021) to exist may on page.
+The shrimp by of cultures. the shrimp Oratosquilla In Japanese oratoria, mantis eaten variety mantis is a cuisine, species ‘
+: (i628), called shako boiled sushi and occasionally sashimi eaten topping, is as a raw as :
+bé ba; shrimp also abundant along known t6m tich t6m tit. such Mantis Vietnam's Vietnamese In coast, are in as or regions " i
+Trang, are toa scrub R/ ME ee they called ban chai, named forits resemblance brush. The shrimp be steamed, boiled, 28h can
+” fennel.) & grilled, dried, used with salt and lime, fish and tamarind, or pepper, sauce or S hay aA
+Y > (i628), called shako boiled sushi and occasionally sashimi. topping, eaten is as a raw as :
+| < Nha they called ban chai, named for resemblance scrub brush. The shrimp be steamed, boiled, Trang, its to as are a can
+x4 fennel.!54 grilled, dried, used with salt and lime, fish and tamarind, or pepper, sauce or arg N
+the shrimp known shrimp" In Cantonese mantis “urinating cuisine, is as ~~ E "] :
+)) he, |” (Chinese: R46; /ai niéo laai6 haat) because of their xia; Jyutping: niué pinyin: J : :
+CE tendency shoot of when picked After cooking, their flesh © jet water to Mantis shrimp caught at Hau Léo, Thanh a up. is Sy Sl
+~ age Hoa, Vietnam a closer that of lobsters than that of shrimp, and like lobsters, their shells to are =.
+ea FOG BO hard and crack. first One quite to preparation require some pressure common is
+[*###on needed] ee deep-frying, then stir-frying with garlic and chili They also be boiled steamed. G peppers. may or
+Rae the Mediterranean the shrimp Squilla seafood, especially the Adriatic In countries, mantis coasts mantis is a common on
+I eae {station needeal (canocchia) and the Gulf of Cadiz (galera) =
+© Tin Drying shrimp Go Cong, mantis at
+the Philippines, the shrimp known tatampal, hipong-dapa, pitik-pitik, alupihang-dagat, and cooked and In mantis is as or is Giang, Vigt Nam
+"tion needed] like other shrimp. eaten any
+Kiribati, shrimp called Gilbertese abundant and boiled. shrimp have unusually large the contaminated In mantis te In Hawaii, mantis eaten waro in are are some grown in
+of the Grand Ala Canal Waikiki. The dangers normally associated with seafood caught contaminated these Wai water waters present mantis in consuming in are in
+captivity.” saltwater keep stomatopods The peacock especially colourful and desired the ‘Some aquarists mantis in is in MESA =
+trade Wwe ~
+ae se While value shrimp, others consider them harmful because they predators, pests, aquarists mantis some are voracious
+on cre Sass cary Staak other desirable inhabitants of the tank. Additionally, rock-burrowing do damage live rock eating to some species can more
+eo SS] we than the fishkeeper would prefer.
+oe laa The live rock with shrimp burrows considered useful by the trade and often collected. A mantis is some in marine aquarium is
+a of live rock uncommonly live shrimp inside the tank, feed fish not mantis into Once it piece conveys an aquarium. may on
+5? Harpiosquila haypaxin an aquarium tank.©2] and other inhabitants, and notoriously difficult catch when established well-stocked while there to is in a are
+of this shrimp breaking glass tanks, they and usually the result of the shrimp being kept small accounts too are rare are in a
+it.°! tank. While stomatopods do coral, smashers damage if they make home within eat to not it try can a
+See also [eait)
+Alpheidae Family of asymmetrical claws crustacean possessing snapping * —
+References [eait)
+41. Joe! W. Martin & George E. Davis (2001). An Updated Classification of the Recent 2, 4 Mantis shrimp tinted shades UV lightt? Archived «? 2014-11-22 the to at wear see
+4 Crustacea (PDF). Natural History Museum of Los Angeles County. 132, Archived Wayback Machine. Latimes.com (2014-07-05). Retrieved 2015-10-21. p. on
+2 original {rom the (PDF) 2013-05-12, Retrieved 2009-12-14 33. 8 David Cowles; Jaclyn R. Van Dolson; Lisa R. Hainey; Dallas M. Dick (2006). "The on
+September 2017). "The evolutionary history of Stomatopoda (Crustacea Stephenson, 1967 (Crustacea: Stomatopoda) for detecting objects". Journal of
+Malacostraca) inferred from molecular data’ . Peerd. 5 e3844, Experimental Marine Biology and Ecology. 330 (2): 528-534,
+of *@ 3.4 "Stomatopoda” Tree Life Web Project. January 1, 2002. Archived from the 34. Durant, Hassan (3 July 2014). "Mantis shrimp sunblock’ (2. :? ‘nature's to use see
+original October 2, 2022. Retrieved August 26, 2007 UV". Archived? from the original 25 April 2023, Retrieved on sciencemag.org. on
+Extraordinary Animals: 5 July 2014. 4, Ross Piper (2007). An Encyclopedia of Curious and Unusual
+Animals}. Greenwood Press, ISBN 978-0-313-33022-6. 35. 4 Cronin, Thomas W.; Marshall, Justin (2001), "Parallel and processing image
+mantis shrimps" cz. :t on analysis the of The Biological Bulletin 200 (2): 177-183. 5. 4 "Mantis shrimp". Queensland Museum. Archived from the original January in eyes
+‘Archived from the original 2020-06-19. Retrieved 2021-05-24, 2 on 6.4 Gilbert L. Voss (2002). "Order Stomatopoda: Mantis shrimp thumb spltters" or
+fj. _—_36. * Chiou, Tsyf-Huet; Kleinlogel, Sanjar Cronin, Tom; Caldwell, Roy; Loeffer, Birte; Seashore Life of Frida and the Caribbean Dover pictorial archive Courier. series.
+Sidi Afsheen; Goldzien, Alan; Marshall, Dover Publications. Justin (March 25, 2008). "Circular 120-1227. ISBN 978-0-486-42068-4 pp.
+2. 7.58 polarization stomatopod crustacean’ Current Biology. 18 (6): 429-434, James Gonser (February 15, 2003). "Large shrimp thriving Ala Wal Canal vision in a in
+3. doi:10,1016/}.cub.2008.02.066 Bibcode:2008CBio...18..429C 2. muck". The Honolulu Advertiser. Archived from the original November 11, on
+White, Andrew cz. 37. Kleinlogel, Sonja; (2009). "The world of shrimps’ secret 8. "How the Mantis Shrimp Packs Punch | Biomechanics the Wild" its in
+3. arxiv:0804.2162 polarisation best" 2. PLoS ONE. 3 (6) €2190. at its vision 9. "Why Mantis Shrimp Awesome?"c. California Academy of Sciences. are so
+3. doi:10.137L/journal.pone.0002190 Bibcode:2008PLOSO...3.2190K 2. Archived? from the original 2022-08-10. Retrieved 2022-07-21. on
+38. “ Templin, Rachel M.; How, Martin J.; Roberts, Nicholas W.; Chiou, Tsyr-Huel and linkages: mechanical trade-offs power-ampliied Evolution, 68 (7); system" cz, in a
+:2. 2, Marshall, Justin (15 September 2017). "Circularly polarize light detection in 1919-1933. Bibcode:2014Evolu..68.1919A doi:10.1111/evo.12407
+6° HOw Me MantS SATIMP Packs tS PUNCH | BIOMECHANICS TE WIG Ea. EID DOSE OI NII NII EE DLAI ELLE EL IIE IN
+:2. stomatopod of photoreceptors and possible function crustaceans: a comparison in six PMID 24635148 Retrieved 2025-01-08
+species’ 2. The Journal of Experimental Biology. 220 (18): 3222-3230. *#® 11. "How shrimp evolved shapes with powerful punch" 2. mantis many same
+PMID 28667244 2. 12.4 »Roy's List af Stomatopods for the Aquarium” ucmp.berkeley.edu. Archived 2.
+39, 4 Roberts, Nicholas W.; Chiou, Tsyr-Huel; Marshall, Nicholas Justin; Cronin, Thomas from the original 2022-08-23, Retrieved 2022-07-21. on
+W. (2009). "A biological retarder with excellent achromaticity the quarter-wave in 13. 4h_calforiensis"%. Archived from the original 2023-04- uemp.berkeley.edu. on
+Visible wavelength region", Nature Photonics. 3 (11): 641-644, 48. Retrieved 2022-07-21
+Bibcode:2009NaPho...3.641R doi:10.1038inphoton.2009.189 e2, 2, 14,9 denarae, Archived from the orginal 2022-01-31. e? uomp.berkeley.edu. on
+40. * Lee, Chris (November 1, 2009). "A that rivals the best optical crustacean eye Retrieved 2022-07-21
+equipment’. Nobel intent, Ars Technica. Archived from the original April 5, on 15,4825. N, Patek, W, L-Korff@ R. L. Caldwell (2004), ‘Deaaly strike mechanism of a
+41. * Minard, Anne (May 19, 008). ""Weird beastie” shrimp have super-vision’ Bipcode:2004Natur428..819P do 10.1038/428810ac2, PMID 15103366 ¢. 2.
+fj National Geographic Society. Archived from the original? May 27, 2008. on original S2CID 4324997 Archived from the (PDF) 2021-01-26. Retrieved c2. on
+2017-05-02. 42, 4 Daly, lise M.; How, Martin J.; Partridge, Julian C.; Roberts, Nicholas W. (2018-05-
+16). "Complex stabilization shrimp" 2. Proceedings of the Royal mantis gaze in 16.4.5. N Patek & R. L. Caldwell (2006), “Extreme and forces of impact cavitation a
+B: Society Biological Sciences. 285 (1878) 20180504, doi:10.1098/rspb.2018.,0594 2. biological hammer: strike forces of the peacock shrimp" Journal of mantis 2.
+"Mantis shrimp to we cantt 43, 4 have perfected the roll things imagine" 2 eye see PMID 161699432.
+‘Newsweek. 14 July 2016. Archived. from the original 6 February 2017. Retrieved on 17. 8 "Mantis shrimp of ultra-strong materials". Space Daily next generation inspires
+6 February 2017, June 1, 2016. Archived. from the original May 24, 2021. Retrieved May 13, 2020. on
+R. 44, \ How, M, 3; Porter, M. L.; Radford, A. N.; Feller, K. D.; Temple, S. E.; Caldwell, Li 18. 4 Daly lise M.; How, Martin Partidge, Juian C.; Roberts, Nicholas W. (May 16, J;
+e2. Marshall, N. J.; Cronin, T. W.; Roberts, N. W. (7 August 2014). "Out of the blue: the 2018). "Complex stabilization shrimp" Proceedings of the Royal mantis gaze in
+B: evolution of horizontally polarized signals Haptosquila (Crustacea, Stomatopoda, in Society Biological Sciences. 285 (1878) 20180594. do:10.1098irspb.2018.0594:2.
+Protosquilidae)’. Joumal of Experimental Biology. 247 (19): 3425-3431, 59656113. PMC PMID 2972041917.
+8 dol:10.1242/Jeb.107581 hdl:11603/133938. (inactive 12 January 2026). 19.8264 Cronin, Thomas W.; Bok, Michael J.; Marshall, N. Justin; Caldwell, Roy L.
+PMID 2510476002, (19 February 2014). "Filtering and polychromatic shrimps: themes mantis vision in in
+B: 45. "Mantis shrimps could show the better DVD" (Press release). to 2 us way a visible and ultraviolet . Philosophical Transactions of the Royal Society vision”
+University of Bristol. 25 October 2009. Archived from the original 31 October «2 on Biological Sciences. 269 (1636) 20190032, do:10.1098/sth.2013.00320
+46: "C: H. Mazel, T. W. Cronin; R. L. Caldwell: N. J. Marshall (2004). "Fluorescent 64 Franklin, 20,880 Amanda M. (September 4, 2012), "Mantis shrimp have the worlss
+Conversation. Archived: enhancement of signaling shrimp". Science. 303 (5654): 51 mantis ina best but The from the original July 5, why?"cz, eyes on ~
+S2cID 35009047. 21. 4 Milfus, Susan (2012). "Mantis shrimp flub color test". Science News. 182 (6): vision
+47. 4 Morrison, Jessica (23 January 2014). "Mantis shrimp's colour super vision 411. doi:t0.1002/ecin 59016206097, JSTOR 23351000 2.
+(2. debunked”, Nature, doi:10.2038/nature,2014.14578 S2CID 191380729. 22. Cronin, Thomas W. (2001). "Sensory adaptation: Tunable colour mantis vision in a
+48, 4 Macknik, Stephen L. (March 20, 2014). "Parallels between Shrimp and Human shrimp", Nature, 412 (6897): 547-8. Bibcode:2001Natur.411..547C
+Scientific American Color Vision’ Blog Network. Archived from the original :2. on doi:10.1028/3507918402, PMID 1130550002, S2CID 2050177187
+May Cheroske, Alexander W. 25, 2020. Retrieved May 13, 2020. 23. A G.; Barber, Paul H.; Cronin, Thomas (2006). "Evolutionary
+49. * New of optical material discovered the language of the type secret mantis in the of phenotypically plastic color Caribbean variation mantis in expression vision in
+shrimp Archived 2016-03-07 at the Wayback Machine. Bristol University (17 2 fy shrimps, Neogonodactyus" (PDF). Marine Biology. 150 (2): 213-220 genus
+8, 4020334212, Archived 50.°8°¢ Mead, K.; Caldwell, R. (2001). "Mantis Shrimp: Olfactory Apparatus and hal:1912/1391 S2CID from the original 2024-01-04. on
+Chemosensory Behavior’. In Breithaupt, T; Thiel, M. (eds.). Chemical Communication Retrieved 2019-09-02.
+Crustaceans. Chile: Springer. 219. ISBN 978-0-387-77101-4. in p. 24. * Porter, Megan L.; Bok, Michael J.; Robinson, Phyllis R.; Cronin, Thomas W. (1 May
+diversity S51, 4 “Sharing the job: and parental University of California, Berkeley. 2. monogamy care" 2008), "Molecular of visual pigments Stomatopoda (Crustacea)". Visual in
+52, 4 Caldwell, Roy L. (1979). "A form of locomotion stomaatopod backward unique in a PMID 19534844.2. S2CID 65168162 —
+somersaulting’. Nature. 282 (5734): 71-73, Bibcode:1979Natur.282...716 25,*#€d-The molecular genetics and evolution of colour and polarization vision in
+2. doi:10.1038/282071a0 S2CID 431132812. stomatopod erustaceans”. Ophthalmic Physiology. 20.
+*# © 53. Van Der Wal, Cara; Ahyong, Shane T.; Ho, Simon Y.W.; Lo, Nathan (2017-09- 26. * Porter, Megan L.; Speiser, Daniel |.; Zaharoff, Alexander K.; Caldwell, Roy L.;
+21), "The evolutionary history of Stomatopoda (Crustacea: Malacostraca) inferred Cronin, Thomas W.; Oakley, Todd H. (2012). "The Evolution of Complexity the in
+2. 3844. from molecular data’ PeerJ. § e384. doi:10.7717/peer) ISSN 2167- Visual Systems of Stomatopods: Insights from Transcriptomics”&, Integrative and
+Aubier, 54,4 Smith, C.P.A.; P; Charbonnier, S.; Laville,T.; Olivier, N; Escarguel, G.; 27. ® "Evolution of anatomical and physiological specialisation the compound of in eyes
+A. Jenks, J.F; Bylund, K.G.; Fara, E. Brayard, (2023-03-31). "Closing a major gap in stomatopod erustaceans”. Journal of Experimental Biology. 213.
+shrimp evolution first fossils of Stomatopoda from the Triassic" Bulletin of mantis :¥. 28,8824 Thoen, - Hanne H.; How, Martin J; Chiou, Tyt-Huel, Marshal, Nicholas Justin
+geosci.1864g. Geosciences: 95-110. doi:10.3140/bull ISSN 1802-8225 2. (Zanuary 24, 2014). “A Different Form of Color Vision Mantis Shrimp". Science, 334 in
+2. 55, 8 Paul F. Clark & Frederick R. Schram (2008). "Raymond B. Manning: an PMID 24458639 S2CID 3178494107
+appreciation’. Journal of Crustacean Biology. 28 (4) 481457 29.4 Marshall, Nicholas Justin; Oberwinkle, Johannes (October 28, 1999). "Utraviolt
+<2, 2, sn mién nude" 56, 4 "Tom Bc song (in Vietnamese). Dinh du‘éng. October 1, tit Bibcode:1999Natur.401..873M doi:10.1038/44751 PMID 10553902. -
+2009. Archived from the oriqinal August 16, 2012. Retrieved January 8. 2011. 2 on oe
+2. 56. * "Tom Dac nude" (in Vietnamese). Dinh dudng. October 1, tit san mién song Bibcode:1999Natur.401..873Mc:. doi:10.1038/44751 PMID 10553902 (2. —
+2009. Archived from the original August 16, 2012. Retrieved January 8, 2011. 2 on S2C1D 4360184 cx
+e 57 ®ALoad of Learnin’ About Mantis Shrimps Archived? 2011-07-15 the Wayback 30.9856 at Streets, Amy; England, Hayley; Marshall, Justin (2022-03-15). "Colour vision in
+2. Machine, by James Fatherree, ReefKeepingc2 Archived 2014-02-19 at the in stomatopod than answers" Journal of Experimental crustaceans: questions more
+Wayback Machine online magazine, Biology. 225 (6) jeb243699, Bibcode:2022JExpB.22583699S
+902389-67-7. *4 31. Michael Bok; Megan Porter, Allen Place; Thomas Cronin (2014). "Biological
+2. “Shrimp spring c2, 59. “ April Holladay (September 1, 2006). shattering action” USA into ‘Sunscreens Tune Polychromatic Uitraviolet Vision Mantis Shrimp" Current in
+Today. Archived from the original 2012-06-30, Retrieved 2017-09-04. on Biology. 24 (14): 1636-42, Bibcode:2014CBio...24.1636B..
+External links [eait)
+cS) media related to Technica. Rettieved 2025-02-23.
+Stomatopoda.
+Hoplocarida: Stomatopoda fact sheet—Guide the zooplankton of south Australia to easter marine *
+The Lurker's Guide Stomatopods—mantis shrimp 2 to «
+shrimp—colourful and Mantis aggressive *
+Research Stomatopods the of Maryland Archived the Wayback Machine University 2 2010-05-30 at at on *
+shrimp". The Wiki, April Archived from the original September Retrieved October "Mantis Aquarium 7, 2006. 30, 2011. 21, 2006. on +
+2 Caldwell Lab the of California, Berkeley University at *
+2 Patek Lab the of Massachusetts, Amherst University at *
+(May 2008). "The of shrimp". Pharyngula. Archived from the original September Myers, P. Z. 24, e 12, 2009. superior eyes on =
+Daniel (May 2008). "Shrimp's sight". The Beyond. Archived from the original September Retrieved Cressey, 14, Great zt 22, 2020. May 13, nature.com. super on *
+Fish and of Shrimp Dana Point Company—Top Bottom Views Mantis *
+Look (PBS) Deep *
+Orders of Malacostraca [show] vere
+cuisine Cantonese [show] VTE
+Edible crustaceans [show] vere
+identifiers Taxon
+fomatopoda \7oR: gasc3eb1-de28-4560-9d50-722c1¢8770act Open Tree of Life: £26312 Paleobiology Database: 222672 - - -
+2 lazi: F8AB0A5A-D82D-5F30-B9E6-ACO46A3FSSCD WoRMS: 1435522 -
+7 Authority control databases [show]
+| | | | Stomatopoda Commercial Edible seafood Categories: Cantonese crustaceans crustaceans Japanese cuisine
+This last edited 13 January 2026, 16:22 (UTC). at page was on

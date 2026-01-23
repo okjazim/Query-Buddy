@@ -1,0 +1,242 @@
+<!-- MODALITY: AUDIO
+METADATA: {
+  "file_size": 5094335,
+  "chunk_count": 116,
+  "max_chars_per_chunk": 900,
+  "overlap_chars": 80,
+  "language": "en",
+  "backend": "faster-whisper (preferred), openai-whisper (fallback)"
+}
+-->
+
+This is a Libravox Recording. All Libravox recordings are in the public domain.
+
+For more information and to find out how you can volunteer, please visit Libravox.org
+
+Recording by Moira Fogridi.
+
+The Art of War by Sun-Zoo, translated by Lionel Giles.
+
+Part Five. Energy.
+
+Sun-Zoo said, the control of a large force is the same principle as the control of a few
+
+men. It is merely a question of dividing up their numbers.
+
+Fighting with a large army under your command is no-wise different from fighting with a small
+
+one. It is merely a question of instituting signs and signals.
+
+To ensure that your whole host may withstand the brunt of the enemy's attack and remain
+
+unshaken, this is affected by maneuvers direct and indirect.
+
+That the impact of your army may be like a grindstone dashed against an egg. This is
+
+affected by the science of weak points and strong.
+
+In all fighting, the direct method may be used for joining battle, but indirect methods
+
+will be needed in order to secure victory. Indirect tactics, efficiently applied, are
+
+inexhaustible as heaven and earth, on ending as the flow of rivers and streams, like the
+
+sun and moon they end but to begin anew. Like the four seasons, they pass away to return
+
+once more.
+
+There are not more than five musical notes, yet the combinations of these five give rise
+
+to more melodies than can ever be heard. There are not more than five primary colors,
+
+blue, yellow, red, white, and black, yet in combination they produce more hues than
+
+can ever be seen. There are not more than five cardinal tastes, sour, accurate, salt,
+
+sweet, bitter, yet combinations of them yield more flavors than can ever be tasted.
+
+In battle there are not more than two methods of attack, the direct and the indirect, yet
+
+these two in combination give rise to an endless series of maneuvers.
+
+The direct and the indirect lead on to each other in turn. It is like moving in a circle,
+
+you never come to an end. Who can exhaust the possibilities of their combination?
+
+The onset of troops is like the rush of a torrent which will even roll stones along
+
+in its course. The quality of decision is like the well-timed swoop of a falcon which
+
+enables it to strike and destroy its victim. Therefore the good fighter will be terrible
+
+in his onset and prompt in his decision. Energy may be likened to the bending of a crossbow,
+
+decision to the releasing of a trigger. Amid the turmoil and tumult of battle there may
+
+be seeming disorder and yet no real disorder at all. Amid confusion and chaos, your array
+
+may be without head or tail, yet it will be proof against a feat.
+
+Simulated disorder postulates perfect discipline. Simulated fear postulates courage. Simulated
+
+weakness postulates strength.
+
+Hiding order beneath the cloak of disorder is simply a question of subdivision. Concealing
+
+courage under their show of timidity presupposes a fund of latent energy. Masking strength with
+
+weakness is to be affected by tactical dispositions. Thus one who is skillful at keeping the enemy
+
+on the move maintains deceitful appearances according to which the enemy will act. He sacrifices
+
+something that the enemy may snatch at it. By holding out baits he keeps him on the
+
+march, then with a body of picked men he lies in wait for him. The clever combatant looks
+
+to the effect of combined energy and does not require too much from individuals, hence
+
+his ability to pick out the right men and utilize combined energy.
+
+When he utilizes combined energy, his fighting men become as it were like unto rolling logs
+
+or stones, for it is the nature of a log or stone to remain motionless on level ground
+
+and to move when on a slope. If for cornered to come to a standstill, but if round shaped
+
+to go rolling down. Thus the energy developed by good fighting men is as the momentum of
+
+a round stone rolled down a mountain thousands of feet in height, so much on the subject
+
+of energy.
+
+End of part five. Part six weak points and strong.
+
+One zoo said, whoever is first in the field and awaits the coming of the enemy will be
+
+fresh for the fight. Whoever is second in the field and has to hasten to battle will arrive
+
+exhausted. Therefore the clever combatant imposes his will on the enemy but does not allow
+
+the enemy's will to be imposed on him. By holding out advantages to him he can cause
+
+the enemy to approach of his own accord, or by inflicting damage he can make it impossible
+
+for the enemy to draw near. If the enemy is taking his ease he can harass him, if well
+
+supplied with food he can starve him out, if quietly encamped he can force him to move.
+
+Appeared points which the enemy must hasten to defend, march swiftly to places where
+
+you are not expected. An army may march great distances without distress if it marches
+
+through country where the enemy is not.
+
+You can be sure of succeeding in your attacks if you only attack places which are undefended.
+
+You can ensure the safety of your defense if you only hold positions that cannot be attacked.
+
+Hence that general is skillful in attack whose opponent does not know what to defend,
+
+and he is skillful in defense whose opponent does not know what to attack.
+
+O divine art of subtlety and secrecy! Through you we learn to be invisible, through you
+
+inaudible, and hence we can hold the enemy's fate in our hands.
+
+You may advance and be absolutely irresistible if you make for the enemy's weak points.
+
+You may retire and be safe from pursuit if your movements are more rapid than those of
+
+the enemy. If we wish to fight the enemy can be forced to an engagement even though
+
+he be sheltered behind a high rampart and a deep ditch. All we need do is attack some
+
+other place that he will be obliged to relieve.
+
+If we do not wish to fight we can prevent the enemy from engaging us even though the lines
+
+of our encampment be merely traced out on the ground. All we need do is throw something
+
+odd and unaccountable in his way. By discovering the enemy's dispositions and remaining invisible
+
+ourselves we can keep our forces concentrated while the enemies must be divided. We can
+
+form a single united body while the enemy must split up into fractions. Hence there will
+
+be a hole pitted against separate parts of a hole which means that we shall be many to
+
+the enemy's few. And if we are able thus to attack an inferior force with a superior
+
+one our opponents will be in dire straits. The spot where we intend to fight must not
+
+be made known, for then the enemy will have to prepare against a possible attack at several
+
+different points. And his forces being thus distributed in many directions the numbers
+
+we shall have to face at any given point will be proportionately few. For should the
+
+enemy strengthen his van he will weaken his rear. Should he strengthen his rear he will
+
+weaken his van. Should he strengthen his left he will weaken his right. Should he strengthen
+
+his right he will weaken his left. If he sends reinforcements everywhere he will everywhere
+
+be weak. Numerical weakness comes from having to prepare against possible attacks. Numerical
+
+strength from compelling our adversary to make these preparations against us. Knowing
+
+the place and the time of the coming battle we may concentrate from the greatest distances
+
+in order to fight. But if neither time nor place be known then the left wing will be impotent
+
+to secure the right, the right equally impotent to secure the left, the van unable to relieve
+
+the rear or the rear to support the van. How much more so if the furtherous proportions
+
+of the army are anything under a hundredly apart and even the nearest are separated by
+
+several li? Though according to my estimate the soldiers
+
+of UA exceed our own in number that shall advantage them nothing in the matter of victory.
+
+I say then that victory can be achieved. Though the enemy be stronger in numbers we may
+
+prevent him from fighting. Scheme so as to discover his plans and the likelihood of their
+
+success. Rouse him and learn the principle of his activity or inactivity. Force him to
+
+reveal himself so as to find out his vulnerable spots. Carefully compare the opposing army
+
+with your own so that you may know where strength is super abundant and where it is deficient.
+
+In making tactical dispositions the highest pitch you can attain is to conceal them. Conceal
+
+your dispositions and you will be safe from the prying of the subtlest spies from the
+
+machinations of the wisest brains. How victory may be produced for them out of the enemy's
+
+own tactics, that is what the multitude cannot comprehend. All men can see the tactics whereby
+
+I conquer, but what none can see is the strategy out of which victory is evolved. Do not repeat
+
+the tactics which have gained you one victory but let your methods be regulated by the infinite
+
+variety of circumstances. Military tactics are like unto water. For water in its natural
+
+course runs away from high places and hastens downwards. So in war the way is to avoid
+
+what is strong and to strike at what is weak. Water shapes its course according to the
+
+nature of the ground over which it flows. The soldier works out his victory in relation
+
+to the foe whom he is facing. Therefore just as water retains no constant shape. In warfare
+
+there are no constant conditions. He who can modify his tactics in relation to his opponent
+
+and thereby succeed in winning may be called a heaven-born captain. The five elements water,
+
+fire, wood, metal, earth are not always equally predominant. The four seasons make way for
+
+each other in turn. There are short days and long. The moon has its periods of waning
+
+and waxing. End of part 6. Recorded in Toronto Ontario by Moira Fobody October 2006.

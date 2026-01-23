@@ -1,0 +1,1577 @@
+<!-- MODALITY: IMAGE
+METADATA: {
+  "path": "data\\image\\011_Sea-otter.png",
+  "file_size": 8624451,
+  "image_width": 1280,
+  "image_height": 21073,
+  "ocr_engine": "tesseract",
+  "ocr_lang": "eng",
+  "tesseract_cmd": "C:\\Program Files\\Tesseract-OCR\\tesseract.exe",
+  "config": "--oem 3 --psm 6",
+  "min_line_conf": 30.0,
+  "line_count": 951,
+  "overall_bbox": [
+    11,
+    14,
+    1264,
+    21006
+  ],
+  "regions": [
+    {
+      "bbox": [
+        53,
+        14,
+        1263,
+        29
+      ],
+      "avg_conf": 61.0
+    },
+    {
+      "bbox": [
+        41,
+        34,
+        1264,
+        79
+      ],
+      "avg_conf": 47.69230769230769
+    },
+    {
+      "bbox": [
+        29,
+        110,
+        302,
+        136
+      ],
+      "avg_conf": 78.66666666666667
+    },
+    {
+      "bbox": [
+        37,
+        140,
+        1256,
+        153
+      ],
+      "avg_conf": 60.0
+    },
+    {
+      "bbox": [
+        202,
+        153,
+        419,
+        165
+      ],
+      "avg_conf": 95.0
+    },
+    {
+      "bbox": [
+        28,
+        189,
+        874,
+        204
+      ],
+      "avg_conf": 94.8
+    },
+    {
+      "bbox": [
+        28,
+        219,
+        949,
+        237
+      ],
+      "avg_conf": 89.82608695652173
+    },
+    {
+      "bbox": [
+        28,
+        234,
+        1153,
+        256
+      ],
+      "avg_conf": 86.82608695652173
+    },
+    {
+      "bbox": [
+        27,
+        261,
+        951,
+        279
+      ],
+      "avg_conf": 89.0952380952381
+    },
+    {
+      "bbox": [
+        28,
+        284,
+        1182,
+        314
+      ],
+      "avg_conf": 90.1923076923077
+    },
+    {
+      "bbox": [
+        28,
+        300,
+        1195,
+        327
+      ],
+      "avg_conf": 76.0
+    },
+    {
+      "bbox": [
+        28,
+        329,
+        1201,
+        369
+      ],
+      "avg_conf": 84.875
+    },
+    {
+      "bbox": [
+        28,
+        356,
+        1199,
+        376
+      ],
+      "avg_conf": 89.52380952380952
+    },
+    {
+      "bbox": [
+        28,
+        380,
+        1143,
+        399
+      ],
+      "avg_conf": 87.96428571428571
+    },
+    {
+      "bbox": [
+        28,
+        403,
+        1147,
+        422
+      ],
+      "avg_conf": 88.36363636363636
+    },
+    {
+      "bbox": [
+        28,
+        423,
+        1161,
+        451
+      ],
+      "avg_conf": 81.82608695652173
+    },
+    {
+      "bbox": [
+        46,
+        441,
+        1181,
+        451
+      ],
+      "avg_conf": 67.2
+    },
+    {
+      "bbox": [
+        36,
+        444,
+        1188,
+        464
+      ],
+      "avg_conf": 76.41666666666667
+    },
+    {
+      "bbox": [
+        202,
+        479,
+        954,
+        493
+      ],
+      "avg_conf": 94.23529411764706
+    },
+    {
+      "bbox": [
+        1060,
+        494,
+        1187,
+        504
+      ],
+      "avg_conf": 77.5
+    },
+    {
+      "bbox": [
+        27,
+        496,
+        1129,
+        516
+      ],
+      "avg_conf": 84.63636363636364
+    },
+    {
+      "bbox": [
+        27,
+        520,
+        1190,
+        538
+      ],
+      "avg_conf": 84.52631578947368
+    },
+    {
+      "bbox": [
+        28,
+        537,
+        1239,
+        568
+      ],
+      "avg_conf": 79.04166666666667
+    },
+    {
+      "bbox": [
+        201,
+        566,
+        1223,
+        583
+      ],
+      "avg_conf": 87.95
+    },
+    {
+      "bbox": [
+        28,
+        572,
+        1234,
+        607
+      ],
+      "avg_conf": 79.11111111111111
+    },
+    {
+      "bbox": [
+        28,
+        591,
+        1232,
+        610
+      ],
+      "avg_conf": 80.64
+    },
+    {
+      "bbox": [
+        28,
+        611,
+        1198,
+        628
+      ],
+      "avg_conf": 87.63636363636364
+    },
+    {
+      "bbox": [
+        28,
+        637,
+        1202,
+        653
+      ],
+      "avg_conf": 76.71428571428571
+    },
+    {
+      "bbox": [
+        28,
+        652,
+        1183,
+        668
+      ],
+      "avg_conf": 62.5
+    },
+    {
+      "bbox": [
+        1046,
+        666,
+        1243,
+        680
+      ],
+      "avg_conf": 72.0
+    },
+    {
+      "bbox": [
+        210,
+        677,
+        277,
+        686
+      ],
+      "avg_conf": 84.0
+    },
+    {
+      "bbox": [
+        28,
+        685,
+        1177,
+        712
+      ],
+      "avg_conf": 72.2
+    },
+    {
+      "bbox": [
+        28,
+        711,
+        1181,
+        739
+      ],
+      "avg_conf": 61.0
+    },
+    {
+      "bbox": [
+        210,
+        734,
+        1188,
+        765
+      ],
+      "avg_conf": 83.5
+    },
+    {
+      "bbox": [
+        28,
+        766,
+        1184,
+        789
+      ],
+      "avg_conf": 71.0
+    },
+    {
+      "bbox": [
+        27,
+        782,
+        1191,
+        814
+      ],
+      "avg_conf": 86.0
+    },
+    {
+      "bbox": [
+        27,
+        800,
+        352,
+        831
+      ],
+      "avg_conf": 90.0
+    },
+    {
+      "bbox": [
+        27,
+        815,
+        1173,
+        847
+      ],
+      "avg_conf": 78.55555555555556
+    },
+    {
+      "bbox": [
+        24,
+        844,
+        1175,
+        879
+      ],
+      "avg_conf": 75.5
+    },
+    {
+      "bbox": [
+        48,
+        864,
+        1174,
+        893
+      ],
+      "avg_conf": 74.0
+    },
+    {
+      "bbox": [
+        28,
+        886,
+        1120,
+        916
+      ],
+      "avg_conf": 79.6
+    },
+    {
+      "bbox": [
+        28,
+        900,
+        1173,
+        918
+      ],
+      "avg_conf": 88.25
+    },
+    {
+      "bbox": [
+        11,
+        922,
+        1170,
+        944
+      ],
+      "avg_conf": 62.666666666666664
+    },
+    {
+      "bbox": [
+        28,
+        945,
+        1167,
+        966
+      ],
+      "avg_conf": 80.33333333333333
+    },
+    {
+      "bbox": [
+        262,
+        966,
+        1146,
+        975
+      ],
+      "avg_conf": 40.0
+    },
+    {
+      "bbox": [
+        24,
+        966,
+        1162,
+        992
+      ],
+      "avg_conf": 37.5
+    },
+    {
+      "bbox": [
+        262,
+        988,
+        367,
+        1000
+      ],
+      "avg_conf": 88.0
+    },
+    {
+      "bbox": [
+        24,
+        1006,
+        1078,
+        1033
+      ],
+      "avg_conf": 65.83333333333333
+    },
+    {
+      "bbox": [
+        27,
+        1025,
+        1097,
+        1047
+      ],
+      "avg_conf": 46.166666666666664
+    },
+    {
+      "bbox": [
+        28,
+        1048,
+        1086,
+        1065
+      ],
+      "avg_conf": 57.0
+    },
+    {
+      "bbox": [
+        236,
+        1088,
+        1201,
+        1128
+      ],
+      "avg_conf": 76.25
+    },
+    {
+      "bbox": [
+        236,
+        1145,
+        318,
+        1154
+      ],
+      "avg_conf": 84.0
+    },
+    {
+      "bbox": [
+        210,
+        1168,
+        1229,
+        1180
+      ],
+      "avg_conf": 82.4
+    },
+    {
+      "bbox": [
+        236,
+        1177,
+        314,
+        1208
+      ],
+      "avg_conf": 58.333333333333336
+    },
+    {
+      "bbox": [
+        236,
+        1206,
+        1165,
+        1224
+      ],
+      "avg_conf": 75.8
+    },
+    {
+      "bbox": [
+        236,
+        1232,
+        1158,
+        1246
+      ],
+      "avg_conf": 89.0
+    },
+    {
+      "bbox": [
+        236,
+        1257,
+        1188,
+        1273
+      ],
+      "avg_conf": 62.142857142857146
+    },
+    {
+      "bbox": [
+        236,
+        1279,
+        381,
+        1291
+      ],
+      "avg_conf": 77.0
+    },
+    {
+      "bbox": [
+        236,
+        1302,
+        383,
+        1311
+      ],
+      "avg_conf": 89.33333333333333
+    },
+    {
+      "bbox": [
+        210,
+        1325,
+        274,
+        1334
+      ],
+      "avg_conf": 89.33333333333333
+    },
+    {
+      "bbox": [
+        209,
+        1347,
+        257,
+        1356
+      ],
+      "avg_conf": 76.0
+    },
+    {
+      "bbox": [
+        210,
+        1370,
+        291,
+        1379
+      ],
+      "avg_conf": 92.0
+    },
+    {
+      "bbox": [
+        236,
+        1391,
+        312,
+        1400
+      ],
+      "avg_conf": 53.5
+    },
+    {
+      "bbox": [
+        236,
+        1280,
+        381,
+        1291
+      ],
+      "avg_conf": 49.0
+    },
+    {
+      "bbox": [
+        236,
+        1391,
+        312,
+        1400
+      ],
+      "avg_conf": 93.5
+    },
+    {
+      "bbox": [
+        236,
+        1414,
+        330,
+        1423
+      ],
+      "avg_conf": 95.33333333333333
+    },
+    {
+      "bbox": [
+        210,
+        1436,
+        309,
+        1445
+      ],
+      "avg_conf": 84.33333333333333
+    },
+    {
+      "bbox": [
+        202,
+        1492,
+        283,
+        1506
+      ],
+      "avg_conf": 96.0
+    },
+    {
+      "bbox": [
+        201,
+        1523,
+        1246,
+        1540
+      ],
+      "avg_conf": 94.17241379310344
+    },
+    {
+      "bbox": [
+        201,
+        1546,
+        1251,
+        1563
+      ],
+      "avg_conf": 91.35714285714286
+    },
+    {
+      "bbox": [
+        202,
+        1568,
+        1255,
+        1585
+      ],
+      "avg_conf": 91.28125
+    },
+    {
+      "bbox": [
+        202,
+        1591,
+        1254,
+        1608
+      ],
+      "avg_conf": 92.22222222222223
+    },
+    {
+      "bbox": [
+        202,
+        1613,
+        1230,
+        1630
+      ],
+      "avg_conf": 89.45454545454545
+    },
+    {
+      "bbox": [
+        202,
+        1645,
+        1242,
+        1659
+      ],
+      "avg_conf": 90.375
+    },
+    {
+      "bbox": [
+        201,
+        1665,
+        1214,
+        1682
+      ],
+      "avg_conf": 88.96
+    },
+    {
+      "bbox": [
+        202,
+        1687,
+        1251,
+        1704
+      ],
+      "avg_conf": 90.3076923076923
+    },
+    {
+      "bbox": [
+        202,
+        1713,
+        1210,
+        1727
+      ],
+      "avg_conf": 92.96153846153847
+    },
+    {
+      "bbox": [
+        202,
+        1732,
+        1225,
+        1749
+      ],
+      "avg_conf": 89.8
+    },
+    {
+      "bbox": [
+        201,
+        1757,
+        1252,
+        1771
+      ],
+      "avg_conf": 92.46153846153847
+    },
+    {
+      "bbox": [
+        202,
+        1777,
+        1234,
+        1794
+      ],
+      "avg_conf": 92.82608695652173
+    }
+  ],
+  "slicing": {
+    "enabled": true,
+    "slice_height": 1400,
+    "slice_overlap": 120,
+    "num_slices": 17
+  },
+  "note": "OCR text extracted from screenshot; regions include bbox + confidence.",
+  "skipped_ocr": false,
+  "cache_path": ".ocr_cache\\011_Sea-otter.100bb9086e1518ba.ocr.json"
+}
+-->
+
+ee Celebrating 25 years
+Main be confused with the other (disambiguation). page Not to otter Eurasian otter. For Sea otter marine or uses, see
+ener Adult typically weigh between and kg (30-100 Ib), making them the heaviest members of the weasel family, 14 45 otters sea a
+Se Contact exceptionally thick of fur, the densest the animal kingdom. Although walk land, the capable of it otter us coat in can on sea is
+Contribute ‘\ S The inhabits nearshore where dives the floor forage. mostly environments, it to It otter to sea sea preys on marine 4
+ig ON invertebrates such urchins, mollusks and and of fish. foraging and Its crustaceans, eating as sea various some species Help
+Community porta mammal tools. ofits keystone controlling urchin populations which would In to most itis species use range, a species, sea So
+ae aos Af otherwise inflict damage kelp forest diet includes that also valued by humans extensive its 4 to ecosystems. prey species are
+} load file Z a
+a food, leading conflicts between and fisheries. to otters . ‘as sea
+whose numbers estimated hunted extensively for their fur between Sea otters, 150,000-300,000, 1741 at were once were
+In Morto Bay, California
+ea ¥ range.©! and and the world population fell individuals living fraction of their historic subsequent 1911, to 1,000-2,000 A in a
+CiaiCr ste Conservation status international ban hunting, efforts, and reintroduction previously populated into otter conservation on sea programs areas
+| cemerenine ee, have contributed numbers rebounding, and the about two-thirds of former The of the to its species occupies range. recovery ggince |
+NAF 4 considered although populations the Aleutian Islands, important otter conservation, ‘sea is an success in marine in in =
+California, and have recently declined have plateaued depressed levels. The population likewise Russia at Japan in or in (CR) (Ew) (NT) (LC) (EX) fu) EET
+3.1)" Endangered small and these the classified endangered (IUCN For otter Get shortened URL remains precarious. reasons, sea remains as an species.
+Scientific classification ff
+1 Evolution
+Printlexport Kingdom: Animalia 1.1 Taxonomy
+Phylum: Baneales Par Chordata 1.2 Subspecies
+Class: 2 Description Mammalia
+Sibehaviog Order: In other projects Carnivora
+Enhydra Genus: La 4 Population and distribution o
+Species: aes lutris E. 4.1 Japan
+Binomial name Diné bizaad
+423 British Columbia Enhydra lutris ArT
+AAA Alaska :
+eto} ‘Subspecies
+lutris © 4.4.3 Oregon Pyccknit EL.
+Bteyad OB Tiéng 4.4.4 Califomia Viet
+bares oG eX 45 Mexico
+ee ° 5.1 Diet
+6 Relationship with humans .
+Fur 6.1 trade
+endings 6.2 Recovery and conservation
+‘Synonyms 6.3 Economic impact
+6 RESIDENTS Mustela lutris Linnaeus, 1758 #
+7 See also
+8 Notes
+9 References
+01 Citations,
+(8.9 AQUATUMS ane 2008"
+10 External links
+Evolution
+Mustelidae, The the heaviest (the longer, but significantly simmer) member of the family diverse that includes the and 14 otter giant otter otter sea is is a group species
+glands,” terrestrial animals such weasels, badgers, and minks. the mustelids making dens burrows, having functional anal and It not scent as is unique among in or in no
+water. being able live life without leaving the The only living member of the Enhydra, the different from other mustelid that, its otter to entire in genus sea is so species as
+seals." recently believed closely related the earless analysis indicates the and closest relatives, which 1982, Genetic its scientists it to otter extant as some was more sea
+ago." include the African speckle-throated African clawless and small-clawed shared approximately million Eurasian Asian 5 otter, otter, otter otter, ancestor an years
+Fossil evidence indicates the Enhydra lineage became isolated the North Pacific approximately million the Enhydra macrodonta 2 to now-extinet in years ago, giving rise
+lutris."4] Anglia.!"7! and the modern Enhydra related has been described, Enhydra from the Pleistocene of The modern One East otter otter, sea species reevei, sea
+coast.!5! evolved initially northern Hokkaido and and then spread the Aleutian Islands, mainland Alaska, and down the North Russia, east to American in to in comparison
+and pinnipeds, which entered the approximately and million respectively, the relative water 50, 40, 20 otter to cetaceans, sirenians, years ago, sea is a newcomer a
+existence."“4! birth.“5! though, the fully adapted than pinnipeds, which haul land The full in otter water must out respects, to to marine some sea is more on or ice give
+of the northern (Enhydra lutris kenyoni) sequenced and allow for of the evolutionary divergence from terrestrial otter 2017 otter's examination genome sea was in may sea
+mustelids."® Following their divergence from their five million have developed dependent polygenic selection, most traits ancestor otters common years ago, sea on or
+species.!"7] the evolution of hallmark features like thick and oily fur and large bones, compared their freshwater these traits Sea otters to create to sister numerous require
+the cold of the northem Pacific which they spend their lives despite occasionally of the have traits waters Ocean, entire out Sea otters to water survive in coming as pups.
+the thickest fur of animal around hairs (1,000,000 inch) they do have blubber layer, while their oil glands help 160,000 centimetre not any per square per square as a — —
+air.®129) down their fur and keep from holding study, southern and northern populations compared the African clawless and matt it in otter against it otter, a sea were was
+determined that like loss of smell and hair thickness independently evolved, evidencing complex of polygenic resulting complex traits aquatic traits a genome in
+systems.7] This study only able take place after of nuclear and through phylogeny find close with which otter ancestor to to to was sequencing sea genomes a compare
+genomes.
+Previously, suspected that from the evolutionary branch earless seals, such harbor and monk seals. have experienced it Sea otters otters was sea came same as as
+population bottlenecks throughout their history, with significant numbers being wiped and long out 9,000-10,000 generations 300-700 generations numerous ago ago,
+trade.!"7! before the fur These bottlenecks responsible for already low diversity members, making the secondary bottleneck genetic genetic amongst previous are species
+caused by the fur trade significant. These bottlenecks likely caused by disease, for bottlenecks. place these most genetic Estimates more primary were a common cause
+years.'”! bottlenecks leaving around forty animals for about eight forty-four This led drift, the populations of northern and southern at to to ten to genetic otters as sea
+off from another by thousands of miles, leading significant differences. the modem population bottleneck caused by the fur trade of the to However, cut were one genomic
+eighteenth and early twentieth the significant and population numbers and most to scientists conservationists attempting genetic centuries presents to concern recover
+diversity, Each bottleneck has lowered diversity and thus increased the chance of deleterious drift. genetic genomic
+Taxonomy
+The first scientific description of the contained the field of Steller from and the otter notes Georg 1751, sea is in species was pteronura (unt ten
+Naturae.?2) described by Carl his landmark 10th edition of Originally named Linnaeus 1758 Systema Lutra it in marina,
+1922." underwent changes before being accepted Enhydra lutris The Enhydra, derives Lontra (4 species) numerous name as in generic name,
+5! water’ from the Greek and Udpa, hydra, the and the specific derives from the Ancient ‘in’; ‘in water’, ev, en, meaning name
+Enhydra (sea oter) ‘otter’.4I beaver",(25] word Jutris, formerly referred the Latin It sometimes to "sea meaning was as
+Hydrictis
+(potted-necked otter) Subspecies
+Lutrinae
+‘Lutra (2 species) Three subspecies of the recognized with distinct geographical distributions. Enhydra lutris lutris (nominate), the otter sea are
+Asian Kuril Islands northeast of and the Commander Islands the northwestem otter, Russia's Japan, sea ranges across in Aonyx
+(African clawess) Pacific the Pacific |. kenyoni, the northern found from Alaska's Aleutian Islands Ocean. In eastern Ocean, E. otter, to sea is
+California.25! and |. the southern central and southern The the Oregon E. otter, native Asian Amblonyx to otter nereis, sea is sea is
+a (Asian small-clawed) largest subspecies and has slightly wider skull and shorter nasal bones than both other subspecies. Northem otters sea
+tutrogale teeth.27I28 longer mandibles (lower jaws) while southern have longer and smaller otters rostrums possess sea ay
+Description Cladogram showing relationships between
+otters 2021 otters anc other cea
+mustelid.™! The of the smallest mammal but the heaviest Male usually weigh it otters otter sea is one marine species, is sea —
+E Ngpss ~~ P kg (49-99 Ib) and (47-59 in) length, though kg (119 Ib) have been 22.10 45 1.2 to 1.5 54 to are m in specimens up
+eo recorded.° length. Es Females smaller, weighing kg (31-73 Ib) and (39-55 in) The 14 33 1.0 to 1.4 to are measuring m in eee
+peck CS os weight for adult that densely populated kg (62 Ib) males and kg (47 Ib) otters at 28.3 21.1 average sea are in more areas, in
+females, considerably lighter than the weight of populations, kg (87 Ib) males otters 39.3 at in was average in more sparse in aii
+5 algeria females! sources,®! and kg (56 Ib) presumably less populous able monopolize food 25.2 otters For its to in are more size,
+SS, sb llaaage kg (49-99 Ib) and (47-59 in) length, though kg (119 Ib) have been 22 to 45 1.2 to 1.5 54 to are m in specimens up
+Sars > (5% (%¢ ee the male baculum large, and bent upwards, in) length and in) otter's 150 15 is very massive measuring mm in mm 4
+base.54) ae the 3 at ae -
+s 21 Unlike other mammals, the has blubber and relies exceptionallly thick fur keep otter to most its marine sea no on warm.
+ETE (970,000/in?), animal.!°9l!9) With strands of hair fur the densest of The fur 150,000 centimetre to its up per square is any
+on plumper land than the water. appear in
+dry." of long, waterproof guard hairs and short underfur; the guard hairs keep the dense underfur layer There consists is an
+body.l between the thick fur and the skin where trapped and heated by the Cold kept water compartment air air is is
+limited.!°°! completely from the skin and heat loss potential disadvantage of this form of insulation However, away is a is —
+of the layer the dives, thereby reducing the insulating quality of fur depth when the animal otter at compression air as
+se forages.™4l season.'"! The fur thick year-round, shed and replaced gradually rather than distinct molting the As it is as is in a
+‘Me ability of the guard hairs repel depends cleanliness, the has the ability reach and the to utmost otter to water on sea groom
+s skeleton.“ fur of body, taking advantage of loose skin and unusually supple The coloration of the part its its ay on any an
+=" 271 pelage usually deep brown with silver-gray speckles, but from yellowish grayish brown almost black it to is can range or
+871 a body. adults, the head, throat, and chest lighter color than the of the In rest are in 5 ‘Skull of otter sea
+close.) The displays adaptations The nostrils and small The hind environment. otter to its sea numerous marine ears can
+webbed.="! feet, which provide of propulsion long, broadly flattened, and fully The fifth digit each hind foot longest, facilitating its most in swimming, are on is swimming
+difficult.“"! while back, but making walking The tail fairly short, thick, slightly flattened, and muscular. The front short with retractable claws, with tough its on is paws are
+prey.“"! osteosclerosis,'*2! buoyancy.!<#ation needed] pads the palms that enable slippery The bones show their density reduce to on gripping increasing
+‘The insight the evolutionary of the mammalian of the which has occurred the into times otter presents aquatic environment, sea an process invasion numerous over
+evolution.!“3) ago,“4! of mammalian only returned the about million snapshot the earliest of the from Having 3 represent transition to otters at point course sea years sea a
+environments.'°! fur blubber. fur still advantageous, their small and division of lifetime between the and terrestrial In However, to otters, nature aquatic sea is given as sea
+evolve and adapt spending and of their lifetimes the the evolution of blubber that the reliance fur for insulation would otters to suggests convergent more more in sea, on
+be replaced by dependency blubber. This particularly due the diving of the dives become lengthier and deeper, the layer's ability true to nature otter; to a on is sea as air
+decreases,“) functions.) heat buoyancy while blubber efficient both of those Blubber also additionally for deep retain at or remains can serve as an energy source
+dives,'8l which would likely advantageous fur the evolutionary future of most otters. prove over in sea
+down," The propels itself underwater by the end of body, including tail and hind feet, and and capable of speeds of kilometres its its to 9 otter sea moving rear up is up
+hour).'©! chest.!471 hour (2.5 second; miles When underwater, body long and streamlined, with the short forelimbs pressed closely the metres 5.6 against its per per per is
+side.'#! When the surface, usually floats back and by sculling feet and tail from side all four limbs be folded the to at at it its its rest, onto torso to on moves can conserve
+cooling.'*°! heat, whereas particularly hot days, the hind feet be held underwater for The body highly buoyant because of large lung otter's its capacity on may sea is —
+mammals! about than that of similar-sized land and the trapped fur. The walks with clumsy, rolling land, and 2.5 greater times its otter gait air in sea a on can run in a —
+motion.!491 bounding
+murky." highly whiskers and front help the find by touch when dark Researchers have noted when they approach Long, otter waters sensitive paws sea prey are or in
+sense.©21 plain rapidly when the wind blowing towards the animals, indicating the of smell than sight otters important react view, sea more is sense is more as a warning
+seals.="I Other observations indicate the of sight useful above and below the although good that of hearing neither particularly otter's not |ts water, sea sense is as as is
+poor.©4] acute nor
+food.©°! adult's teeth, particularly the molars, flattened and rounded for crushing rather than Seals and the only with An 32 cutting two otters are sea are carnivores pairs
+$434.71 three: urchins." of lower teeth rather than the adult dental formula The teeth and bones stained purple result of ingesting sometimes incisor is are as a sea
+The has metabolic three that of comparatively sized terrestrial mammals. estimated of body weight food It 25-38% otter rate two times must eat its sea a or an own in
+/°4) environment. 80-85%, each day burn the calories the loss of heat due the cold digestive efficiency estimated and to counteract water jts to to at necessary is
+hours.!°2! food digested and passed little three of need for through food, although, other mammals, also drinks Most its water met contrast to most it is in as as is in marine
+urine.!©2! relatively large kidneys enable derive fresh from and concentrated ‘seawater. Its to water excrete it water sea
+Behavior
+The diurnal. thas period of foraging and the about hour before then eating starting otter sea is a in morning, an sunrise, =
+acu mid-day.'©*] B sleeps for few hours the afternoon and subsides before and third rests Foraging sunset, or in resumes a in a a
+& me midnight.{°3 night.!°9) foraging period around Females with be inclined feed to to at “4 may occur pups appear more ew
+Zp Observations of the of spend each day foraging from apparently depending time otter 24% to 60%, WS amount must a sea range
+Zi, Sone area.!®4) the availability of food the on in
+eae: & spend much of their which of cleaning the fur, untangling knots, loose fur, Sea otters time consists grooming, removing
+— rubbing the fur and introduce and blowing the fur. casual observers, if the water To it to out into E's squeeze air, air appears as ‘
+erates Mc fur!®5! animals scratching, but they known have lice other the when roll the to parasites otters not eating, are are or in sea in
+7) gay Sg fur.°51 i frequently, apparently wash food from their to water scraps
+Se allso: Physiology of underwater diving CS =o eS
+PERE id BENE fur.'°51 animals scratching, but they known have lice other the when roll the to parasites otters not eating, are are or in sea in
+Ga 7 fur.!581 ee frequently, apparently wash food from their to water scraps oe
+280: Physiology of uncenvater ving 886 ges © Sensitive vibrissae and forepaws enable
+Ee The hunts short ives, often the floor, Although hold ters of (ihe this purple oter to itcan ts Sea prey sea sea in sea =
+_ U"chin) their of touch, GN using sense minutes,!*41 = breath for five dives typically last about and to its minute not up one
+== than four the only animal capable of lifting and itis minutes. more marine
+SS tung rocks, which often does with front when searching for The also pluck snails and it its otter over paws prey. sea may
+“ ‘Asea otter itself by rubbing its clams.!© grooming ther from kelp and dig deep underwater mud for the only mammal that catches fish {tis into organisms marine
+dense coat. 2]
+with forepaws rather than with teeth. its its
+Under each foreleg, the has loose pouch of skin that extends the chest. this pouch (preferentially the left In otter sea a across
+clams.'°"1 one), the animal collected food bring the surface, and rock that used break shelifish and the surface, the to At stores to sometimes to otter eats a is open sea
+while floating back, forepaws food and bring mouth. chew and swallow small mussels with their shells, whereas large mussel its to its It its tear apart it to on using can
+apart.'©5! shellfish. shells be twisted lower teeth the It its meat to may uses incisor access in
+6%! the urchin’s shell.
+also: Tool by See otters use sea
+tools.”"! The of rocks when hunting and feeding makes of the few mammal hard shells, pound with both otter's to To it its it sea use one species use open may prey paws
+seconds." rock chest. abalone off rock, hammers the abalone shell large with observed of blows Releasing its To stone, rates 45 15 against its it a on pry an using a in
+dives.©° abalone, which cling rock with force equal body weight, multiple to 4,000 to times its an can a own requires
+Social structure
+E Although each adult and independent juvenile forages alone, tend together single-sex called rafts. otters gS to rest sea in groups ==
+— a ones." a Araft typically animals, with male rafts being larger than female The largest raft contains 10 100 4, to ever seen
+_ Se = contained keep themselves from drifting when and ae 2000 otters. To otters out to resting eating, over sea sea sea may wrap
+| aga Bo Se
+be kelp!”71 pie themselves 4 ie in
+— females.'73I i Amale likely if he breeding that also favored by otter territory as most to mate maintains sea is a in an area is
+Sleeping otters holding sea paws are autumn.” the peak breeding males typically defend their only from most territory to autumn is season in areas, spring
+kept afloat by their naturally high buoyancy. a wy
+males,!""! this males patrol the boundaries of their exclude other although actual fighting During time, territories to is rare
+one.!75] Adult females freely between male where they outnumber adult males by of five territories, to move an average
+groups,'7*) mate.!"41 Males that do have tend large, male-only and through female when searching for not territories congregate to in swim areas a
+gull.!’5! The exhibits of vocal behaviors. The of often compared that of Females when they apparently males variety content; grunt to species a cry a pup is a coo are may
+instead.!”9 scream.!751 Distressed frightened adults whistle, hiss, extreme circumstances, or may or in
+sibling have been observed forming like bonds with each other. females the Shedd and maintained big Sea otters Two at Aquarium, Kiana Cayucos, captivity sister- in a
+toys.!”7] little relationship, with the following around the older and mimicking her playful with enrichment female- Cayucos Kiana Among sister interactions younger a
+female-male the Osaka Kaiyukan, female named would constantly steal food from the other female, Ellen, and the male, Aquarium Pata Kutan, trio at present it to one as
+gift.'7®] the with ingrained fear of humans taken and tried the other enclosure by dragging the In 1930s, otter Russia to protect otter it captive its into a a sea an was in in
+man.[79 the sight of water at
+Formal of social network formation and has been performed, largely because researchers had simply assumed that rafts otters not assessment maintenance among sea
+composed of randomly assembled collections of individuals that aggregated after solitary foraging. according professor Tim Tinker, However, to UC Santa Cruz were
+preliminary analysis of long-term spatial between tagged indicates that several distinct clusters within the large otters Monterey Bay associations sea in occur
+aggregations." individuals (male-female mated and reproductively-synchronous females) also show result, some consistent As associations pairs over many years. a
+structures. formal network analyses for reveal information the and social have demonstrated the for social important its Sea otters otters capacity sea may on species
+a learning, with knowledge passed down both vertically from and horizontally within although whether they display full-fledged culture to not mom pup groups, or remains
+11821 unknown and underresearched.
+Reproduction and life cycle
+polygynous: males have multiple female typically those that inhabit their If Sea otters territory. territory partners, are no is — =
+established, they seek females When male finds female, the playful and out estrus, otter receptive two in a sea a engage in =
+behavior. They bond for the duration of days. The male holds the female's head 3 ‘sometimes estrus, BS. aggressive or or nose Se =
+2] Co behavior.®lI"°* with his during copulation. Visible often females from this a in present jaws scars are on some severe cases, 3
+eS ee female_®31 the face kill the to trauma or nose may
+BS = ES Births year-round, with peaks between and northern populations and between and March May June January occur in in
+), 5 S populations.4! e ay southern from four twelve months, the capable of delayed Gestation to to appears vary as species is =
+Se pregnancy.) implantation followed by four months of California, usually breed about often In twice 4s otters sea every year, as
+—— Alaska.!°5) = those as in
+| 5? While the male bites the of Birth usually takes place the and typically produces single weighing kilograms (3 Ib Ib mating 1.4 to 2.3 1.02 to 5 nose water in a pup
+the female, often bloodying and it. scarring [86] [6] no) nf hitthe: heawever penalkeanhs hieh the teath 4 Tagine 904 At ten peer in ans pin cummuac quec area anean ara.
+is Say, P| " populations.4! southern from four twelve months, the capable of delayed Gestation to to — appears vary as species is
+== Alaska.®5) a those as in
+(See RCD Sa eee 1.02).81 survives.!®l of births; however, usually only birth, the teeth Twins 2% At ten occur in one pup eyes are open, are
+a fur.®”! visible, and the has thick of baby Mothers have been observed lick and fluff newborn for hours; after to coat pup a
+dive.*! weeks.21 the fur much the floats like cork and The fluffy baby fur replaced by adult fur after about pup’s 13 retains cannot grooming, so air, pup a is
+lasts eight months Californian populations and four twelve months Alaska, with the mother beginning Nursing to to to six in in —
+ee months.) oofer bits of The milk from abdominal nipples rich fat and similar at to otter's to two two prey one a sea is in more
+the mustelids.°" milk of other mammals than that of other with guidance from mother, to A its practices marine pup,
+s, <= =a and diving for several weeks before able reach the floor. Initially, the objects of little food it it to retrieves swimming is sea are
+= iss » pebbles.'°7I —value, suchas brightly colored starfish and Juveniles typically independent eight months, but at to are six a
+mother SS it!°2! be forced abandon if she find enough food for the other be nursed to at cannot extreme, may a pup a pup may
+SSS. size. =— ntilitis almost adult mortality high, particularly during individuals first by only Pup winter estimate, 25% is an one —
+© year.°2! rates.!°3) ‘A mother floats with her her of their first born experienced mothers have the highest survival pup on Pups to pups survive
+"They chest. Georg Steller embrace wrote,
+Females perform all tasks of feeding and offspring, and have occasionally been observed for orphaned raising caring their with affection that scarcely young an is
+pups.!*4] credible.“®°) Much has been about the level of devotion of mothers for their mother her infant written otter sea pups a gives —
+fur.!°5! almost cradling her chest from the cold and attentively when constant attention, its it water on away grooming
+away;!°5l foraging, she leaves her floating the wrapped kelp keep from floating if the sometimes to it water, pup on in pup is
+returns. deaths.!8°1 sleeping, loudly until she Mothers have been known their for days after the not it pups’ to cries carry pups
+later.5) Females become sexually around three four of and males around five; however, males often do successfully breed until few at not mature at or years age a years
+19.!°*) years,®"! male sired offspring the wild, live of with lifespans from for males and Acaptive in otters to 23 10 15 15-20 at to age sea a maximum age ranging years
+females.©°! for Several individuals have lived The Seattle home both the oldest recorded female, Etika, who lived the captive 20 Aquarium to to past years years. was age
+months.!°! of and the oldest recorded male, Adaa, who lived be the wild often develop teeth, which for their apparently 28, 22 8 sea otters to account years in worn may
+lifespans.!2°4) shorter
+Population and distribution
+deep] (7 shore.!°5) live coastal (49-75 ft) and usually within kilometre mi) of the They found often with Sea otters waters 15 23 metres most to stay in a are in areas
+reefs.2%4) from the winds, such rocky coastlines, thick kelp forests, and barrier although they strongly associated with rocky most protection most severe ocean as are
+silt.""°5! substrates, also live where the floor primarily of mud, sand, Their northern limited by otters consists otters sea can in areas sea or range is ice, as sea can survive
+ice.°% year-round.!07) amidst drift but land-fast individuals generally home few kilometres long, and there not ice occupy a range a remain
+300,000,”°! The population thought have been stretching the North Pacific from northern the central to 150,000 Japan to Baja otter to sea is once in an arc across
+California Peninsula The fur trade that began the reduced the numbers estimated members colonies. Mexico. 1740s otter's to 1,000 2,000 13 Hunting to in in sea an in
+records researched by historian Adele Ogden place the limit of the hunting grounds off the northern island of Hokkaido and the limit, westernmost Japanese eastemmost
+(211, {2°81 off about kilometres mi) south of California's headland Punta Morro Hermosa 34.6 Punta Eugenia, Baja westernmost Mexico in
+about two-thirds of former the levels of with high population densities and threatened populations others. In its Sea at range, species is varying recovery, in some areas in
+currently have stable populations of the Alaska, British Columbia, Washington, and California, with of recolonizations otters parts Russian coast, reports Mexico east in in
+otters. Japan." (2211101111211) and population made between and worldwide total of approximately much 2004 2007 107,000 However, estimates give a sea more
+of the population such the Aleutian Islands Alaska and the of Okhotsk along the of have shown declines Sea Russia steep recent counts otter coast sea in areas as in in
+estimates.1141215] doubt those casting recent years, on
+Japan
+Adele Ogden The California Trade that hunted "from northeastward the Kuril and Kamchatka the Aleutian Sea Otter Yezo past Group to wrote otters in sea were
+Chain".298l resides." refers the island of Hokkaido, northern where the only confirmed population of Sightings have been "Yezo" Japan, country's to otters province in sea
+region.2161 documented the of Hamanaka and other locations the Cape Nosappu, Erimo, Nemuro, waters in among in
+2°), The last estimated around living off the of Hokkaido. The Etopirika Foundation (x C'!) small non-profit by 50 otters coast eastern b organization count sea a run
+them.!17! Yoshihiro Kataoka, the local population and researches April Kataoka documented the first lethal of monitors otter to protect in 2025, sea ways case avian
+otters.'1181 influenza among sea
+Russia
+of the population of the kalan calan found along the coastline, the northwestern Pacific off of the Most Asian otter Russian Russian Far East waters sea or in is in — —
+Okhotsk.'"°! (namely Kamchatka and Sakhalin Island), occasionally being and around the of Before the 19th around Sea 20,000 25,000 country century, to seen in sea
+lived the Kuril Islands, with Kamchatka and the Commander Islands. After the of the the population these currently otters Great Hunt, part near more near years in areas,
+750.1" of only had repopulated all of their former habitat these with estimated total population the of about Russia, By 2004, otters 27,000; at time was sea in areas, an
+Islands.!1101 of these, about the Kurils, Kamchatka and another the Commander 19,000 2,000 3,500 at 5,000 to 5,500 at to at were were were
+much from the showed declines all of these populations. The latest numbers the number of However, 2019-2024 steep put recent otters more surveys years in sea
+respectively.2141215) around the Kuril Islands and and around the Commander Islands and Kamchatka peninsula, Continued at 3,000, at 1,673 1,565 otters a mere sea
+declines.'14I!20] illegal poaching believed contribute these non-governmental (NGOs) such the and People Foundation Russia to Russian Nature to organizations in is as
+(121), have iIneresced thar offarte hrinn the nlinht nf nanilatinn ta attantian tn Duecis'e atter cas
+population.!124) have increased their efforts bring the plight of to attention to Russia's otter sea
+British Columbia
+‘Along the North south of Alaska, the discontinuous. population survived off Island the 20th but American otter's A Vancouver into it coast remnant century, sea range is
+died despite the international with the last taken flown shipped from 1911 protection treaty, otter Kyuquot 1929. From 1969 1972, 89 otters out to sea near in sea were or
+Alaska the of Island. This population increased with estimated annual growth of and their the west Vancouver to 5,600 2013 7.2%, to coast rate over in an range on
+Tofino.!221l1281 island's extended north and the Charlotte the Broughton Archipelago and south Clayoquot Sound and coast to Cape Scott Queen Strait west to to across
+colony discovered the central British Columbia known if this colony, which numbered about animals founded by In 1989, coast. It not 300 2004, separate a was in is in was
+undetected.!112] transplanted population that had this population exceeded individuals, estimated otters By 2013, 1,100 remnant at or was a gone was increasing an
+Island.“221 annual and included Aristazabal Island, and Milbanke Sound south Calvert Canada determined the of be 12.6% its to In 2007, status rate, otters to range sea
+concern’ 1241125] “special
+United States
+Alaska
+animals.!75) Alaska the central of the the population Alaska estimated between and though, the otter's In 1973, 100,000 125,000 By 2006, at is area sea range. in was
+animals.'"14] Alaska population had fallen estimated decline populations the Aleutian Islands for of the change; the 73,000 4 otter most to accounts an massive in sea in
+factor.'!271 of this decline known, although predation suspected The population William Sound also severely affected by the Prince not cause is orca is as one in was
+Washington
+and translocated from Amchitka Island Washington, and released Push and Grenville. The translocated population In 1969 1970, 59 otters to La Point sea were near is
+estimated have declined between and individuals before reaching individuals of the population estimated to to 10 43 208 1989. As 2017, 2,000 at increasing, in was over
+Fuca.!?21 individuals, and their extends from Grenville the south Flattery the north and Pillar along the of de Point Cape east Point Strait Juan to to range in in
+Washington, found almost exclusively the They close (6 feet) off shore along the Olympic Reported In two metres coast. otters outer coasts. sea are on can swim as as
+sightings of the Islands and Sound almost always be North which commonly along the seashore. otters San Juan Puget turn to American out otters, sea in river are seen
+mid-1990s.(221 biologists have confirmed isolated sightings of these the However, otters sea in areas since
+Oregon
+The last probably shot and killed and total of transplanted from Amchitka Island, Alaska the Oregon 1906. In 1970 1971, 95 to native otter otters sea in was in a sea were
+state.'!8 ‘Southern this translocation effort failed and disappeared from the male took residence Oregon coast. However, otters in 2004, otter at soon again a sea up
+storm.225 Reef off of for months. This male thought have originated from colony Washington, but disappeared after coastal ‘Simpson Cape Arago on 18 to six is a in a
+Washington.!12) February male spotted off the could have traveled the from either California 2009, Depoe Bay Oregon Coast. It state otter to a sea was in or
+California
+The historic population of California estimated before the fur trade decimated the population, otters at 16,000 sea was —
+Se leading their assumed Today's population of California the descendants of single colony of to extinction. otters sea are a
+1938." about located Bixby Creek Bridge March Their principal has gradually expanded and 50 otters sea near in range x A
+y. County.232) io extends from Barbara Pigeon Point San Mateo County to Santa in ER z
+a Bay.!"9ll%4] Historical records revealed the Sea otters San Francisco Russian-American Company were once numerous in ig
+snuck Aleuts multiple despite the Spanish shooting them while hunting into San Francisco Bay times, capturing otters ee, or sea ae.
+Island.!2°8! the of and around Angel The founder of Kuskov, San Jose, San Mateo, San Bruno Fort Ross, Ivan estuaries in
+BPR, finding his second Bodega of Aleuts where they otters to Bay 1812, sent to San Francisco Bay, party scarce on voyage in a d
+another and and caught three months.'15 met Russian American 1,160 By 1817, otters party party, otters an sea in sea in Sn EE ao
+the practically eliminated and the sought from the Spanish and the Russians Mexican governments to. area were permission _shettered small colonies of otters sea
+Francisco."%4 through the fur trade. The 50 that survived hunt further and further south of fur Nidever and canoed “along San in 1833, trappers George George Yount in
+Calfornia, which rediscovered 1938, were in the Petaluma side of [the] and then proceeded the with beaver, and Bay, San Joaquin River", returning otter to otter, sea river
+have reproduced almost 3,000. to since ns
+pelts.257] populations have survived the bay until when the Rancho de Remnant 1840, Punta Quentin otter sea may in was
+granted John from by Alvarado along with Captain B. R. Cooper, Boston, Mexican Governor Juan Bautista to captain a sea a
+Creek.!1381 license hunt reportedly then prevalent the mouth of Madera to otters, Corte at sea
+the late the Fish and Wildlife relocated about southern Nicolas Island southern California, the hope of establishing In 1980s, U.S. Service 140 San otters to sea in in a
+mainland.{13°] population should the mainland be struck by oil spill. the of biologists, the of the Nicolas back the To majority San otters to reserve an surprise sea swam
+removed.''40! Another of kilometres (74 mi) north Miguel Island, where they captured and only remained twenty 119 San By 2005, 30 otters at to group swam were sea
+Nicolas,“#4) island.!“*°! although they slowly they thrived the abundant around the The plan that authorized the translocation had San were increasing as on prey program
+years.""42 predicted the would be reached within five The Nicolas Island to 10 2016 count San 104 continuing 5-year positive capacity at otters, carrying spring was sea a
+year."45] trend of observed Southern California Beach and 12% Sea 2011, Laguna at Zuniga Point Jetty, San Diego. otters twice over per were in in once near once near
+years.244) These the first documented sightings of this far south 30 otters are in
+When the implemented the translocation also attempted, implement "zonal of the Californian population. the USFWS 1986, management" To it to program, in manage
+between and fisheries, declared “otter-free stretching from the border. this only Nicolas Island otters zone” Point Conception to Mexican in San ‘competition it sea an zone,
+designated habitat, and found elsewhere the supposed be captured and relocated. These plans abandoned after otters otter to was as sea sea in area were were many
+zone.!"45] translocated died and also proved impractical the hundreds of which ignored regulations and the after otters capture otters into However, it to as swam engaging
+issue.''*4] period of public the Fish and Wildlife failed release formal decision the Then, lawsuits filed by the 2005, Service to to Santa commentary in a in a on in response
+a Barbara-based Environmental Defense and the December the declared that the failure, and Center Otter Project, 19 2012 USFWS "no otter zone" experiment on was
+species.'"4 will the re-colonizing the south of threatened although abalone fisherman blamed the of for the protect coast Point Conception otters otters as incursions sea
+decline of abalone, commercial abalone fishing southern California end from overfishing before significant moved south of 1997, otter Point to in came an in years
+addition, white abalone (Haliotis sorenseni), overlapping with had declined numbers by and became the first Conception. in 99% 1996, otter, a species never sea in
+endangered.!471 invertebrate be federally listed to marine as
+Although the southern has continuously expanded from the population of about individuals from otter's 50 Big Sur protection 1911, 2007 to remnant sea range in since in
+progress.!"48II14°l the population and contracted and has made little of the northern boundary had moved from about 2010, 2010 as 2010, otter its range since spring
+Creek kilometres (1.2 mi) southeast of and the southem boundary has moved along the from approximately Coal Oil Tunitas to 2 Pigeon Point, Gaviota Coast point a
+Park.!5 called produced by of cyanobacteria (Microcystis), be concentrated the shellfish the Point to Gaviota State a type otters eat, toxin microcystin, to a seems in
+them. Cyanobacteria found enriched with and phosphorus from tank and agricultural fertilizer runoff, and be flushed stagnant nitrogen water septic poisoning are in may
+season.54J252] the when streamflows high the record number of found California's coastline with increased 4 otter 2010, into ocean are in rainy sea carcasses were on in
+mortality.""9! shark attacks of the white sharks do relatively fat-poor but shark-bitten have increased Great not otters component an increasing consume sea carcasses
+southem be considered for removal from threatened listing, the Fish and Wildlife For otters to U.S. sea species
+calienen atl years."“48) (USFWS) determined that the population should exceed for three Service 3,090 consecutive in itt response 2
+remained efforts, the population climbed steadily from the mid-20th through the early then 2000s, to century recovery —
+relatively flat from under There from the northern (now 2005 to 2014 just 3,000. contraction Pigeon at was some 2 4
+Point) and southern limits of the during the end of this period, circumstantially related = otter's to sea range an increase w a
+plateau.!"55! lethal shark bites, that the population had reached the population — However, in raising concerns a
+4 - == increased markedly from with the United Geological (USGS) California 2015 2016, States Survey otter to sea survey a
+reaching the first exceeded the threshold for delisting from the Endangered 3-year 3,272 2016, it time =—5 average in eS
+=> (ESA).''#3) = if populations continued and delisting occurred, southern would still Species Act to ESA otters grow sea
+be fully protected by regulations and the Mammal which higher thresholds for state Marine Protection Act, set © ‘Assea otter kelp forest off the Central Coast of in a
+individuals.''°©) approximately delisting unlikely due 8,400 However, ESA to California the waters of the Chumash Heritage protection, at precipitous seems a in
+‘National Marine Sanctuary. population decline recorded the from the high of individuals 2017 USGS otter count, 2016 3,615 in spring sea survey
+population.!1571 loss of of the California 2,688, 25% otter to a sea
+Mexico
+Adele Ogden described being particularly abundant California’, the California Peninsula, where bays Historian otters "Lower Baja "seven sea as in now were main ...
+(21 The southernmost limit about kilometres mi) south of headland the southwestern end of centers”. Punta Morro Hermoso 34.6 Punta Eugenia, turn at was in a
+Bay.!2°8! Sebastian Vizcaino the of the Peninsula. also taken from Island, Cedros Island, and Isla Natividad the the Bay, coast Baja Otter San Benito By west on were in
+early extirpated by hunting. small numbers of including reported by local fishermen, but 1900s, Baja’s In 1997 otters otters, scientists sea were a survey, sea pups, were
+accounts.'"58! could confirm these male and female have been confirmed by off shores of the Peninsula study, who However, otters Baja 2014 not scientists in a
+hypothesize that dispersed there beginning These have dispersed from Nicolas Island, which kilometres (190 mi) otter 2005. San 300 otters in sea may is away, as
+individuals have been recorded distances of kilometres (500 mi). analysis of of these animals with California, United traversing 800 Genetic most consistent over were i.e.
+population.!15°) however had haplotype previously reported, and could of the original States, not remnant Mexican otter otter otter represent native origins, one a a
+Ecology
+Diet
+day.) High of metabolism them least of their body weight otter to at 20% energetic requirements sea require consume a Ses a
+yy Surface and foraging factors their high expenditure due drag the surface of the to water swimming are major in energy on =
+foraging.'*°ll4I when and the thermal heat loss from the body during deep dives when muscles sea Peas otter swimming are
+activity.) oe specially adapted heat without physical to generate »:
+ss as species.!®21[165 predators that of the diet Sea otters 100 jn most otter's its consists are apex consume over prey range, sea fi
+almost exclusively of benthic invertebrates, including urchins (such Strongylocentrotus franciscanus and . S. marine sea as A
+purpuratus), (Pisaster ochraceus), cucumbers, fat innkeeper of mollusks such stars crustaceans, variety sea sea worms, a as
+chitons (such Katharina tunicata), snails such abalones and limpets (such Diodora aspera), and bivalves such as as as as =
+gigantea).!182II1S4II1651I168] clams, mussels (such Mytilus edulis), and scallops (such Crassadoma |ts as as prey ranges in 5! ‘This female has gathered mussels otter
+octopuses.“®2] from limpets and crabs where such urchins, clams, and abalone tiny to giant present size prey as sea are in ‘and gooseneck barnacles from wharf piling a
+clams, mussels (such Mytilus edulis), and scallops (such Crassadoma gigantea), Its as as prey ranges in © Rio
+type.°] and the of them. eating of tend select larger smaller of similar California, they have been is in process otters in to items a range sizes, sea over ones
+across."1671 noted clams smaller than (3 in) Pismo 8 centimetres to ignore
+few northem fish also studies performed Amchitka Island the where the population of food Ina eaten. In 1960s, otter at 50% at capacity, areas, are in sea was carrying
+fish.“®) found stomachs The fish usually bottom-dwelling and sedentary sluggish forms, such Hemilepidotus hemilepidotus and family otter in sea was species were or as
+Tetraodontidae.°*! diet.71I*9l south of Alaska the North fish negligible extremely of the popular However, American part otter's Contrary to coast, on are a or minor sea
+undigested."""! depictions, rarely starfish, and kelp that consumed apparently through the will also occasionally eat otter's system Sea otters otters sea any is passes sea
+seabirds. California, the commonly grebes, although gulls, loons, and surf also In most eaten western cormorants, scoters prey on species were common were
+mothers.721 The individuals within particular often differ their foraging methods and and tend follow the their The diet of local to types, patterns a area in prey same as
+populations also changes significantly deplete populations of highly preferred such large urchins, and availability also time, otters over as sea can prey as sea prey is
+humans.22! crevices,!75) affected by other factors such fishing by thoroughly abalone from for deep rock however, Sea otters except as can remove an area specimens in
+area.!“”4! they completely from Californian study demonstrated, where food relatively wider of a 2007 variety out never wipe a prey species an in areas was scarce, a prey
+plentiful,!*7512391 consumed. Surprisingly, though, the diets of individuals specialized these than where food was were more in areas in areas was
+As keystone species a
+classic example of keystone their affects the profoundly than their and Roe ee Sea otters ecosystem are a a species; presence more size
+‘-_ bare check.) numbers would They keep the population of benthic (sea floor) herbivores, particularly urchins, certain Sea suggest. sea in 1
+i die.7° urchins the lower of kelp, the kelp drift and of the habitat and provided by kelp gp Se to Loss nutrients stems graze on causing away bipe
+oF Eee forests leads profound cascade effects the North Pacific that do have often not otters into to ecosystem. turn on marine areas sea
+= forest.©l ‘a urchin barrens, with abundant urchins and kelp Kelp forests extremely productive Kelp forests ecosystems. e sea no are
+his see Ee (absorb and capture) from the atmosphere through photosynthesis. help effects of climate CO, Sea otters mitigate sequester may
+wa rs influence.2771 »~ change by their cascading trophic
+bd ecosystems,!78l Reintroduction of British Columbia has led dramatic the health of coastal and similar otters to to improvement e sea a in r}
+changes have been observed populations recovered the Aleutian and Commander Islands and the of otter Big Sur coast ~ as sea in
+33 California."75! kelp forest California have also thrived without with urchin populations However, otters, ecosystems some in sea sea .
+factors.!"7°I apparently controlled by other The role of kelp forests has been observed be otters to important maintaining sea in more in
+estuaries.179] of than protected bays and coast areas open in more
+affect rocky that dominated by mussel beds by mussels from rocks. This allows for Sea otters ecosystems are removing space
+| diversity.!"7°) and © competing Sea otters control herbivore species increases species
+populations, sufficient ensuring
+studies have discovered trophic benefits that be traced back while digging for Recent to Sea otters, otters. more can sea prey, RCTS ERE GEE
+stimulate growth and the diversity of eelgrass meadows, making them resilient and thus protecting genetic seagrass increase more
+levels.®9281) coastlines from and controlling the populations of crab also By storm otters surges rising sea various species, sea
+levels.'®2Il85 reduce coastal back natural have likewise been shown control the populations of highly destructive such the sea otters to to erosion invasive species, as
+success.184] crab, which the has squandered millions of dollars eradicate with little European American government trying to green
+Predators
+pups."”°! The leading mammalian predators of this the lions and bald eagles land, face attack from bears and Sea On otters species is orca. may prey on young sea may
+predator,!*®5) California, white sharks their though this the result of mistaking for seals and they do after biting In great not otters coyotes. otters are primary is consume
+[186lleage needed] otters.!1871 them. National Park, wolves have been recorded hunt and kill jy Katmai to grey sea
+otters.!"82! Urban runoff feces the brings Toxoplasma gondii, obligate of felids, which has killed infections of transporting parasitic cat into parasite ocean an sea
+activity.'"! also associated with human according the Geological and the northern off Washington have been Sarcocystis U.S. Survey CDC, otters to neurona are sea
+viruses”.59) infected with the flu and be newly identified animal host of influenza H1N1 "may virus a
+Relationship with humans
+Fur trade
+have the thickest fur of mammal, which makes them for hunters, Archaeological evidence Sea otters target any a common many
+— indicates that for thousands of indigenous peoples have hunted for food and fur. Large-scale hunting, of the otters part years, sea — =
+ale 3 Trade, which would eventually kill approximately million began the 18th when hunters and Maritime Fur otters, century one sea in t =
+S= traders began from alll the world foreign demand for pelts, which of the world's valuable to to meet otter most vy arrive over were one
+5 fur.51 of types is Meo
+(ot ee
+Islands’“*! the early 18th began hunt the Kuril and sold them the Chinese Kyakhta. In century, Russians Russia to otters to at a sea in
+also exploring the far northern Pacific this and the and find from Siberia eat at Vitus Bering Arctic coast routes to time, sent to was map 4
+North his second North Pacific shipwrecked off Island the Commander Islands, € America. in 1741, Bering Bering on voyage, was in 1
+Sa fur.25) of types 25
+the Arctic anh, a also exploring the far northern Pacific this and and find from Siberia a at Vitus Bering coast routes to time, sent to was map Z
+where he and of his died. The members, which included naturalist Steller, discovered Georg otters many crew surviving crew sea on
+Aleut Unalaska 1896 men in in
+the beaches of the island and the hunting and gambling with pelts. They returned Siberia, having killed otters to spent winter otter sea seq waterproof kayak and gear
+peits."°°! nearly and able command high for the Thus began what called the 1,000 sometimes "Great garments to hunt otters. otters, to sea were prices is sea
+which would for another hundred The found the far valuable than the sable skins that Hunt’, Russians otter continue years. sea more
+had driven and paid for of their Siberia. If the pelts brought back by had been sold most otter Bering's expansion across sea survivors
+191) Kyakhta they would have paid for tenth the of expedition. at Bering's cost prices one
+fur-hunting expeditions depleted the populations the Commander Islands, and by they began Russian 1745, otter soon sea in =
+3 the Aleutian Islands. The initially traded with the Aleuts inhabitants of these islands for pelts, but to to Russians otter move on
+the Aleuts, 3 later enslaved taking and children hostage and and killing Aleut force them hunt. torturing to to Many women men
+introduced."®) 2 Aleuts murdered by the died from diseases the hunters had The Aleut population Russians were or was
+3 2,000.'"®4! reduced, by the from the the had reached Alaska. Russians’ estimate, 20,000 By 1760s, Russians In 1799, to own
+rH Paul consolidated the rival fur-hunting the imperial charter Tsar | Russian-American Company, it into granting companies an
+5 and and monopoly trade rights and territorial Under Aleksander the administration of the protection, acquisition. |, a over
+” merchant-controlled transferred the Imperial largely due the alarming by naval officers of Navy, to to reports company was
+62 Pott sales (in thousands) inthe London abuse; the indigenous peoples of Alaska granted civil rights equivalent the 1818, to status Native townsman in were a in
+- Empire.495 Russian fur market the decline beginning the in
+1880s reflects dwindling otter sea
+ther joined the hunt the south. Along the of what and California, Spanish explorers Mexico nations coasts in in is now 2 populations
+Asia.°°! bought pelts from and sold them British explorer Cook otter Native Americans in 1778, Captain James sea in
+reached Island and bought furs from the people. When Cook's ship later stopped Vancouver First Nations otter at sea a
+Chinese the pelts rapidly sold high and known "soft gold”. word spread, people from all and North began port, at As Europe America to prices, were soon as over arrive in
+furs.49% the Pacific Northwest trade for to otter sea
+hunters!®”) hunting expanded the south, initiated by ship who subcontracted and Aleut what Washington, Russian to American captains, Russian supervisors in are now
+and California. and ships involved the hunt California, harvesting estimated skins and tails, Oregon, Between 1803 1846, 72 American otter 40,000 were in in an
+1846.!"° compared only ships of the which reported skins taken between and the founded 13 Russian-American Company, 5,696 otter 1806 in 1812, Russians to an
+headquarters.'*°6 agricultural settlement what northern California, their southern Eventually, populations became depleted, at Fort Ross otter is now in as sea so
+commercial hunting longer viable. had stopped the Aleutian Islands, by imposed by the It 1808, Russian-American Company. conservation was no in as a measure
+the Alaska 1834.29 Further ordered by the when sold Alaska the United population had recovered restrictions Russia States 1867, to to were company in in over
+again. but resumed hunting and quickly extirpated the the became the pelt brought $105 100,000, Americans Prices During 1880s, to otter sea rose as species rare. a
+$1,125. $165 the London market, but by pelt could be worth much (for Canada) and the United signed the 1903, in 1911, Russia, Japan, Great Britain States in a as as
+otters." for the and of Seals, the harvesting of few remained, perhaps only ‘Treaty Preservation Protection Fur So 1,000-2,000 moratorium imposing a on sea
+extinct.’”2] individuals the wild, that believed the would become The overhunting of the Commander Islands likely contributed the to otters in many species sea near
+cow.2071 of the Steller's extinction sea
+Recovery and conservation
+article: Main Sea otter conservation
+the 20th numbers rebounded about two-thirds of their historic considered During otter century, sea in range, a recovery one —
+ee conservation.203! of the the still lists the endangered greatest However, IUCN otter successes in marine sea as an species,
+and describes the significant threats oil pollution, predation by poaching, and conflicts with fisheries to otters sea as orcas, —
+gear."! drown if entangled fishing The hunting of longer legal for limited harvests by otters otters except sea can in sea is no
+States.?°4! indigenous peoples the United Poaching the immediately after the Russian Far East in was a serious concern in
+collapse of the however, has declined significantly with law enforcement and better Soviet Union 1991; stricter it in economic
+conditions.2491
+spills,!""! The significant threat oil which they particularly vulnerable, they rely their fur most otters to to to sea is are since on
+a In the wake of the March 1989 Exxon
+keep When their fur soaked with oil loses ability and the animals quickly die from it to retain its warm, is air, can SeceaT onal oer eheeesoca eee
+hypothermia." The liver, kidneys, and lungs of also become damaged after they inhale oil when otters ingest it sea or large of Prince William Sound. areas
+grooming.!7°! The Valdez oil spill of March killed thousands of William Sound, and of Exxon 24 1989 otters Prince sea in as
+population.2°°! the lingering oil the continued affect the Describing the public sympathy for that 2006, to otters in area sea
+wrote:!2) developed from media of the Fish and Wildlife spokesperson U.S. Service event, coverage a
+... playful, photogenic, bystander, the epitomized the role of and frolicsome suddenly distress, oiled, frightened, As innocent otters otter victim cute a sea sea in
+and dying, losing battle with the oi. in a
+The small geographic of the populations California, Washington, and British Columbia single spill could be catastrophic for that otter state ranges sea in mean a major or
+province.(221(6°1(651 of oil spills and if happens focus for efforts. the and of prevention preparation Increasing to otters conservation rescue one is a major size range sea
+population. populations would also reduce the risk of oil spill because of the for depleting shellfish otter However, species’ reputation out an wiping a resources,
+advocates for commercial, recreational, and subsistence shellfish harvesting have often opposed allowing the and there have been otter's to sea range increase, even
+them.!205) of fishermen and others illegally killing instances
+With population of fifty, the low diversity the population post-fur trade but pre-discovery produced evolutionary bottleneck. The population recent genetic amongst a size an
+inbreeding.'"®! the have led low diversity members, with much evidence of This inbreeding has led the constraints mutation put otter to to on sea genomic among species
+of deleterious which make fast-paced population growth difficult for While longer-term goals bolstering conservation genetic mutations, missense may reasons. recovery
+diversity by inbreeding costly and challenging, they could significantly aid avoiding the further evolution of deleterious thus aiding population variation, otter are in sea
+stabilization. This method has already been utilized cheetah populations higher numbers and higher diversity, and breeding returning to genetic captive in programs
+through such the and The Mammal make the chances of populations back pre-fur trade Monterey Bay Aquarium Marine Center otter organizations getting to as sea up
+wild.'2°71 numbers possible. The population of California has around the while this figure far below pre-fur trade numbers, otters 3,000 it represents to sea in risen in is a
+the of the and diversity. the other hand, northem have reached back genetic On otters improvement conservation to massive in species a massive increase in sea up pre-
+fur trade population numbers, with populations living all along the from Ketchikan the south the Historical populations, however, state's coast Attu west. to in in are
+estimated have been between and individuals living along the northern Pacific from California Hokkaido Island Modern to 150,000 300,000 Baja Japan. to rim in
+techniques have included breeding northern and southern populations of diversity and both inbreeding and conservation otters to genetic prevent genetic sea increase
+drift. the introduction of the Mammal the made their hunting highly illegal the United Moreover, Marine Protection Act 1970s States in in
+the Aleutian Islands, and unexpected disappearance of has occurred decades. the the home estimated In otters recent In 1980s, to 55,000 a massive sea in area was an
+2000.2! but the population fell around animals by The widely accepted, but still controversial, hypothesis that killer whales have 100,000 6,000 to otters, to most sea is
+been the The of disappearances with predation, but there has been direct evidence of eating pattern consistent otters otters, to is a rise in no orcas preying on sea any
+extent.1271 significant
+1990s." Another of California, where began fluctuate decline the late Unusually high mortality adult and subadult to rates amongst otters, area concern is recovery or in
+reported.!“15I particularly females, have been the Geological found drop the population of the California This number still keeps in 2017 US Survey 3% coast. otter a in sea
+barely.21°) them track for removal from the endangered list, although of dead indicate diseases, particularly Toxoplasma gondii and Necropsies otters just on species sea
+California." acanthocephalan infections, of mortality The Toxoplasma gondii which often fatal carried parasite parasite, otter to otters, are major causes sea in is sea is
+systems.!14/I212] by wild and domestic and be transmitted by domestic droppings flushed the although disease has clearly contributed cats cat into may ocean via sewage
+areas.(211) the deaths of of California's known why the California population apparently affected by disease than populations other not to otters, it many sea is is more in
+habitat preserved through several protected the United and Canada. protected Sea otter States, Russia In is areas in marine =
+oS ee prohibited.!2!31 polluting such dumping of and oil drilling typically estimated activities waste an 1,200 otters areas, as are sea
+— Se live within the National and than live within the Olympic National Monterey Bay Marine Sanctuary, 500 Coast Marine more
+Bae TT Economic impact
+“y ume gu of the preferred particularly abalone, clams, and crabs, also food for humans. Some otters In sea prey species, are sources
+= — =e Sgn as declines shellfish harvests have been blamed the and public debate has taken otter, intense some areas, massive in on sea =
+= Sar Ris onal Coes TS seafood.!2161 place how the between and humans for competition to otters over manage sea
+The debate complicated because have been held responsible for declines of shellfish stocks that Sanctuary otters sometimes is sea
+activity.!°217 likely caused by overfishing, disease, pollution, and Shellfish declines have also occurred were more seismic
+of the North Pacific that do have and the of large of shellfish American existence concentrations parts coast not otters, conservationists sometimes note in many sea on
+otter.2171 the development resulting from the fur trade's of the although factors affect shellfish stocks, predation recent otter coast near-extirpation is a sea many sea can
+a viable.!715! area.) deplete fishery the where longer commercially that and abalone fisheries the and to scientists otters exist point it cannot is no agree sea in same
+well.'298) the likely for other of shellfish, true types certain same is as
+facets of the between and the human immediately felt. have been credited with contributing the kelp Many otters not Sea otters to interaction sea economy are as
+products.1®! harvesting industry their well-known role controlling urchin populations; kelp used the production of diverse food and pharmaceutical although via in sea is in
+human divers harvest red urchins both for food and the kelp, hunt urchin and consistently effective controlling these protect otters to sea sea more sea species are more in
+populations.*®] jutris controlling predator of the red king crab (Paralithodes camtschaticus) the which would otherwise be of control E. Bering Sea, out its it is a in as is in
+Sea.27° the (Berents lutra, the ecological niche and believed help control them the but this has Barents otters, Lutra to Berents to invasive range, occupy same so are in
+)!?2°l been studied. also known control the population of highly destructive such the crab, which the not Sea otters to European American are invasive species as green
+eradicate.274] has millions unsuccessfully The health of the kelp forest significant populations of fish, including spent ecosystem government trying to nurturing is in
+species.2181 commercially fish important
+expeditions.) popular bringing local hotels, and otter-watching according study, the In otters restaurants, to tourist attractions, visitors to some areas, sea are sea one
+million).22! from projected be worth approximately $41.5 million (US $30.5 different study from Island otter tourism to CA Vancouver revenue sea was per year
+discovered that the second popular for those interested wildlife only slightly behind whale watching The authors also made of attraction tours, note otters most sea are in
+Alaska.225! similar observed benefits of the industry southeast California, households consistently found be willing for the otters to tourism in to to sea in were pay more
+coast.!2241 of off the and willing simply for the knowledge that existed the option to otters otters coast, extra seeing sea even more were pay sea near
+Roles in human cultures
+hie © ‘Aleut of otter hunt whalebone On display at the Peter the Great Museum of Anthropology and. carving a sea on a spear.
+Fhe Ethnography St. Petersburg, in (
+=~ | Be \ indigenous cultures throughout the North Pacific, especially the the Kuril Islands, the Koryaks and Itelmen of For maritime Ainu many in
+Gwaiil2®) Kamchatka, the Aleut the Aleutian Islands, the Haida of Haida and host of tribes the Pacific of North the es America, coast in a on |
+ees | has played role cultural, well material, These cultures, of which have strongly otter important \ animist sea an as a as as resource. many
+3 & ay traditions full of legends and which of the natural world associated with regarded the stories aspects spirits, otter in many are sea as
+FS) particularly kin humans. The Nuu-chah-nulth, Haida, and other of coastal British Columbia used the and luxurious First Nations to warm Coa
+oy \ Re ee funerals.275] pelts chiefs' regalia. pelts potlatches mark coming-of-age weddings, and The Sea-otter to as were given in ceremonies,
+\§ a fever.227) Rs Aleuts carved bones for and and used powdered baculum medicine for otter sea-otter ornaments sea use as in games, as a
+iy ‘Some creator.?28! eo folk-tales the occasional between humans and the The Ainu sea-otter portray otter as an messenger sea is a recurring ¢
+Wy > al figure folklore. the Shirka, tells the tale of and struggles golden of Ainu A Ainu Kutune sea-otter. Versions in major epic, wars over a a
+oa otters.2°! widespread Aleut legend tell of lovers despairing who plunge the and become These have been into stories or women sea
+©? associated with the human-like behavioral features of the including playfulness, mother-pup bonds and Image of Aleut of strong otter, apparent carving a many sea
+Segoe eaieene a a anthropomorphism.?2°! tool yielding ready The beginning of commercial exploitation had the human, well to great impact use, a on as as
+the Mavetrn animal, populations. The and Aleuts have been displaced their numbers dwindling, while the coastal tibes of North Ainu America, or are Groot of
+!294) where the greatly depleted, longer rely intimately mammals for survival otter Anthropology and is in any case no as on sea
+Ethnography St. in
+petostung the mid-1970s, the beauty and charisma of the have gained wide and the has become of Since appreciation, otter species sea an icon
+conservation.2°"! environmental The round, face and soft, furry body of the depicted wide of otter variety expressive sea are in a
+toys.2521 postcards, clothing, and stuffed souvenirs,
+decades, have experienced boom popularity and wide of media. the Mikio Igarashi's In recent Japan A otter protagonist otters sea a in in appear in a array sea is in manga
+Bonobono and another of the the popular web Chiikawa. have featured high modernist literature well, such Makoto part Sea cast otters is main in manga in as as
+10)3%), Furukawa’s novel, The (3 about senile who herself transforming which nominated for the Sea Otter's House otter, into a woman imagines a sea was +y
+2019.35] Akutagawa Prize prestigious in
+literature, Theodore short "Like features plot which humans die from epidemic and the last decide In American Sturgeon’s Young" out story to a in an remaining survivors
+otters.'254) their scientific knowledge to pass on sea
+Aquariums and zoos
+zoos.”35] do well and featured public and The Seattle became Sea otters 40 Aquarium captivity, can in are in over aquariums
+the first from adulthood with the birth of Tichuk followed by three institution to otters to 1979, conception raise sea in more -
+1980s.251 the early YouTube video of holding drew million weeks, in 2007, 1.5 - go two otters two pups in a sea paws viewers in ail |
+Vancouver Aquarium, 2022.37! and had million of July Filmed five previously the YouTube's 22 at it over views as years was
+popular animal video the although has been surpassed, The lighter-colored the video most otter Nyac, at time, it since in is a
+spill..25® 20.'73°! of the Valdez oil died September the of Milo, the darker died 1989 Exxon Nyac 2008, at ‘survivor in age one,
+'ymp y © ‘Asea otter Japan, 2015 captivity in in
+Vancouver Aquarium Other the have also viral. the pandemic, the livestream of During 2020 COVID-19 otters at sea gone
+rescued the Mammal attracted millions of from the world Joey, otter Marine Rescue Center, at a sea pup viewers across on
+lockdowns.?41] YouTube and Twitch. said the helped them with the and depression caused by the pandemic video of Many stream in June 2024, anxiety viewers cope a
+Instagram.!242II2431I244] another rescued Tofino, received and likes 120,000,000 5,000,000 otter sea pup, over views on
+the Douglas Wreden, popularly known has held charity for the celebrate the birthday of Beginning 2019, DougDoug, streams Monterey Bay Aquarium streamer to in as
+otter.?“5] name.!451 the of and his have raised $1,000,000 Rosa As 2024, DougDoug Rosa's community sea over in
+Current conservation
+exploitation’.?47! being known keystone need humanitarian effort be protected from endangerment through “unregulated human This Sea otters, to a species, a species
+gear.?47! has increasingly been impacted by the large oil spills and environmental degradation caused by overfishing and entanglement fishing Efforts have been made in
+legislation the early 20th the North Pacific Seal of the Endangered of the International for century: Fur Convention 1911, US Species Act 1973, Union in since
+of (IUCN), the International Trade Endangered of Wild and Flora (CITES; also known the Washington Conservation Nature Convention Species Fauna on in as
+Convention), and the Mammal of Other efforts done through reintroduction and zoological parks. US Marine Protection Act 1972. conservation are
+Week held during the last full week of September. and other educational hold highlighting Sea Otter Awareness Zoos, institutions events is every year aquariums, sea
+their ecological and the challenges facing their organized and sponsored by Defenders of Wildlife, the the otters, conservation. It Monterey Bay Aquarium, importance, is
+Elakha Alliance.2481I2491 California of Parks and and the Department Recreation, Sea Otter Savvy,
+See also
+California Rush Fur *
+Notes
+2. At least female known have died from infected (Love, 52) to one is an nose. p.
+References
+Citations
+p. © 1.42 Doroff, A; Burdin, A.; Larson, S. (2022) [errata of 2021 assessment}. 431, 4 Silverstein, 41 version
+“Enhydra lutris" IUCN Red List of Threatened Species. 2021 e.17750A219377647. 2. 132. "Spring 2007 Mainland California Sea Otter Survey Results’. U.S. Geological
+doi:10.2305/IUCN.UK.2021-3.RLTS.17750A219377647.eng, ‘Survey. 30 May 2007. Archived from the original 29 June 2010. Retrieved 2 on
+2.4 "Appendices i. CITES.org. Retrieved 14 January 2022. 23 February 2008.
+— Bay 3. 4 "Sea Enhydra lutris" 2. Monterey Aquarium. Archived 2 from the original 133. A Rogers, Paul (111 December 2020). "Are taking bite of California's olter otters out sea a
+17 June 2025. Retrieved 2 October 2023. Dungeness crab season?" The Mercury News. Retrieved 12 December 2020. 2, on
+4.*8 Womble, Jamie (29 July 2016). "A Keystone Species, the Sea Otter, Colonizes ‘134, 4 Southern Sea Otters Archived 30 November 2011 the Wayback Machine. zt at
+Glacier Bay” National Park Service. Retrieved 23 November 2021. nrde.org
+2. behavior, ecology, and natural history’. U.S. Fish and Wildlife Service Biological of Alaska’ 1730-1885 San Francisco: A. L. Bancroft & Company. 4822. p.
+Report. Washington, D.C.: 126. Bibcode:1990usgs.rept...46R Retrieved Retrieved 26 September 2010. 2.
+27 September 2010. 136, * Stewart, Suzanne; Praetzelis, Adrian (November 2003). Archeological Research
+Areal) Museum of Zoology. Archived from the original 13 April 2013. (PDF) (Repon). Anthropological Studies Center, Sonoma State University. ct on
+335, Retrieved 26 September 2010. 7.4 Kenyon, 4 p. p.
+1826" Yount: California Pioneer of (PDF). California Historical Society Quarterly. 2 9.4 Koeptii, K-P.; Wayne, R. K. (December 1998). “Phylogenetic relationships of otters
+(4): 3-66. doi:10.2307/25177691c. JSTOR 25177691 2. Retrieved 28 June 2028. (Camivora: Mustelidae) based mitochondrial cytochrome b sequences. Journal of on
+4138, ” Battersby, Bob; Maginis, Preston; Nielsen, Susan; Scales, Gary; Tomey, Richard; Zoology. 246 (4): 401-416. doi:10.1111/.1469-7998.1998,1b00172.x02.
+Wynne, Ed (May 2008). Ross, Califomia The people, the places, the history Ross c2. 10. 4 Koepfli, KP; Deere, K.A.; Slater, G. J. et al. (2008). *Multigene phylogeny of the -
+Historical Society. Retrieved 3 November 2010. Mustelidae: resolving relationships, and biogeographic history of mammalian tempo a
+844 ¢ doi:10.1186/1741-7007-6-109. 139, University of California, Santa Cruz (18 January 2008). "Sea Otter Show adaptive radiation” BMC Biology. 6 10. :2.
+2276185. Striking Variability Diets And Feeding Strategies” e2. ScienceDaily. Retrieved PMC PMID 1827561402. in
+of 140. 4 McLeish, 32 p. 12. 4 Willemsen, G. F. (1992). "A revision the Pliocene and Quaternary Lutrinae from
+@5°U.S, 10.1.1.738.44923. 141, Fish and Wildlife Service Proposes that Southern Sea Otter Translocation Europe". Scripta Geologica. 101: 1-115. CiteSeerX
+f3) Terminated" Program be (PDF). U.S. Fish and Wildlife Service. 5 October 2005 413. Love, 15-16 pp.
+Retrieved 10 April 2008 14.4 Love, 4-6 pp.
+142, A "Service Proposes End Souther Sea Otter Translocation Program". USFWS to 15.4 Love, 6 p.
+Pacific Southwest Region. 17 August 2011. Retrieved 21 December 2012 16.2 Jones, Samantha J.; Haulena, Martin; Taylor, Gregory A.; Chan, Simon;
+“@> 143, Hatfield, B. B.; Tinker, M. T. (19 September 2016). Annual California Sea Otter Bilobram, Steven; Warren, René L.; Hammond, Austin; Mungall, Karen L.: Choo,
+Census 2016 Spring Census Summary. USGS Western Ecological Research Center Caleb; al. (11 December 2017). "The Genome of the Northern Sea Otter (Enhydra et ~
+3. 5749697 44, A “Rare sighting of off Laguna Beach’. KABC-TVIDT. 7 December 2011. otter PMC PMID 2023288002. sea
+& 17,4064 Archived from the original 21 October 2013. Retrieved 8 December 2011. on Beichman, Annabel C.; Koepfl, Kiaus-Peter; Li, Gang; Murphy, Wiliam:
+145, 4 "Balance sought conflict” CNN, 24 March 1999, Retrieved 25 January otter 2. in sea Dobrynin, Pasha; Kliver, Sergei; Tinker, Martin T:; Murray, Michael J.; Johnson,
+K.; E.; 2008, Jeremy; Lindblad-Toh, Kerstin; Karisson, Elinor Lohmueller, Kirk Wayne,
+146. Weiss, Kenneth R. (20 December 2012). "U.S. will let along Souther Robert K. (December 2019). "Aquatic Adaptation and Depleted Diversity: ADeep Dive otters roam
+2. Los Angeles California coastline’ Times. Retrieved 21 December 2012. the Genomes of the Sea Otter and Giant Otter" Molecular Biology and into 2.
+7967881. “#5 PMc PMID 3121231322. 14g, “California's Sea Otter Numbers Continue Slow Climb” . USGS. 12 September
+18.*# Larson, Shawn; Jameson, Ron; Ethier, Michael; Jones, Terry; Hall, Roberta (5 2013. Retrieved 20 October 2013.
+March 2012). "Genetic Diversity and Population Parameters of Sea Olters, Enhydra ‘149, A Young Landis, Ben; Tinker, Tim; Hatfield, Brian (3 August 2010). "California Sea
+lutris, before Fur Trade Extirpation from 1741-1911" 2. PLOS ONE. 7 (8) e820 Otter Numbers Drop Again"c2. U.S. Geological Survey. Archived from the original:
+2293891.g, 620312. PMC PMID 22403695. 180.4 “Spring 2010 Mainland Calfornia Sea Otter Survey Results". USGS Western
+19.*4 Yochem & Stewart, 548.2. "Sea otters have the densest fur of mammal, Ecological Research Center. Archived from the original 12 June 2014. Retrieved p. any z? on
+hairs/cm?, with approximately 130,000 about dense that of northern fur twice 26 September 2010. as as
+seals (Callorhinus ursinus)." 4151. 4 Weiss, Kenneth R. (23 September 2010). "Another deadly challenge for the sea
+otter" (2. 20. © Koepfii al., 4-5. et pp. Los Angeles Times. Retrieved 10 November 2010.
+een een en eae n ee EE PINE MISERY Qe TOON AE 29 June 2020. Retrieved 23 January 2012. on
+9. 3293891 6203 PMC PMID 22403635 2. x2 150. 4 "Spring 2010 Mainland California Sea Otter Survey Results". USGS Westem
+20. Koeptli a., 4-6 et pp. otter". Los Angeles Times, Retrieved 10 November 2010.
+O. R.; J. L.; A. A; Oates, C.; 21. * Bininda-Emonds, Gittleman, Purvis, (1999), "Building large trees by 152. 9 Miler, M.A; Kudela, R. M.; Mekebri, Crane, D.; S. al. (2010) et
+combining phylogenetic information: complete phylogeny of the extant Carnivora ‘Thompson, Ross (ed.). "Evidence for Novel Marine Harmful Algal Bloom: a a
+2. (Mammalia). Bio! Rev Camb Philos Soc. 74 (2): 143-175. Cyanotoxin (Microcystin) Transfer from Land Sea Otters’ PLOS ONE. 5 (9) to
+B nabedefahiik Otter" 22, -washingion State Periodic Status Review for the Sea 183, 4 Coliver, Victoria (23 January 2011). "Sea deaths 2010"¢2. San otter jump in
+(PDF). Washington Department of Fish and Wildlife (ink: WOFW seaotter:2). Francisco Chronicle. Retrieved 23 January 2011.
+fj original Archived from the (PDF) 10 July 2018. Retrieved 10 July 2018, on 14. 8 USGS (April 2012). "Number of dead California otters record high 2011". sea a in
+23.“ Liddell, Henry George; Scott, Robert (1980), A Greek-Engish Lexicon Marine Pollution Bulletin. 64 (8); 671-674, doi:10.1016/j marpoloul.2012.03,002.
+(Abridged ed.) United Kingdom: Oxford University Press. ISBN 978-0-19-910207-5. 155, Hatfield, Brian; Tinker, Tim (22 September 2014). Spring 2014 California Sea Otter
+:2 OCLC 17396377 2. Census Results (Report). Retrieved 6 December 2015.
+24. Nickerson, 19 p. 4156, 4 "Southern Sea Otter", USFWS, Ventura Fish and Wildlife Office. Archived from
+c? 25.9264 Siverstein, 34 the original 29 December 2016. Retrieved 28 December 2016. p. on
+otter (Enhydra 26. ® Campbell, Kristin Santana, Sharlene E. (3 October 2017). "Do differences 4157, 4 Tinker, M. T; Hatfield, B. 8, (29 September 2017), “California in sea M.;
+skull morphology and bite performance explain dietary specialization lutris nereis) results, Spring 2017", California otter (Enhydra lutris nereis) in sea census sea
+98: 3, (Repor)) doi:10,1093/imammal/gyx091 otters?" (PDF). Journal of Mammalogy. 1408. results, 2017 Data Series. U.S, Geological Survey Data census spring
+:2 S2CID 91055290 Oxford University Press. doi:10.3133/ds10673, ~via Series 1067. 9 p.
+A.; A. M.; M. J. G, 27. Wilson, Don €.; Bogan, Michael Brownell, Robert L.; Burdin, Maminoy, 158, 8 Gallo-Reynoso, P; Rateibun, B. (1997). "Status of Sea Otters (Enhydra Lutris)
+luris"@. K, (13 February 1991). "Geographic Variation Sea Otters, Enhydra Journal Mexico”. Marine Mammal Science. 13 (2): 332-340. in in
+— University of Nebraska Lincoln. 159, 4 Schramm, Y.; Heckel, G.; Saenz-Arroyo, A.; Lopez-Reyes, E.; Baez-Fiores, A.
+A; 28, 8 Timm-Davis, Lori L.; DeWitt, Thomas J.; Marshall, Christopher D. (9 December Gomez-Hemandez, G.; Lazode-la-Vega-Trinker, Lubinsky-Jinich, D.; de los
+2015). "Divergent Skull Morphology Supports Two Trophic Specializations Otters Angeles Milanés-Salinas, M. (2014). "New evidence for the of southem in existence sea
+2, Mammal Science. (Lutrinae)’. PLOS ONE. 10 (12:7. Bibcode:2015PLoSO..1043236T otters (Enhydra lutrs nereis) Baja California, Mexico". Marine 30 in
+Association, Williams, Terrie 29. * The Wildife Year. The Reader's Digest nc. (1991). ISBN 0-276-42012- 160, A (1989). "Swimming by adaptations for low energetic otters: cost sea
+A, 8 locomotion”. Joumal of Comparative Physiology 164 (6): 815-824,
+:2. 30.*#5¢4€ 9 MarineBio Conservation Society (n.d.). "Sea Otters, Enhyaira lutris” doi:10.1007/8F00616753 PMID 2724187 S2CID 192645212 2 2.
+MarineBio Conservation Society. Retrieved 20 October 2025. 161. 4 Wright, Traver; Shetfield-Moore, Melinda; Davis, Randall (2 December 2021)."Sea
+V. G.; A. part than —it 31. 4 Heptner, Sludskii, A. (2002). Mammals of the Soviet Union. Vol. Il, 1, demonstrate that there muscle also bring otters to just movement is more can
+and : Carnivores (Mustelidae Procyonidae) (2. Washington, D.C. Smithsonian the heat", The Conversation. Retrieved 8 December 2021.
+824 Institution Libraries and National Science Foundation. 1342. ISBN 978-90-04- 162. VanBlaricom 18-29 p. pp.
+0876-4. 163, 4 Willams, Perry J.; Hooten, Mevin B.; Esslinger, George G.; al. (29 November et
+44D 32, Nickerson, 21 p. 2018). "The of predator following deglaciation" 2. Biodiversity Research. rise an apex
+34,440 64€ Yeates, Laura (2007). "Diving and foraging of the smallest 164, 4 "Elkhom Slough Mammals: Sea Otter" 2 February 2011. Archived from the energetics 2.
+@. mammal, the (Enhyata ltrs)" Journal of Experimental Biology. original 2 February 2011, Retrieved 8 April 2023. otter marine sea on
+2. . Gunderson, 210 (Pt-11): 1960-1970. Bibcode:2007JExpB.210.1960Y doi:10.1242//eb.02767 165, A Allegra, Joe; Rath, Rhiannon; Aren. “Enhydra lutis (sea otter)"
+cz. 2. PMID 17515421 S2CID 21944946 Animal Diversity Web. Retrieved 8 April 2023.
+N. L.; King, C. 35." Kenyon, 37-39 4166, 4 Laroche, S. L.; Fergusson, E.A.; Eckert, G. L; Pearson, H. (2023). pp.
+36. Love, 21, 28 Macronutrient of diet with recolonization, life history, composition oiter respect to pp. sea
+Ecology and 37.4 and southern Southeast Alaska" Evolution. 13 (5) e10042. 2. Love, 27 season in p.
+A.; Y.; Chiba, Ando, H.; 169. * Love, 76 p. 42. 4 Hayashi, S.; Houssaye, Nakajima, K.; T.; Sawamura,
+170. * Kenyon, 119 p. Inuzuka, N.; Kaneko, N.; Osaki, T. (2013). "Bone Inner Structure Suggests Increasing
+by 171, “Estes, James A.; Riedman, Marianne L. (1988). "Predation seabirds ‘Aquatic Adaptations Desmostylia (Mammalia, Afrotheria)"c2. PLOS ONE. 8 (4) on sea in
+p. 172. ® VanBBaricom, 29 43, 4 Yuan, Yuan; Zhang, Yaolei; Zhang, Peijun; Liu, Chang; Wang, Jiahao; Gao, Halyy;
+p. Hoelzel, A. Rus; Seim, Inge; Lv, Meiqi; Lin, Mingl; Dong, Lijun; Gao, Haoyang; Yang, 173, 8 VanBlaricom, 30
+Wenzhi Zixin; Caruso, Francesco; Lin, (14 September 2021). "Comparative 174, A Nickerson, 57 genomics p.
+insights M. G.; A. provides the adaptations of mammals" Proceedings of the into aquatic 2. 175, 4 Tinker, T; Bentall, Estes, J. (15 January 2008), "Food limitation leads to
+National Academy of Sciences. 118 (37) e2106080118. behavioral diversification and dietary specialization otters" Proc. Natl, Acad. in sea
+2012). "Morphological otters 44. Liwanag, Heather (December and thermal of properties 176, 4 Chrobak, Ula (15 September 2021). "How fight climate change" 2. sea can
+mammalian insulation: the evolutionary blubber pinnipeds" transition to 2. in BEC. Retrieved 11 December 2021.
+Biological Journal Climate ofthe Linnean Society. 107 (8): 774-787. doi:10.1111/}.1095- 177. 9 Sezen, Uzay (29 May 2017), “Otters Change KQEDIQUEST vs. ~
+3. ex. 6 8312.2012.01992.x (2014)" Nature Documentaries. Retrieved June 2017.
+ance een see cen nmmnmm ee EE INES EINE Bs NOON EE ‘Sci. 105 (2): 560-565. Bibcode:2008PNAS..105..560T 2.
+at Mosiman "4 45. Liwanag, Heather Elizabeth (2008). Fur Blubber: A comparative versus 178, « Fisheries and Oceans Canada. "Sea Otter":2. Aquatic Species Risk. Fisheries
+at 2 look marine insulation and metabolic and behavioral consequences its mammal land Oceans Canada. Archived trom the originale? 23 November 2007. Retrieved on
+(PhD aissertation), University of California, Santa Cruz. ISBN 978-0-549-93125-6 29 November 2007.
+Watson, by 46.4 Koopman, Heather N. (7 March 2018). "Function and evolution of specialized 180, & Foster, Erin; Jane (2021). "Physical disturbance recovering otter sea
+endogenous lipids toothed whales". The Journal of Experimental Biology. 221 (Pt in populations eelgrass diversity”. Science. 374 (6565): 339-30, genetic increases
+(2. 2, ISSN 1477-2145 PMID 29514890 S2CID 378904012. 181. 4 Whitcomb, Isobel (2021). "Sea Otters Are Reshaping the Genetics of Eelgrass
+47. Kenyon, 62 p. Meadows’ Hakai Magazine. 2.
+48.» Love, 22 p. 182, 9 Sulivan, Will (2024). "Hungry Sea Otters Help Prevent Erosion California's on
+49. © VanBlaricom, 64 p. Coast” 2. Smithsonian Magazine.
+nereis)"ct. Archived 50. 4 "USFWS Species Profile: Southern (Enhyara lutis otter sea 183, 4 Hughes, Brent B.; Beheshi, Kathryn M. (2024). "Top-predator abates recovery
+fom the originale? 8 December 2008, Retrieved 23 February 2008 on geomorphic decline of coastal ecosystem". Nature. 626 (7997): 111-118. a
+P. Otter Asked 185. 8 Nickerson, "Sea Frequently Questions". Defenders of Wildife. 56.4 Love, 74 p.
+on 2011. August 2011. 65, Archived from the original? 9 July Retrieved 21 57.4 Kenyon, 47 . p.
+186. 4 McLeish 58. 4 Winer, J. N.;Liong, S. M.; Verstraete, F. JM, (2013). "The Dental Pathology of
+of 187. 8 Kobilinsky, Dana (1. December 2028). "Wolves seals Southern Sea Otters (Enhydra luis nereis). Journal Comparative Pathology. 149 otters, prey on sea in
+Sea fa p. (PDF). 188, 4 "Parasite Shed Cat Feces Kills Otters" California Sea Grant. 59.4 VanBlaricom, 17 in
+original {2 November 2006, Archived from the (PDF) 4 August 2025. 60.4 on sea Otter" (PDF). Brtsh Columbia Ministry of Environment, Lands and
+Otters Flu, &4 original 189, 4 Rogall, Gail Moede (8 April 2014). "Sea Can Get the Too". US. Parks. October 1993, Archived from the (POF) 16 February 2008. on
+Department of the interior, U.S. Geological Survey. Retrieved 11 April 2014. Retrieved 13 December 2007
+R. 2001). "osmoregulation 2. R. ‘191. Gibson, James (1968). Feeding the Russian Fur Trade. University of Wisconsin 62. 4 Ortiz, M. (June mammals’ The Journal of in marine
+doi:10.1242/jeb.204,11.1831g. PMID 114410262 192, 9 Brass, Emil (1911). Aus dem Reiche der Pelze, Bad Ill. Berlin: Neuen Pelzwaren-
+Otter’. Archived 194, 9 Gedney, Larry (6 May 1983). "The Aleut and the from the 65.4 Kenyon, 76 p.
+Reitherman, original 10 June 2007. Retrieved 23 February 2008, on 65,8406 Bruce (1998). Waddllers and Paddlers: A Sea Otter Story—
+195, 4 Middleton, 8 Warm Hearts & Cold Water (Documentary). PBS. p.
+Arctic Waters (2nd ed). Seattle: Pactic Search Press. ISBN 978-0-931307-14-1. 197. 8 Farts, Glenn (2007). "Mains! Haul, Journal of Pacific Maritime History, Vol 43". a
+Mains' Haul. octc 137603432. San Diego, California: Maritime Museum of San Diego: 21. ISSN 1540-
+"Sea 198, * Mathes, Michael (2008). The Russian-Mexican Frontier. Jenner, California: Fort 69. 4 BEC. Retrieved 31 December 2007. otter"r2,
+"Sea AquaFact Aquarium Interpretive Association, 64€ Ross Inc. 226. ISBN 978-1-60643-951-7. p. 79.840 file”. Vancouver Marine Science Centre. otter
+§ 199. 9 Middleton, Retrieved December 2007. p.
+p. p. 201. 4 VanBlaricom, 50 72. VanBlaricom, 45
+© A.; forests, 73,4460 VanBlaricom, 202. 4 Estes, James Burdin, Alexander (2015). "Sea kelp and the 42-45 otters, pp.
+of National Academy of Stelle’s cow" 2. Proceedings the Sciences extinction 74.4 Love, 50 sea of p.
+"Sea Otter p. 203, ® VanBlaricom, 58 77.4 Sowa, Stephanie, Enrichment atthe Shedd Aquarium’ ct
+204. VanBlaricom, 65 p. 78. Marine Mammal Team Diary. "Sea otters’ diet Part 3". Osaka Aquarium -
+the on 205, 4 Weise, Elizabeth (31 January 2007). "Damage of Exxon Valdez endures" USA ct. Kalyukan, Archived from originalez 26 April 2025,
+T. Today, Associated Press. Archived from the originale? 24 April 2011. on 79. 4 Matkovich, A. (1997), “The otter captivity". Priroda (2): 81-87. sea in
+Davis, Randall Wiliam; M. and 208, 4 Nickerson, 47-48 pp. 80.*# Pagano, Anthony (2021). Ethology Behavioral
+207. Conrad, Kristin (9 April 2013). "In Search ofthe Califomia Sea Otter". BBC.com. Ecology of Sea Otters and Polar Bears, Springer. 99. @ This article incorporates p.
+*4 208. Environmental Network News staff (6 July 2000). "Aleutian Sea Otter population text from this which the public domain. source, is in
+falls 70% eight years" &. CNN. Archived from the original 29 October 2009. in on 81. 4 Kelsey, Elin. “The Quest for Archaeology of Sea Otter Tool Use" Haka 2. an
+Magazine. #5 209. "Sea Otters: Species Description” 7. Alaska SeaLife Center. Retrieved
+15 January 2007. 82. 4 Tinker, M. Tim; Estes, James (2009). "Learning to be different: Acquired skills, social
+240. 4 Rubenstein, Steve (2 October 2017). "Sea otter finds 396 dectine”. San learning, frequency dependence, and environmental variation census can cause
+Francisco Chronicle. C1. behaviourally mediated foraging specializations’. Evolutionary Ecology Research, 11 p.
+C.; M. A.; A.; et 2003). e. © Kreuder, *4 211. Miller, Jessup, D. al. (July "Patterns of mortality (6): 841-869. Bibcode:2009EvEcR..11..841T
+& p. sea otters of southem (Enhydra lutris nereis) rom 1998-2001" Journal Wildlife 2. in 83. Estes Bodkin, 855e2
+Nowak, sea NOAA 212. A "Parasite king otters". National Oceanic and cats in magazine. 86.4464 Roland M, (1991). Walker's Mammals ofthe World. Vl I
+‘Atmospheric Administration. 21 January 2003. Archived from the original? 25 on (Fith ed). Batimore and London: The Johns Hopkins University Press. 1141 pp.
+. 213, 8 "National Marine Sanctuaries Regulations” NOAA. Retrieved 19 March 2008. 87. Kenyon, p.aa
+2 214, 4"Sea otter". Monterey Bay Aquarium. Retrieved October 2023. 88. Love, 56-61 pp.
+p. 215. 8 "Olympic Coast National Marine Sanctuary History" NOAA. Archived from the Love, 2. 89.48 58
+originale? 20 August 2008. Retrieved 19 March 2008. on 60.» iverstein, 31-22 pp.
+*4 220. Falk-Petersen, Jannike; Renaud, Paul; Anisimova, Natalia (12 January 2011). 95. Kenyon, 89 p.
+and “Establishment effects ofthe alien red king crab ecosystem invasive 66. Siverseinp.
+(Paralithodes camtschaticus) the Barents Sea-a review’. ICES Journal of Marine in
+Science. 68 (2). International Council fr the Exploration of the Sea (OUP): 479-488. ca ALove p33
+99. VanBlaricom, 72 p.
+221. ® Kuta, Sarah (2024), "Hungry Sea Otters Are Taking Bite Out of California's, a
+100. *'VanBlaricom, 40-41 pp. Invasive Crab Problem, New Study Finds" @. Smithsonian Magazine.
+201. *VanBlaricom, 42 p. 222. 4 Gregr, Edward J (2020). "Cascading social-ecological and benefits triggered costs
+102. * Silverstein, 17 p. by keystone predator". Science. 368 (6496): 1243-1247. a recovering
+104. * Silverstein, 19 p. 223. Martone, R.G. (2020). "Characterizing tourism benefits associated with top-predator
+p. 4108. ® VanBlaricom, 14 conservation coastal British Columbia’. Aquatic Conservation: Marine and in
+Adele *#2 4 ogden, 1784-1848 108. (1975) [1941]. The California trade, otter sea 224. 4 Loomis, John (2006). "Estimating Recreation and Existence Values of Sea Otter
+(California Library Reprint Series ed.). Berkeley, California: University of Califomia Expansion California Using Benefit Transfer”. Coastal Management. 24 (4): 387— in
+Paul; Orchard, Grdcke, 109. 4 VanBlaricom, 54 p. 225, 4 Szpak, Trevor McKechnie, lain; Darren R. (2012). J.;
+present 110.*#€ Korey, S. |; Korneva, S. M. (2004). Population dynamics and of status Historical Ecology of Late Holocene Sea Otters (Enhydra lutris) from Northem British
+a 2. Kamchatka (Enhydra lutis) of the Kuril Islands and southern (PDF). otters Columbia: Isotopic and Zooarchaeological Perspectives’ Journal of Archaeological sea
+2004 2 Marine Mammals of the Holarctc, Proceedings of conference. 273-278 pp. Science. 39 (6): 1553-1571. Bibcode:20123ArSc..39.15535
+originalf ‘Archived from the (PDF) 21 May 2008 on doi10.10164 jas.2011.12.006 2.
+94 111. "Sea Otters Southwest Alaska Sea Otter Recovery Team (SWAKSORT)'c2. 226. Okerlund, Lana (4 October 2007). "Too Many Sea Otters?” Retrieved 15 January 2. —
+~ US. Fish and Wildife Service Alaska. Archived from the original? 6 February 2007 on
+Barrett-Lennard, °# 112. Lance (20 October 2004). “British Columbia: Sea Otter 228. ® Chamberlain, 8. (1888). Aino Folk Tales London: The Folk-Lore 2. society, private
+Vancouver Aquarium, Research Expedition" 2. Archived from the originale? 17 on printing.
+‘September 2006. Retrieved 11 December 2007. 229. 4 Golder, F.A. (1905). "Aleutian Stories”. The Journal of American Folklore. 18 (70):
+2 8 January 2011. L.) ‘Associated Press, Archived from the original Retrieved on Guonorns 230, 8 Barabash-Nikiforoy, N. | (1947). Kanax (Enhyata lurs ero n sonpocss
+biology and 25 December 2007. xosaiicrea [The otter (Engydra lutris L): management] (in Russian). sea
+114.88 € Popov, Igor; lurmanoy, Anton (October 2024). "Recent of the otter surveys sea Moscow: Natural Preservation Ministry of the RSFSR.
+Islands"ct. Pacific (Enhysralutris) population Kuri Conservation Biology. 30 (8) on 231, A Hatch, David R. (2002). iy, Donald B.; Byram, R. Scott (eds.). Elakha: Sea Otters,
+¢2. 24026. Bibcode:2024PacSB...3024026P dol:10.1071/C24026 Native People, and European Colonization the North Pacific. Changing in
+V. in Annual Coquille *#° Ryazanov, 115. Sergey D.; Fomin, Sergey (March 2023) "Mercury the content Landscapes: Proceedings ofthe Sth and 6th Cultural Preservation
+fur Oregon: of (Enhydra lutris) from the Commander Islands" c2. Marine Pollution otters sea Conferences. North Bend, Coquille Indian Tribe. 79-88 pp.
+7. doi:10.1016/}.marpolbul.2023.114638 PMID 36706549 2. 233, 4 "Akutagawa Prize 2019: Introduction the nominated and works" to 2. winning
+Ark: 116. * “Observations” iNaturalist. Retrieved 14 November 2023. :2. 234, A Wallace, David Rains (2007). Neptune's From Ichthyosaurs to Orcas. University
+July 2024). otters 1117. 4 Yamamoto, Tomoyuki (27 “Sea bouncing back wild, but are in of California Press, 214 p.
+a p. posing threat’ 2, Asahi Shimbun. tourism 235. 8 VanBlaricom 69
+2025). LAR CIPVY)G *Seattle Sea Otter a Mom’ “ASR IEP 118, 4 Takenaka, Tatsuya (80 April 3 > 7 [AN 236, a Aquarium’s Youngest Lootas Becomes Business Wire, 2,
+otter infected with bird flu, the first Japan Hamanako), Hokkaido Shimbun (in is in in 19 April 2000. Archived from the original: 19 June 2009, Retrieved 9 March 2007 on
+Japanese). Retrieved 28 May 2025. 237. 4 cynthiaholmes (19 March 2007). “Otters holding hands". Archived from the
+— 119.44 VanBlaricom, 62 p. original 14 November 2021. Retrieved 24 March 2008 via YouTube. on
+120. “ Popov, Igor; Scopin, Alexey (July 2021). "The historical and of contemporary status 238. 8 "Vancouver hit YouTube" CBC News. 3 April 2007. Retrieved otters 2%. sea a on
+ex. the Enhydra lutris population Urup Island, southem Kuri Islands" Oryx. otter sea on 15 January 2007.
+a hit 120. * Popov, Igor; Scopin, Alexey (July 2021). "The historical and of contemporary status —_23, a "Vancouver otters YouTube"c?. CBC News. 3 April 2007. Retrieved sea on
+58 (4): 529-534. doi:10.1017/S0030605320000812 2 239, 4 "Vancouver Aquariums oldest Nyac, passes" @. Vancouver Aquarium. 23 otter, sea
+Moupoda 121. 4 "Coxpansien Kanalos" 2 [We Save Amazing Kalans}. ynneuTensHbix u ‘September 2008. Archived from the original 20 November 2008. Retrieved 2 on
+2 modu [Nature and People Foundation] (in Russian). Archived from the original on 28 October 2008.
+44 May 2025, 240. 4 "Beloved Milo”. Vancouver Aquarium. 12 January 2012. Retrieved otter sea
+88 122. Trends the Abundance and Distribution of Sea Otters (Enhydra lutris) in in 26 November 2014.
+G8 British Columbia Updated with 2013 Survey Results” (PDF). Depariment of 241. 4 Masters, Tim (18 June 2021). "This adorable livestream took Twitch’s hot otter over
+Fisheries and Oceans, Canada. July 2015. Retrieved 10 July 2018 tub Now, the people behind nven Global. meta, meet itz,
+123. *"Sea Otter Recovery Vancouver Island's West Coast’7, Bamfield Marine on 242. 4 "Our staff, animal and lovely volunteers will be working around vet team care some
+Sciences Centre Public Education Programme. Retrieved 22 August 2011. the clock for months of this pup" &. Instagram. to ensure proper care new
+124, A "Sea Otter (Enhydra ltrs)". Species at Risk Public Registry. Goverment of 248, A "Teeny orphaned S:week-old baby nursed heaith by tiny otter to sea pup
+Canada. 25 September 2025. Retrieved 21 October 2026. rescuers". Good Moming America.
+Aquarium 125. * COSEWIC (2007). COSEWIC Assessment and Update Status Reporton the Sea 44, a Nassar, Hana Mae (20 August 2024). "Vancouver welcomes orphaned
+et Otter Enhydra Lutris Canada (Report). Ottawa: Committee the Status of in on Tofino and Luna’. CyNews Vancouver otter sea pups
+Endangered Wildlife Canada, Retrieved 21 October 2026. in 245, 4 "Extraordinary birthday shell-ebrations for Rosa the otter". sea
+www. 126. 4 Nickerson, 46 p. montereybayaquarium.org. Archived from the original 25 May 2022. 2 on
+2. 127.84 Schrope, M. (February 2007). "Food chains: killer the kelp" Nature, 445 in Retrieved 6 June 2024.
+dol:10.1038/445703a8. (7129): 703-705. Bibcode:2007Natur.445..703S ct 246. 4 raised... $625,375 FOR MONTEREY BAY, bringing the total community to “our over
+PMID 173017652, S2CID 442136212 (ONE MILLION DOLLARS..." X (formerly Twitter). Retrieved 26 September 2024.
+128. * Jameson, Ronald James (1975). An Evaluation of Atempts Reestablish the Sea to 47» patachey, Brenda E.; Bodkin, James L. (2015). "Challenges Sea Otter to
+i 2 Oregon Otter (POF) (MSc). Oregon State University, hd:1957/6719 in Recovery and Conservation’. Sea Otter Conservation. 63-96. doi:10.1016/8978- pp.
+30 December 2008, 248, 4 "Sea Oiter Awareness Week’ Defenders of Wildife. Archived «from the original 2,
+&B) 129. 4 Quinn, Beth (17 October 2004). "Sea otters scientists’ hopes" (PDF). stay raises 26 September 2025. on
+original The Oregonian. Archived trom the (POF) 30 December 2010, Retieved on 249, n “sea Otter Awareness Week’ 2. Monterey Bay Aquarium. Archived from the
+30 December 2008. original 18 September 2025. on
+2. 130. 4 "Rare confirmed Depoe Bay" The Oregonian. 20 February 2009. otter at sea
+Retrieved 27 February 2009.
+Cited works
+Karl (1969). The the Pacific Washington, of Fisheries and Wildlife. Kenyon, W. Sea Otter Eastern Ocean. D.C.: U.S. Bureau Sport ISBN 978-0-486-21346-0. in +
+John (1992). Golden, Colorado: Fulcrum Publishing. Love, A. Sea Otters. ISBN 978-1-55591-123-2. OCLC 25747993. +
+McLeish, Todd (2018). of the The of the Animal That Evaded the Pacific Seattle: Sasquatch Books. Return Sea Otter: Story Extinction Coast. ISBN 978-1-63217- on *
+"Maritime Activities Middleton, John (October-November 2001). And Their Today”. California Academy of Member Newsletter. Perception Science's San Francisco: ‘+
+California Academy of Science. ISSN 1531-2224
+f. Nickerson, (1989). Natural and Guide Chronicle Books. Roy Sea Otters, History San Francisco: ISBN 978-0-87701-567-3. OCLC 18414247 2. a *
+William Bernd; Thewissen, eds. (2002). Encyclopedia of Mammals Academic Perrin, F; Warsig, J. G. M., Marine . San Diego: Press. +
+Bodkin, Thewissen (2002), Estes, James A.; James L. "Otters". In Perrin, Warsig & 842-858. pp. *
+S. Yochem, Pamela and Thewissen (2002), K.; Stewart, Brent "Hair Fur". In Perrin, Warsig & 548. p. +
+« &j. Otter Silverstein, Alvin; Silverstein, Virginia; Silverstein, Robert (1995). The Brookfield, The Millbrook Sea Connecticut: Press. ISBN 978-1-56294-418-6.
+VanBlaricom, Glenn (2001). Stillwater, R. Sea Otters 2. Minnesota: Voyageur Press. ISBN 978-0-89658-562-1. OCLC 463937412. *
+External links
+cS) camel laars, Enhydra lutris (Linnaeus, 1758) the World of 7 at Register Marine Species «
+The of the (1751) (PDF), transcribed field from 18th-century De Bestiis Marinis, Beasts Sea 68-82, German notes or, pp. * (Sea otter).
+zoologist Wilhelm Steller Georg 5
+ee ® of Survival: The Southern Archived April the Wayback Machine (Adobe Flash), Precipice Sea Otter & 22 2008 48- at a + Sees
+the southern history by the United Geological minute otter's States Survey program on sea
+Etopirika Kikin, non-profit frequent updates the wild living along Hokkaido. NPO Japanese otters Cape Kiritappu posting on sea in *
+Carnivora species Extant [show] vere
+identifiers Taxon
+ue c2 2 Observation.org: 79951 OBIS: 242598 Open Tree of Life: 949676 Paleobiology Database: 46078:2 SeaLifeBase: 6919512 Speciest: 72752 TSA: 6496 2 - - - - » - c2-
+7 Authority control databases [show]
+Portals: [J@jMammals J gt Marine life Animals Biology
+| | | | Red endangered listed Appendix of of North Endangered biota of Categories: IUCN List Fauna CITES I Carnivorans Asia Carnivorans America Asia species on
+| | | | Endangered fauna of California Endangered fauna of North Endangered fauna of the United Pleistocene first America States Extant appearances
+Fur | | | | | | of Califomia of the Aleutian Islands of the Pacific trade of the Kuril Islands Mammals described Fauna Fauna Fauna Ocean Fauna 1758 in
+| | | | | | | Mammals of Canada Mammals of Mammals of Mammals of Mammals of the United mammals Russia Mexico Japan States Marine Otters
+| | | | Pleistocene animals of North Pleistocene mammals of mammals of North America Quaternary Asia Quaternary America caivorans
+North American | | | | | Animal named by Carl Tool-using mammals coastal fauna of the Holarctic realm predators taxa Linnaeus Western Fauna Apex
+| | of the Northern Pacific that threatened by human Biota Temperate Species consumption are or were
+This last edited 20 December 2025, at 01:06 (UTC). page was on

@@ -1,0 +1,953 @@
+<!-- MODALITY: IMAGE
+METADATA: {
+  "path": "data\\image\\005_Goblin-shark.png",
+  "file_size": 2251363,
+  "image_width": 1280,
+  "image_height": 5714,
+  "ocr_engine": "tesseract",
+  "ocr_lang": "eng",
+  "tesseract_cmd": "C:\\Program Files\\Tesseract-OCR\\tesseract.exe",
+  "config": "--oem 3 --psm 6",
+  "min_line_conf": 30.0,
+  "line_count": 246,
+  "overall_bbox": [
+    24,
+    14,
+    1263,
+    5647
+  ],
+  "regions": [
+    {
+      "bbox": [
+        53,
+        14,
+        1263,
+        35
+      ],
+      "avg_conf": 57.6
+    },
+    {
+      "bbox": [
+        29,
+        97,
+        1244,
+        183
+      ],
+      "avg_conf": 73.92307692307692
+    },
+    {
+      "bbox": [
+        37,
+        141,
+        752,
+        158
+      ],
+      "avg_conf": 91.3076923076923
+    },
+    {
+      "bbox": [
+        28,
+        185,
+        1253,
+        222
+      ],
+      "avg_conf": 50.8
+    },
+    {
+      "bbox": [
+        28,
+        228,
+        419,
+        245
+      ],
+      "avg_conf": 92.57142857142857
+    },
+    {
+      "bbox": [
+        27,
+        267,
+        976,
+        284
+      ],
+      "avg_conf": 85.0909090909091
+    },
+    {
+      "bbox": [
+        28,
+        284,
+        1166,
+        306
+      ],
+      "avg_conf": 84.2
+    },
+    {
+      "bbox": [
+        28,
+        294,
+        1223,
+        325
+      ],
+      "avg_conf": 92.5
+    },
+    {
+      "bbox": [
+        202,
+        314,
+        945,
+        328
+      ],
+      "avg_conf": 90.25
+    },
+    {
+      "bbox": [
+        28,
+        319,
+        1233,
+        361
+      ],
+      "avg_conf": 86.84615384615384
+    },
+    {
+      "bbox": [
+        28,
+        356,
+        954,
+        376
+      ],
+      "avg_conf": 89.42105263157895
+    },
+    {
+      "bbox": [
+        28,
+        382,
+        961,
+        396
+      ],
+      "avg_conf": 91.73684210526316
+    },
+    {
+      "bbox": [
+        28,
+        375,
+        1250,
+        425
+      ],
+      "avg_conf": 92.75
+    },
+    {
+      "bbox": [
+        28,
+        423,
+        1248,
+        443
+      ],
+      "avg_conf": 85.77777777777777
+    },
+    {
+      "bbox": [
+        28,
+        437,
+        1237,
+        466
+      ],
+      "avg_conf": 72.65
+    },
+    {
+      "bbox": [
+        28,
+        458,
+        1201,
+        478
+      ],
+      "avg_conf": 81.33333333333333
+    },
+    {
+      "bbox": [
+        201,
+        478,
+        1094,
+        492
+      ],
+      "avg_conf": 89.95454545454545
+    },
+    {
+      "bbox": [
+        27,
+        496,
+        1028,
+        515
+      ],
+      "avg_conf": 93.8695652173913
+    },
+    {
+      "bbox": [
+        27,
+        520,
+        1077,
+        537
+      ],
+      "avg_conf": 92.28
+    },
+    {
+      "bbox": [
+        28,
+        535,
+        1190,
+        572
+      ],
+      "avg_conf": 78.13636363636364
+    },
+    {
+      "bbox": [
+        28,
+        568,
+        1232,
+        590
+      ],
+      "avg_conf": 89.5909090909091
+    },
+    {
+      "bbox": [
+        28,
+        589,
+        1239,
+        611
+      ],
+      "avg_conf": 69.8
+    },
+    {
+      "bbox": [
+        28,
+        610,
+        1234,
+        637
+      ],
+      "avg_conf": 63.8
+    },
+    {
+      "bbox": [
+        28,
+        629,
+        1199,
+        649
+      ],
+      "avg_conf": 55.833333333333336
+    },
+    {
+      "bbox": [
+        28,
+        645,
+        1206,
+        668
+      ],
+      "avg_conf": 62.5
+    },
+    {
+      "bbox": [
+        210,
+        673,
+        1200,
+        688
+      ],
+      "avg_conf": 76.0
+    },
+    {
+      "bbox": [
+        28,
+        691,
+        1151,
+        724
+      ],
+      "avg_conf": 74.5
+    },
+    {
+      "bbox": [
+        28,
+        718,
+        1155,
+        760
+      ],
+      "avg_conf": 43.142857142857146
+    },
+    {
+      "bbox": [
+        999,
+        741,
+        1194,
+        772
+      ],
+      "avg_conf": 87.0
+    },
+    {
+      "bbox": [
+        28,
+        765,
+        1193,
+        788
+      ],
+      "avg_conf": 48.333333333333336
+    },
+    {
+      "bbox": [
+        27,
+        788,
+        406,
+        801
+      ],
+      "avg_conf": 85.83333333333333
+    },
+    {
+      "bbox": [
+        27,
+        794,
+        1146,
+        831
+      ],
+      "avg_conf": 93.33333333333333
+    },
+    {
+      "bbox": [
+        27,
+        825,
+        1178,
+        848
+      ],
+      "avg_conf": 86.83333333333333
+    },
+    {
+      "bbox": [
+        28,
+        845,
+        1187,
+        878
+      ],
+      "avg_conf": 67.28571428571429
+    },
+    {
+      "bbox": [
+        28,
+        877,
+        1169,
+        903
+      ],
+      "avg_conf": 88.66666666666667
+    },
+    {
+      "bbox": [
+        28,
+        899,
+        1170,
+        930
+      ],
+      "avg_conf": 82.66666666666667
+    },
+    {
+      "bbox": [
+        24,
+        923,
+        1173,
+        954
+      ],
+      "avg_conf": 55.75
+    },
+    {
+      "bbox": [
+        24,
+        936,
+        1191,
+        967
+      ],
+      "avg_conf": 88.35714285714286
+    },
+    {
+      "bbox": [
+        24,
+        956,
+        1191,
+        986
+      ],
+      "avg_conf": 72.2
+    },
+    {
+      "bbox": [
+        24,
+        979,
+        1172,
+        1012
+      ],
+      "avg_conf": 85.57894736842105
+    },
+    {
+      "bbox": [
+        27,
+        1007,
+        1101,
+        1039
+      ],
+      "avg_conf": 87.47058823529412
+    },
+    {
+      "bbox": [
+        28,
+        1036,
+        1203,
+        1058
+      ],
+      "avg_conf": 72.2
+    },
+    {
+      "bbox": [
+        481,
+        1058,
+        1108,
+        1072
+      ],
+      "avg_conf": 77.73333333333333
+    },
+    {
+      "bbox": [
+        208,
+        1052,
+        1214,
+        1134
+      ],
+      "avg_conf": 79.77777777777777
+    },
+    {
+      "bbox": [
+        92,
+        1096,
+        1225,
+        1115
+      ],
+      "avg_conf": 63.27272727272727
+    },
+    {
+      "bbox": [
+        481,
+        1125,
+        1198,
+        1146
+      ],
+      "avg_conf": 89.83333333333333
+    },
+    {
+      "bbox": [
+        209,
+        1145,
+        1158,
+        1168
+      ],
+      "avg_conf": 68.66666666666667
+    },
+    {
+      "bbox": [
+        208,
+        1163,
+        602,
+        1175
+      ],
+      "avg_conf": 75.5
+    },
+    {
+      "bbox": [
+        208,
+        1171,
+        1232,
+        1197
+      ],
+      "avg_conf": 84.4
+    },
+    {
+      "bbox": [
+        481,
+        1206,
+        1245,
+        1220
+      ],
+      "avg_conf": 78.42857142857143
+    },
+    {
+      "bbox": [
+        201,
+        1226,
+        1047,
+        1243
+      ],
+      "avg_conf": 92.66666666666667
+    },
+    {
+      "bbox": [
+        201,
+        1251,
+        1234,
+        1265
+      ],
+      "avg_conf": 86.05263157894737
+    },
+    {
+      "bbox": [
+        202,
+        1270,
+        1047,
+        1287
+      ],
+      "avg_conf": 87.375
+    },
+    {
+      "bbox": [
+        202,
+        1296,
+        1232,
+        1311
+      ],
+      "avg_conf": 88.04347826086956
+    },
+    {
+      "bbox": [
+        201,
+        1318,
+        1047,
+        1332
+      ],
+      "avg_conf": 93.83333333333333
+    },
+    {
+      "bbox": [
+        202,
+        1338,
+        717,
+        1355
+      ],
+      "avg_conf": 88.8
+    },
+    {
+      "bbox": [
+        202,
+        1386,
+        411,
+        1400
+      ],
+      "avg_conf": 72.66666666666667
+    },
+    {
+      "bbox": [
+        202,
+        1386,
+        411,
+        1405
+      ],
+      "avg_conf": 96.0
+    },
+    {
+      "bbox": [
+        202,
+        1414,
+        1209,
+        1439
+      ],
+      "avg_conf": 88.16666666666667
+    },
+    {
+      "bbox": [
+        202,
+        1440,
+        1254,
+        1457
+      ],
+      "avg_conf": 89.28571428571429
+    },
+    {
+      "bbox": [
+        201,
+        1466,
+        1243,
+        1480
+      ],
+      "avg_conf": 91.81481481481481
+    },
+    {
+      "bbox": [
+        202,
+        1485,
+        1238,
+        1502
+      ],
+      "avg_conf": 86.95652173913044
+    },
+    {
+      "bbox": [
+        202,
+        1507,
+        1237,
+        1524
+      ],
+      "avg_conf": 90.86206896551724
+    },
+    {
+      "bbox": [
+        202,
+        1526,
+        395,
+        1551
+      ],
+      "avg_conf": 75.6
+    },
+    {
+      "bbox": [
+        202,
+        1578,
+        299,
+        1597
+      ],
+      "avg_conf": 96.0
+    },
+    {
+      "bbox": [
+        481,
+        1613,
+        1239,
+        1627
+      ],
+      "avg_conf": 92.05
+    },
+    {
+      "bbox": [
+        481,
+        1632,
+        1252,
+        1649
+      ],
+      "avg_conf": 89.6
+    },
+    {
+      "bbox": [
+        327,
+        1658,
+        1241,
+        1676
+      ],
+      "avg_conf": 84.625
+    },
+    {
+      "bbox": [
+        262,
+        1675,
+        1228,
+        1695
+      ],
+      "avg_conf": 86.15384615384616
+    },
+    {
+      "bbox": [
+        221,
+        1695,
+        1242,
+        1718
+      ],
+      "avg_conf": 89.61904761904762
+    },
+    {
+      "bbox": [
+        337,
+        1718,
+        1245,
+        1746
+      ],
+      "avg_conf": 89.73913043478261
+    },
+    {
+      "bbox": [
+        481,
+        1747,
+        1252,
+        1761
+      ],
+      "avg_conf": 94.43478260869566
+    },
+    {
+      "bbox": [
+        481,
+        1770,
+        1208,
+        1784
+      ],
+      "avg_conf": 91.20833333333333
+    },
+    {
+      "bbox": [
+        208,
+        1789,
+        1036,
+        1806
+      ],
+      "avg_conf": 85.57142857142857
+    },
+    {
+      "bbox": [
+        208,
+        1809,
+        350,
+        1821
+      ],
+      "avg_conf": 78.33333333333333
+    },
+    {
+      "bbox": [
+        481,
+        1822,
+        1241,
+        1836
+      ],
+      "avg_conf": 93.125
+    },
+    {
+      "bbox": [
+        481,
+        1844,
+        1246,
+        1858
+      ],
+      "avg_conf": 92.3913043478261
+    },
+    {
+      "bbox": [
+        201,
+        1866,
+        1249,
+        1880
+      ],
+      "avg_conf": 95.03448275862068
+    },
+    {
+      "bbox": [
+        202,
+        1886,
+        1216,
+        1903
+      ],
+      "avg_conf": 91.5925925925926
+    },
+    {
+      "bbox": [
+        202,
+        1911,
+        1254,
+        1925
+      ],
+      "avg_conf": 94.0
+    }
+  ],
+  "slicing": {
+    "enabled": true,
+    "slice_height": 1400,
+    "slice_overlap": 120,
+    "num_slices": 5
+  },
+  "note": "OCR text extracted from screenshot; regions include bbox + confidence.",
+  "skipped_ocr": false,
+  "cache_path": ".ocr_cache\\005_Goblin-shark.1aae12bee816bd1b.ocr.json"
+}
+-->
+
+Celebrating 25 celebrate of humanity best. Join years 25 at its years us
+ten *a Goblin shark pewe
+extinct conte of the family Mitsukurinidae, lineage million old. This pink-skinned animal has 125 extant representative a some years a
+distinctive profile with elongated, flat and highly protrusible nail-like teeth. Ittypically snout, prominent containing an jaws
+Pet EES Contribute reaches length of (10 feet) when fully although significantly larger—such 3 to 4 to 13 it meters a grown, can grow as one
+feet).!5! captured which believed around (20 Goblin sharks benthopelagic 2000, to 6 meters ‘specimen in was measure are Help
+as Community porta than (330 ft), with adults found deeper than juveniles. researchers believed that these sharks could also dive 100 Some to m
+Recent changes periods:!*! depths of (4,270 ft), for short footage captured that their could be deeper 1,300 2024 to suggests up m in range _ mom o
+— atl Uy eatc ft)“ than previously thought, with confirmed sighting of adult (6,560 at 2,000 a an swimming m
+RY Special pages
+anatomical features of the goblin shark, such flabby body and small fins, that sluggish J Various its suggest itis nature, as in
+TEES This hunts for teleost fishes, cephalopods, and the floor and the middle of the column. = crustaceans water species near sea in
+chanoss pee snatch by rapidly extending Small numbers of goblin sharks unintentionally caught by deepwater fisheries. its up jaws. are CSREES SSIS
+The International for of (IUCN) has assessed despite wide Union Conservation Nature it Least Concern, citing its rarity, its as a east
+Gyr mem) ain distribution and low incidence of capture. CTE
+& (en) (Ex) Ew) (eR) (wu) (nT) Get shortened URL
+3.1) Least Concern (IUCN ATE Eee
+Scientific classification 2 Phylogeny and evolution
+at Kingdom: Animalia 3 Description soe
+Class: Chondrichthyes
+eae in other projects Subclass: Elasmobranchii
+Family Mitsukurinidae @ External links ° —
+Species: owstoni M. Diné bizaad Taxonomy
+Gerais) TO Binomial name
+Frangais ichthyologist David Jordan described the goblin shark American Starr in an = 5
+#130} URLs its Oso of Proceedings of the California Academy of 11898 Sciences, issue recognizing
+Maliano: earl the peculiar fish only but also and family. He not as a new species, a new genus
+ae based his male (42 in) caught account immature 107 Sagami Bay on an cm in 5
+Yokohama, The had been acquired by shipmaster and Japan. La ” near specimen ; as
+naturalist Alan who had Professor Kakichi Mitsukuri the Owston, to at ~ it given S
+eS ‘y ¥ of Tokyo, who brought Jordan. Jordan named the shark University it turn to in ar
+shark?! Range of the goblin The “goblin shark" calque of traditional Japanese its common name is a name
+Dien postions Preserved gob aw im ay, being mythical often depicted ‘Synonyms tenguzame, tengu Japanese creature a a
+sharks caused several to be FAB, , specimens
+as face.'®! shark.) with long and red Another for this elfin described erroneously distinct a nose name species is species. Odontaspis nasutus Braganca, 1904 «
+after Jordan's description published, several noted the Scapanorhynchus doffeini ‘Soon scientists Engelhardt, was *
+Scapanorhynchus."”! similarity between Mitsukurina and the shark the prevailing extinct Mesozoic For time, to 1912 a opinion was
+Mitsukurina of Scapanorhynchus. Eventually, complete fossils revealed anatomical Scapanorhynchus jordani treat Hussakot, as a junior synonym more many +
+genera.) differences between Scapanorhynchus and Mitsukurina, modern authors regard them distinct to 1909 causing again as
+Several goblin shark described from of which considered separate 1904 to 1937, Scapanorhynchus mitsukurii specimens were as species none are now White, +
+valid. This confusion began because the fixed degrees of during specimens’ taxonomic at protrusion jaws were varying 1937
+heads.!°) the of proportional differences the preservation, giving appearance among
+Phvlogenvy and evolution
+sharks. /10l14) Phylogenetic studies based morphology have classified the goblin shark the basal member of the order Lamniformes, known mackerel most on as as
+species.!"7I"5] Studies data have also confirmed basal classification for this The family Mitsukurinidae, represented by Mitsukurina, Scapanorhynchus, and genetic using a
+Anomotodon, dates back the of the period (c. Ma). Mitsukurina itself first the fossil record during the period Middle to Aptian Cretaceous 125~113 Eocene age appears in
+Ma);"415] maslinensis."I“7 (c. include lineata and striatolamia which lived shallow during the Paleogene period 49-37 M. M. macrota, extinct waters species in warm
+species.'8l (c. Ma), also be Mitsukurina the last member of lineage, and that several the goblin shark has been 66-23 as ancient retains "primitive" traits, may a an one
+a fossil".!"9) described “living as
+Description
+The goblin shark has distinctively long and flat resembling blade. The proportional length of the decreases snout snout, a a
+age." with The small and lack membranes; behind the spiracles. The large mouth protective nictitating eyes are eyes are is
+parabolic shape. The protrusible and be extended almost the end of the though normally held snout, to in jaws are very can g |
+£m flush the underside of the head. has and lower tooth The teeth the of the It 35-53 31-62 part against upper rows. in main <i
+LF Lae long and particularly those the symphysis (jaw midpoint), and finely grooved lengthwise. The jaws are narrow, near are rear
+Lag teeth the of the small and have flattened shape for crushing. Much individual of tooth length variation near corners jaw are a
+and width for whether the teeth have smaller cusplet each side of the and regarding the occurs, as a on main cusp, presence
+of toothless the symphysis between the and teeth. The five of gil slits short, with the gill at gaps or main rear pairs are
+© fins.°18I24) ‘The goblin shark's extend filaments inside partly exposed; the fifth above the of the pectoral jaws pair is origin
+‘dramatically when feeding
+The body fairly slender and flabby. The dorsal fins similar and shape both being small and rounded. The two is are in size —
+pectoral fins also rather small and rounded. The pelvic and anal fins have long bases and larger than the dorsal fins, are are
+while caudal peduncle flattened from side-to-side and lacks keels notches. The caudal fin has long lobe with shallow ventral notch the asymmetric tip, is or a upper a near
+lobe.174] and indistinct lower The soft, semi-translucent skin has rough from of dermal denticles, each shaped like short upright with texture an a a covering a spine
+lengthwise ridges. sharks of this pink due visible blood vessels beneath the skin; the color deepens with and sharks be almost. Living to tan species are or age, young may
+white. The fins' translucent blue, and the black with bluish streaks the After death, the coloration fades quickly dull to margins are gray or eyes are in irises. gray or
+brown.!SI°! long.'°! adult sharks usually between and (9.8 and ft) the of female estimated (18-20 ft) long 3 4 13.1 However, capture at 5.4~6.2 measure m an enormous m
+previously.°! length.!22] during showed this far larger than suspected study suggested that would have reached (23 ft) 2000 4 2019 it 7 species can grow m in maximum
+length," Until the weight recorded kg (460 Ib) for shark of (12.5 ft) but the following heavily (15 ft) 2022, 210 3.8 4.7-metre pregnant, maximum was a m in year, a
+Taiwan.!25) individual weighing kg (1,800 Ib), landed 800 was in
+Distribution and habitat
+The goblin shark has been caught all three indicating wide global distribution. the Atlantic has been recorded from the northern Gulf of in Ocean, it in major oceans, a
+east.1(®ll24] French and southern Brazil the and Portugal, Madeira, and Senegal the has also been collected from Mexico, Suriname, Guiana, west, France, it in in
+Ridge.751241 along the Mid-Atlantic the Indo-Pacific and has been found off of the of South Africa, Mozambique, Australia in Oceania, it coasts Japan, Taiwan, seamounts
+A Zealand.271 and Zealand. This has been recorded from off Kaikoura and from the Challenger Plateau single New East Cape Canyon New to eastern species near
+(2119) Pacific known, collected off southern California. specimen is
+(890-3, 150 ft).!5! This often found the continental slope depths of has been caught deep (4,300 ft), tooth has at 270-960 It 1,300 most species is over upper m as as m a
+m ft).!25) ft).! been found lodged undersea cable depth of (4,490 has been sighted deep (6,600 Adults inhabit depths than at 1,370 it 2,000 greater in an a m as as
+juveniles. goblin sharks frequent the submarine off southern depths of (330-1,150 ft), with individuals occasionally wandering immature Japan 100-350 into at canyons m
+ft) 71/29) inshore shallow (130 waters 40 as as m
+Biology and ecology
+lifestyle." Although observations of living goblin sharks and sluggish skeleton reduced and poorly calcified, the muscle scant, its anatomy Its suggests inactive are an is
+blocks along sides (myomeres) weakly developed, and fins soft and small. long caudal fin, held low angle, also typical of slow-swimming shark. its Its its at are are a is a
+The long have function, bears ampullae of that detect weak electric fields produced by other animals. the snout Lorenzini Due to to it appears a sensory as numerous
+proposed.) softness, unlikely be used for from the bottom has been be less than other considering snout's it stirring vision to important to is up prey as seems senses,
+brain.! the relatively small the shark's unlike deep-sea sharks, change the of pupils, thus probably does sight Yet optic tectum most it its in can size use in some
+situations.'28! glauca).!7°! Goblin sharks be the of blue sharks (Prionace documented from this include the copepod Echthrogaleus Parasites may prey species
+mitsukurinae,*4 gobelinus.©21 and the Litobothrium amsichensis and Marsupiobothrium tapeworms
+Feeding
+The goblin shark feeds mainly deep-sea teleost fishes such rattails and dragonfishes. also cephalopods and It eats on as
+specimens." including decapods and isopods. Garbage has been recorded from the stomachs of its crustaceans, some
+known includes bottom-dwelling such the blackbelly rosefish (Helicolenus dactylopterus), and midwater prey species as
+such the squid Teuthowenia pellucida and the ostracod Macrocypridina rotunda. Thus, the goblin shark castanea species as
+it."1[341 forage for food both the floor and far above to appears near sea
+@ fast the goblin shark be ambush predator. low-density flesh and large oily liver make Since Its it not it is a swimmer, may an
+P detection.2® neutrally buoyant, allowing drift towards with minimal avoid to its motions to Once it into prey so as prey comes
+the shark's specialized forward The of the assisted by of elastic two to capture it. protrusion range, jaws can snap jaw is pairs
+a ligaments associated with the mandibular which pulled when the their normal retracted joint, taut position. are jaws are in are cts te sean aoe
+biting, the ligaments release their and "catapult" the forward. the the well-developed Upon tension at time, jaws same the food of the goblin shark. main
+prey.!°! basihyal (analogous tongue) the floor of the mouth drops, expanding the oral and sucking and to cavity water a on in
+Striking and recorded for the first and and helped confirm the and capture 2008 2011 to events time prey were in use
+sharks.!°5! of the protrusible Goblin sharks feeding, of typical of mackerel The video evidence that what suggests systematics type capture jaws. use ram a prey many
+makes the goblin shark the kinematics of their when feeding. The lower undergo complex and the important capturing to movements unique is jaw jaw seems more is in
+The measured of the and lower combined the goblin shark protrusible than other sharks. The lower has at 2.19.5 times protrusions put prey. upper jaw jaws more jaw a
+velocity about than the because only protrudes forward, but also upward the and the velocity of the two greater it to capture times not upper jaw swings prey, maximum
+mis (10.3 ft/s). The goblin shark has and re-closing during the strike, behavior observed other sharks, and which could be 3.14 pattern jaws is a re-opening a never in
+jaws.51 related the with which the goblin shark protrudes to extent its
+Growth and reproduction
+The reproductive behaviors of the goblin shark poorly understood and has been observed. Fishermen captured female mating Taiwan pregnant are never in a carrying six
+2023.'251 likely shares the reproductive characteristics of other mackerel sharks, which with small litter and embryos that during It pups in are viviparous sizes grow
+(oophagy).”! specimen.) by undeveloped The birth probably close (32 in), the length of the smallest known Males sexually 82 gestation eating to mature eggs size is cm
+unknown.”! aging.'©! about (8.5 ft) long, while female data available growth and researchers have estimated, based at 2.6 No Some maturation m size is is concerning on
+years. their research and findings, that male goblin sharks approximately old and live mature 16 to 60 at own prior years can up
+Human interactions
+deep-sea the goblin shark danger humans. After David Jordan described the shark findings published "The ‘As Starr 1898, 1910. to a species, poses no in more were in
+nose."""! shark certainly [...] the remarkable feature the curiously elongated few have been collected alive and brought public A to grotesque, most new is is specimens
+days.'®lI$4l though they only survived briefly. kept Tokai lived for week, while another Tokyo Life Park lived for One at University at Sea two |ts aquariums, a economic
+collectors.(® significance minimal; the be dried and salted, while the fetch high from the used for liver oil and meat at time, Japanese it is may jaws prices one
+fertilizer." This shark targeted by fisheries, but occasionally found bycatch bottom gillnets and trawls, hooked longlines, entangled fishing not is any is as in on or in gear.
+isolated incidents; of the few where caught regularly off southern where around individuals (mostly juveniles) taken each Most captures Japan, 30 it are one areas is is are
+black scabbardfish (Aphanopus carbo) fishery off Madeira also takes three goblin sharks annually. April than hundred goblin sharks A two During 2003, year. or more a
+caught off northwestern the of the unknown, though observers noted preceded by earthquake. The had been Taiwan; it event were cause was was a major species never
+since.1(81 recorded the before, found such numbers in area nor in
+Concern.! The International for of (IUCN) categorized the goblin shark addition wide of population thought Union Conservation Nature Least in to most its its as range, is
+activity.’7! reside unfished because few adults caught. Therefore, believed be threatened by human during the not However, June 2018 New to environments it to in are is
+— Zealand of classified the goblin shark Risk Naturally with the qualifiers and the Department Conservation "At Uncommon" "Data Poor" "Secure Overseas" New as using
+System. Zealand Threat Classification
+References
+Balsberger, Markus; Rivadeneira, Marcelo; Kriwet, JUrgen (2020). "Sharks, and Evolutionary pathways toward sharks and (PDF). Evolution. 73 gigantism rays in rays"
+:2, 2 skates (Chondrichthyes, Elasmobranchil) from the Upper Marine Molasse (middle (8): 588-899, dof:10.111.1/evo.13680:2. ISSN 1558-5646 PMID 30675721
+Burdigalian, early Miocene) of the Simssee (Bavaria, Germany), with S2ciD 592244422. comments area
+2. 23.48 palaeogeographic and ecological Paldiontologische Zeitschrift. 94 (4): patterns” Everington, Keoni (14 June 2023). "Record 800 kg goblin shark with 6 on pups
+t 3 off doi:10.1007/s12542-020-00518-7 725-757. Bibcode:2020Palz...94..725V caught northeast Taiwan” taiwannews.com.tw/. Taiwan News. Archived? from 2.
+2,aabedetghiik! Finucci, B.; Duffy, C.A.J. (2018). "Mitsukurina 2. IUCN owstoni" 24, 4 Rincon, G.; Vaske, T.; Gadig, 0.B. (2012). "Record of the goblin shark Mitsukurina
+List Red of Threatened Species. 2018 e.T44565A2994832. (Chondrichthyes: Lamniformes: Mitsukurinidae) from the south-western ‘owstoni
+RLTS.14456542994832.en@. doi:10.2305/IUCN.UK. 2018-2. Retrieved 19 November Allantic". Marine Biodiversity Records. § 44, Bibcode:2012MBAR....5E. 442
+"First parsons, 3.48 Glenn R.; Ingram, G. Walter; Havard, Ralph (2002). Record of the 25. § Kukuyev, E.l. (1982). "Ichthyofauna of Corner Mountains and New England
+Goblin Shark Mitsukurina Jordan (Family Mitsukurinidae) the Gulf of owstoni, in Seamounts". In Parin, N.V. (ed). Insufficiently Studied Fishes of the Open Ocean.
+@. Mexico" Southeastern Naturalis. 1 (2): 189-192, dol:10.1656/1528- Moscow: Institute of Oceanology. Insitute of Oceanolagy, Academy of Sciences of the
+S2CID 86600875 12 26. 4 Prokofiev, A.M.; Kukuey, El. (2009). "New findings of fish trom families rare species
+4,202 glimpse of the Goblin Shark owstont (video). youtube.com. Mitsukurina (2 Mitsukurinidae (Chondrichthyes), Muraenidae, Lophiidae, Macrouridae, and -
+Minderoo-UWA Deep-Sea Research Centre. November 12, 2024. Paychrolutidae (Teleostei) of the Atlantic Ocean with the description of on rises
+of of 5.4 Jordan, D.S, (1898). "Description of species fish (Mitsukurina owstoni trom Gymnothorax walvisensis nov". Journal Ichthyology. 49 (3): 215-227 a sp.
+(7. Japan, the of distinct family of lamnoid sharks". Proceedings of the California Bibcode:2009Jich...49..215P :. doi:10.1134/$0032945209030023 type a
+Academy of Sciences, Zoology. Series 3. 1 (6): 199-204. Archived? from the original S2CID 11102346.
+2019-10-28. Retrieved 2018-02-21. 27. * Roberts, Clive; Stewart, A. L; Struthers, Carl D.; Barker, Jeremy; Kortet, Salme; on
+6..abedefghii Castro, J.H. (2011). The Sharks of North America. Oxtord University Freebom, Michelle (2015). The fishes of New Zealand. Vol. 2. Wellington, New
+2. Centre 28,4 7. Hussakof, L. (1909). "A goblin shark, Scapanorhynchus jordani, from Japan’. Martin, R.A. "Deep Sea: Goblin Shark" ReefQuest for Shark Research. new
+er. Bulletin of the American Museum of Natural History. 26: 257-262. hdl:2246/1929 Archived from the original October 7, 2019. Retrieved April 25, 2013. ct on
+g..abede tah 29,8 Compagno, L.J.V. (2002). Sharks of the World: An Annotated and Ebert, D.A. (2003). Sharks, Rays, and Chimaeras of California. University of
+Mustrated Catalogue of Shark Species Known to Date (Volume 2). Food and California Press. 96-97. ISBN 0-520-22265-2. pp.
+‘Agriculture Organization of the United Nations. 68-71. ISBN 92-5-104543-7. 30. 9 Yano, Kazunari; Miya, Masaki; Aizawa, Masahiro; Noichi, Tetsuhisa (2007-11-01). pp.
+Research. Archived: from the original October 7, 2019. Retrieved April 25, 2013, the Tokyo Submarine Canyon and adjacent waters, Japan”, Ichthyological Research. on
+ISSN 1616-3915 2. S2CID 319170982. (Chondrichthyes: Euselachii’. In Stiassny, M.L.J.; Parenti, L.R.; Johnson, G.D. (eds.
+@. Fishes Interrelationships of Academic Press. 9 2-34. ISBN 0-08-053492-9, 81. * Izawa, K. (2012). "Echthrogaleus mitsukurinae (Copepoda, pp. sp. nov
+Siphonostomatoida, Pandaridae) infesting the goblin shark Mitsukurina owstoni LL. 4 Shimada, K. (2008). "Phylogeny of lamniform sharks (Chondrichthyes:
+Jordan, 1898 Japanese waters’. Crustaceana. 85 (1): 81-87. Elasmobranchi) and the contribution of dental characters lamniform systematics”. in to
+doi:10.2517/prps}.9.55 e2. S2CID 8471523202. 32, 9 Caira, J.N.; Runkle, L.S. (1993). "2 from the goblin shark tapeworms new
+off W.M. Mitsukurina owstoni Australia”. Systematic Parasitology. 26 (2): 81-90. 12. Naylor, G.J.P.; Martin, A.P.; Mattison, E.; Brown, (1997). "The inter-
+:z. 2. doi:10.1007/8F00009215 S2CID 44048407 relationships of lamniform sharks: phylogenetic hypotheses with testing sequence
+Kocher, T.D.; Systematics T: of Fishes data’. In Stepien, C.A. (eds.). Molecular of 33, 9 Yano, K.; Miya, M.; Aizawa, M.; Noichi, (2007). "Some of the biology aspects
+‘Academic Press. 199-218, ISBN 0-08-053691-3. the goblin shark, Mitsukurina owstoni, collected from the Tokyo Submarine Canyon pp.
+and adjacent Japan”. Ichthyological Research. 54 (4): 388-398. 13. 4 Naylor, G.J.; Caira, J.N.; Jensen, K.; Rosana, K.A.; Straube, N.; Lakner, C. (2012). waters,
+(2. Bibcode:2007IchtR...54..388Y doi:10.1007/s10228-007-0414-2¢2. “Elasmobranch phylogeny: A mitochondrial based 595 species". In estimate on
+S2CID 319170982. Carrer, J.C.; Musick, J.A.; Heithaus, M.R. (eds.). The Biology of Sharks and Their
+Relatives (second ed.). CRC Press. 31-57. ISBN 978-1-4398-3924-9. 34, 4 Duly, C.A.J. (1997). "Further records of the goblin shark, Mitsukurina owstoni pp.
+(Lamniformes: Mitsukurinidae), from New Zealand” e2. New Zealand Journal of 14. 4 Sepkoski, J; Antinarella, J.; McMahon, J. (2002). "A compendium of fossil marine
+entry)" 2. Bulletins doi:10.1080/03014223.1997.9518111g. Zoology. 24 (2): 167-171. animal (Chondrichthyes of American Paleontology. 364: genera
+2 "8 560. Archived from the original 2012-07-29, Retrieved 2013-04-25. 35, Nakaya, K.; Tomita, T; Suda, K; Sato, K. (2016). "Slingshot feeding of the goblin on
+shark Mitsukurina (Pisces: Lamniformes: Mitsukurinidae)" Scientific 15. 4 Nelson, J.S. (2006). Fishes of the World (4 ed.). John Wiley & Sons. 54. owstoni eX. p.
+22. 4901258. PMC PMID 27282933 16. 4 Vialle, N.; Adnet, S.; Cappetta, H. (2011). "A shark and fauna from the new ray
+A.; 36, * Caltabellotta, Fabio P.; Siders, Zachary Cailliet, Gregor M.; Motta, Fabio S. Middle Miocene of Mazan, Vaucluse (southem France) and its importance in
+Gadiig, Otto B. F. (2020-08-20). "Preliminary and growth of the deep-water goblin the paleoenvironment of deposits the southern Rhodanian interpreting age marine in
+shark Mitsukurina (Jordan, 1898)"c2. Marine and Freshwater Research. 72 Basin’ Swiss Journal of Palaeontology. 130 (2): 241-258 owstoni 2.
+2. 37. Hussakof, L. (1910). "The Newly Discovered Goblin Shark of Japan" Scientific 17. 4 Pledge, N.S. (1967). "Fossil Elasmobranch teeth of South Australia and their
+‘American. 102 (2): 186-187. Bibcode:1910SciAm.102..186H stratigraphic distribution” Transactions of the Royal Society of South Australia. 91° 2. c.
+JSTOR 2608710112. 418, 6 Purdy, R. (2005). "ls Stiatolamia of Mitsukurina?”. Journal of a junior synonym
+38, "Goblin shark caught alive" c2. Tokyo Zoo Net. Tokyo Zoological Park Society. Vertebrate Paleontology. 25 (3): 102A. doi:10.1080/02724634.2005.10009942
+January 25, 2007. Archived? from the original March 11, 2012. Retrieved April 26, S2CID 220413556 22. on
+Time: 2013. 19. 4 Birx, H.J., ed. (2009). Encyclopedia of Science, Philosophy, Theology, &
+39, 4 Bean, B.A. (1905). "Notes adult goblin shark (Mitsukurina owston)) of Cutture (Volume 1). SAGE Publications. 547. ISBN 978-1-4129-4164-8, on an p.
+2. Japan" Proceedings of the United States National Museum. 28 (1409): 815-818. 20.*# parsons, G.R.; Ingram, G.W.; Havard, R. (2002). "First record of the goblin shark
+doi:10.5479Isi.00963801.28-1409.815 2. Archived from the original 2017-01-16 Mitsukurina Jordan (Tamily Mitsukurinidae) the Gulf of Mexico" on owstoni, in
+2. 40. 6 Duffy, Clinton A. J.; Francis, Malcolm; Dunn, M. R.; Finucci, Brit; Ford, Richard; 7092(2002)001{0189:FROTGS]2.0.CO;2 1. S2CID 86600875
+Hitchmough, Rod; Rolfe, Jeremy (2018). Conservation of New Zealand 21.4 status Last, PR; Stevens, J.D. (2009). Sharks and Rays of Australia (second ed.)..
+20166 cchondricnthyans (chimaeras, sharks and rays), (PDF). Wellington, New Harvard University Press. 156-157. ISBN 978-0-674-03411-2. pp.
+Zealand: Department of Conservation. 10. ISBN 978-1-988514-62-8. p.
+10429010902. fa OCLC Archived (PDF) from the original 2019-01-28. Retrieved on
+External links
+Mitsukurina (Elfin shark) Animal Web. owstoni @ at Diversity
+"Biological Profiles: Goblin Shark" Florida of Natural Archived the Wayback Machine @ Museum History. 7 2016-02-01 at at *
+"Biology of the Goblin Shark" ReefQuest for Shark Research. at Centre *
+Today. "Fishermen catch nightmare-inducing goblin shark the Gulf of Mexico" & USA at in *
+cS) media related Ooi Mitsukurina (Elfin shark) Animal Web. owstoni 2 at Diversity *
+mackerel shark species Extant [show] vere
+identifiers Taxon
+# ‘Authority control databases: National Israel
+| | | Red least Mitsukurina Fish of the Atlantic Fish of the United Categories: IUCN List Ocean Western States concem species
+| | | | | | North coastal fauna fish of Southern Africa fish of Australia Fish of Fish of Mozambique Fish of Africa Western American Marine Marine Eastern Japan West
+| | | Fish of South Africa named by David Jordan Fish described Taxa Starr 1898 in
+This last edited 24 September 2025, 20:47 (UTC). at page was on
