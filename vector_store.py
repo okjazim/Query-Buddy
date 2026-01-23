@@ -9,6 +9,7 @@ CHROMA_DIR = "./chroma_db"
 EMBEDDINGS_PATH = "data/embeddings/embeddings.npy"
 METADATA_PATH = "data/embeddings/metadata.json"
 
+
 def load_data():
     if not os.path.exists(EMBEDDINGS_PATH):
         raise FileNotFoundError(f"Embeddings file not found at {EMBEDDINGS_PATH}\n Please run embed_store.py first")
@@ -23,8 +24,28 @@ def load_data():
 
     texts = [entry["text"] for entry in metadata]
     ids = [f"chunk_{i}" for i in range(len(texts))]
+    
+    # Flatten nested metadata - ChromaDB only accepts flat dicts
+    flattened_metadata = []
+    for entry in metadata:
+        flat_meta = {
+            "text": entry.get("text", ""),
+            "source_file": entry.get("source_file", ""),
+            "modality": entry.get("modality", ""),
+            "chunk_index": entry.get("chunk_index", 0),
+        }
+        
+        # Flatten nested "metadata" field if it exists
+        if "metadata" in entry and isinstance(entry["metadata"], dict):
+            for key, value in entry["metadata"].items():
+                # Only add simple types that ChromaDB accepts
+                if isinstance(value, (str, int, float, bool)) or value is None:
+                    flat_meta[f"meta_{key}"] = value
+        
+        flattened_metadata.append(flat_meta)
 
-    return texts, embeddings_list, ids, metadata
+    return texts, embeddings_list, ids, flattened_metadata
+
 
 def store_in_chroma(text_chunks, embedding_vectors, ids, metadata):
 
@@ -41,6 +62,7 @@ def store_in_chroma(text_chunks, embedding_vectors, ids, metadata):
         )
 
     print(f"Stored {len(text_chunks)} documents into ChromaDB.")
+
 
 def search_top_k(query_embedding, top_k=3):
     """
@@ -63,6 +85,7 @@ def search_top_k(query_embedding, top_k=3):
     # Chroma returns nested lists → flatten them
     matched_metadata = results["metadatas"][0]
     return matched_metadata
+
 
 
 if __name__ == "__main__":
