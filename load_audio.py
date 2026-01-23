@@ -300,7 +300,7 @@ def transcribe_audio_file(
 
 def ingest_audio_directory(
     data_dir: str = DEFAULT_DATA_DIR,
-    model_name: str = "base",
+    model_name: str = "tiny",
     language: Optional[str] = None,
     max_chars_per_chunk: int = DEFAULT_MAX_CHARS_PER_CHUNK,
     overlap_chars: int = DEFAULT_OVERLAP_CHARS,
