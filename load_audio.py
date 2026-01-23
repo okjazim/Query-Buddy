@@ -1,5 +1,3 @@
-
-
 from __future__ import annotations
 
 import os
@@ -19,13 +17,12 @@ SUPPORTED_AUDIO_EXTS = {
 DEFAULT_DATA_DIR = "data"
 
 # Controls optional re-chunking of long segments
-DEFAULT_MAX_CHARS_PER_CHUNK = 900     # keep chunks reasonably sized for embedding/RAG
-DEFAULT_OVERLAP_CHARS = 80            # overlap helps avoid cutting off meaning
+DEFAULT_MAX_CHARS_PER_CHUNK = 900 # keep chunks reasonably sized for embedding/RAG
+DEFAULT_OVERLAP_CHARS = 80 # overlap helps avoid cutting off meaning
 
 
 @dataclass
 class AudioChunk:
-
     text: str
     source_file: str
     chunk_index: int
@@ -81,10 +78,11 @@ def find_audio_files(root_dir: str = DEFAULT_DATA_DIR) -> List[str]:
 # Utility: chunking text
 # -----------------------------
 
-def _chunk_text_by_chars(text: str,
-                         max_chars: int = DEFAULT_MAX_CHARS_PER_CHUNK,
-                         overlap: int = DEFAULT_OVERLAP_CHARS) -> List[str]:
-    
+def _chunk_text_by_chars(
+    text: str,
+    max_chars: int = DEFAULT_MAX_CHARS_PER_CHUNK,
+    overlap: int = DEFAULT_OVERLAP_CHARS
+) -> List[str]:
     text = (text or "").strip()
     if not text:
         return []
@@ -116,22 +114,18 @@ def _chunk_text_by_chars(text: str,
 # -----------------------------
 
 def _load_faster_whisper():
-    """
-    Try to load faster-whisper. Returns (WhisperModel class) or None.
-    """
+    """Try to load faster-whisper. Returns WhisperModel class or None."""
     try:
-        from faster_whisper import WhisperModel  # type: ignore
+        from faster_whisper import WhisperModel # type: ignore
         return WhisperModel
     except Exception:
         return None
 
 
 def _load_openai_whisper():
-    """
-    Try to load openai-whisper. Returns whisper module or None.
-    """
+    """Try to load openai-whisper. Returns whisper module or None."""
     try:
-        import whisper  # type: ignore
+        import whisper # type: ignore
         return whisper
     except Exception:
         return None
@@ -141,14 +135,14 @@ def _load_openai_whisper():
 # Transcription: faster-whisper (preferred)
 # -----------------------------
 
-def _transcribe_with_faster_whisper(audio_path: str,
-                                   model_name: str = "base",
-                                   device: str = "cpu",
-                                   compute_type: str = "int8",
-                                   language: Optional[str] = None) -> Tuple[List[Dict], Optional[str]]:
+def _transcribe_with_faster_whisper(
+    audio_path: str,
+    model_name: str = "base",
+    device: str = "cpu",
+    compute_type: str = "int8",
+    language: Optional[str] = None
+) -> Tuple[List[Dict], Optional[str]]:
     """
-    Transcribe with faster-whisper and return timestamped segments.
-
     Returns:
         (segments, detected_language)
 
@@ -161,20 +155,23 @@ def _transcribe_with_faster_whisper(audio_path: str,
 
     model = WhisperModel(model_name, device=device, compute_type=compute_type)
 
-    # beam_size small by default for speed; adjust as needed
     segments_iter, info = model.transcribe(
         audio_path,
         language=language,
         beam_size=5,
-        vad_filter=True,  # helps cut out silence/noise
+        vad_filter=True,
     )
 
     segments: List[Dict] = []
     for seg in segments_iter:
-        seg_text = (seg.text or "").strip()
+        seg_text = (getattr(seg, "text", "") or "").strip()
         if not seg_text:
             continue
-        segments.append({"start": float(seg.start), "end": float(seg.end), "text": seg_text})
+        segments.append({
+            "start": float(getattr(seg, "start", 0.0)),
+            "end": float(getattr(seg, "end", 0.0)),
+            "text": seg_text
+        })
 
     detected_language = getattr(info, "language", None)
     return segments, detected_language
@@ -184,17 +181,14 @@ def _transcribe_with_faster_whisper(audio_path: str,
 # Transcription: openai-whisper (fallback)
 # -----------------------------
 
-def _transcribe_with_openai_whisper(audio_path: str,
-                                   model_name: str = "base",
-                                   language: Optional[str] = None) -> Tuple[List[Dict], Optional[str]]:
+def _transcribe_with_openai_whisper(
+    audio_path: str,
+    model_name: str = "base",
+    language: Optional[str] = None
+) -> Tuple[List[Dict], Optional[str]]:
     """
-    Transcribe with openai-whisper and return timestamped segments.
-
     Returns:
         (segments, detected_language)
-
-    openai-whisper output:
-        result["segments"] contains {"start", "end", "text", ...}
     """
     whisper = _load_openai_whisper()
     if whisper is None:
@@ -219,15 +213,17 @@ def _transcribe_with_openai_whisper(audio_path: str,
 
 
 # -----------------------------
-# Public API: ingest audio -> chunks
+# Public API: transcribe -> AudioChunk list
 # -----------------------------
 
-def transcribe_audio_file(audio_path: str,
-                          model_name: str = "base",
-                          language: Optional[str] = None,
-                          max_chars_per_chunk: int = DEFAULT_MAX_CHARS_PER_CHUNK,
-                          overlap_chars: int = DEFAULT_OVERLAP_CHARS,
-                          prefer_faster_whisper: bool = True) -> List[AudioChunk]:
+def transcribe_audio_file(
+    audio_path: str,
+    model_name: str = "base",
+    language: Optional[str] = None,
+    max_chars_per_chunk: int = DEFAULT_MAX_CHARS_PER_CHUNK,
+    overlap_chars: int = DEFAULT_OVERLAP_CHARS,
+    prefer_faster_whisper: bool = True
+) -> List[AudioChunk]:
     """
     Transcribe a single audio file and return embedding-ready chunks.
     """
@@ -236,8 +232,6 @@ def transcribe_audio_file(audio_path: str,
 
     segments: List[Dict] = []
     detected_language: Optional[str] = None
-
-    # choose backend
     backend_errors: List[str] = []
 
     if prefer_faster_whisper:
@@ -263,12 +257,10 @@ def transcribe_audio_file(audio_path: str,
             backend_errors.append(f"openai-whisper failed: {e}")
 
     if not segments:
-        # If neither backend worked, explain clearly what happened.
         msg = "Could not transcribe audio. " + " | ".join(backend_errors) if backend_errors else \
               "Could not transcribe audio; no backend available."
         raise RuntimeError(msg)
 
-    # Convert segments -> chunks
     chunks: List[AudioChunk] = []
     chunk_index_global = 0
 
@@ -277,7 +269,6 @@ def transcribe_audio_file(audio_path: str,
         if not seg_text:
             continue
 
-        # If segment text is too long, further split it
         subchunks = _chunk_text_by_chars(
             seg_text,
             max_chars=max_chars_per_chunk,
@@ -307,15 +298,16 @@ def transcribe_audio_file(audio_path: str,
     return chunks
 
 
-def ingest_audio_directory(data_dir: str = DEFAULT_DATA_DIR,
-                           model_name: str = "base",
-                           language: Optional[str] = None,
-                           max_chars_per_chunk: int = DEFAULT_MAX_CHARS_PER_CHUNK,
-                           overlap_chars: int = DEFAULT_OVERLAP_CHARS,
-                           prefer_faster_whisper: bool = True) -> List[Dict]:
+def ingest_audio_directory(
+    data_dir: str = DEFAULT_DATA_DIR,
+    model_name: str = "base",
+    language: Optional[str] = None,
+    max_chars_per_chunk: int = DEFAULT_MAX_CHARS_PER_CHUNK,
+    overlap_chars: int = DEFAULT_OVERLAP_CHARS,
+    prefer_faster_whisper: bool = True
+) -> List[Dict]:
     """
     Transcribe all audio files under data_dir and return a list of dict chunks.
-    
     """
     audio_files = find_audio_files(data_dir)
     all_chunks: List[Dict] = []
@@ -332,36 +324,69 @@ def ingest_audio_directory(data_dir: str = DEFAULT_DATA_DIR,
             )
             all_chunks.extend([c.to_dict() for c in chunks])
         except Exception as e:
-            # Fail-soft: skip bad files but continue ingestion.
-            # (If you prefer hard-fail, replace this with `raise`.)
             print(f"[load_audio] Skipping {path} due to error: {e}")
 
     return all_chunks
 
 
 # -----------------------------
-# CLI test (optional)
+# for source ingestion 
 # -----------------------------
 
-if __name__ == "__main__":
+def process_audio_file(audio_path: str) -> Dict:
+    """
+    Adapter for ingest_sources.py.
 
-    #   python load_audio.py
-    #   python load_audio.py data
+    ingest_sources expects:
+      {
+        "content": str,
+        "modality": "audio",
+        "source_file": str,
+        "metadata": dict
+      }
+    """
+    audio_path = str(audio_path)
+    source_file = Path(audio_path).name
+
+    chunks = transcribe_audio_file(audio_path)
+
+    # Combine chunk texts into a single content string for your pipeline's raw/*.txt output.
+    content = "\n\n".join([c.text for c in chunks]).strip()
+
+    return {
+        "content": content,
+        "modality": "audio",
+        "source_file": source_file,
+        "metadata": {
+            "file_size": os.path.getsize(audio_path) if os.path.exists(audio_path) else None,
+            "chunk_count": len(chunks),
+            "max_chars_per_chunk": DEFAULT_MAX_CHARS_PER_CHUNK,
+            "overlap_chars": DEFAULT_OVERLAP_CHARS,
+            "language": chunks[0].language if chunks else None,
+            "backend": "faster-whisper (preferred), openai-whisper (fallback)",
+        }
+    }
+
+
+if __name__ == "__main__":
     import sys
 
     root = sys.argv[1] if len(sys.argv) > 1 else DEFAULT_DATA_DIR
-    chunks = ingest_audio_directory(root)
+    audio_files = find_audio_files(root)
 
-    print(f"[load_audio] Found {len(chunks)} transcript chunks.")
-    if chunks:
-        print("[load_audio] Example chunk:")
-        ex = chunks[0]
-        # print only a small preview
-        preview = (ex["text"][:200] + "...") if len(ex["text"]) > 200 else ex["text"]
+    print(f"[load_audio] Found {len(audio_files)} audio files under '{root}'.")
+    if audio_files:
+        ex_path = audio_files[0]
+        print(f"[load_audio] Transcribing example: {ex_path}")
+
+        out = process_audio_file(ex_path)
+        preview = (out["content"][:200] + "...") if len(out["content"]) > 200 else out["content"]
+
         print({
-            "source_file": ex["source_file"],
-            "chunk_index": ex["chunk_index"],
-            "start_sec": ex.get("start_sec"),
-            "end_sec": ex.get("end_sec"),
+            "source_file": out["source_file"],
+            "modality": out["modality"],
+            "chunk_count": out["metadata"].get("chunk_count"),
+            "language": out["metadata"].get("language"),
             "preview": preview
         })
+

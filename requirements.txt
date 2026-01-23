@@ -10,6 +10,6 @@ tiktoken
 ollama
 pillow
 pytesseract
-
+whisper
 # SYSTEM DEPENDENCIES (not installable via pip)
 # - Tesseract OCR (required for image ingestion)
