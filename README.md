@@ -1,9 +1,5 @@
 # Query-Buddy
 
----
-
-## Project Description
-
 Query-Buddy is a Retrieval-Augmented Generation (RAG) pipeline for domain-specific question answering. It ingests multiple data formats (text, PDF, images, audio), cleans and segments content into chunks, converts them into dense vector embeddings, and indexes them in a vector database. User queries are embedded, matched against the index for the most relevant chunks, and those chunks are used as context so the LLM produces accurate, traceable answers grounded in your data.
 
 ---
@@ -103,9 +99,6 @@ answer_plain_llm("Your question here?")
 ---
 
 ## Screenshots / Video Demo
-
-_Add screenshots of the Streamlit app or a short video demo here._
-
 Example placeholder:
 ```
 [Screenshot: Streamlit Query Buddy UI]
