@@ -99,11 +99,7 @@ answer_plain_llm("Your question here?")
 ---
 
 ## Screenshots / Video Demo
-Example placeholder:
-```
-[Screenshot: Streamlit Query Buddy UI]
-[Video: Link to demo video if available]
-```
+_Coming Soon._
 
 ---
 
