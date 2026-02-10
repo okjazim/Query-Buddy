@@ -98,9 +98,8 @@ answer_plain_llm("Your question here?")
 
 ---
 
-## Screenshots / Video Demo
-_Coming Soon._
-
+## Video Demo
+![Image](https://github.com/user-attachments/assets/a26d0448-00df-454d-aa78-7fbff1c4890a)
 ---
 
 ## File Structure
